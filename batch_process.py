@@ -576,6 +576,62 @@ def update_app_routes(new_total_pages: int, dry_run: bool = False):
 
 
 # ─────────────────────────────────────────────
+# ARTICLE COUNT INTEGRITY CHECK
+# ─────────────────────────────────────────────
+
+def count_articles_in_page(filepath: str) -> int:
+    """
+    Count the number of ArticleBlock components in a page file.
+    Returns the count, or -1 if the file cannot be read.
+    """
+    try:
+        content = open(filepath, encoding='utf-8').read()
+        return len(re.findall(r'<ArticleBlock', content))
+    except Exception:
+        return -1
+
+
+def verify_article_counts(total_pages: int, dry_run: bool = False) -> list:
+    """
+    Check every page file and confirm each has exactly 20 ArticleBlock components.
+    Returns a list of error strings for any page that fails.
+    An empty list means all pages are intact.
+    """
+    errors = []
+
+    # Check Home.tsx (page 1)
+    pages_to_check = [(1, HOME)]
+    for n in range(2, total_pages + 1):
+        pages_to_check.append((n, os.path.join(PAGES_DIR, f'Page{n}.tsx')))
+
+    if dry_run:
+        print(f"  [DRY-RUN] Would verify article counts in {len(pages_to_check)} page files")
+        return []
+
+    print(f"  Checking article counts in {len(pages_to_check)} page files...")
+    for page_num, filepath in pages_to_check:
+        if not os.path.exists(filepath):
+            errors.append(f"Page {page_num}: file not found — {filepath}")
+            continue
+        count = count_articles_in_page(filepath)
+        if count != 20:
+            label = 'Home.tsx' if page_num == 1 else f'Page{page_num}.tsx'
+            errors.append(
+                f"Page {page_num} ({label}): expected 20 articles, found {count} "
+                f"— file may be truncated or corrupted"
+            )
+
+    if errors:
+        print(f"  ✗ Article count check FAILED: {len(errors)} page(s) with wrong count")
+        for e in errors:
+            print(f"    • {e}")
+    else:
+        print(f"  ✓ All {len(pages_to_check)} pages have exactly 20 articles")
+
+    return errors
+
+
+# ─────────────────────────────────────────────
 # GITHUB DEPLOY HELPERS
 # ─────────────────────────────────────────────
 
@@ -852,6 +908,18 @@ def main():
         if os.path.exists(TAG_INDEX_SRC):
             shutil.copy2(TAG_INDEX_SRC, TAG_INDEX_PUB)
             print("  tag-index.json synced to public/")
+
+        # ── STEP 5b: Article count integrity check ───────────────────────────────────
+        print(f"\n[STEP 5b] Verifying article counts in all {new_total_pages} page files...")
+        logger.log(f"STEP 5b: Article count integrity check ({new_total_pages} pages)")
+        count_errors = verify_article_counts(new_total_pages)
+        if count_errors:
+            logger.log(f"STEP 5b: FAILED — {len(count_errors)} page(s) with wrong article count")
+            raise RuntimeError(
+                f"Article count integrity check failed: {len(count_errors)} page(s) have wrong count. "
+                f"First error: {count_errors[0]}"
+            )
+        logger.log(f"STEP 5b: PASSED — all {new_total_pages} pages have exactly 20 articles")
 
         # ── STEP 6: Push all page files to GitHub via API ─────────────────────
         print(f"\n[STEP 6] Pushing page files to GitHub via Contents API...")
