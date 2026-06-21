@@ -7,147 +7,151 @@ export default function Page2() {
       <PageHeader />
       <div className="space-y-12">
       <ArticleBlock
-        headline="Democrat House Rep. Admits Party Is 'Dodging' Hard Questions on Border, Crime, and Spending"
-        tinyUrl="https://tinyurl.com/ykz2ywnc"
-        xPostUrl="https://x.com/C3Heditor/status/2061536474780897531"
-        imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-06-01_150632_71989704.jpg"
-        tags={["Democrat Party", "CBP-DHS-ICE", "Immigration", "Government"]}
+        headline="CA Democrat Rep. Ro Khanna Gets Badly Schooled After He Compares Nazi-Tat Democrat to FDR"
+        tinyUrl="https://tinyurl.com/2fz3hrmc"
+        xPostUrl="https://x.com/C3Heditor/status/2062288943123435897"
+        imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-06-03_164327_40ae9f27.jpg"
+        tags={["Ro Khanna", "Democrat Party", "Politics", "Left-Wing"]}
       />
       <ArticleBlock
-        headline="Study of College Faculty Campaign Donations Reveals a Striking Far-Left Ideological Skew"
-        tinyUrl="https://tinyurl.com/53kknp22"
-        xPostUrl="https://x.com/C3Heditor/status/2061535858279866601"
-        imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-06-01_150347_7b80a1fe.jpg"
-        tags={["Politics", "Left-Wing", "Democrat Party"]}
+        headline="'Crazy' Might Not Be Strong Enough: Fight Climate Change and Live Like 'the Jetsons,' Democrat James Talarico Promises Texas Voters"
+        tinyUrl="https://tinyurl.com/bdf4je8b"
+        xPostUrl="https://x.com/C3Heditor/status/2062286187469959390"
+        imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-06-03_163232_3c4a8f41.jpg"
+        tags={["James Talarico", "Texas", "Climate Change", "2026 Elections"]}
       />
       <ArticleBlock
-        headline="Democrat Ignoring U.S. Supreme Court Rulings: Maryland Governor Wes Moore Signs GLOCK Ban Bill Into Law"
-        tinyUrl="https://tinyurl.com/mrz4mtan"
-        xPostUrl="https://x.com/C3Heditor/status/2061535248416890040"
-        imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-06-01_150133_e8e004a8.jpg"
-        tags={["Maryland", "Gun Control", "Judiciary-Judicial", "Government"]}
+        headline="Party Went Too Far, Black Rep. James Clyburn Warns Democrats: 'We Have to Get Back to Some Basics'"
+        tinyUrl="https://tinyurl.com/5c5d826j"
+        xPostUrl="https://x.com/C3Heditor/status/2062285352639889732"
+        imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-06-03_162908_022fc92c.jpg"
+        tags={["Democrat Party", "Racial Issues", "Politics", "Left-Wing"]}
       />
       <ArticleBlock
-        headline="Radical Islamist Linda Sarsour Is a Mentor of Michigan Democrat Senate Hopeful Abdul El-Sayed"
-        tinyUrl="https://tinyurl.com/9wnev6x8"
-        xPostUrl="https://x.com/C3Heditor/status/2061534995988357232"
-        imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-06-01_145550_2734cb46.jpg"
-        tags={["Michigan", "Islam-Muslim", "2026 Elections", "Left-Wing"]}
+        headline="Even Legacy Media Can't Ignore It: Black Voters Are Walking Away From The Democrat Party"
+        tinyUrl="https://tinyurl.com/3zvvuy9r"
+        xPostUrl="https://x.com/C3Heditor/status/2062284811109113923"
+        imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-06-03_162706_78bc5fff.jpg"
+        tags={["Racial Issues", "Democrat Party", "Media Bias", "Politics"]}
       />
       <ArticleBlock
-        headline="Major Felony Charges In Case of Prominent Michigan Democrat &amp; Associate of Governor Whitmer"
-        tinyUrl="https://tinyurl.com/mr83uv4r"
-        xPostUrl="https://x.com/C3Heditor/status/2061534774756966710"
-        imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-06-01_145201_16f3d4e7.jpg"
-        tags={["Michigan", "Politics", "Corruption-Fraud", "Gretchen Whitmer"]}
+        headline="Black Reparations Activists Turn on Democrats Over the Ongoing Migration Surge Problem"
+        tinyUrl="https://tinyurl.com/e4jsjzsb"
+        xPostUrl="https://x.com/C3Heditor/status/2062284302373490696"
+        imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-06-03_162510_bc948891.jpg"
+        tags={["Reparations", "Immigration", "Democrat Party", "Politics"]}
       />
       <ArticleBlock
-        headline="Newark Anti-ICE Violence Mounts and NJ Governor Is Forced Admit Outside Rioters Are To Blame"
-        tinyUrl="https://tinyurl.com/27v7uc9h"
-        xPostUrl="https://x.com/C3Heditor/status/2061534209614688483"
-        imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-06-01_144854_33005c38.jpg"
-        tags={["New Jersey", "Left-Wing", "CBP-DHS-ICE", "Violent Crime"]}
+        headline="New Degenerate's Scandal Forces NJ Sen. Cory Booker to Admit Democrat Graham Platner 'Has Questions to Answer'"
+        tinyUrl="https://tinyurl.com/3neexk2d"
+        xPostUrl="https://x.com/C3Heditor/status/2062283679771021584"
+        imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-06-03_162138_d6f9375b.jpg"
+        tags={["New Jersey", "Cory Booker", "Politics", "Sexual Misconduct"]}
       />
       <ArticleBlock
-        headline="NYC Is Financially Broken Yet Democrat-Marxist Mayor Mamdani Plans $5.2M Spending on Propaganda Bureau"
-        tinyUrl="https://tinyurl.com/36m5y4w4"
-        xPostUrl="https://x.com/C3Heditor/status/2061534628993741070"
-        imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-06-01_144607_71302c37.jpg"
-        tags={["Zohran Mamdani", "New York", "Taxation", "Government"]}
+        headline="Illegal Aliens Are 'Our North Star,' Declares NJ Democrat Senator in Stunning Priority Reveal"
+        tinyUrl="https://tinyurl.com/5dw6h9wf"
+        xPostUrl="https://x.com/C3Heditor/status/2062282153438703804"
+        imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-06-03_161632_5ec8791c.jpg"
+        tags={["New Jersey", "Immigration", "Democrat Party"]}
       />
       <ArticleBlock
-        headline="Tennessee Democrat Rep Faces FBI Probe For Fraudulent PAC That Bilked Kamala Donors"
-        tinyUrl="https://tinyurl.com/3ahj94tw"
-        xPostUrl="https://x.com/C3Heditor/status/2061533643776893058"
-        imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-06-01_144213_9d05ca3f.jpg"
-        tags={["Tennessee Politics", "Corruption-Fraud", "2026 Elections", "Politics"]}
+        headline="California's &quot;Moderate&quot; Democrats Move to Criminalize Investigative Journalism to Shield Immigrant Fraud"
+        tinyUrl="https://tinyurl.com/49ka2xz5"
+        xPostUrl="https://x.com/C3Heditor/status/2062281615171035580"
+        imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-06-03_161419_15262a36.jpg"
+        tags={["California", "Censorship", "Journalism", "Corruption-Fraud"]}
       />
       <ArticleBlock
-        headline="Wisconsin Democrat Governor Candidate Francesca Hong Plans to Stream On Podcast With Hasan Piker Who Said &quot;We deserved what happened on 9/11&quot;"
-        tinyUrl="https://tinyurl.com/mvvf5ee9"
-        xPostUrl="https://x.com/C3Heditor/status/2061533056180142408"
-        imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-06-01_143953_cbb82da4.jpg"
-        tags={["Wisconsin", "2026 Elections", "Terrorism", "Left-Wing"]}
+        headline="Hawaii Democrat Candidate Brandishes Firearm at County Workers in Off-the-Rails Incident"
+        tinyUrl="https://tinyurl.com/4a3aphbz"
+        xPostUrl="https://x.com/C3Heditor/status/2062280932954898738"
+        imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-06-03_161137_74fe0b2a.jpg"
+        tags={["Hawaii", "Violent Crime", "2026 Elections", "Politics"]}
       />
       <ArticleBlock
-        headline="&quot;Moderate&quot; Democrats Desire To Tax Everything In Virginia, Including Taxes On Gym Memberships &amp; Streaming Services"
-        tinyUrl="https://tinyurl.com/39d83tda"
-        xPostUrl="https://x.com/C3Heditor/status/2061532235484807230"
-        imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-06-01_143640_e4ebe1c3.jpg"
-        tags={["Virginia", "Taxation", "Democrat Party", "Government"]}
+        headline="Samsung Leaves Democrat-Controlled New Jersey for Better Business Climate of Texas - 1,000 Garden State Jobs Gone"
+        tinyUrl="https://tinyurl.com/nk8f4u4b"
+        xPostUrl="https://x.com/C3Heditor/status/2062280231843418116"
+        imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-06-03_160845_a6f70c88.jpg"
+        tags={["New Jersey", "Business Relocation", "Texas", "Business Climate"]}
       />
       <ArticleBlock
-        headline="On Democrat-Run Atlanta's Rapid Transit a 'Senseless' Broad Daylight Stabbing Attack on Woman Who Died From The Injuries"
-        tinyUrl="https://tinyurl.com/4tp9ph3n"
-        xPostUrl="https://x.com/C3Heditor/status/2061201100980855108"
-        imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-05-31_164104_f8e3f637.jpg"
-        tags={["Georgia", "Violent Crime", "Criminal Justice", "Public Safety"]}
+        headline="Los Angeles Became a Living Hell and Democrats Made It Happen Every Step of the Way"
+        tinyUrl="https://tinyurl.com/3b3cues6"
+        xPostUrl="https://x.com/C3Heditor/status/2062278629309001799"
+        imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-06-03_160227_d77197cf.jpg"
+        tags={["California", "Urban Decay", "Criminal Justice", "Government"]}
       />
       <ArticleBlock
-        headline="Taxpayer-Funded 'Peace Ambassador' Linked to Los Angeles Democrat Mayor Karen Bass Arrested as Convicted Murderer"
-        tinyUrl="https://tinyurl.com/ybkk24ds"
-        xPostUrl="https://x.com/C3Heditor/status/2061200509026070781"
-        imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-05-31_163821_d49d090e.jpg"
-        tags={["California", "Corruption-Fraud", "Taxation", "Violence"]}
+        headline="Arrest After Arrest by ICE Exposes the Criminals Democrats Keep Insisting Don’t Exist"
+        tinyUrl="https://tinyurl.com/2pbwrcuc"
+        xPostUrl="https://x.com/C3Heditor/status/2062277962431393981"
+        imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-06-03_155952_75b10a71.jpg"
+        tags={["Immigration", "Violent Crime", "CBP-DHS-ICE"]}
       />
       <ArticleBlock
-        headline="Utterly Creepy: Texas Senate Candidate James Talarico Actually Thought Posting Texts With a 13-Year-Old Was Fine"
-        tinyUrl="https://tinyurl.com/2yasf42d"
-        xPostUrl="https://x.com/C3Heditor/status/2061199602691551359"
-        imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-05-31_163452_c7af0d59.jpg"
-        tags={["James Talarico", "Texas", "2026 Elections", "Sexual Misconduct"]}
+        headline="Former Biden Staffers Ignite Democrat Civil War by Openly Turning Against Jill Biden For Her ‘Lived Experience’"
+        tinyUrl="https://tinyurl.com/bdf98yrp"
+        xPostUrl="https://x.com/C3Heditor/status/2062277276826263778"
+        imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-06-03_155727_7aafb6dd.jpg"
+        tags={["Biden Administration", "Democrat Party", "Joe Biden", "Politics"]}
       />
       <ArticleBlock
-        headline="Scandals Widen as Democrat's Maine U.S. Senate Hopeful Graham Platner Has Active Profile on Pedophile 'Predator's Paradise' App"
-        tinyUrl="https://tinyurl.com/2x58atw5"
-        xPostUrl="https://x.com/C3Heditor/status/2061199041082618255"
-        imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-05-31_163229_d965b042.jpg"
+        headline="Sheriffs &amp; Prosecutors Push Back Hard Against Democrat VA &amp; MD Governors’ Far-Left Gun Policy Agenda"
+        tinyUrl="https://tinyurl.com/u7982vhd"
+        xPostUrl="https://x.com/C3Heditor/status/2062276345648812077"
+        imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-06-03_155329_6c547506.jpg"
+        tags={["Virginia", "Maryland", "Gun Control", "Culture War"]}
+      />
+      <ArticleBlock
+        headline="Nebraska Democrat Senate Candidate Dan Osborn Quietly Drops ‘Abortion’ From Site, But Keeps Planned Parenthood Cash"
+        tinyUrl="https://tinyurl.com/7w9fex3x"
+        xPostUrl="https://x.com/C3Heditor/status/2062275711998583158"
+        imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-06-03_155053_ef384096.jpg"
+        tags={["Nebraska", "Dan Osborn", "Culture War", "2026 Elections"]}
+      />
+      <ArticleBlock
+        headline="Virginia’s Affordability Party: Democrats Hiding More Taxes Within New Budget"
+        tinyUrl="https://tinyurl.com/bdhh5cu7"
+        xPostUrl="https://x.com/C3Heditor/status/2062274222899015690"
+        imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-06-03_154556_563f1989.jpg"
+        tags={["Virginia", "Taxation", "Government"]}
+      />
+      <ArticleBlock
+        headline="Fresh Gutter Scandal Hits Maine Democrat Graham Platner Over Explicit Messages Sent During His Marriage"
+        tinyUrl="https://tinyurl.com/24b8vb73"
+        xPostUrl="https://x.com/C3Heditor/status/2062274198215557629"
+        imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-06-03_154500_f6c6457c.jpg"
         tags={["Maine", "2026 Elections", "Sexual Misconduct", "Politics"]}
       />
       <ArticleBlock
-        headline="Child Sex Abuse Charges Land El Paso Democrat Council Candidate Behind Bars on $1.1M Bond"
-        tinyUrl="https://tinyurl.com/85nubb45"
-        xPostUrl="https://x.com/C3Heditor/status/2061198322787123330"
-        imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-05-31_162940_a66ad941.jpg"
-        tags={["Texas", "2026 Elections", "Sexual Misconduct", "Politics"]}
+        headline="Newly Surfaced Records Expose Democrat NC Senate Hopeful Roy Cooper’s Dark-Money Group Ties"
+        tinyUrl="https://tinyurl.com/bded45tc"
+        xPostUrl="https://x.com/C3Heditor/status/2062272205203857414"
+        imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-06-03_153701_ee9550a1.jpg"
+        tags={["Roy Cooper", "North Carolina", "2026 Elections", "Politics"]}
       />
       <ArticleBlock
-        headline="90% of Party Nominating Petition Signatures Are Fraudulent for New York Democrat Candidate"
-        tinyUrl="https://tinyurl.com/yjvwwhb2"
-        xPostUrl="https://x.com/C3Heditor/status/2061196979167015222"
-        imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-05-31_162709_e7ef510a.jpg"
-        tags={["New York", "Election Fraud", "2026 Elections"]}
+        headline="Leaked Secret Signal Message Exposes the Democrat-Funded Machine Behind NJ ICE Facility Chaos Riots"
+        tinyUrl="https://tinyurl.com/y5y5fsf9"
+        xPostUrl="https://x.com/C3Heditor/status/2062271588456653282"
+        imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-06-03_153441_a6c19bcd.jpg"
+        tags={["New Jersey", "Left-Wing", "CBP-DHS-ICE", "2026 Elections"]}
       />
       <ArticleBlock
-        headline="Anti-ICE Protests Backfire on New Jersey Democrats as Spiraling Violence Forces a Curfew"
-        tinyUrl="https://tinyurl.com/33rynmc9"
-        xPostUrl="https://x.com/C3Heditor/status/2061196381751222445"
-        imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-05-31_162201_c38a5a15.jpg"
-        tags={["New Jersey", "CBP-DHS-ICE", "Left-Wing", "Violent Crime"]}
-      />
-      <ArticleBlock
-        headline="Growing Democrat Antisemitism Causes Pennsylvania Supreme Court Justice to Leave the Party"
-        tinyUrl="https://tinyurl.com/56uejss7"
-        xPostUrl="https://x.com/C3Heditor/status/2061195475953565841"
-        imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-05-31_161825_a40bf9f2.jpg"
-        tags={["Pennsylvania", "Israel", "Democrat Party", "Judiciary-Judicial"]}
-      />
-      <ArticleBlock
-        headline="Democrats Still Want Open Borders: Deported Four Times, Mexican Illegal Alien Pleads Guilty To Killing A California 11-Year-Old Boy"
-        tinyUrl="https://tinyurl.com/ycyxa3bc"
-        xPostUrl="https://x.com/C3Heditor/status/2061192920783544521"
-        imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-05-31_160852_20f0acc4.jpg"
-        tags={["Immigration", "Violent Crime", "CBP-DHS-ICE", "California"]}
-      />
-      <ArticleBlock
-        headline="Prison Doors Close on California Democrat Congressman Sentenced for Fraud"
-        tinyUrl="https://tinyurl.com/mry393kj"
-        xPostUrl="https://x.com/C3Heditor/status/2061191385311842378"
-        imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-05-31_160213_9bde89f4.jpg"
-        tags={["California", "Corruption-Fraud", "U.S. Congress", "Politics"]}
+        headline="Texas School District Fires Muslim Principal After One Week Over Sharia Law and BLM Posts"
+        tinyUrl="https://tinyurl.com/22u7264z"
+        xPostUrl="https://x.com/C3Heditor/status/2062271039212585192"
+        imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-06-03_153219_5b0f605e.jpg"
+        tags={["Texas", "Islam-Muslim", "Culture War"]}
       />
       </div>
-      <Pagination currentPage={6} totalPages={54} />
+      <Pagination currentPage={6} totalPages={55} />
+      {/* SITE STATS — auto-updated by gen_home.py. DO NOT edit manually. */}
+      <p className="text-sm text-gray-500 mt-2" style={{fontFamily: 'Roboto Slab, serif'}}>
+        Last updated: <strong style={{ color: '#555' }}>June 3, 2026</strong> &nbsp;|&nbsp; Total articles: <strong style={{ color: '#555' }}>1000</strong>
+      </p>
     </div>
   );
 }
