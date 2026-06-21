@@ -53,6 +53,7 @@ import Page51 from "./pages/Page51";
 import Page52 from "./pages/Page52";
 import Page53 from "./pages/Page53";
 import Page54 from "./pages/Page54";
+import Page55 from "./pages/Page55";
 import Search from "./pages/Search";
 import TagResults from "./pages/TagResults";
 import TagsIndex from "./pages/TagsIndex";
@@ -114,6 +115,7 @@ function App() {
         <Route path="/page52" component={Page52} />
         <Route path="/page53" component={Page53} />
         <Route path="/page54" component={Page54} />
+        <Route path="/page55" component={Page55} />
         <Route path="/search" component={Search} />
         <Route path="/tags" component={TagsIndex} />
         <Route path="/tag/:tag" component={TagResults} />
