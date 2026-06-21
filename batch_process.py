@@ -48,9 +48,10 @@ Reliability features:
   - Post-deploy verification: fetches live site to confirm deployment succeeded
   - Idempotent image uploads: skips images already present on GitHub
   - GitHub Contents API: no git pack files — immune to sandbox corruption
+  - Batch run log: timestamped log written to ~/batch_logs/ for every run
 """
 
-import sys, os, re, json, shutil, subprocess, base64, time, tempfile, copy
+import sys, os, re, json, shutil, subprocess, base64, time, tempfile, copy, datetime
 from pathlib import Path
 import requests
 
@@ -77,6 +78,62 @@ JSDELIVR_BASE = f"https://cdn.jsdelivr.net/gh/{GITHUB_REPO}@{GITHUB_BRANCH}/arti
 
 CLOUDFLARE_API_TOKEN = os.environ.get("CTCRAZIES_CF_TOKEN", "")
 LIVE_SITE_URL = "https://www.ctcrazies.com"
+BATCH_LOGS_DIR = os.path.expanduser("~/batch_logs")
+
+
+# ─────────────────────────────────────────────
+# BATCH RUN LOGGER
+# ─────────────────────────────────────────────
+
+class BatchLogger:
+    """
+    Writes a timestamped log file for every batch run.
+    Log files are stored in ~/batch_logs/YYYY-MM-DD_HHMMSS.log
+    Each log captures: batch date, all steps, image CDN URLs, success/failure.
+    """
+
+    def __init__(self, batch_date: str, dry_run: bool = False):
+        os.makedirs(BATCH_LOGS_DIR, exist_ok=True)
+        ts = datetime.datetime.now().strftime('%Y-%m-%d_%H%M%S')
+        suffix = '_dry-run' if dry_run else ''
+        self.log_path = os.path.join(BATCH_LOGS_DIR, f'{ts}{suffix}.log')
+        self.dry_run = dry_run
+        self._lines = []
+        self._start = time.time()
+        self._write(f"CT Crazies Batch Run Log")
+        self._write(f"Batch date  : {batch_date}")
+        self._write(f"Started     : {datetime.datetime.now().strftime('%Y-%m-%d %H:%M:%S')}")
+        self._write(f"Dry-run     : {dry_run}")
+        self._write(f"{'='*60}")
+
+    def _write(self, line: str):
+        ts = datetime.datetime.now().strftime('%H:%M:%S')
+        entry = f"[{ts}] {line}"
+        self._lines.append(entry)
+        # Also mirror to file immediately so partial logs are preserved on crash
+        with open(self.log_path, 'a', encoding='utf-8') as f:
+            f.write(entry + '\n')
+
+    def log(self, message: str):
+        """Log an informational message."""
+        self._write(message)
+
+    def log_article(self, idx: int, num: int, headline: str, cdn_url: str):
+        """Log a single article's image upload result."""
+        self._write(f"  [{idx:02d}/20] num={num} | {os.path.basename(cdn_url)} | {cdn_url}")
+
+    def finish(self, success: bool, total_articles: int, total_pages: int):
+        """Write the final summary line."""
+        elapsed = int(time.time() - self._start)
+        self._write(f"{'='*60}")
+        status = 'SUCCESS' if success else 'FAILED'
+        self._write(f"Result      : {status}")
+        if success:
+            self._write(f"Articles    : {total_articles}")
+            self._write(f"Pages       : {total_pages}")
+        self._write(f"Duration    : {elapsed}s")
+        self._write(f"Log file    : {self.log_path}")
+        print(f"  Batch log written: {self.log_path}")
 
 
 # ─────────────────────────────────────────────
@@ -667,6 +724,10 @@ def main():
     print(f"BATCH PROCESSOR — {batch_date}")
     print(f"{'='*60}")
 
+    # ── Initialize logger ─────────────────────────────────────────────────────
+    logger = BatchLogger(batch_date, dry_run=dry_run)
+    logger.log(f"Articles JSON: {articles_json_path}")
+
     # ── Load articles ─────────────────────────────────────────────────────────
     with open(articles_json_path, encoding='utf-8') as f:
         articles = json.load(f)
@@ -689,6 +750,7 @@ def main():
         sys.exit(1)
 
     print(f"  ✓ All {len(articles)} articles passed validation")
+    logger.log(f"Pre-flight validation: PASSED ({len(articles)} articles)")
 
     if dry_run:
         print(f"\n  Dry-run article preview:")
@@ -705,6 +767,7 @@ def main():
     print(f"  After batch: {new_total_pages} pages, {new_total_articles} articles")
 
     if dry_run:
+        logger.log(f"Current pages: {len(current_pages)}, new total: {new_total_pages}")
         # Run remaining steps in preview mode
         print(f"\n[STEP 1] Image uploads (dry-run):")
         for i, art in enumerate(articles):
@@ -730,6 +793,7 @@ def main():
         print(f"\n[STEP 7] Cloudflare deploy (dry-run):")
         deploy_to_cloudflare(dry_run=True)
 
+        logger.finish(success=True, total_articles=new_total_articles, total_pages=new_total_pages)
         print(f"\n{'='*60}")
         print(f"DRY-RUN COMPLETE — No changes made")
         print(f"Run without --dry-run to execute the batch")
@@ -744,15 +808,18 @@ def main():
     try:
         # ── STEP 1: Upload images to GitHub ──────────────────────────────────
         print(f"\n[STEP 1] Uploading 20 images to GitHub article-images/ via API...")
+        logger.log("STEP 1: Uploading images to GitHub")
         for i, art in enumerate(articles):
             cdn_url = github_upload_image(art['imagePath'])
             articles[i]['imageUrl'] = cdn_url
             filename = os.path.basename(art['imagePath'])
             print(f"  [{i+1}/20] ✓ {filename}")
+            logger.log_article(i+1, art.get('num', '?'), art['headline'], cdn_url)
             time.sleep(0.3)
 
         # ── STEP 2: Shift existing pages ─────────────────────────────────────
         print(f"\n[STEP 2] Shifting {len(current_pages)} existing pages...")
+        logger.log(f"STEP 2: Shifting {len(current_pages)} pages → new total {new_total_pages}")
         shift_pages(new_total_pages)
 
         # ── STEP 3: Build new Home.tsx ────────────────────────────────────────
@@ -794,12 +861,15 @@ def main():
 
         # ── STEP 7: Build and deploy to Cloudflare Pages ──────────────────────
         print(f"\n[STEP 7] Building and deploying to Cloudflare Pages...")
+        logger.log("STEP 7: Building and deploying to Cloudflare Pages")
         cf_ok = deploy_to_cloudflare()
         if not cf_ok:
             raise RuntimeError("Cloudflare deployment failed")
+        logger.log("STEP 7: Cloudflare deployment complete")
 
         # ── STEP 8: Post-deploy verification ──────────────────────────────────
         print(f"\n[STEP 8] Verifying live site...")
+        logger.log("STEP 8: Post-deploy verification")
         verify_live_site(batch_date)
 
     except Exception as e:
@@ -807,6 +877,9 @@ def main():
         print(f"BATCH FAILED: {e}")
         print(f"ROLLING BACK all file changes...")
         print(f"{'!'*60}")
+        logger.log(f"BATCH FAILED: {e}")
+        logger.log("ROLLBACK initiated")
+        logger.finish(success=False, total_articles=0, total_pages=0)
         snapshot.restore()
         print(f"\nThe project has been restored to its pre-batch state.")
         print(f"Fix the issue above and re-run the batch.")
@@ -814,6 +887,8 @@ def main():
 
     # ── SUCCESS ───────────────────────────────────────────────────────────────
     snapshot.cleanup()
+    logger.log(f"All steps completed successfully")
+    logger.finish(success=True, total_articles=new_total_articles, total_pages=new_total_pages)
 
     print(f"\n{'='*60}")
     print(f"BATCH COMPLETE — {new_total_articles} articles, {new_total_pages} pages")
