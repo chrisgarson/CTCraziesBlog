@@ -978,12 +978,177 @@ def main():
     # ── SUCCESS ───────────────────────────────────────────────────────────────
     snapshot.cleanup()
     logger.log(f"All steps completed successfully")
+
+    # ── STEP 9: Generate updated ZIP archive and WordPress XML ────────────────
+    print(f"\n[STEP 9] Generating updated ZIP archive and WordPress XML...")
+    logger.log("STEP 9: Generating updated ZIP archive and WordPress XML")
+    try:
+        today_str = datetime.datetime.now().strftime('%Y-%m-%d')
+        zip_path = os.path.expanduser(f'~/ctcrazies_x-post-platform_{today_str}.zip')
+        xml_path = os.path.expanduser(f'~/ctcrazies_wordpress_import_{today_str}.xml')
+
+        # Generate ZIP (exclude node_modules, .git, dist, .manus, .wrangler)
+        import subprocess
+        project_dir = os.path.dirname(os.path.abspath(__file__))
+        zip_result = subprocess.run(
+            ['zip', '-r', zip_path, os.path.basename(project_dir),
+             '--exclude', f'{os.path.basename(project_dir)}/node_modules/*',
+             '--exclude', f'{os.path.basename(project_dir)}/.git/*',
+             '--exclude', f'{os.path.basename(project_dir)}/dist/*',
+             '--exclude', f'{os.path.basename(project_dir)}/.manus/*',
+             '--exclude', f'{os.path.basename(project_dir)}/.wrangler/*'],
+            cwd=os.path.dirname(project_dir),
+            capture_output=True, text=True
+        )
+        if zip_result.returncode == 0:
+            zip_size_mb = os.path.getsize(zip_path) / (1024*1024)
+            print(f"  ✓ ZIP archive: {zip_path} ({zip_size_mb:.0f} MB)")
+            logger.log(f"ZIP archive generated: {zip_path} ({zip_size_mb:.0f} MB)")
+        else:
+            print(f"  ⚠ ZIP generation failed: {zip_result.stderr[:100]}")
+            logger.log(f"ZIP generation failed: {zip_result.stderr[:100]}")
+
+        # Generate WordPress XML using the same logic as generate_updated_xml_v2.py
+        xml_articles = _extract_all_articles_for_xml()
+        xml_content = _generate_wordpress_xml(xml_articles)
+        with open(xml_path, 'w', encoding='utf-8') as f:
+            f.write(xml_content)
+        xml_size_kb = os.path.getsize(xml_path) / 1024
+        print(f"  ✓ WordPress XML: {xml_path} ({xml_size_kb:.0f} KB, {len(xml_articles)} articles)")
+        logger.log(f"WordPress XML generated: {xml_path} ({len(xml_articles)} articles)")
+
+    except Exception as e:
+        print(f"  ⚠ Step 9 warning: {e} (batch was still successful)")
+        logger.log(f"STEP 9 warning: {e}")
+
     logger.finish(success=True, total_articles=new_total_articles, total_pages=new_total_pages)
 
     print(f"\n{'='*60}")
     print(f"BATCH COMPLETE — {new_total_articles} articles, {new_total_pages} pages")
     print(f"Live at: {LIVE_SITE_URL}")
     print(f"{'='*60}\n")
+
+
+# ─────────────────────────────────────────────
+# XML GENERATION HELPERS (used by STEP 9)
+# ─────────────────────────────────────────────
+
+def _extract_all_articles_for_xml():
+    """Extract all articles from all page files for WordPress XML generation."""
+    import html as html_mod
+    all_articles = []
+
+    def extract_from_file(filepath, page_num):
+        content = open(filepath, encoding='utf-8').read()
+        arts = []
+        raw_blocks = re.split(r'(?=<ArticleBlock\b)', content)
+        for raw in raw_blocks:
+            if not raw.strip().startswith('<ArticleBlock'):
+                continue
+            def get_attr(name, text=raw):
+                m = re.search(rf'\b{name}="((?:[^"]|\\")*)"', text)
+                return html_mod.unescape(m.group(1)) if m else ''
+            def get_tags(text=raw):
+                m = re.search(r'tags=\{\[([^\]]*)\]\}', text)
+                return re.findall(r'"([^"]+)"', m.group(1)) if m else []
+            headline = get_attr('headline')
+            if headline:
+                arts.append({
+                    'headline': headline,
+                    'tinyUrl': get_attr('tinyUrl'),
+                    'xPostUrl': get_attr('xPostUrl'),
+                    'imageUrl': get_attr('imageSrc'),
+                    'batchDate': get_attr('batchDate'),
+                    'tags': get_tags(),
+                    'page': page_num,
+                })
+        return arts
+
+    # Home.tsx = page 1
+    home_path = os.path.join(PAGES_DIR, 'Home.tsx')
+    if os.path.exists(home_path):
+        all_articles.extend(extract_from_file(home_path, 1))
+
+    # Page2.tsx through PageN.tsx
+    page_files = sorted(
+        [(int(re.match(r'Page(\d+)', f).group(1)), f)
+         for f in os.listdir(PAGES_DIR) if re.match(r'Page\d+\.tsx', f)]
+    )
+    for page_num, fname in page_files:
+        all_articles.extend(extract_from_file(os.path.join(PAGES_DIR, fname), page_num))
+
+    return all_articles
+
+
+def _generate_wordpress_xml(articles):
+    """Generate WordPress WXR XML string from a list of article dicts."""
+    import html as html_mod
+    now = datetime.datetime.utcnow().strftime('%a, %d %b %Y %H:%M:%S +0000')
+
+    def xe(s):
+        return s.replace('&', '&amp;').replace('<', '&lt;').replace('>', '&gt;').replace('"', '&quot;').replace("'", '&apos;')
+
+    lines = [
+        '<?xml version="1.0" encoding="UTF-8"?>',
+        f'<!-- CT Crazies WordPress Import — Generated: {now} — Articles: {len(articles)} -->',
+        '<rss version="2.0"',
+        '  xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"',
+        '  xmlns:content="http://purl.org/rss/1.0/modules/content/"',
+        '  xmlns:wfw="http://wellformedweb.org/CommentAPI/"',
+        '  xmlns:dc="http://purl.org/dc/elements/1.1/"',
+        '  xmlns:wp="http://wordpress.org/export/1.2/"',
+        '>',
+        '<channel>',
+        '  <title>CT Crazies</title>',
+        '  <link>https://www.ctcrazies.com</link>',
+        '  <description>Connecticut Democrat Craziness</description>',
+        '  <wp:wxr_version>1.2</wp:wxr_version>',
+        '',
+    ]
+
+    all_tags = sorted(set(t for art in articles for t in art.get('tags', [])))
+    for i, tag in enumerate(all_tags, 1):
+        slug = re.sub(r'[^a-z0-9]+', '-', tag.lower()).strip('-')
+        lines += [f'  <wp:tag>', f'    <wp:term_id>{i}</wp:term_id>',
+                  f'    <wp:tag_slug>{xe(slug)}</wp:tag_slug>',
+                  f'    <wp:tag_name><![CDATA[{tag}]]></wp:tag_name>', '  </wp:tag>']
+    lines.append('')
+
+    for post_id, art in enumerate(articles, 1):
+        h = xe(art['headline'])
+        tiny = art.get('tinyUrl', '')
+        xpost = art.get('xPostUrl', '')
+        img = art.get('imageUrl', '')
+        bd = art.get('batchDate', '')
+        tags = art.get('tags', [])
+        page = art.get('page', 1)
+        content_html = f'<p><a href="{xe(tiny)}">{h}</a></p>'
+        if img:
+            content_html += f'<p><img src="{xe(img)}" alt="{h}" /></p>'
+        if xpost:
+            content_html += f'<p><a href="{xe(xpost)}">View X Post</a></p>'
+        lines += [
+            '  <item>',
+            f'    <title>{h}</title>',
+            f'    <link>{xe(tiny)}</link>',
+            f'    <wp:post_id>{post_id}</wp:post_id>',
+            '    <wp:post_type><![CDATA[post]]></wp:post_type>',
+            '    <wp:status><![CDATA[publish]]></wp:status>',
+            f'    <content:encoded><![CDATA[{content_html}]]></content:encoded>',
+        ]
+        for key, val in [('tiny_url', tiny), ('xpost_url', xpost), ('image_url', img),
+                          ('batch_date', bd), ('page', str(page))]:
+            lines += ['    <wp:postmeta>',
+                      f'      <wp:meta_key><![CDATA[{key}]]></wp:meta_key>',
+                      f'      <wp:meta_value><![CDATA[{val}]]></wp:meta_value>',
+                      '    </wp:postmeta>']
+        for tag in tags:
+            slug = re.sub(r'[^a-z0-9]+', '-', tag.lower()).strip('-')
+            lines.append(f'    <category domain="post_tag" nicename="{xe(slug)}"><![CDATA[{tag}]]></category>')
+        lines.append('  </item>')
+
+    lines += ['</channel>', '</rss>']
+    return '\n'.join(lines)
 
 
 if __name__ == '__main__':
