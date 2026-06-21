@@ -520,11 +520,7 @@ def update_search(articles: list, batch_date: str, dry_run: bool = False):
     """Prepend 20 new entries to Search.tsx and increment all page numbers."""
     content = open(SEARCH, encoding='utf-8').read()
 
-    def increment_page(m):
-        n = int(m.group(1))
-        return f'"page": {n + 1}'
-    content = re.sub(r'"page":\s*(\d+)', increment_page, content)
-
+    # Step A: insert new entries FIRST (they get page=1)
     new_entries = build_search_entries(articles, batch_date)
     marker = 'const articles = [\n'
     idx = content.find(marker)
@@ -532,6 +528,19 @@ def update_search(articles: list, batch_date: str, dry_run: bool = False):
         raise ValueError("Could not find 'const articles = [' in Search.tsx")
     insert_pos = idx + len(marker)
     content = content[:insert_pos] + new_entries + '\n' + content[insert_pos:]
+
+    # Step B: increment ONLY the existing entries (everything after the new block)
+    # The new entries end just before the first entry that was already there.
+    # We increment all page numbers that appear AFTER the newly inserted block.
+    new_block_end = insert_pos + len(new_entries) + 1  # +1 for the '\n'
+    before = content[:new_block_end]
+    after = content[new_block_end:]
+
+    def increment_page(m):
+        n = int(m.group(1))
+        return f'"page": {n + 1}'
+    after = re.sub(r'"page":\s*(\d+)', increment_page, after)
+    content = before + after
 
     if dry_run:
         print(f"  [DRY-RUN] Would prepend 20 entries to Search.tsx and increment all page numbers")
@@ -819,6 +828,18 @@ def main():
     current_pages = get_existing_pages()
     new_total_pages = len(current_pages) + 1
     new_total_articles = len(current_pages) * 20 + 20
+
+    # ── IDEMPOTENCY CHECK: detect if this batch was already applied ───────────
+    home_content = open(os.path.join(PAGES_DIR, 'Home.tsx'), encoding='utf-8').read()
+    first_headline = articles[0]['headline'].replace('"', '\\"').replace("'", "\\'")[:60]
+    if first_headline in home_content or articles[0]['headline'][:60] in home_content:
+        print(f"\n[IDEMPOTENCY] This batch appears to already be applied to Home.tsx.")
+        print(f"  First article headline found in Home.tsx: {articles[0]['headline'][:70]}")
+        print(f"  Skipping batch processing — site is already up to date.")
+        print(f"  If you need to redeploy without reprocessing, run: pnpm build && wrangler deploy")
+        logger.log("IDEMPOTENCY CHECK: Batch already applied — skipping")
+        logger.finish(success=True, total_articles=len(current_pages)*20, total_pages=len(current_pages))
+        sys.exit(0)
     print(f"\n  Current: {len(current_pages)} pages, {len(current_pages)*20} articles")
     print(f"  After batch: {new_total_pages} pages, {new_total_articles} articles")
 
@@ -829,6 +850,7 @@ def main():
         for i, art in enumerate(articles):
             filename = os.path.basename(art['imagePath'])
             cdn_url = f"{JSDELIVR_BASE}/{filename}"
+            articles[i]['imageUrl'] = cdn_url  # set for downstream dry-run steps
             print(f"  [{i+1}/20] Would upload {filename} → {cdn_url}")
 
         print(f"\n[STEP 2] Page shifts (dry-run):")
