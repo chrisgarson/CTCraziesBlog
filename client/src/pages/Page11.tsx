@@ -7,151 +7,147 @@ export default function Home() {
       <PageHeader />
       <div className="space-y-12">
       <ArticleBlock
-        headline="Hypocrisy: The Black Caucus That Claims Congress Is Silencing Black Voices Itself Silences Black Voices They Disagree With"
-        tinyUrl="https://tinyurl.com/yx7sbmwz"
-        xPostUrl="https://x.com/C3Heditor/status/2059377828441837711"
-        imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-05-26_155555_847aa48a.jpg"
-        tags={["Culture War", "Republican Party", "Education Policy"]}
+        headline="New York City Mayor Mamdani&#39;s Democrat-Marxist&#39;s Vision: Plan Is To Seize Private Real Estate Block By Block Across The City"
+        tinyUrl="https://tinyurl.com/2n39kxje"
+        xPostUrl="https://x.com/C3Heditor/status/2059742832366109071"
+        imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-05-27_160517_98b4fc75.jpg"
+        tags={["Left-Wing", "Democrat Party", "Housing", "Government"]}
       />
       <ArticleBlock
-        headline="Uh-Oh: Hakeem Jeffries Claims The Democrats&#39; Ghosts-of-the-Confederacy Are Still Haunting America Today"
-        tinyUrl="https://tinyurl.com/4rfewemx"
-        xPostUrl="https://x.com/C3Heditor/status/2059376816020652387"
-        imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-05-26_155156_a0a125cc.jpg"
-        tags={["Hakeem Jeffries", "2026 Elections", "Democrat Party"]}
+        headline="Unconstitutional Anti-2nd-Amendment Policies Targeting Glock Handguns Approved by Maryland&#39;s Democratic Governor"
+        tinyUrl="https://tinyurl.com/3rfkx44u"
+        xPostUrl="https://x.com/C3Heditor/status/2059742129165922348"
+        imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-05-27_160012_2e66c7b0.jpg"
+        tags={["Culture War", "Democrat Party", "Gun Control", "Maryland"]}
       />
       <ArticleBlock
-        headline="Forget &#39;Black Fatigue&#39;: Race Hysteria Has Again Become The Democrats&#39; Chosen Strategy Heading Into The Midterms"
-        tinyUrl="https://tinyurl.com/45r94ydf"
-        xPostUrl="https://x.com/C3Heditor/status/2059375074658959848"
-        imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-05-26_154445_3f25e039.jpg"
-        tags={["Democrat Party", "2026 Elections", "Racial Issues", "Politics"]}
+        headline="Incompetent Los Angeles Democrat-Marxist Mayor Axes the Repairs of Pothole-Plagued Streets"
+        tinyUrl="https://tinyurl.com/5n7n2vvn"
+        xPostUrl="https://x.com/C3Heditor/status/2059739723443159513"
+        imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-05-27_155354_f9712f4f.jpg"
+        tags={["Los Angeles", "Government", "Business Climate", "Democrat Party"]}
       />
       <ArticleBlock
-        headline="New Dem Survey: &quot;A lot of Democrats are willing to sacrifice Black voting power to beat the GOP&quot;"
-        tinyUrl="https://tinyurl.com/mpsjt3zk"
-        xPostUrl="https://x.com/C3Heditor/status/2059373428587545023"
-        imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-05-26_153817_e95881f9.jpg"
-        tags={["Democrat Party", "Polling", "2026 Elections", "Election Fraud"]}
+        headline="Hypocrisy of The Anti-Oligarchy Tour: Democrat-Socialist Bernie Sanders Spent $608,000 On Jets, Hotels &amp; Limos"
+        tinyUrl="https://tinyurl.com/4krcukkp"
+        xPostUrl="https://x.com/C3Heditor/status/2059738992304672874"
+        imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-05-27_155047_ee18d31c.jpg"
+        tags={["Democrat Party", "Left-Wing", "2026 Elections", "Government"]}
       />
       <ArticleBlock
-        headline="Covering Up Domestic Terror: Democrats Lie About The Trump Assassination Attempts"
-        tinyUrl="https://tinyurl.com/324ny4u2"
-        xPostUrl="https://x.com/C3Heditor/status/2059371846357729311"
-        imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-05-26_153200_4053c682.jpg"
-        tags={["Democrat Party", "Media Bias", "Left-Wing"]}
+        headline="Democrat Party Drops Dem Jasmine Crockett For White Dude James Talarico, But She Rants About GOP Racism Instead"
+        tinyUrl="https://tinyurl.com/52yb7xwx"
+        xPostUrl="https://x.com/C3Heditor/status/2059738231042891871"
+        imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-05-27_154832_c80a6cc3.jpg"
+        tags={["Democrat Party", "Left-Wing", "Media Bias", "Politics"]}
       />
       <ArticleBlock
-        headline="Democrat California Congressional Candidate Turns Back On Flag, Refuses To Say Pledge Of Allegiance"
-        tinyUrl="https://tinyurl.com/mr4xm6zr"
-        xPostUrl="https://x.com/C3Heditor/status/2059370392829972528"
-        imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-05-26_152610_b1fa207b.jpg"
-        tags={["California", "Democrat Party"]}
+        headline="TikTok Video Shows Anti-American Michigan Democrat Cruelly Mocking Erika Kirk &amp; MAGA"
+        tinyUrl="https://tinyurl.com/bd28rrcc"
+        xPostUrl="https://x.com/C3Heditor/status/2059737216621166771"
+        imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-05-27_154344_bb0630d0.jpg"
+        tags={["Alternative & Social Media", "Democrat Party", "Michigan"]}
       />
       <ArticleBlock
-        headline="Cultural Marxism And Hatred Of Trump, Christians &amp; White People: The Democrats&#39; Platform In A Nutshell "
-        tinyUrl="https://tinyurl.com/32zypbda"
-        xPostUrl="https://x.com/C3Heditor/status/2059369730406793420"
-        imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-05-26_152212_6faad29e.jpg"
-        tags={["Democrat Party", "Left-Wing", "Christianity"]}
+        headline="Rep. Jamie Raskin Tries Reviving The Long-Debunked, Democrat Charlottesville Lie of &#39;Fine Peoples&#39; Hoax About Trump"
+        tinyUrl="https://tinyurl.com/495ke6vb"
+        xPostUrl="https://x.com/C3Heditor/status/2059736717280862439"
+        imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-05-27_154153_cf85cdae.jpg"
+        tags={["Democrat Party", "Media Bias"]}
       />
       <ArticleBlock
-        headline="Radical Lefty Democrat Mayors Across America Have Become A Malignant And Dangerous Threat"
-        tinyUrl="https://tinyurl.com/48f9zex9"
-        xPostUrl="https://x.com/C3Heditor/status/2059365251473142006"
-        imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-05-26_150551_8dd6ae10.jpg"
-        tags={["Democrat Party", "Politics", "Violent Crime"]}
+        headline="California Democrat Darling Flooded With Donor Cash From Sources Tied To Chinese Government &amp; CCP Intelligence"
+        tinyUrl="https://tinyurl.com/hzt9u4d8"
+        xPostUrl="https://x.com/C3Heditor/status/2059736031994482971"
+        imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-05-27_153905_944e8030.jpg"
+        tags={["Democrat Party", "2026 Elections", "Government", "California"]}
       />
       <ArticleBlock
-        headline="Democrat-Marxist Mayor Mamdani Freaks Out NYC Leaders With His Tax-The-Rich Rhetoric"
-        tinyUrl="https://tinyurl.com/yv49ktan"
-        xPostUrl="https://x.com/C3Heditor/status/2059364645521981694"
-        imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-05-26_150330_f6299d0d.jpg"
-        tags={["New York", "Business Climate", "Taxation", "Democrat Party"]}
+        headline="Michigan Democrat U.S. Senate Candidate Mallory McMorrow Doubles Down On Defending Child Gender Mutilation"
+        tinyUrl="https://tinyurl.com/hwu42zf3"
+        xPostUrl="https://x.com/C3Heditor/status/2059734050995397037"
+        imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-05-27_153109_f96201e7.jpg"
+        tags={["Michigan", "Democrat Party", "Left-Wing", "LGBTQ"]}
       />
       <ArticleBlock
-        headline="Same Democrat Who Cheered Seattle&#39;s Socialist Mayor Billionaire Attacks Now Alarmed By Mass Business Exodus"
-        tinyUrl="https://tinyurl.com/3nvmat2j"
-        xPostUrl="https://x.com/C3Heditor/status/2059363929520836697"
-        imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-05-26_145731_1b4dbe57.jpg"
-        tags={["Washington", "Left-Wing", "Business Climate", "Democrat Party"]}
+        headline="Reality Sucks When the Comatose Awake: Caught in An Anger Trap, Democrats Worry Trump Has Exposed Their Political Weakness"
+        tinyUrl="https://tinyurl.com/bd6hard5"
+        xPostUrl="https://x.com/C3Heditor/status/2059733557854245168"
+        imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-05-27_152916_e1de9784.jpg"
+        tags={["Democrat Party", "Polling"]}
       />
       <ArticleBlock
-        headline="Another Round Of Starbucks Layoffs Hits Democrat-Controlled Seattle With 252 More Workers Let Go"
-        tinyUrl="https://tinyurl.com/mu4h76jf"
-        xPostUrl="https://x.com/C3Heditor/status/2059361427169718657"
-        imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-05-26_145034_0eaa1d1e.jpg"
-        tags={["Washington", "Business Climate", "Democrat Party"]}
+        headline="American Sniper Widow Blasts Maine Democrat U.S. Senate Candidate Graham Platner Over His Attacks On Her Late Husband"
+        tinyUrl="https://tinyurl.com/bdz7p9ku"
+        xPostUrl="https://x.com/C3Heditor/status/2059732225357480195"
+        imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-05-27_152359_e24ecf75.jpg"
+        tags={["Democrat Party", "2026 Elections", "Media Bias"]}
       />
       <ArticleBlock
-        headline="Washington Manufacturer Flees Democrat-Run Blue State Over Surging Crime, Taxes, &amp; Politics "
-        tinyUrl="https://tinyurl.com/zy6w5e95"
-        xPostUrl="https://x.com/C3Heditor/status/2059360837324738683"
-        imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-05-26_144811_6e682583.jpg"
-        tags={["Washington", "Business Climate", "Violent Crime", "Taxation"]}
+        headline="North Carolina Democrat Roy Cooper Oversaw Nation&#39;s Highest Health Costs But Promises Affordability As Candidate For U.S. Senate"
+        tinyUrl="https://tinyurl.com/57y9xa36"
+        xPostUrl="https://x.com/C3Heditor/status/2059731614578651465"
+        imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-05-27_152148_c19d1397.jpg"
+        tags={["Healthcare Policy", "Democrat Party", "North Carolina", "Government"]}
       />
       <ArticleBlock
-        headline="ABC New&#39;s Host &#39;Whoopi&#39; Tells Wildfire Victim &amp; LA Mayoral Candidate To Stop Criticizing California Democrats For Their Terrible Failures"
-        tinyUrl="https://tinyurl.com/52p2z6zp"
-        xPostUrl="https://x.com/C3Heditor/status/2059359833933910336"
-        imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-05-26_144412_13d43fad.jpg"
-        tags={["Whoopi Goldberg", "California", "Democrat Party", "Media Bias"]}
+        headline="California Democrat Governor Candidate Tom Steyer Backs Transgender Athletes In High School Sports"
+        tinyUrl="https://tinyurl.com/4ktnfd5k"
+        xPostUrl="https://x.com/C3Heditor/status/2059730913043640710"
+        imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-05-27_151839_80ef6a92.jpg"
+        tags={["California", "Democrat Party", "Left-Wing", "2026 Elections"]}
       />
       <ArticleBlock
-        headline="Texas Democrat Congressional Candidate Vows First Vote Will Be To Impeach Trump &amp; Restore Biden&#39;s Open Border Policy"
-        tinyUrl="https://tinyurl.com/4xrvc6n5"
-        xPostUrl="https://x.com/C3Heditor/status/2059358941792911778"
-        imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-05-26_144043_334473ba.jpg"
-        tags={["CBP-DHS-ICE", "Immigration", "Democrat Party"]}
+        headline="AOC&#39;s Ex-Chief Of Staff Threatens Democrat Who Refuses To Support A Nazi-Linked Candidate"
+        tinyUrl="https://tinyurl.com/y8yunz2v"
+        xPostUrl="https://x.com/C3Heditor/status/2059730376898359728"
+        imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-05-27_151640_28d99044.jpg"
+        tags={["Democrat Party", "Left-Wing", "Politics", "Media Bias"]}
       />
       <ArticleBlock
-        headline="Wisconsin Democrats Single-Handedly Kill The Bipartisan Tax Relief Deal - Dead On Arrival"
-        tinyUrl="https://tinyurl.com/48ufmyw2"
-        xPostUrl="https://x.com/C3Heditor/status/2059357536348733930"
-        imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-05-26_143740_059bf2b4.jpg"
-        tags={["Wisconsin", "Taxation", "Democrat Party", "Republican Party"]}
+        headline="Federal Funds For Drag Story Hour Sought By Two New York 2026 Candidates"
+        tinyUrl="https://tinyurl.com/25zcy68s"
+        xPostUrl="https://x.com/C3Heditor/status/2059729885581713853"
+        imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-05-27_151438_e9ea2ec1.jpg"
+        tags={["Democrat Party", "Government", "Left-Wing", "New York"]}
       />
       <ArticleBlock
-        headline="With Midterms Approaching, Google News Is Actively Pushing Propaganda For Democrats"
-        tinyUrl="https://tinyurl.com/5b9t9ard"
-        xPostUrl="https://x.com/C3Heditor/status/2059244552477687994"
-        imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-05-26_070623_951ca846.jpg"
-        tags={["Media Bias", "2026 Elections", "Democrat Party", "Alternative & Social Media"]}
+        headline="Backlash Forces Democrat Ghouls To Delete DNC Post Politicizing Death Of 13 Service Members"
+        tinyUrl="https://tinyurl.com/w2v5fn2v"
+        xPostUrl="https://x.com/C3Heditor/status/2059729014659723281"
+        imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-05-27_151204_a79e265c.jpg"
+        tags={["Democrat Party"]}
       />
       <ArticleBlock
-        headline="Ohio Democrat Governor Candidate Poses As Moderate While Funneling Millions To Radical Leftist Groups"
-        tinyUrl="https://tinyurl.com/3w8d7jyt"
-        xPostUrl="https://x.com/C3Heditor/status/2059243906928148514"
-        imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-05-26_070336_71868e6b.jpg"
-        tags={["Ohio", "Democrat Party", "2026 Elections", "Left-Wing"]}
+        headline="Black Athletes Are Called-On To Sacrifice Their College Careers For The Democrats&#39; Political Agenda"
+        tinyUrl="https://tinyurl.com/4yhsfcz9"
+        xPostUrl="https://x.com/C3Heditor/status/2059727752547516772"
+        imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-05-27_150641_7e443be0.jpg"
+        tags={["Left-Wing", "Democrat Party", "Media Bias", "Culture War"]}
       />
       <ArticleBlock
-        headline="Anti-Fraud Task Force Shuts Down $1.4 Billion Democrat Facilitated Multi-State Hospice Fraud Operation"
-        tinyUrl="https://tinyurl.com/43hchjvb"
-        xPostUrl="https://x.com/C3Heditor/status/2059243236871336449"
-        imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-05-26_070052_d0ccb2d8.jpg"
-        tags={["Corruption-Fraud"]}
+        headline="California Taxpayers Are Footing The Bill For Democrat Gov. Gavin Newsom&#39;s Porn Deliveries To Death Row Inmates Via Free Digital Tablets"
+        tinyUrl="https://tinyurl.com/4zr8kpup"
+        xPostUrl="https://x.com/C3Heditor/status/2059725868390310312"
+        imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-05-27_145925_9e970861.jpg"
+        tags={["California", "Government", "Criminal Justice", "Left-Wing"]}
       />
       <ArticleBlock
-        headline="California Rep. Admits Democrat Overregulation Is Blocking Housing Affordability For Americans"
-        tinyUrl="https://tinyurl.com/3bsuwtrp"
-        xPostUrl="https://x.com/C3Heditor/status/2059242120439882019"
-        imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-05-26_065629_5be3d2d0.jpg"
-        tags={["Democrat Party", "Housing", "Business Climate", "California"]}
+        headline="Democrats Want To Shut Down Medicare&#39;s AI Tool For Because It&#39;s Too Good At Spotting Prior Authorization Fraud"
+        tinyUrl="https://tinyurl.com/3sd4f6vf"
+        xPostUrl="https://x.com/C3Heditor/status/2059725101092728878"
+        imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-05-27_145538_8ccf9a09.jpg"
+        tags={["Corruption-Fraud", "Democrat Party", "Healthcare Policy", "Government"]}
       />
       <ArticleBlock
-        headline="Black Chicago Citizen Delivers Searing Rebuke Of Democrats Weaponizing Absurd Voting Rights Propaganda"
-        tinyUrl="https://tinyurl.com/2v5r9mas"
-        xPostUrl="https://x.com/C3Heditor/status/2059240650747289751"
-        imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-05-26_065320_a9fb677a.jpg"
-        tags={["Democrat Party", "Election Fraud", "Chicago", "2026 Elections"]}
+        headline="Cook County&#39;s Woke Democrats Let Hundreds Of Dangerous, Violent Criminals Go Completely Off-Grid, Untraceable"
+        tinyUrl="https://tinyurl.com/yc2fkmbu"
+        xPostUrl="https://x.com/C3Heditor/status/2059722930439720997"
+        imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-05-27_145324_0ab236e8.jpg"
+        tags={["Violent Crime", "Criminal Justice", "Democrat Party", "Left-Wing"]}
       />
       </div>
-      <Pagination currentPage={11} totalPages={54} />
-      {/* SITE STATS — auto-updated by gen_home.py. DO NOT edit manually. */}
-      <p className="text-sm text-gray-500 mt-2" style={{fontFamily: 'Roboto Slab, serif'}}>
-        Last updated: <strong style={{ color: '#555' }}>May 26, 2026</strong> &nbsp;|&nbsp; Total articles: <strong style={{ color: '#555' }}>880</strong>
-      </p>
+      <Pagination currentPage={11} totalPages={55} />
     </div>
   );
 }
