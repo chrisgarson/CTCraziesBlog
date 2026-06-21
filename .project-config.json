@@ -1,0 +1,43 @@
+{
+  "build_command": "pnpm run build",
+  "capabilities": [
+    "db",
+    "server",
+    "user"
+  ],
+  "dev_command": "pnpm run dev",
+  "env_vars": {
+    "DATABASE_URL": "mysql://47DSYaCnfhdPCup.c6a7fd5bb2c6:nendlOY8n05q24Hk0ONx@gateway02.us-east-1.prod.aws.tidbcloud.com:4000/diaZZv9B9aBWPyk7ymHmxE?ssl={\"rejectUnauthorized\":true}"
+  },
+  "experiments": [
+    "no_db_push"
+  ],
+  "git_remote": {
+    "repo_url": "s3://vida-prod-gitrepo/webdev-git/310419663027968276/diaZZv9B9aBWPyk7ymHmxE",
+    "access_key_id": "ASIAZV3A2ECZDVJMUM7D",
+    "secret_access_key": "YUYHCM3MWHxfZoVueOmPcCywiZLpgm6XMa+A8U7l",
+    "session_token": "IQoJb3JpZ2luX2VjEP3//////////wEaCXVzLWVhc3QtMSJHMEUCIQCBBfxrUByM38dI025w/XkDpAlfoBk4iuU/vK19pt0opgIgWSlbAyNGaM3EmcWGowyXq5obdGaRPI8wGdRN1di9O4wq/wMIxv//////////ARAEGgw2NjUzODYwOTg4NjYiDEnV1SwWg3pwErqr3irTAzIhK1CIno0X9J5ArWfVrljO4U10PISSj1jhNVTVbTmKFXQABdd6rNC304mEq42O7IdVIz0bgmsQ3g/29vfl7DhRTc5qRu2VJ0Zs6DTV55kPAKujkRNDqMpLF6jTA5WCEK6qY5AhR88BndcPbO19u4lwVOg7NSz1J40DoBGSNEQqDGz9IUvxkZ0H93ln/Lsj9EUJEA0mCMDvQmXPKIaL9MAjvoBXhpAF6YGadkOVZ1SudWnu1QjNkmnSFYYtLmCPrzfl01WPSdBfKU/RKAgo0ziqNZOxDAL32+yq6WBN9zI7ZEm88klOigFt0n8KpU0hIVxmfErvMAmCdQ3LX6qRQYuPeDakrToyatfBb7UALxqEoAGUb5E6Yz3OrqKS6D24gcejpcaNgZDJGM0H1T3WtIKmzJnWWT+hn6kEmqDCz6KCp8Vwjw+jI2HKSW618scOjXpdzcCstUSApH3s5OlEHmPjIML1SAMxTkxbYbKdDVxwt3YtuZiRELNgcyzaY29Mt8rtelli6yUne9LV7cQPnySao/jeNauEdlUHHtBvydn7gZ9/OZaZBLCRdXGYVqVQhe2699QocAqgAQojR4+MP7z3WovuW7c7UWP+cD8hfxf2kt2DMLn6rdAGOp0BLUNVaaurRd0VR6/ihNsYMVE/f9Wl6qW9wlOiiFTDNepFImx7S5y0mMQEjKQJ/uQJ2+MuphzxFEhXAzA9tM+vg3FtU0tgKh1pryaEvfIoRXVgYY6aFmY5ehrZtlGhnYFq9ipzqzumRRmg1JDgsKSQDUzXdXFSbTK07r7D91XfhkIbAXl0Q5yh3Ff3Zyhi0yx1RTFVYSRI2XHMeBpmmQ==",
+    "expiration": "2026-05-19T08:57:29.000Z"
+  },
+  "name": "x-post-platform",
+  "path": "/home/ubuntu/x-post-platform",
+  "port": 3000,
+  "secrets": {
+    "BUILT_IN_FORGE_API_KEY": "GAzVRJuRPjQvgbvmaWP6QC",
+    "BUILT_IN_FORGE_API_URL": "https://forge.manus.ai",
+    "JWT_SECRET": "kP656YrUFwBm2GTbqf5Rmx",
+    "OAUTH_SERVER_URL": "https://api.manus.im",
+    "OWNER_NAME": "Chris Garson",
+    "OWNER_OPEN_ID": "8Ekv6rTw4hwTxk67bQuMjG",
+    "VITE_ANALYTICS_ENDPOINT": "https://manus-analytics.com",
+    "VITE_ANALYTICS_WEBSITE_ID": "88098e76-294f-4004-acad-4b55dd5081ba",
+    "VITE_APP_ID": "diaZZv9B9aBWPyk7ymHmxE",
+    "VITE_APP_LOGO": "https://files.manuscdn.com/user_upload_by_module/web_dev_logo/310419663027968276/oKsicmCYZgWrYIeE.png",
+    "VITE_APP_TITLE": "CT Crazies",
+    "VITE_FRONTEND_FORGE_API_KEY": "nb8ExFpcTutbfYVBU4UECq",
+    "VITE_FRONTEND_FORGE_API_URL": "https://forge.manus.ai",
+    "VITE_OAUTH_PORTAL_URL": "https://manus.im"
+  },
+  "template_id": "web-db-user",
+  "test_command": "pnpm test"
+}

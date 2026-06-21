@@ -1,0 +1,124 @@
+import { Switch, Route } from "wouter";
+import Home from "./pages/Home";
+import Page2 from "./pages/Page2";
+import Page3 from "./pages/Page3";
+import Page4 from "./pages/Page4";
+import Page5 from "./pages/Page5";
+import Page6 from "./pages/Page6";
+import Page7 from "./pages/Page7";
+import Page8 from "./pages/Page8";
+import Page9 from "./pages/Page9";
+import Page10 from "./pages/Page10";
+import Page11 from "./pages/Page11";
+import Page12 from "./pages/Page12";
+import Page13 from "./pages/Page13";
+import Page14 from "./pages/Page14";
+import Page15 from "./pages/Page15";
+import Page16 from "./pages/Page16";
+import Page17 from "./pages/Page17";
+import Page18 from "./pages/Page18";
+import Page19 from "./pages/Page19";
+import Page20 from "./pages/Page20";
+import Page21 from "./pages/Page21";
+import Page22 from "./pages/Page22";
+import Page23 from "./pages/Page23";
+import Page24 from "./pages/Page24";
+import Page25 from "./pages/Page25";
+import Page26 from "./pages/Page26";
+import Page27 from "./pages/Page27";
+import Page28 from "./pages/Page28";
+import Page29 from "./pages/Page29";
+import Page30 from "./pages/Page30";
+import Page31 from "./pages/Page31";
+import Page32 from "./pages/Page32";
+import Page33 from "./pages/Page33";
+import Page34 from "./pages/Page34";
+import Page35 from "./pages/Page35";
+import Page36 from "./pages/Page36";
+import Page37 from "./pages/Page37";
+import Page38 from "./pages/Page38";
+import Page39 from "./pages/Page39";
+import Page40 from "./pages/Page40";
+import Page41 from "./pages/Page41";
+import Page42 from "./pages/Page42";
+import Page43 from "./pages/Page43";
+import Page44 from "./pages/Page44";
+import Page45 from "./pages/Page45";
+import Page46 from "./pages/Page46";
+import Page47 from "./pages/Page47";
+import Page48 from "./pages/Page48";
+import Page49 from "./pages/Page49";
+import Page50 from "./pages/Page50";
+import Page51 from "./pages/Page51";
+import Page52 from "./pages/Page52";
+import Page53 from "./pages/Page53";
+import Page54 from "./pages/Page54";
+import Search from "./pages/Search";
+import TagResults from "./pages/TagResults";
+import TagsIndex from "./pages/TagsIndex";
+function App() {
+  return (
+    <>
+      <Switch>
+        <Route path="/" component={Home} />
+        <Route path="/page2" component={Page2} />
+        <Route path="/page3" component={Page3} />
+        <Route path="/page4" component={Page4} />
+        <Route path="/page5" component={Page5} />
+        <Route path="/page6" component={Page6} />
+        <Route path="/page7" component={Page7} />
+        <Route path="/page8" component={Page8} />
+        <Route path="/page9" component={Page9} />
+        <Route path="/page10" component={Page10} />
+        <Route path="/page11" component={Page11} />
+        <Route path="/page12" component={Page12} />
+        <Route path="/page13" component={Page13} />
+        <Route path="/page14" component={Page14} />
+        <Route path="/page15" component={Page15} />
+        <Route path="/page16" component={Page16} />
+        <Route path="/page17" component={Page17} />
+        <Route path="/page18" component={Page18} />
+        <Route path="/page19" component={Page19} />
+        <Route path="/page20" component={Page20} />
+        <Route path="/page21" component={Page21} />
+        <Route path="/page22" component={Page22} />
+        <Route path="/page23" component={Page23} />
+        <Route path="/page24" component={Page24} />
+        <Route path="/page25" component={Page25} />
+        <Route path="/page26" component={Page26} />
+        <Route path="/page27" component={Page27} />
+        <Route path="/page28" component={Page28} />
+        <Route path="/page29" component={Page29} />
+        <Route path="/page30" component={Page30} />
+        <Route path="/page31" component={Page31} />
+        <Route path="/page32" component={Page32} />
+        <Route path="/page33" component={Page33} />
+        <Route path="/page34" component={Page34} />
+        <Route path="/page35" component={Page35} />
+        <Route path="/page36" component={Page36} />
+        <Route path="/page37" component={Page37} />
+        <Route path="/page38" component={Page38} />
+        <Route path="/page39" component={Page39} />
+        <Route path="/page40" component={Page40} />
+        <Route path="/page41" component={Page41} />
+        <Route path="/page42" component={Page42} />
+        <Route path="/page43" component={Page43} />
+        <Route path="/page44" component={Page44} />
+        <Route path="/page45" component={Page45} />
+        <Route path="/page46" component={Page46} />
+        <Route path="/page47" component={Page47} />
+        <Route path="/page48" component={Page48} />
+        <Route path="/page49" component={Page49} />
+        <Route path="/page50" component={Page50} />
+        <Route path="/page51" component={Page51} />
+        <Route path="/page52" component={Page52} />
+        <Route path="/page53" component={Page53} />
+        <Route path="/page54" component={Page54} />
+        <Route path="/search" component={Search} />
+        <Route path="/tags" component={TagsIndex} />
+        <Route path="/tag/:tag" component={TagResults} />
+      </Switch>
+    </>
+  );
+}
+export default App;
