@@ -4,7 +4,7 @@ import { Link } from 'wouter';
 
 const articles = [
   {
-    "headline": "Democrat-Radicals Build a Nationwide Armed Paramilitary Group Known As ‘Red Rabbits’",
+    "headline": "Old Posts Expose Maine's Democrat Senate Candidate Graham Platner Calling Police Officers 'Opportunistic Cowards'",
     "tinyUrl": "https://tinyurl.com/yu7f53f2",
     "xPostUrl": "https://x.com/C3Heditor/status/2069085223535440279",
     "imageUrl": "https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-06-22_104927.jpg",
@@ -13,7 +13,7 @@ const articles = [
     "batchDate": "June 22, 2026"
   },
   {
-    "headline": "DOJ Corruption Probe of California’s Gov. Gavin Newsom Targets Behested Payments, Family Nonprofits, & Questions of Influence",
+    "headline": "Democrats' Open Border Policies Gave Arrested Illegal Alien Opportunity For Drone Attacks On FIFA World Cup Venues",
     "tinyUrl": "https://tinyurl.com/yjaa4avy",
     "xPostUrl": "https://x.com/C3Heditor/status/2069086424293335207",
     "imageUrl": "https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-06-22_105435.jpg",
@@ -22,7 +22,7 @@ const articles = [
     "batchDate": "June 22, 2026"
   },
   {
-    "headline": "Top Federal Prosecutor Warns That Democrats In California Have Effectively ‘Decriminalized Voter Fraud’",
+    "headline": "Illegal Alien DACA Recipient Was Democrat-Activist Mastermind Behind Planned Drone Attack at White House's 250 UFC Event",
     "tinyUrl": "https://tinyurl.com/y2jpmuru",
     "xPostUrl": "https://x.com/C3Heditor/status/2069087077635862961",
     "imageUrl": "https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-06-22_105652.jpg",
@@ -31,7 +31,7 @@ const articles = [
     "batchDate": "June 22, 2026"
   },
   {
-    "headline": "Democrat-Controlled Denver School Board Forced To Fire Teacher After Kids Were Graded on Same-Sex Kissing Roleplays",
+    "headline": "Democrat VA Gov. Spanberger Appoints LGBT Activist Who Fought Girls’ Bathroom Protections From Male Intrusions for Virginia State Board Role",
     "tinyUrl": "https://tinyurl.com/yj3uh5n4",
     "xPostUrl": "https://x.com/C3Heditor/status/2069087815585894609",
     "imageUrl": "https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-06-22_105955.jpg",
@@ -40,7 +40,7 @@ const articles = [
     "batchDate": "June 22, 2026"
   },
   {
-    "headline": "Giants Baseball Players Accused of ‘DEFACING’ Their Uniforms With Bible Verses by Democrat Propaganda Publication, the San Francisco Chronicle",
+    "headline": "Georgia's SPLC-Funded Democrat Senator Ossoff Declines Comments About His Donors 'Pay-to-Play White Supremacy' Scandal",
     "tinyUrl": "https://tinyurl.com/342fucsw",
     "xPostUrl": "https://x.com/C3Heditor/status/2069088451509543224",
     "imageUrl": "https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-06-22_110216.jpg",
@@ -49,7 +49,7 @@ const articles = [
     "batchDate": "June 22, 2026"
   },
   {
-    "headline": "New York Democrat Government Hit With DOJ Fraud Lawsuit Over Its $10 Billion Medicaid Home Care Program",
+    "headline": "Wisconsin Democrat Governor Hopeful, Francesca Hong, Will Pursue Sanctuary State Policies",
     "tinyUrl": "https://tinyurl.com/29jpkxfe",
     "xPostUrl": "https://x.com/C3Heditor/status/2069089617299599797",
     "imageUrl": "https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-06-22_110705.jpg",
@@ -58,7 +58,7 @@ const articles = [
     "batchDate": "June 22, 2026"
   },
   {
-    "headline": "While Democrat Anti-Capitalists Protest SpaceX’s ‘No Trillionaires’, Over 4,000 Employees Become Millionaires, Even Welders",
+    "headline": "Most ICE Democrat Protesters Arrested at Newark's Delaney Hall Were Not Even From New Jersey",
     "tinyUrl": "https://tinyurl.com/ytsb48am",
     "xPostUrl": "https://x.com/C3Heditor/status/2069090194171519360",
     "imageUrl": "https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-06-22_110917.jpg",
@@ -67,7 +67,7 @@ const articles = [
     "batchDate": "June 22, 2026"
   },
   {
-    "headline": "The Democrat District Attorney Larry Krasner Is so Soft on Crime That Even Pennsylvania’s Dem Judges Have Had Enough",
+    "headline": "Michigan's Top Politics News Outlet Pressured To Kill Poll That Has Democrat Senate Candidate, Mallory McMorrow, With Only 6% Support",
     "tinyUrl": "https://tinyurl.com/445ct949",
     "xPostUrl": "https://x.com/C3Heditor/status/2069090686658338856",
     "imageUrl": "https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-06-22_111104.jpg",
@@ -76,7 +76,7 @@ const articles = [
     "batchDate": "June 22, 2026"
   },
   {
-    "headline": "Booted From Alaska’s Primary Ballot: Democrats’ Fake GOP ‘Sham’ Candidate Loses His Spot in the Race",
+    "headline": "Election Fraud Investigation Leads FBI to Raid a Soros-Connected Democrat Ohio Voter Mobilization Group",
     "tinyUrl": "https://tinyurl.com/44thevvd",
     "xPostUrl": "https://x.com/C3Heditor/status/2069092412564046093",
     "imageUrl": "https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-06-22_111451.jpg",
@@ -85,7 +85,7 @@ const articles = [
     "batchDate": "June 22, 2026"
   },
   {
-    "headline": "New Mexico’s Democrat Rep. Gabe Vasquez Exposed for Lavish Fake Wedding That Turns Out Not to Be a Legal Marriage",
+    "headline": "Texas James Talarico, Running for U.S. Senate, Claims Faith Bars Him Accepting 'Big Money' Influence but His Own Campaign Website Coordinates with Super PACS",
     "tinyUrl": "https://tinyurl.com/5avpmbrm",
     "xPostUrl": "https://x.com/C3Heditor/status/2069093073296953608",
     "imageUrl": "https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-06-22_112049.jpg",
@@ -94,7 +94,7 @@ const articles = [
     "batchDate": "June 22, 2026"
   },
   {
-    "headline": "Texas James Talarico, Running for U.S. Senate, Claims Faith Bars Him Accepting ‘Big Money’ Influence but His Own Campaign Website Coordinates with Super PACS",
+    "headline": "New Mexico's Democrat Rep. Gabe Vasquez Exposed for Lavish Fake Wedding That Turns Out Not to Be a Legal Marriage",
     "tinyUrl": "https://tinyurl.com/44k4wk4m",
     "xPostUrl": "https://x.com/C3Heditor/status/2069104956276142172",
     "imageUrl": "https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-06-22_120747.jpg",
@@ -103,7 +103,7 @@ const articles = [
     "batchDate": "June 22, 2026"
   },
   {
-    "headline": "Election Fraud Investigation Leads FBI to Raid a Soros-Connected Democrat Ohio Voter Mobilization Group",
+    "headline": "Booted From Alaska's Primary Ballot: Democrats' Fake GOP 'Sham' Candidate Loses His Spot in the Race",
     "tinyUrl": "https://tinyurl.com/3k6c73fe",
     "xPostUrl": "https://x.com/C3Heditor/status/2069105517285220816",
     "imageUrl": "https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-06-22_121007.jpg",
@@ -112,7 +112,7 @@ const articles = [
     "batchDate": "June 22, 2026"
   },
   {
-    "headline": "Michigan’s Top Politics News Outlet Pressured To Kill Poll That Has Democrat Senate Candidate, Mallory McMorrow, With Only 6% Support",
+    "headline": "The Democrat District Attorney Larry Krasner Is so Soft on Crime That Even Pennsylvania's Dem Judges Have Had Enough",
     "tinyUrl": "https://tinyurl.com/3mhpb722",
     "xPostUrl": "https://x.com/C3Heditor/status/2069106057792598275",
     "imageUrl": "https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-06-22_121222.jpg",
@@ -121,7 +121,7 @@ const articles = [
     "batchDate": "June 22, 2026"
   },
   {
-    "headline": "Most ICE Democrat Protesters Arrested at Newark’s Delaney Hall Were Not Even From New Jersey",
+    "headline": "While Democrat Anti-Capitalists Protest SpaceX's 'No Trillionaires', Over 4,000 Employees Become Millionaires, Even Welders",
     "tinyUrl": "https://tinyurl.com/w8ubjjn7",
     "xPostUrl": "https://x.com/C3Heditor/status/2069106767477235748",
     "imageUrl": "https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-06-22_121505.jpg",
@@ -130,7 +130,7 @@ const articles = [
     "batchDate": "June 22, 2026"
   },
   {
-    "headline": "Wisconsin Democrat Governor Hopeful, Francesca Hong, Will Pursue Sanctuary State Policies",
+    "headline": "New York Democrat Government Hit With DOJ Fraud Lawsuit Over Its $10 Billion Medicaid Home Care Program",
     "tinyUrl": "https://tinyurl.com/vwtrb46w",
     "xPostUrl": "https://x.com/C3Heditor/status/2069107782096179340",
     "imageUrl": "https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-06-22_121633.jpg",
@@ -139,7 +139,7 @@ const articles = [
     "batchDate": "June 22, 2026"
   },
   {
-    "headline": "Georgia’s SPLC-Funded Democrat Senator Ossoff Declines Comments About His Donors ‘Pay-to-Play White Supremacy’ Scandal",
+    "headline": "Giants Baseball Players Accused of 'DEFACING' Their Uniforms With Bible Verses by Democrat Propaganda Publication, the San Francisco Chronicle",
     "tinyUrl": "https://tinyurl.com/3ffhjcep",
     "xPostUrl": "https://x.com/C3Heditor/status/2069108421882728629",
     "imageUrl": "https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-06-22_122139.jpg",
@@ -148,7 +148,7 @@ const articles = [
     "batchDate": "June 22, 2026"
   },
   {
-    "headline": "Democrat VA Gov. Spanberger Appoints LGBT Activist Who Fought Girls’ Bathroom Protections From Male Intrusions for Virginia State Board Role",
+    "headline": "Democrat-Controlled Denver School Board Forced To Fire Teacher After Kids Were Graded on Same-Sex Kissing Roleplays",
     "tinyUrl": "https://tinyurl.com/79b73cf8",
     "xPostUrl": "https://x.com/C3Heditor/status/2069109046653694006",
     "imageUrl": "https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-06-22_122428.jpg",
@@ -157,7 +157,7 @@ const articles = [
     "batchDate": "June 22, 2026"
   },
   {
-    "headline": "Illegal Alien DACA Recipient Was Democrat-Activist Mastermind Behind Planned Drone Attack at White House’s 250 UFC Event",
+    "headline": "Top Federal Prosecutor Warns That Democrats In California Have Effectively 'Decriminalized Voter Fraud'",
     "tinyUrl": "https://tinyurl.com/59jrbfn6",
     "xPostUrl": "https://x.com/C3Heditor/status/2069109808603476406",
     "imageUrl": "https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-06-22_122711.jpg",
@@ -166,7 +166,7 @@ const articles = [
     "batchDate": "June 22, 2026"
   },
   {
-    "headline": "Democrats’ Open Border Policies Gave Arrested Illegal Alien Opportunity For Drone Attacks On FIFA World Cup Venues",
+    "headline": "DOJ Corruption Probe of California's Gov. Gavin Newsom Targets Behested Payments, Family Nonprofits, & Questions of Influence",
     "tinyUrl": "https://tinyurl.com/y63mmbfk",
     "xPostUrl": "https://x.com/C3Heditor/status/2069110471488119204",
     "imageUrl": "https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-06-22_122945.jpg",
@@ -175,7 +175,7 @@ const articles = [
     "batchDate": "June 22, 2026"
   },
   {
-    "headline": "Dem Rep. Sheila Cherfilus-McCormick Indicted on Federal Bribery Charges",
+    "headline": "Democrat-Radicals Build a Nationwide Armed Paramilitary Group Known As 'Red Rabbits'",
     "tinyUrl": "https://tinyurl.com/4rnzxmkv",
     "xPostUrl": "https://x.com/C3Heditor/status/2069111052499861870",
     "imageUrl": "https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-06-22_123205.jpg",
