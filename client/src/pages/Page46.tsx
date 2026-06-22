@@ -2,151 +2,151 @@ import PageHeader from '../components/PageHeader';
 import ArticleBlock from '../components/ArticleBlock';
 import Pagination from '../components/Pagination';
 
-export default function Page23() {
+export default function Page22() {
   return (
     <div className="max-w-4xl mx-auto px-4 py-16">
       <PageHeader />
       <ArticleBlock
-        headline="Why Democrats Election Fraud Will Continue: Because GOP RINOs Dog Parade Is More Important"
-        tinyUrl="https://tinyurl.com/474fjp99"
-        xPostUrl="https://x.com/C3Heditor/status/2027360575395704883"
-        imageSrc="https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/post200_clean_58000ae3.jpg"
-        tags={["Election Fraud"]}
+        headline="Democrats Mamdani and AOC Face Backlash for Urging Illegals to Enroll in Free NYC Programs"
+        tinyUrl="https://tinyurl.com/4n6sknny"
+        xPostUrl="https://x.com/C3Heditor/status/2028241245659701264"
+        imageSrc="https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/post220_clean_33a97db0.jpg"
+        tags={["Zohran Mamdani", "Alexandria Ocasio-Cortez", "NYC", "Immigration"]}
       />
       <ArticleBlock
-        headline="U.S. Democrat Senator Demands Photo ID at Rally But Rejects Voter Identification Requirements"
-        tinyUrl="https://tinyurl.com/yc3zj2m9"
-        xPostUrl="https://x.com/C3Heditor/status/2027358231408861662"
-        imageSrc="https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/post199_clean_0b1ece1f.jpg"
-        tags={["Jon Ossoff", "Election Fraud"]}
+        headline="Virginia Economics: Democrats Give Themselves a Raise While Refusing to Eliminate &lsquo;the Most Hated Tax&rsquo; in VA"
+        tinyUrl="https://tinyurl.com/4ff9sur3"
+        xPostUrl="https://x.com/C3Heditor/status/2028582248572658022"
+        imageSrc="https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/post219_clean_07a3c801.jpg"
+        tags={["Virginia", "Abigail Spanberger"]}
       />
       <ArticleBlock
-        headline="U.S. Senate &amp; RINOs Reject Poll Data: Two-Thirds of Americans Fear Election Machinery Fraud"
-        tinyUrl="https://tinyurl.com/uvmkt25t"
-        xPostUrl="https://x.com/C3Heditor/status/2027355614276374540"
-        imageSrc="https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/post198_clean_b86cba3b.jpg"
-        tags={["Election Fraud", "Polling"]}
+        headline="Special Needs 6th Grader Abandoned &amp; Forgotten by Democrats at a California Anti-ICE Walkout"
+        tinyUrl="https://tinyurl.com/mr2b2td6"
+        xPostUrl="https://x.com/C3Heditor/status/2028583283269746910"
+        imageSrc="https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/post218_clean_fc32b0e0.jpg"
+        tags={["CBP-DHS-ICE", "Education Policy", "Culture War", "Censorship"]}
       />
       <ArticleBlock
-        headline="Democrat-Financed ACLU Targets Ohio&#39;s Election Integrity Legislation for Complete Legal Dismantling"
-        tinyUrl="https://tinyurl.com/ncfkebzk"
-        xPostUrl="https://x.com/C3Heditor/status/2027353813711978841"
-        imageSrc="https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/post197_clean_6ff15c26.jpg"
-        tags={["Election Fraud"]}
+        headline="Canceling This Anti-Lefty Comedian Only Made Him Bigger — More Shows &amp; a Wave of New Fans"
+        tinyUrl="https://tinyurl.com/mup87mwn"
+        xPostUrl="https://x.com/C3Heditor/status/2028584065784308067"
+        imageSrc="https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/post217_clean_fbedf847.jpg"
+        tags={["Censorship"]}
       />
       <ArticleBlock
-        headline="Virginia Democrats Demand Three-Day Extension for Absentee Ballot Counting Window"
-        tinyUrl="https://tinyurl.com/38xvedy3"
-        xPostUrl="https://x.com/C3Heditor/status/2027352239061221607"
-        imageSrc="https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/post196_clean_5cfcb815.jpg"
-        tags={["Virginia", "Election Fraud"]}
+        headline="Democrats Are Angry People: New Poll Surfaces Suggesting Link Between Transgender Identity &amp; Shootings"
+        tinyUrl="https://tinyurl.com/4s2t6ecp"
+        xPostUrl="https://x.com/C3Heditor/status/2028585025525219730"
+        imageSrc="https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/post216_clean_c4b8d82a.jpg"
+        tags={["LGBTQ", "Violent Crime"]}
       />
       <ArticleBlock
-        headline="A Whole Lotta Truth Incoming: Trump Confronts Democrats in SOTU: &#39;These People Are Completely Crazy&#39;"
-        tinyUrl="https://tinyurl.com/bdh8pz7k"
-        xPostUrl="https://x.com/C3Heditor/status/2027157369310900324"
-        imageSrc="https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/post195_clean_e780ec6c.jpg"
-        tags={["State of the Union", "Presidential Remarks", "Politics"]}
+        headline="Single State of Union Moment Put Democrats On-The-Ropes For Midterm Elections"
+        tinyUrl="https://tinyurl.com/b43jyuee"
+        xPostUrl="https://x.com/C3Heditor/status/2028586459762999692"
+        imageSrc="https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/post215_clean_0cee0533.jpg"
+        tags={["State of the Union", "2026 Elections"]}
       />
       <ArticleBlock
-        headline="NY Suburban Democrat-Run School District Secretly Promoted Gender Transitions for Eighth-Grade Students"
-        tinyUrl="https://tinyurl.com/474hkrpt"
-        xPostUrl="https://x.com/C3Heditor/status/2027156191898468481"
-        imageSrc="https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/post194_clean_6796535d.jpg"
-        tags={["LGBTQ", "Education Policy", "Culture War"]}
+        headline="Illinois Democrat Governor Makes Shocking Comparison: Trump&#39;s America Worse Than Nazi Germany"
+        tinyUrl="https://tinyurl.com/mr8v2pe9"
+        xPostUrl="https://x.com/C3Heditor/status/2028587352998937030"
+        imageSrc="https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/post214_clean_feb22c07.jpg"
+        tags={["JB Pritzker", "COVID-19"]}
       />
       <ArticleBlock
-        headline="180 Degree Flip-Flop For Very Woke Democrat Newsom: Urges Democrats to Embrace Cultural Normalcy"
-        tinyUrl="https://tinyurl.com/bdfyf28b"
-        xPostUrl="https://x.com/C3Heditor/status/2027154235922497804"
-        imageSrc="https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/post193_clean_81dd2bb6.jpg"
-        tags={["Gavin Newsom", "Media Bias", "Election Fraud"]}
+        headline="The Liberal Left Progressive Imbeciles of Canada Made Their Resource Rich Nation Poorer Than Alabama"
+        tinyUrl="https://tinyurl.com/4cyfe987"
+        xPostUrl="https://x.com/C3Heditor/status/2028588850151309670"
+        imageSrc="https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/post213_clean_a0f15b13.jpg"
+        tags={["Business Climate", "Alabama", "Left-Wing"]}
       />
       <ArticleBlock
-        headline="Congressional Investigation into Somali Fraud Rings in Minnesota Gets Stonewalled by Democrat Gov. Walz"
-        tinyUrl="https://tinyurl.com/4ypwuh77"
-        xPostUrl="https://x.com/C3Heditor/status/2027153398005457386"
-        imageSrc="https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/post192_clean_3ab8f875.jpg"
-        tags={["Tim Walz", "Corruption-Fraud", "Feeding Our Future", "U.S. Congress"]}
+        headline="Live TV Moment: Reporter Catches Democrat LA Mayor Lying Outright About Pothole Repair Numbers"
+        tinyUrl="https://tinyurl.com/yrezkbu7"
+        xPostUrl="https://x.com/C3Heditor/status/2028589773674230243"
+        imageSrc="https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/post212_clean_9b659f23.jpg"
+        tags={["Karen Bass", "Los Angeles"]}
       />
       <ArticleBlock
-        headline="Sanctioned Voter Fraud: Democrat Board of Elections Worker Caught Admitting Non-Citizens Do Register"
-        tinyUrl="https://tinyurl.com/357u6s5k"
-        xPostUrl="https://x.com/C3Heditor/status/2027150718470148421"
-        imageSrc="https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/post191_clean_ba1b7e29.jpg"
-        tags={["Election Fraud", "New York"]}
+        headline="Blue State Democrat-Fascism: NY Teacher Punished Simply for Helping Students Form a TPUSA Club"
+        tinyUrl="https://tinyurl.com/362hhuwj"
+        xPostUrl="https://x.com/C3Heditor/status/2028590904332746955"
+        imageSrc="https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/post211_clean_45624606.jpg"
+        tags={["Unions", "Turning Point USA", "Culture War"]}
       />
       <ArticleBlock
-        headline="Democrat Competence - 15 Deaths Officially Attributed to Brutal Cold Snap by NYC Medical Examiner&#39;s Office"
-        tinyUrl="https://tinyurl.com/mvund7xa"
-        xPostUrl="https://x.com/C3Heditor/status/2027148489650524364"
-        imageSrc="https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/post190_clean_414a865b.jpg"
-        tags={["Corruption-Fraud", "NYC"]}
+        headline="Democrat-Psyop&#39;s Commentary Seen as Supporting Muslim Brotherhood Agenda"
+        tinyUrl="https://tinyurl.com/2mhudjtu"
+        xPostUrl="https://x.com/C3Heditor/status/2028592838213009878"
+        imageSrc="https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/post210_clean_4fc07e35.jpg"
+        tags={["Islam-Muslim", "Foreign Policy"]}
       />
       <ArticleBlock
-        headline="Visionary President Trump Confronts Democrat Party Addicted to Protests, Pandemonium &amp; Vitriol"
-        tinyUrl="https://tinyurl.com/mwtwzeey"
-        xPostUrl="https://x.com/C3Heditor/status/2027148858258497981"
-        imageSrc="https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/post189_clean_6e7bf002.jpg"
-        tags={["State of the Union", "Politics"]}
+        headline="Tax &amp; Spend Democrat Draws Fury for a $239M Plan to Give California&#39;s Worst Prison a Nordic Facelift"
+        tinyUrl="https://tinyurl.com/bp5ktz7f"
+        xPostUrl="https://x.com/C3Heditor/status/2028594128838070666"
+        imageSrc="https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/post209_clean_96587bef.jpg"
+        tags={["Gavin Newsom", "California"]}
       />
       <ArticleBlock
-        headline="Big Democrat Donor Begins His Apology Tour Over Close Epstein Ties: &#39;I Did Nothing Illicit or Criminal&#39;"
-        tinyUrl="https://tinyurl.com/3ctsn7t6"
-        xPostUrl="https://x.com/C3Heditor/status/2027143478107385982"
-        imageSrc="https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/post188_clean_9eaf344b.jpg"
-        tags={["Bill Gates", "Epstein"]}
+        headline="Voters Stunned: Democrats Sit Silent Through Victories: Cheap Gas, Less Crime, and Lives Saved"
+        tinyUrl="https://tinyurl.com/3pcj2x9j"
+        xPostUrl="https://x.com/C3Heditor/status/2028595282871521553"
+        imageSrc="https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/post208_clean_5eaded41.jpg"
+        tags={["State of the Union", "Violent Crime", "Gas Prices"]}
       />
       <ArticleBlock
-        headline="Democrats Reject Principle That U.S. Citizens Are The Govt&#39;s Priority Over Illegal Aliens"
-        tinyUrl="https://tinyurl.com/yucypkf8"
-        xPostUrl="https://x.com/C3Heditor/status/2027142389962346633"
-        imageSrc="https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/post187_clean_f25f5695.jpg"
-        tags={["State of the Union", "Immigration"]}
+        headline="Corruption by Demcorat: Nonprofit Boss Caught with Trunk Full of Jewelry Faces Felony Fraud Charges"
+        tinyUrl="https://tinyurl.com/4f8nz2kh"
+        xPostUrl="https://x.com/C3Heditor/status/2028596546896286070"
+        imageSrc="https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/post207_clean_c8fd4920.jpg"
+        tags={["San Francisco", "Homeless", "Corruption-Fraud"]}
       />
       <ArticleBlock
-        headline="Billionaire Democrat Candidate For CA Governor Tells Union He Supports Higher Corporate Taxes"
-        tinyUrl="https://tinyurl.com/3xrpd8az"
-        xPostUrl="https://x.com/C3Heditor/status/2027141430401957996"
-        imageSrc="https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/post186_clean_76589f19.jpg"
-        tags={["Tom Steyer", "California", "Taxation"]}
+        headline="Democrats In Action: California Budget Allocates $35 Million in Taxpayer Funds to Aid Illegal Aliens"
+        tinyUrl="https://tinyurl.com/y3dcfev7"
+        xPostUrl="https://x.com/C3Heditor/status/2028597094047416600"
+        imageSrc="https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/post206_clean_c5cd8d23.jpg"
+        tags={["California", "Gavin Newsom", "Immigration"]}
       />
       <ArticleBlock
-        headline="Virginia&#39;s New Democrat Governor&#39;s Affordability Pitch Crumbles Under Scrutiny of Her Own Record"
-        tinyUrl="https://tinyurl.com/53jxycea"
-        xPostUrl="https://x.com/C3Heditor/status/2027138644121637051"
-        imageSrc="https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/post185_clean_bf51a41e.jpg"
-        tags={["Abigail Spanberger", "Virginia", "Affordability", "State of the Union"]}
+        headline="Unaffordability by Democrats: Gov. Pritzker&#39;s Social Media Fee Faces Legal Feasibility Doubts"
+        tinyUrl="https://tinyurl.com/k59hued7"
+        xPostUrl="https://x.com/C3Heditor/status/2028598047735681463"
+        imageSrc="https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/post205_clean_b19a70c2.jpg"
+        tags={["JB Pritzker", "Illinois", "Alternative & Social Media"]}
       />
       <ArticleBlock
-        headline="Overwhelming 84% of Virginia Voters Support Second Amendment Rights, Including Democrats, New Poll Shows"
-        tinyUrl="https://tinyurl.com/26tub5ez"
-        xPostUrl="https://x.com/C3Heditor/status/2027136913572868103"
-        imageSrc="https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/post184_clean_9e5ea445.jpg"
-        tags={["Virginia", "Culture War", "Abigail Spanberger"]}
+        headline="Over Democrat Objections, English-Only CDL Exams Now Required for All Truckers Under New Mandate"
+        tinyUrl="https://tinyurl.com/4628snd6"
+        xPostUrl="https://x.com/C3Heditor/status/2028598756719960117"
+        imageSrc="https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/post204_clean_2e5fd90f.jpg"
+        tags={["Immigration", "Truck Driver Safety", "CBP-DHS-ICE"]}
       />
       <ArticleBlock
-        headline="Georgia Prosecutor Plotted Trump Case with Biden DOJ and Democrat J6 Committee, Records Show"
-        tinyUrl="https://tinyurl.com/2tkv2u77"
-        xPostUrl="https://x.com/C3Heditor/status/2027136261266288831"
-        imageSrc="https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/post183_clean_89b711e4.jpg"
-        tags={["Fani Willis", "DOJ", "January 6 Protest"]}
+        headline="Blue State Democrat-Fascism: Chicago Educator Terminated for Two-Word Pro-ICE Social Media Post, Files Lawsuit"
+        tinyUrl="https://tinyurl.com/2yz9d9wf"
+        xPostUrl="https://x.com/C3Heditor/status/2028599677638095074"
+        imageSrc="https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/post203_clean_89dbc6ac.jpg"
+        tags={["Education Policy", "CBP-DHS-ICE"]}
       />
       <ArticleBlock
-        headline="Economic Transformation Produced By Democrats: Wealthy Migrants Flooding Florida at Hourly Rate of $4 Million"
-        tinyUrl="https://tinyurl.com/yvj5r6xk"
-        xPostUrl="https://x.com/C3Heditor/status/2027134815732892146"
-        imageSrc="https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/post182_clean_929dbe4a.jpg"
-        tags={["Florida", "Business Climate"]}
+        headline="Democrat-Run Catholic Chicago University Is Actively Promoting Pro-Trans Books for Kids"
+        tinyUrl="https://tinyurl.com/bdjbvzp7"
+        xPostUrl="https://x.com/C3Heditor/status/2028600156124270811"
+        imageSrc="https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/post202_clean_fa0cd8ed.jpg"
+        tags={["Censorship", "LGBTQ"]}
       />
       <ArticleBlock
-        headline="Democrat Operative Confesses First Trump Impeachment Designed to Shield Biden from Investigators"
-        tinyUrl="https://tinyurl.com/2p8yhtc5"
-        xPostUrl="https://x.com/C3Heditor/status/2027133347474850289"
-        imageSrc="https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/post181_clean_950673af.jpg"
-        tags={["Norm Eisen", "Democrat Party", "Joe Biden", "Election Fraud"]}
+        headline="Cultural Diversity by Democrats: Illegal Alien on Expired Visa Gets 18 Years for Masterminding $15M Elder Scam"
+        tinyUrl="https://tinyurl.com/jfzsrpu2"
+        xPostUrl="https://x.com/C3Heditor/status/2028601013876187527"
+        imageSrc="https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/post201_clean_5aa0f3e9.jpg"
+        tags={["Corruption-Fraud", "Immigration", "Corruption-Fraud"]}
       />
-      <Pagination currentPage={46} totalPages={55} />
+      <Pagination currentPage={46} totalPages={56} />
     </div>
   );
 }
