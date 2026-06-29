@@ -2,151 +2,151 @@ import PageHeader from '../components/PageHeader';
 import ArticleBlock from '../components/ArticleBlock';
 import Pagination from '../components/Pagination';
 
-export default function Page21() {
+export default function Page20() {
   return (
     <div className="max-w-4xl mx-auto px-4 py-16">
       <PageHeader />
       <ArticleBlock
-        headline="Cutting The Democrat Bureaucracy: 250,000 Positions Cut As Trump Administration Reduces Federal Workforce"
-        tinyUrl="https://tinyurl.com/5b7sk5f3"
-        xPostUrl="https://x.com/C3Heditor/status/2028603510476947704"
-        imageSrc="https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/post240_clean_7746a7b3.jpg"
-        tags={["Federal Workforce"]}
+        headline="As Iranian Terrorism Risk Grows, Democrats Humiliate Themselves Over DHS Funding"
+        tinyUrl="https://tinyurl.com/mu8vpczb"
+        xPostUrl="https://x.com/C3Heditor/status/2036076639398867230"
+        imageSrc="https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/post260_clean_e8937bf7.jpg"
+        tags={["Iran", "CBP-DHS-ICE", "Homeland Security", "U.S. Congress"]}
       />
       <ArticleBlock
-        headline="Three Dem Senators Keep Putting Illegal Aliens Ahead of Their Own American Citizens"
-        tinyUrl="https://tinyurl.com/jzvufttj"
-        xPostUrl="https://x.com/C3Heditor/status/2028222260369109502"
-        imageSrc="https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/post239_clean_155caee9.jpg"
-        tags={["CBP-DHS-ICE", "Immigration", "U.S. Congress"]}
+        headline="Long-Time Democrat Hero Cesar Chavez Is Now Too Toxic Even For The Left Left As UFW Drops Him Over Sexual Misconduct Claims"
+        tinyUrl="https://tinyurl.com/465h8ekz"
+        xPostUrl="https://x.com/C3Heditor/status/2036073337521144300"
+        imageSrc="https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/post259_clean_e402b231.jpg"
+        tags={["Cesar Chavez", "Unions", "Sexual Misconduct"]}
       />
       <ArticleBlock
-        headline="Outrage Erupts After LA Confesses It Needs 270 Days Just to Fix a Single Streetlight"
-        tinyUrl="https://tinyurl.com/3jnscpaa"
-        xPostUrl="https://x.com/C3Heditor/status/2028223356944719912"
-        imageSrc="https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/post238_clean_6a76f79b.jpg"
-        tags={["Los Angeles", "Urban Decay"]}
+        headline="Left-Wing MA Governor Builds an Online Snitch Portal For Democrat Residents To Report ICE Agents"
+        tinyUrl="https://tinyurl.com/my5kf337"
+        xPostUrl="https://x.com/C3Heditor/status/2036071849067499702"
+        imageSrc="https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/post258_clean_84b30e64.jpg"
+        tags={["CBP-DHS-ICE", "Massachusetts", "Immigration"]}
       />
       <ArticleBlock
-        headline="CNN Staffers Are Panicking at the Prospect of Working Under a Trump-Friendly New Owner"
-        tinyUrl="https://tinyurl.com/49a72zjs"
-        xPostUrl="https://x.com/C3Heditor/status/2028224148825166269"
-        imageSrc="https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/post237_clean_f8c7e62f.jpg"
-        tags={["Media Bias"]}
+        headline="Elitist Democrat Senator Destroyed for Unhinged Reply When a Teenage Girl Fights to Keep Men Off Her Team"
+        tinyUrl="https://tinyurl.com/257vtznc"
+        xPostUrl="https://x.com/C3Heditor/status/2036070096158802026"
+        imageSrc="https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/post257_clean_b9e40df4.jpg"
+        tags={["Culture War", "LGBTQ"]}
       />
       <ArticleBlock
-        headline="Facing a Bloated Budget Gap, Maryland Democrats Eye Raiding the State Green Energy Fund"
-        tinyUrl="https://tinyurl.com/58ezbz5x"
-        xPostUrl="https://x.com/C3Heditor/status/2028224801790136483"
-        imageSrc="https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/post236_clean_2be68b89.jpg"
-        tags={["Government", "Wes Moore"]}
+        headline="VIP Seat-Stealing, Privileged-Democrat Texas Judge Gets Booted From the Rodeo for the Second Time"
+        tinyUrl="https://tinyurl.com/mwjuv7t9"
+        xPostUrl="https://x.com/C3Heditor/status/2036069232086077555"
+        imageSrc="https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/post256_clean_5e5fcb65.jpg"
+        tags={["Judiciary-Judicial"]}
       />
       <ArticleBlock
-        headline="Federal Contracts With Woke Anthropic AI Severed by the Trump Administration"
-        tinyUrl="https://tinyurl.com/5afx5dnu"
-        xPostUrl="https://x.com/C3Heditor/status/2028225587320402349"
-        imageSrc="https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/post235_clean_85f60c73.jpg"
-        tags={["Artificial Intelligence"]}
+        headline="Democrats Allowed Convicted ISIS Terrorist Back On Old Dominion University Campus To Kill"
+        tinyUrl="https://tinyurl.com/ykescbzw"
+        xPostUrl="https://x.com/C3Heditor/status/2036067085403504849"
+        imageSrc="https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/post255_clean_a2d0e1ea.jpg"
+        tags={["Censorship", "Foreign Policy", "Virginia"]}
       />
       <ArticleBlock
-        headline="Paramount Win: Vindictive Minority Democrat On Netflix Board Places Partisan CNN Hacks In Mortal Danger"
-        tinyUrl="https://tinyurl.com/mua3bp46"
-        xPostUrl="https://x.com/C3Heditor/status/2027772936556253588"
-        imageSrc="https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/post234_clean_41e61cce.jpg"
-        tags={["Susan Rice"]}
+        headline="For Years Democrats Have Blocked Armed Guards At Public Schools — Armed Security Just Stopped a Synagogue Massacre"
+        tinyUrl="https://tinyurl.com/mr2mzy5n"
+        xPostUrl="https://x.com/C3Heditor/status/2036064969620422978"
+        imageSrc="https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/post254_clean_414de325.jpg"
+        tags={["Israel", "Culture War", "Gun Control"]}
       />
       <ArticleBlock
-        headline="Storage Giant Becomes Latest Major Company Fleeing Democrat California&#39;s Hostile Business Climate"
-        tinyUrl="https://tinyurl.com/35ttcezk"
-        xPostUrl="https://x.com/C3Heditor/status/2028228421499711725"
-        imageSrc="https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/post233_clean_928ecd94.jpg"
-        tags={["California", "Texas", "Business Relocation"]}
+        headline="Why of course! Democrat Mayor Mamdani Believes A Critical Need For NYC Is Establishing A LGBTQIA+ Office"
+        tinyUrl="https://tinyurl.com/3b49ukf5"
+        xPostUrl="https://x.com/C3Heditor/status/2036063900655861835"
+        imageSrc="https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/post253_clean_ebd1ef33.jpg"
+        tags={["Zohran Mamdani", "LGBTQ", "New York"]}
       />
       <ArticleBlock
-        headline="Unhinged U.S. House Attempt to Shout Down Trump During State of Union Address Tuesday"
-        tinyUrl="https://tinyurl.com/2axfbzh6"
-        xPostUrl="https://x.com/C3Heditor/status/2028227690377916615"
-        imageSrc="https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/post232_clean_1c8d5d40.jpg"
-        tags={["Ilhan Omar", "Rashida Tlaib", "State of the Union"]}
+        headline="Congressional Democrat Hopeful Faces Major Scandal After a Jeopardy Contestant Accuses Him of Sexual Inappropriateness"
+        tinyUrl="https://tinyurl.com/2ctk8vnu"
+        xPostUrl="https://x.com/C3Heditor/status/2036059286829224164"
+        imageSrc="https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/post252_clean_82f872b7.jpg"
+        tags={["2026 Elections", "Sexual Misconduct", "Politics"]}
       />
       <ArticleBlock
-        headline="Democrat Activitsts Vandalize Kennedy Center in a Targeted Rage Attack Over Trump&#39;s Renaming"
-        tinyUrl="https://tinyurl.com/49pebjx3"
-        xPostUrl="https://x.com/C3Heditor/status/2028229048061595702"
-        imageSrc="https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/post231_clean_ea3a9360.jpg"
-        tags={["Vandalism", "Law Enforcement"]}
+        headline="Democrat-Run Sanctuary Seattle Moves to Widen Its Defiance of Federal Immigration Enforcement"
+        tinyUrl="https://tinyurl.com/4cxs86ud"
+        xPostUrl="https://x.com/C3Heditor/status/2036060117687255090"
+        imageSrc="https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/post251_clean_e112b443.jpg"
+        tags={["Washington", "Immigration"]}
       />
       <ArticleBlock
-        headline="Immigration By Democrats: ICE Detainers Filed Against Illegal Aliens Who Beat, Sodomized Victim In Home Invasion"
-        tinyUrl="https://tinyurl.com/5hzhybr5"
-        xPostUrl="https://x.com/C3Heditor/status/2028230077608009775"
-        imageSrc="https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/post230_clean_0eee56b1.jpg"
-        tags={["CBP-DHS-ICE", "North Carolina"]}
+        headline="Nancy Guthrie&#39;s Bumbling Democrat Sheriff Now Faces Being Fired by Outraged Arizona Locals"
+        tinyUrl="https://tinyurl.com/5yffkun2"
+        xPostUrl="https://x.com/C3Heditor/status/2036057266848157785"
+        imageSrc="https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/post250_clean_9de03aca.jpg"
+        tags={["Law Enforcement"]}
       />
       <ArticleBlock
-        headline="Three Democrat Area Michigan Public Schools Face Federal DOJ Scrutiny Over Gender Lessons and Bathrooms"
-        tinyUrl="https://tinyurl.com/r776fdpj"
-        xPostUrl="https://x.com/C3Heditor/status/2028231723423547456"
-        imageSrc="https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/post229_clean_ceaf6d1f.jpg"
-        tags={["DOJ", "Education Policy", "LGBTQ"]}
+        headline="Democrat LA Council Chief Who Wept Racism Over a Traffic Stop Exposed as a Colossal Hypocrite"
+        tinyUrl="https://tinyurl.com/3nc29evf"
+        xPostUrl="https://x.com/C3Heditor/status/2036058011983081631"
+        imageSrc="https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/post249_clean_69c77eec.jpg"
+        tags={["Los Angeles"]}
       />
       <ArticleBlock
-        headline="Better Than Democrat Fascism: CNN Fearmongers About Christian Nationalism"
-        tinyUrl="https://tinyurl.com/2s2vne6m"
-        xPostUrl="https://x.com/C3Heditor/status/2028233712337310185"
-        imageSrc="https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/post228_clean_d0930cf6.jpg"
-        tags={["Christianity", "Media Bias"]}
+        headline="Gay Democrat Mayor Faces &#39;Child Sex Crime&#39; Arrest in a Case That Is Rocking His Community"
+        tinyUrl="https://tinyurl.com/njv4m396"
+        xPostUrl="https://x.com/C3Heditor/status/2036055476526301510"
+        imageSrc="https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/post248_clean_2de8d659.jpg"
+        tags={["Chad-Alan Carr", "Sexual Misconduct", "Gettysburg Mayor", "LGBTQ"]}
       />
       <ArticleBlock
-        headline="It&#39;s The Case of Common Sense Versus Democrats&#39; Crazy Radical Agenda"
-        tinyUrl="https://tinyurl.com/5dcfm2ph"
-        xPostUrl="https://x.com/C3Heditor/status/2028234786821533969"
-        imageSrc="https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/post227_clean_48fd9b42.jpg"
-        tags={["State of the Union", "CBP-DHS-ICE", "Immigration"]}
+        headline="Democrat Diversity: FBI Busts 10 Indian Nationals for Running Armed Robberies as Cover for a Visa Fraud Ring"
+        tinyUrl="https://tinyurl.com/22b9kt5d"
+        xPostUrl="https://x.com/C3Heditor/status/2036048775580405848"
+        imageSrc="https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/post247_clean_b63ea258.jpg"
+        tags={["FBI", "Immigration"]}
       />
       <ArticleBlock
-        headline="Democrat State Medicaid Expenditures Explode Nationwide as Fraud Scandals Proliferate"
-        tinyUrl="https://tinyurl.com/3vw47xhx"
-        xPostUrl="https://x.com/C3Heditor/status/2028235890493940022"
-        imageSrc="https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/post226_clean_2f1d5314.jpg"
-        tags={["Corruption-Fraud", "Pennsylvania", "Corruption-Fraud"]}
+        headline="U.S. Senate Keep Ruining Air Travel for Everyone — Here Is the Clear and Simple Reason Why"
+        tinyUrl="https://tinyurl.com/3cy3b2y2"
+        xPostUrl="https://x.com/C3Heditor/status/2035838639108673822"
+        imageSrc="https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/post246_clean_cf5d7529.jpg"
+        tags={["CBP-DHS-ICE", "Homeland Security", "Chuck Schumer"]}
       />
       <ArticleBlock
-        headline="Unhinged Democrat Ugliness: Don Lemon&#39;s Wacky Rant Dismisses Patriotism as Tacky in Bewildering Commentary"
-        tinyUrl="https://tinyurl.com/2vakrebk"
-        xPostUrl="https://x.com/C3Heditor/status/2028236710908444877"
-        imageSrc="https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/post225_clean_bfd67684.jpg"
-        tags={["Don Lemon", "Patriotism"]}
+        headline="Democrat Partisan-Judge Attempts To Stop Investigation of Fed Chair&#39;s Incompetence"
+        tinyUrl="https://tinyurl.com/b2xcsmrp"
+        xPostUrl="https://x.com/C3Heditor/status/2035837803787907084"
+        imageSrc="https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/post245_clean_040638bf.jpg"
+        tags={["James Boasberg", "DOJ", "Democrat Party"]}
       />
       <ArticleBlock
-        headline="FOIA Requests About Obama&#39;s Temple Obstructed by Illinois/Chicago Democrat Bureaucrats"
-        tinyUrl="https://tinyurl.com/25m6cjf2"
-        xPostUrl="https://x.com/C3Heditor/status/2028238059372703968"
-        imageSrc="https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/post224_clean_9dad12bb.jpg"
-        tags={["Obama Presidential Center", "Illinois", "Government"]}
+        headline="Uber&#39;s Billionaire Co-Founder Joinsd the Growing Exodus Out of Democrat-Controlled California"
+        tinyUrl="https://tinyurl.com/4f7xwxsd"
+        xPostUrl="https://x.com/C3Heditor/status/2035836332279209991"
+        imageSrc="https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/post244_clean_2a6073fb.jpg"
+        tags={["Uber", "California", "Taxation"]}
       />
       <ArticleBlock
-        headline="Somali Women in Minnesota Seek Reparations From ICE for the Trauma of Enforcement"
-        tinyUrl="https://tinyurl.com/ykunrzbu"
-        xPostUrl="https://x.com/C3Heditor/status/2028226539372835234"
-        imageSrc="https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/post223_clean_ac6af1a4.jpg"
-        tags={["Islam-Muslim", "CBP-DHS-ICE", "Reparations", "Minnesota"]}
+        headline="Democats New-Wave Economist: Jemele Hill&#39;s Wild Claim That Blue Collar Jobs Are a Secret Plot to Keep Poor People Down"
+        tinyUrl="https://tinyurl.com/248sbd6j"
+        xPostUrl="https://x.com/C3Heditor/status/2035835698264084849"
+        imageSrc="https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/post243_clean_95dbe376.jpg"
+        tags={["Jemele Hill", "Blue Collar Jobs", "Economic Policy"]}
       />
       <ArticleBlock
-        headline="This Is Nation&#39;s Future If Democrats Win: A Revenge Purge the Moment They Manage to Reclaim Power"
-        tinyUrl="https://tinyurl.com/yte4ysaj"
-        xPostUrl="https://x.com/C3Heditor/status/2028238889626820663"
-        imageSrc="https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/post222_clean_8dd5be0e.jpg"
-        tags={["Susan Rice", "Judiciary-Judicial"]}
+        headline="A Prominent White Liberal Democrat&#39;s New Dream Is to Escape America for Super-White Switzerland"
+        tinyUrl="https://tinyurl.com/2xs5bf95"
+        xPostUrl="https://x.com/C3Heditor/status/2035833404374016452"
+        imageSrc="https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/post242_clean_ddfabc7b.jpg"
+        tags={["Left-Wing", "Politics"]}
       />
       <ArticleBlock
-        headline="Gotta Make BigPharma Happy: Democrat Newsom Hates MAHA When RFK Jr. Threatens Campaign Donors"
-        tinyUrl="https://tinyurl.com/28stvn27"
-        xPostUrl="https://x.com/C3Heditor/status/2028240323235684643"
-        imageSrc="https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/post221_clean_2e316f26.jpg"
-        tags={["Gavin Newsom", "COVID-19", "Healthcare Policy"]}
+        headline="Just How Revolting Are the Democrats? This Latest Episode Makes the Answer Brutally Clear"
+        tinyUrl="tinyurl.com/47k8uzbh"
+        xPostUrl="https://x.com/C3Heditor/status/2035832328514056513"
+        imageSrc="https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/post241_clean_b86ea5cb.jpg"
+        tags={["Immigration", "Corruption-Fraud", "Election Fraud"]}
       />
-      <Pagination currentPage={46} totalPages={57} />
+      <Pagination currentPage={46} totalPages={58} />
     </div>
   );
 }
