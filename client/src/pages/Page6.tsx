@@ -7,150 +7,150 @@ export default function Page2() {
       <PageHeader />
       <div className="space-y-12">
       <ArticleBlock
-        headline="Top Democrat Epstein Accuser Ro Khanna Humiliates Himself by Campaigning for Maine's Nazi Woman-Abuser Graham Platner"
-        tinyUrl="https://tinyurl.com/mr4xxyny"
-        xPostUrl="https://x.com/C3Heditor/status/2064103432957342004"
-        imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-06-08_165337_7e6f2119.jpg"
-        tags={["Ro Khanna", "Graham Platner", "Maine", "2026 Elections"]}
-      />
-      <ArticleBlock
-        headline="Another Texas Legislature Capitol Staffer Confirms Romantic Relationship With Democrat Senate Hopeful James Talarico"
-        tinyUrl="https://tinyurl.com/v9uhdpm3"
-        xPostUrl="https://x.com/C3Heditor/status/2064102737340453155"
-        imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-06-08_165051_06bc8c5e.jpg"
-        tags={["James Talarico", "Texas", "Sexual Misconduct", "2026 Elections"]}
-      />
-      <ArticleBlock
-        headline="Alarming New Poll Captures the Depth of Democrats' Hatred for Their Own Country"
-        tinyUrl="https://tinyurl.com/8wyymaz6"
-        xPostUrl="https://x.com/C3Heditor/status/2064101700181320071"
-        imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-06-08_164720_ff3769e1.jpg"
-        tags={["Democrat Party", "Politics", "Left-Wing", "Media Bias"]}
-      />
-      <ArticleBlock
-        headline="Democrat Al Green Loses It Completely - Screams 'SHUT up!' and Calls DHS Sec. Mullin a Racist"
-        tinyUrl="https://tinyurl.com/ysvxpdtp"
-        xPostUrl="https://x.com/C3Heditor/status/2064101132432032136"
-        imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-06-08_164437_a232a8a8.jpg"
-        tags={["Al Green", "Racial Issues", "Democrat Party"]}
-      />
-      <ArticleBlock
-        headline="Tax-Free Reparations for Blacks Demanded by California Democrat Tina McKinnor, Before Recipients Are Even Identified"
-        tinyUrl="https://tinyurl.com/2zeady9m"
-        xPostUrl="https://x.com/C3Heditor/status/2064100663395553566"
-        imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-06-08_164132_719c9fe3.jpg"
-        tags={["Tina McKinnor", "California", "Reparations", "Racial Issues"]}
-      />
-      <ArticleBlock
-        headline="Arizona Democrat Congressional Hopeful JoAnna Mendoza Backed Legalizing Prostitution to Benefit Trans People"
-        tinyUrl="https://tinyurl.com/57ach575"
-        xPostUrl="https://x.com/C3Heditor/status/2064099743324647563"
-        imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-06-08_163856_54447dd8.jpg"
-        tags={["JoAnna Mendoza", "Arizona", "LGBTQ", "2026 Elections"]}
-      />
-      <ArticleBlock
-        headline="U.S. House Candidate Iowa Democrat Lindsay James Issued Apology to Voters Simply for Being White"
-        tinyUrl="https://tinyurl.com/vf8pmxdn"
-        xPostUrl="https://x.com/C3Heditor/status/2064099216905896228"
-        imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-06-08_163555_ad7963b1.jpg"
-        tags={["Lindsay James", "Iowa", "Racial Issues", "2026 Elections"]}
-      />
-      <ArticleBlock
-        headline="In Democrat-Muslim Mayor Mamdani's NYC, Anti-Jewish Hate Crimes Surge 71 Percent, Now Average One Every 18 Hours"
-        tinyUrl="https://tinyurl.com/mws2hkt"
-        xPostUrl="https://x.com/C3Heditor/status/2064097423513809350"
-        imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-06-08_162951_3d420019.jpg"
-        tags={["Zohran Mamdani", "NYC", "Israel", "Hate"]}
-      />
-      <ArticleBlock
-        headline="Democrat Consultant James Carville Finally Tells the Truth: Democrat Hypocrisy Over Maine's U.S. Senate Candidate Graham Platner Is Very Real"
-        tinyUrl="https://tinyurl.com/ycx4w32x"
-        xPostUrl="https://x.com/C3Heditor/status/2064096934982234386"
-        imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-06-08_162747_2fa53abd.jpg"
-        tags={["James Carville", "Graham Platner", "Maine", "Politics"]}
-      />
-      <ArticleBlock
-        headline="Illegal Alien Detainees' Snack Sales Explode at NJ Delaney Hall as Democrats Push Hunger Strike Hoax"
-        tinyUrl="https://tinyurl.com/44nrd5z6"
-        xPostUrl="https://x.com/C3Heditor/status/2064096248332726436"
-        imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-06-08_162506_bd25445c.jpg"
-        tags={["New Jersey", "Immigration", "CBP-DHS-ICE", "Democrat Party"]}
-      />
-      <ArticleBlock
-        headline="Deep Democrat Ties of Obama Judge John J. McConnell Jr. Raise Red Flags After Trump Immigration Rules Are Tossed"
-        tinyUrl="https://tinyurl.com/mvf34anc"
-        xPostUrl="https://x.com/C3Heditor/status/2064095488240976364"
-        imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-06-08_162159_d1b00c44.jpg"
-        tags={["John J. McConnell Jr.", "Judiciary-Judicial", "Immigration", "Politics"]}
-      />
-      <ArticleBlock
-        headline="Chicago Bears Flee Incompetent Democrat-Run City for Red State Indiana in Major NFL Franchise Move"
-        tinyUrl="https://tinyurl.com/2wkx96pt"
-        xPostUrl="https://x.com/C3Heditor/status/2064094969149657418"
-        imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-06-08_161957_351dfd50.jpg"
-        tags={["Chicago", "Democrat Party", "Government"]}
-      />
-      <ArticleBlock
-        headline="California's Bad Policies &amp; High Costs Are Driving People Out of Democrats' One-Party Rule State at a Record Pace"
-        tinyUrl="https://tinyurl.com/yeu4m87f"
-        xPostUrl="https://x.com/C3Heditor/status/2064094357641154589"
-        imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-06-08_161742_700421c6.jpg"
+        headline="It's Agreed by All, California is America's 'Banana Republic'"
+        tinyUrl="https://tinyurl.com/y8mbn3r7"
+        xPostUrl="https://x.com/C3Heditor/status/2065510291371110591"
+        imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-06-12_110945_16b0bea4.jpg"
         tags={["California", "Democrat Party", "Government"]}
       />
       <ArticleBlock
-        headline="Top Wisconsin Democrat Governor Hopeful Francesca Hong Hit With Lawsuit Over Unpaid Credit Card Debt"
-        tinyUrl="https://tinyurl.com/59wvjmuh"
-        xPostUrl="https://x.com/C3Heditor/status/2064093510156906728"
-        imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-06-08_161417_1055cb96.jpg"
-        tags={["Francesca Hong", "Wisconsin", "Politics", "2026 Elections"]}
+        headline="Democrats Can't Even Run a Zoo Properly: The San Francisco Zoo Becomes the Latest Case Study in Dem Mismanagement &amp; Wasted Funds"
+        tinyUrl="https://tinyurl.com/ymtvx6ne"
+        xPostUrl="https://x.com/C3Heditor/status/2065509254941798548"
+        imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-06-12_139001_922d63a4.jpg"
+        tags={["California", "Government", "Democrat Party"]}
       />
       <ArticleBlock
-        headline="Outrage Erupts as Iowa Democrat Nate Willems Draws Comparison Between Real WWII D-Day Heroes and Radical-Left Antifa Thugs"
-        tinyUrl="https://tinyurl.com/jt2crk5a"
-        xPostUrl="https://x.com/C3Heditor/status/2064093048586285549"
-        imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-06-08_161218_341675e3.jpg"
-        tags={["Nate Willems", "Iowa", "Left-Wing", "2026 Elections"]}
+        headline="Blacks Will Quit Voting Unless They Get Reparation Payoffs Says Democrat House Rep. Summer Lee"
+        tinyUrl="https://tinyurl.com/3ufn2r3b"
+        xPostUrl="https://x.com/C3Heditor/status/2065507885753233665"
+        imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-06-12_135423_5866a5e6.jpg"
+        tags={["Summer Lee", "Reparations", "Racial Issues", "Democrat Party"]}
       />
       <ArticleBlock
-        headline="CT Democrat Senator Chris Murphy Exposed for Bankrolling Extremist Left-Wing Group Behind Anti-ICE Violence"
-        tinyUrl="https://tinyurl.com/a36sk352"
-        xPostUrl="https://x.com/C3Heditor/status/2064092473576608071"
-        imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-06-08_161007_c97e45d8.jpg"
-        tags={["Chris Murphy", "Connecticut", "Left-Wing", "CBP-DHS-ICE"]}
+        headline="Illegal Aliens Were Signed up to Vote in Democrat New Jersey Without Their Knowledge"
+        tinyUrl="https://tinyurl.com/fc3ptrp2"
+        xPostUrl="https://x.com/C3Heditor/status/2065507269849063429"
+        imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-06-12_135206_84a0d131.jpg"
+        tags={["New Jersey", "Immigration", "Election Fraud", "Democrat Party"]}
       />
       <ArticleBlock
-        headline="Democrat Congressional Candidate &amp; Squatter Kicked Out of Luxury NYC Manhattan Condo - Did Not Pay Rent"
-        tinyUrl="https://tinyurl.com/4hmtd8e9"
-        xPostUrl="Democrat Congressional Candidate & Squatter Kicked Out of Luxury NYC Manhattan Condo - Did Not Pay Rent"
-        imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-06-08_160643_60f0a40a.jpg"
-        tags={["NYC", "2026 Elections", "Politics", "Corruption-Fraud"]}
+        headline="Former NY Governor Democrat David Paterson Rips Fellow Dem Gov Kathy Hochul &amp; Others Over Their Partisan Redistricting Push"
+        tinyUrl="https://tinyurl.com/y7zcyre9"
+        xPostUrl="https://x.com/C3Heditor/status/2065505465040007407"
+        imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-06-12_134451_df74b913.jpg"
+        tags={["David Paterson", "Kathy Hochul", "New York", "2026 Elections"]}
       />
       <ArticleBlock
-        headline="After Failing Miserably On First Attempt, Arizona Democrat AG Kris Mayes Attempts Another Weaponization Indictment Against Trump's 2020 Election Team"
-        tinyUrl="https://tinyurl.com/mawp2z5n"
-        xPostUrl="https://x.com/C3Heditor/status/2064090770018046368"
-        imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-06-08_160334_21e79fed.jpg"
-        tags={["Kris Mayes", "Arizona", "Weaponization", "Election Fraud"]}
+        headline="Sexually Explicit Books Found In Candidate James Talarico's Church As Texas Democrat Attempts to Prove He's A Moderate"
+        tinyUrl="https://tinyurl.com/3xzdvrn5"
+        xPostUrl="https://x.com/C3Heditor/status/2065492821230940217"
+        imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-06-12_125441_5492b94e.jpg"
+        tags={["James Talarico", "Sexual Misconduct", "2026 Elections", "Texas"]}
       />
       <ArticleBlock
-        headline="Sexual Misconduct Probe Looms but California Democratic Rep. Jimmy Gomez Somehow Still Wins His Primary"
-        tinyUrl="https://tinyurl.com/44x8wwbe"
-        xPostUrl="https://x.com/C3Heditor/status/2064089707764494421"
-        imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-06-08_160014_f1e5e6cc.jpg"
-        tags={["Jimmy Gomez", "California", "Sexual Misconduct", "2026 Elections"]}
+        headline="MLK Jr.'s Niece, Dr. Alveda King, Blasts SPLC as Modern KKK &amp; Their Democrat Congressional Supporters"
+        tinyUrl="https://tinyurl.com/cbm7y84v"
+        xPostUrl="https://x.com/C3Heditor/status/2065492254546952498"
+        imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-06-12_125216_c264d270.jpg"
+        tags={["SPLC", "Racial Issues", "Democrat Party"]}
       />
       <ArticleBlock
-        headline="NBC's Oh-By-The-Way: It Casually Admits Mail-in Ballots Always Favor Democrats as Far-Left Los Angeles Candidate Surges"
-        tinyUrl="https://tinyurl.com/4xd6mssn"
-        xPostUrl="https://x.com/C3Heditor/status/2064088984863613219"
-        imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-06-08_155857_955938d3.jpg"
-        tags={["Media Bias", "Election Fraud", "California"]}
+        headline="Staffer for MI U.S. Senate Democrat Candidate Abdul El-Sayed Busted in Hamas-Linked Threat Plot Against Univ of Michigan Officials"
+        tinyUrl="https://tinyurl.com/26ymcpuv"
+        xPostUrl="https://x.com/C3Heditor/status/2065487802989482240"
+        imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-06-12_123453_90b79175.jpg"
+        tags={["Abdul El-Sayed", "Michigan", "Terrorism", "2026 Elections"]}
+      />
+      <ArticleBlock
+        headline="Men Are Abandoning Democrats and the Party's Cultural Disconnect Explains Exactly Why"
+        tinyUrl="https://tinyurl.com/yc5a427x"
+        xPostUrl="https://x.com/C3Heditor/status/2065487093023805543"
+        imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-06-12_123143_89ad24d7.jpg"
+        tags={["Democrat Party", "Politics", "2026 Elections"]}
+      />
+      <ArticleBlock
+        headline="Pressed on Illegal Foreign Donations for Democrats, ActBlue CEO Refuses To Cooperate"
+        tinyUrl="https://tinyurl.com/39wutf9f"
+        xPostUrl="https://x.com/C3Heditor/status/2065486385050513547"
+        imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-06-12_122859_44189727.jpg"
+        tags={["2026 Elections", "Immigration", "Corruption-Fraud", "Democrat Party"]}
+      />
+      <ArticleBlock
+        headline="Supporting Nazi-Misogynist Abuser Graham Platner Has Exposed Democrats as Pure 'Hypocrites,' CNN Panelist"
+        tinyUrl="https://tinyurl.com/yw43va4a"
+        xPostUrl="https://x.com/C3Heditor/status/2065485497456066894"
+        imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-06-12_122530_f9d4a5d0.jpg"
+        tags={["Graham Platner", "Media Bias", "Democrat Party", "Politics"]}
+      />
+      <ArticleBlock
+        headline="Democrats' Anti-ICE Campaign to Protect Open Borders &amp; Illegal Immigration an Epic Fail"
+        tinyUrl="https://tinyurl.com/pbn8m4jv"
+        xPostUrl="https://x.com/C3Heditor/status/2065483754194231784"
+        imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-06-12_121926_ac9076f3.jpg"
+        tags={["CBP-DHS-ICE", "Immigration", "Democrat Party"]}
+      />
+      <ArticleBlock
+        headline="Democrat-Muslim NYC Mayor Zohran Mamdani Pushes Dems to Embrace His Radical 'Abolish ICE' Message Nationwide"
+        tinyUrl="https://tinyurl.com/2txv5bdh"
+        xPostUrl="https://x.com/C3Heditor/status/2065482454601814030"
+        imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-06-12_121325_42d8c5f8.jpg"
+        tags={["Zohran Mamdani", "CBP-DHS-ICE", "Left-Wing", "NYC"]}
+      />
+      <ArticleBlock
+        headline="Illinois Democrats' New Budget Proposal Has Absurd Social Media Tax per Users - Clueless About Who or What They Are Actually Taxing"
+        tinyUrl="https://tinyurl.com/3mp8nw7w"
+        xPostUrl="https://x.com/C3Heditor/status/2065481666819223670"
+        imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-06-12_121015_9083a5d9.jpg"
+        tags={["Illinois", "Taxation", "Government", "Democrat Party"]}
+      />
+      <ArticleBlock
+        headline="Michigan Muslim Abdul El-Sayed Running For U.S. Senate Is Surging and Putting Establishment Democrats On Edge Regarding Anti-Semitism"
+        tinyUrl="https://tinyurl.com/mukcxdp7"
+        xPostUrl="https://x.com/C3Heditor/status/2065480264256499877"
+        imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-06-12_120205_a6b924d3.jpg"
+        tags={["Abdul El-Sayed", "Michigan", "Islam-Muslim", "Israel"]}
+      />
+      <ArticleBlock
+        headline="Democrat Staffers For Candidates Keep Censoring People Who Dare to Ask Legitimate Questions"
+        tinyUrl="https://tinyurl.com/2jpdub7n"
+        xPostUrl="https://x.com/C3Heditor/status/2065479088060375307"
+        imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-06-12_120004_006e88b4.jpg"
+        tags={["Democrat Party", "Politics", "2026 Elections"]}
+      />
+      <ArticleBlock
+        headline="Minnesota Democrats Tim Walz &amp; Keith Ellison Slammed in Report for Turning a Blind Eye to Their State's Massive Welfare Fraud"
+        tinyUrl="https://tinyurl.com/mr3m9dpr"
+        xPostUrl="https://x.com/C3Heditor/status/2065478185165131971"
+        imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-06-12_115155_fafb607b.jpg"
+        tags={["Tim Walz", "Keith Ellison", "Minnesota", "Corruption-Fraud"]}
+      />
+      <ArticleBlock
+        headline="Democrats, Graham Platner &amp; MSM Journalists Make It Clear: Believe All Women - Unless She Votes Republican"
+        tinyUrl="https://tinyurl.com/snydxx4f"
+        xPostUrl="https://x.com/C3Heditor/status/2065476052856508456"
+        imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-06-12_114550_3af96334.jpg"
+        tags={["Graham Platner", "Media Bias", "Politics"]}
+      />
+      <ArticleBlock
+        headline="Election Fraud on Steroids: Hard Evidence Points to an Extreme Lack of Integrity in the California Primary Process"
+        tinyUrl="https://tinyurl.com/6bdbn7kh"
+        xPostUrl="https://x.com/C3Heditor/status/2065474983468408971"
+        imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-06-12_114345_e2e74180.jpg"
+        tags={["California", "Election Fraud", "Politics"]}
+      />
+      <ArticleBlock
+        headline="Democrat Hypocrisy of 'Do As I Say, Not As I Do' is 24/7/365 Feature"
+        tinyUrl="https://tinyurl.com/583cxj77"
+        xPostUrl="https://x.com/C3Heditor/status/2065474378913952037"
+        imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-06-12_113718_0ddd9e22.jpg"
+        tags={["Democrat Party", "Politics", "Media Bias"]}
       />
       </div>
-      <Pagination currentPage={6} totalPages={57} />
+      <Pagination currentPage={6} totalPages={58} />
       {/* SITE STATS — auto-updated by batch_process.py. DO NOT edit manually. */}
       <p className="text-sm text-gray-500 mt-2" style={{fontFamily: 'Roboto Slab, serif'}}>
-        Last updated: <strong style={{ color: '#555' }}>June 8, 2026</strong> &nbsp;|&nbsp; Total articles: <strong style={{ color: '#555' }}>1040</strong>
+        Last updated: <strong style={{ color: '#555' }}>June 12, 2026</strong> &nbsp;|&nbsp; Total articles: <strong style={{ color: '#555' }}>1060</strong>
       </p>
     </div>
   );
