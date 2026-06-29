@@ -2,151 +2,151 @@ import PageHeader from '../components/PageHeader';
 import ArticleBlock from '../components/ArticleBlock';
 import Pagination from '../components/Pagination';
 
-export default function Page17() {
+export default function Page16() {
   return (
     <div className="max-w-4xl mx-auto px-4 py-16">
       <PageHeader />
       <ArticleBlock
-        headline="Even After All The Failed Billions In $$$ Expenditures, Democrats Still Believe That Throwing Money at Public Schools Will Fix the Literacy"
-        tinyUrl="https://tinyurl.com/zcnbdv2r"
-        xPostUrl="https://x.com/C3Heditor/status/2036795889918849461"
-        imageSrc="https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/2026-03-25_082347_dfe3daa9.jpg"
-        tags={["Government", "Education Policy"]}
+        headline="NYC Democrat Mayor Mamdani Pushes to Slash Estate Tax Exemption From $7M to $750K in Major Tax Hike"
+        tinyUrl="https://tinyurl.com/y4rbrsca"
+        xPostUrl="https://x.com/C3Heditor/status/2036921171321532503"
+        imageSrc="https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/2026-03-25_164140_c522a729.jpg"
+        tags={["Zohran Mamdani", "New York", "Taxation"]}
       />
       <ArticleBlock
-        headline="California Under Democrat Gov. Newsom Is Openly Looting Its Own Medicaid Program in Broad Daylight"
-        tinyUrl="https://tinyurl.com/2c36cs8t"
-        xPostUrl="https://x.com/C3Heditor/status/2036794652184265142"
-        imageSrc="https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/2026-03-25_081905_63c8b38a.jpg"
-        tags={["Gavin Newsom", "Corruption-Fraud"]}
+        headline="Democrats During Biden&#39;s Term Released At Least 729 Illegal Iranians Into The U.S.— how many are terrorists?"
+        tinyUrl="https://tinyurl.com/mstuyzsn"
+        xPostUrl="https://x.com/C3Heditor/status/2036920314240684119"
+        imageSrc="https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/2026-03-25_163740_620754c5.jpg"
+        tags={["Biden Administration", "Immigration", "CBP-DHS-ICE"]}
       />
       <ArticleBlock
-        headline="Democrats Move to Censure GOP Rep for Muslim Remarks While Cheering a U.S. Senate Hopeful Who Hates Whites"
-        tinyUrl="https://tinyurl.com/5dcvrf7r"
-        xPostUrl="https://x.com/C3Heditor/status/2036793961441071583"
-        imageSrc="https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/2026-03-25_081539_8688e5a5.jpg"
-        tags={["Election Fraud", "Islam-Muslim"]}
+        headline="Two Illegals Who Entered on Democraty Biden&#39;s Open Invite Arrested After a Florida Machete Attack"
+        tinyUrl="https://tinyurl.com/ym434vvu"
+        xPostUrl="https://x.com/C3Heditor/status/2036916320302780513"
+        imageSrc="https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/2026-03-25_162721_cff7b58a.jpg"
+        tags={["Immigration", "Florida", "Law Enforcement"]}
       />
       <ArticleBlock
-        headline="GOP Rep Exposes Democrat Biden Administration&#39;s DEI Spending That Included Making Federal Maps &#39;More Gay&#39;"
-        tinyUrl="https://tinyurl.com/bd9dwmz3"
-        xPostUrl="https://x.com/C3Heditor/status/2036792891545423937"
-        imageSrc="https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/2026-03-25_081126_f5145535.jpg"
-        tags={["Government", "Biden Administration", "Foreign Policy"]}
+        headline="Equity Hypocrisy: Obama&#39;s Chicago Center Recruits 100 Unpaid Volunteers While His Democrat Crony Collects a $740K Salary"
+        tinyUrl="https://tinyurl.com/9fxwfcau"
+        xPostUrl="https://x.com/C3Heditor/status/2036915142928027969"
+        imageSrc="https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/2026-03-25_161710_797cae1d.jpg"
+        tags={["Obama Presidential Center", "Valerie Jarrett"]}
       />
       <ArticleBlock
-        headline="California Democrats Breed AntiSemitic Hatred: These Thugs Had Plans"
-        tinyUrl="https://tinyurl.com/4ramw2cc"
-        xPostUrl="https://x.com/C3Heditor/status/2036791777366057358"
-        imageSrc="https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/2026-03-25_080820_7142a129.jpg"
-        tags={["Israel", "Hate"]}
+        headline="Democrat Economic Stupidity Beyond Comprehension: Governor Told Wealthy To Leave and Now Begs For Their Return"
+        tinyUrl="https://tinyurl.com/mupttvnc"
+        xPostUrl="https://x.com/C3Heditor/status/2036887009046737405"
+        imageSrc="https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/2026-03-25_142528_b79a9ea9.jpg"
+        tags={["Kathy Hochul", "New York", "Taxation", "Florida"]}
       />
       <ArticleBlock
-        headline="Democrats Want To Replace Blue-Collar Americans With Low-Wage Aliens Who Are Temporary-Protected-Status Holders"
-        tinyUrl="https://tinyurl.com/2v6dfzuk"
-        xPostUrl="https://x.com/C3Heditor/status/2036790125154210033"
-        imageSrc="https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/2026-03-25_080025_6c90bb27.jpg"
-        tags={["Blue-Collar Workers", "Immigration"]}
+        headline="Fear and Misery Are the Only Things the Democrat Party Has Left to Offer American Voters"
+        tinyUrl="https://tinyurl.com/yxkf77tw"
+        xPostUrl="https://x.com/C3Heditor/status/2036885768069697551"
+        imageSrc="https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/2026-03-25_142213_08962deb.jpg"
+        tags={["Homeland Security", "CBP-DHS-ICE"]}
       />
       <ArticleBlock
-        headline="After Israel Takes Him Out, NYT&#39;s Democrat Propagandist Nicholas Kristof Mourns Iranian Butcher as a Peace Partner"
-        tinyUrl="https://tinyurl.com/mwz3suyp"
-        xPostUrl="https://x.com/C3Heditor/status/2036787781750435853"
-        imageSrc="https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/2026-03-25_075121_b3028a0c.jpg"
-        tags={["Nicholas Kristof", "Iran", "Foreign Policy", "Politics"]}
+        headline="Nepo-Baby Nazi-Tattooed Dem Senate Candidate Decries \'Anti-Semitism,\' Claims \'Anti-Trans\' Agenda Cooked Up By \'Billionaires\'"
+        tinyUrl="https://tinyurl.com/yeu9exjr"
+        xPostUrl="https://x.com/C3Heditor/status/2036884964336095614"
+        imageSrc="https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/2026-03-25_141741_a4cca37e.jpg"
+        tags={["Graham Platner", "Maine", "Israel"]}
       />
       <ArticleBlock
-        headline="Democrat Shutdown Drives Out 450+ TSA Officers and Continues Chaos For Air Travelers"
-        tinyUrl="https://tinyurl.com/uapdb68t"
-        xPostUrl="https://x.com/C3Heditor/status/2036786302016782676"
-        imageSrc="https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/2026-03-25_074642_8b34b883.jpg"
-        tags={["CBP-DHS-ICE"]}
+        headline="Rapist Who Got His Stepdaughter Pregnant Could Walk Free Under Democrat Gov. Newsom&#39;s New Law"
+        tinyUrl="https://tinyurl.com/zmfmx6zr"
+        xPostUrl="https://x.com/C3Heditor/status/2036879876037189632"
+        imageSrc="https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/2026-03-25_135751_561db0ee.jpg"
+        tags={["Gavin Newsom"]}
       />
       <ArticleBlock
-        headline="Democrat Mayor Mamdani&#39;s Embrace of Extremism Is Normalizing Radicalism in Post-9/11 NYC"
-        tinyUrl="https://tinyurl.com/t8vjrjnt"
-        xPostUrl="https://x.com/C3Heditor/status/2036784693526270213"
-        imageSrc="https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/2026-03-25_073850_a83459db.jpg"
-        tags={["Zohran Mamdani", "New York"]}
+        headline="U.S. House Drops a Report Documenting How Democrat-Run American Colleges Have Become Antisemitic Hotbeds"
+        tinyUrl="https://tinyurl.com/4sw54t4m"
+        xPostUrl="https://x.com/C3Heditor/status/2036878957501440335"
+        imageSrc="https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/2026-03-25_135322_88d85182.jpg"
+        tags={["Censorship"]}
       />
       <ArticleBlock
-        headline="Result of Democrat Immigration Policies: 4 MS-13 Illegal Aliens Indicted for Murdering a 14-Year-Old"
-        tinyUrl="https://tinyurl.com/2mnjxx6m"
-        xPostUrl="https://x.com/C3Heditor/status/2036783286073090515"
-        imageSrc="https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/2026-03-25_073314_8aa56b81.jpg"
-        tags={["Immigration", "Violent Crime"]}
+        headline="Democrat Partisan-Judge Frees a 4-Time-Deported MS-13 Gang Member With a Documented Rape History"
+        tinyUrl="https://tinyurl.com/vzmurw8c"
+        xPostUrl="https://x.com/C3Heditor/status/2036877354601992250"
+        imageSrc="https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/2026-03-25_134657_7ed73425.jpg"
+        tags={["Violent Crime", "CBP-DHS-ICE", "Judiciary-Judicial"]}
       />
       <ArticleBlock
-        headline="No One Is Surprised, Except Democrats - Every Recent Terrorist Attack in America Shares One Unmistakable Common Thread"
-        tinyUrl="https://tinyurl.com/39e4nwh8"
-        xPostUrl="https://x.com/C3Heditor/status/2036781152392892762"
-        imageSrc="https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/2026-03-25_072443_e1f39a31.jpg"
-        tags={["Terrorism", "Immigration"]}
+        headline="Stuck-On-Stupid: Democrat AZ Governor Works to Undermine a Conservative &amp; Successful, PETA-Pleasing Conservation Win"
+        tinyUrl="https://tinyurl.com/yu9u45cn"
+        xPostUrl="https://x.com/C3Heditor/status/2036846215875137991"
+        imageSrc="https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/2026-03-25_114322_1a8f166a.jpg"
+        tags={["Arizona"]}
       />
       <ArticleBlock
-        headline="Feds Challenge School District Run by Democrats That Is Handing Girls&#39; Sports Slots to Trans Athletes"
-        tinyUrl="https://tinyurl.com/2ykzd3wa"
-        xPostUrl="https://x.com/C3Heditor/status/2036779671078007129"
-        imageSrc="https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/2026-03-25_071929_dd51c78c.jpg"
-        tags={["LGBTQ", "Culture War", "Education Policy"]}
+        headline="Minnesota Democrats Pass Harsh Gun Laws After Silencing the State&#39;s Largest Gun Rights Group"
+        tinyUrl="https://tinyurl.com/4w34nv94"
+        xPostUrl="https://x.com/C3Heditor/status/2036844792278061400"
+        imageSrc="https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/2026-03-25_113736_320c4523.jpg"
+        tags={["Gun Control", "Culture War", "Minnesota"]}
       />
       <ArticleBlock
-        headline="Democrats&#39; Gun Control&#39;s True Endgame Has Always Been Stripping Every Last American of Every Gun"
-        tinyUrl="https://tinyurl.com/2zus86mp"
-        xPostUrl="https://x.com/C3Heditor/status/2036778351868719424"
-        imageSrc="https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/2026-03-25_071333_da618782.jpg"
-        tags={["Gun Control", "CBP-DHS-ICE"]}
+        headline="Result of Democrats&#39; Immigration Policies: Texas Bar Shooter&#39;s Home Harbored a Full Iran Shrine With Regime Flags &amp; Leader Photos"
+        tinyUrl="https://tinyurl.com/628es7cn"
+        xPostUrl="https://x.com/C3Heditor/status/2036842656542712313"
+        imageSrc="https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/2026-03-25_112944_03980320.jpg"
+        tags={["Violent Crime", "Iran", "Immigration", "Terrorism"]}
       />
       <ArticleBlock
-        headline="53 U.S. House Vote to Erase Iran&#39;s Official Terror Sponsor Designation"
-        tinyUrl="https://tinyurl.com/2hu3s9s8"
-        xPostUrl="https://x.com/C3Heditor/status/2036777387543671060"
-        imageSrc="https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/2026-03-25_071002_a1cf1f39.jpg"
-        tags={["Iran", "Election Fraud", "Alexandria Ocasio-Cortez", "Ilhan Omar"]}
+        headline="Hidden Camera Footage Blows the Lid Off a Deliberate California Democrat Election Fraud Operation"
+        tinyUrl="https://tinyurl.com/4d2xx5tu"
+        xPostUrl="https://x.com/C3Heditor/status/2036841871352254522"
+        imageSrc="https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/2026-03-25_112602_7f9d616b.jpg"
+        tags={["Election Fraud", "California"]}
       />
       <ArticleBlock
-        headline="Homeless Man In Democrat-Run California Chases Down a Mother and Daughter Before Savagely Beating Them Both"
-        tinyUrl="https://tinyurl.com/apxxbxny"
-        xPostUrl="https://x.com/C3Heditor/status/2036776023920869553"
-        imageSrc="https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/2026-03-25_070607_18db9c48.jpg"
-        tags={["Violent Crime", "Public Safety"]}
+        headline="Democrat Senate Hopeful Peddled Left-Wing Politics on Sixth Graders While a School Teacher"
+        tinyUrl="https://tinyurl.com/8xa59be2"
+        xPostUrl="https://x.com/C3Heditor/status/2036840957161718199"
+        imageSrc="https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/2026-03-25_112337_310e1af2.jpg"
+        tags={["James Talarico", "Texas", "Education Policy", "Culture War"]}
       />
       <ArticleBlock
-        headline="Minneapolis Mayor Tells Trump to Hire More TSA — Oblivious That the Dem Shutdown Bars That"
-        tinyUrl="https://tinyurl.com/3mp62wj5"
-        xPostUrl="https://x.com/C3Heditor/status/2036566666466009452"
-        imageSrc="https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/2026-03-24_171220_bacdc39f.jpg"
-        tags={["Jacob Frey", "Government", "CBP-DHS-ICE"]}
+        headline="VA Democrat Concedes His Party&#39;s Election Rigging Plan for Virginians Is Wrong — Yet Backs It"
+        tinyUrl="https://tinyurl.com/yfbjh7fh"
+        xPostUrl="https://x.com/C3Heditor/status/2036839826041782517"
+        imageSrc="https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/2026-03-25_111821_d1a12857.jpg"
+        tags={["Virginia", "Election Fraud", "Democrat Party", "Politics"]}
       />
       <ArticleBlock
-        headline="Irresponsible Democrats Stopping America&#39;s Primary National Security Department Efforts While Simultaneously Blaming Trump for Terror Threats"
-        tinyUrl="https://tinyurl.com/38bmjtr9"
-        xPostUrl="https://x.com/C3Heditor/status/2036564997032259851"
-        imageSrc="https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/2026-03-24_170619_b2023e02.jpg"
-        tags={["Terrorism", "CBP-DHS-ICE", "Hakeem Jeffries"]}
+        headline="Even In Democrat One-Party California Children Have Free Speech Rights To Say &#39;All Lives Matter&#39;"
+        tinyUrl="https://tinyurl.com/4uxw4tsm"
+        xPostUrl="https://x.com/C3Heditor/status/2036838338858999992"
+        imageSrc="https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/2026-03-25_111208_ccccfd14.jpg"
+        tags={["California", "Censorship", "Culture War"]}
       />
       <ArticleBlock
-        headline="Biden Released the Illegal Alien who Murdered Student in Chicago and Democrat Gov. JB Pritzker Blames Trump"
-        tinyUrl="https://tinyurl.com/ms6h2m83"
-        xPostUrl="https://x.com/C3Heditor/status/2036562963298181373"
-        imageSrc="https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/2026-03-24_165803_2056e54d.jpg"
-        tags={["Joe Biden", "JB Pritzker", "Violent Crime", "Immigration"]}
+        headline="Americans Favor an Age Cap for Lawmakers as Democrats Quietly Seethe Over Maxine Waters Running at 87"
+        tinyUrl="https://tinyurl.com/y7at77mn"
+        xPostUrl="https://x.com/C3Heditor/status/2036837472642986351"
+        imageSrc="https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/2026-03-25_110846_e1d37834.jpg"
+        tags={["Maxine Waters"]}
       />
       <ArticleBlock
-        headline="Taxpayer Funds of $400M for Democrats&#39; NYC &#39;Ghost&#39; Schools That Were Never Opened"
-        tinyUrl="https://tinyurl.com/2u6aepj5"
-        xPostUrl="https://x.com/C3Heditor/status/2036560519038116126"
-        imageSrc="https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/2026-03-24_164820_11c79443.jpg"
-        tags={["Education Policy", "Taxation"]}
+        headline="Another Democrat Illegal Alien: Tren de Aragua&#39;s Leader &#39;El Turko&#39; Nabbed in LA on Murder &amp; Kidnapping Charges"
+        tinyUrl="https://tinyurl.com/3xxj5j5v"
+        xPostUrl="https://x.com/C3Heditor/status/2036804509826257374"
+        imageSrc="https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/2026-03-25_085737_fb4d6209.jpg"
+        tags={["Immigration", "Los Angeles", "Violent Crime"]}
       />
       <ArticleBlock
-        headline="Arizona Democrat Senator Tried Lying About Trump and Iran on CNN — the Host Castrates His Story on Air"
-        tinyUrl="https://tinyurl.com/bdfktbs6"
-        xPostUrl="https://x.com/C3Heditor/status/2036559291315003502"
-        imageSrc="https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/2026-03-24_164338_0efb57c9.jpg"
-        tags={["Mark Kelly", "Iran", "Media Bias"]}
+        headline="Democrat Incompetence or Purposeful? Los Angeles Exposed for Running a Massive Hospice Fraud Scheme"
+        tinyUrl="https://tinyurl.com/r5znwpm2"
+        xPostUrl="https://x.com/C3Heditor/status/2036803605467185303"
+        imageSrc="https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/2026-03-25_085401_1bfba604.jpg"
+        tags={["Los Angeles", "Corruption-Fraud", "Government", "Democrat Party"]}
       />
-      <Pagination currentPage={42} totalPages={57} />
+      <Pagination currentPage={42} totalPages={58} />
     </div>
   );
 }
