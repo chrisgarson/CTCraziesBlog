@@ -121,7 +121,7 @@ const articles = [
     "batchDate": "June 29, 2026"
   },
   {
-    "headline": "California Democrats Vote to Spike Healthcare Premiums by 97 Percent - Pays for Illegals Free Healthcare",
+    "headline": "California Democrats Vote to Increase Healthcare Premiums by 97 Percent - Increase Pays for Illegals' Free Healthcare",
     "tinyUrl": "https://tinyurl.com/2ektbspu",
     "xPostUrl": "https://x.com/C3Heditor/status/2071690461253664869",
     "imageUrl": "https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-06-29_152047.jpg",
