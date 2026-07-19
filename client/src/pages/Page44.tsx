@@ -11,7 +11,7 @@ export default function Page15() {
         tinyUrl="https://tinyurl.com/ymtd8vnh"
         xPostUrl="https://x.com/C3Heditor/status/2037173763578515583"
         imageSrc="https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/2026-03-26_092459_7d104b92.jpg"
-        tags={["Minnesota"]}
+        tags={["Minnesota", "Corruption-Fraud"]}
       />
       <ArticleBlock
         headline="In Democrat-Run Arizona, Mexican Illegal Alien Teen Kills A Beloved Grandma But only Gets a Slap-on-the-Wrist Sentence"
@@ -74,7 +74,7 @@ export default function Page15() {
         tinyUrl="https://tinyurl.com/y2s4dwsy"
         xPostUrl="https://x.com/C3Heditor/status/2037149461219049747"
         imageSrc="https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/2026-03-26_074813_4da62b7e.jpg"
-        tags={["Violent Crime"]}
+        tags={["Violent Crime", "LGBTQ"]}
       />
       <ArticleBlock
         headline="California Democrat Introduces a Bill to Officially Add Two New Muslim State Holidays"
@@ -130,7 +130,7 @@ export default function Page15() {
         tinyUrl="https://tinyurl.com/3brhaae2"
         xPostUrl="https://x.com/C3Heditor/status/2036926898324869401"
         imageSrc="https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/2026-03-25_170408_d4698020.jpg"
-        tags={["Energy Policy"]}
+        tags={["Energy Policy", "U.S. Congress"]}
       />
       <ArticleBlock
         headline="Woke Women Are Twerking on ICE Agents to Defend Gang Members — Welcome to Democrats&#39; Clown World 2026"
