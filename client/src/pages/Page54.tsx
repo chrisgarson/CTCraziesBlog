@@ -39,21 +39,21 @@ export default function Page25() {
         tinyUrl="https://tinyurl.com/3mw49t66"
         xPostUrl="https://x.com/C3Heditor/status/2026057776766632074"
         imageSrc="https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/post156_clean_373d2e1f.jpg"
-        tags={["JB Pritzker", "Democrat Party"]}
+        tags={["JB Pritzker", "Illinois"]}
       />
       <ArticleBlock
         headline="The Woes of A Democrat-Psyop Podcaster"
         tinyUrl="https://tinyurl.com/yfmhyntr"
         xPostUrl="https://x.com/C3Heditor/status/2026059115420606886"
         imageSrc="https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/post155_clean_11a8b7f4.jpg"
-        tags={[]}
+        tags={["Media Bias", "Politics"]}
       />
       <ArticleBlock
         headline="Stunning ABC Poll: Americans Back Trump Over Democrats in Every Single Category"
         tinyUrl="https://tinyurl.com/58mh2wbv"
         xPostUrl="https://x.com/C3Heditor/status/2026060066600747260"
         imageSrc="https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/post154_clean_d06496b8.jpg"
-        tags={["Polling"]}
+        tags={["Polling", "Patriotism", "Politics"]}
       />
       <ArticleBlock
         headline="GOP Senator Encourages Republicans To Keep The MIC Open For Democrat AOC"
@@ -81,14 +81,14 @@ export default function Page25() {
         tinyUrl="https://tinyurl.com/4shjssf6"
         xPostUrl="https://x.com/C3Heditor/status/2026283015295381942"
         imageSrc="https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/post150_clean_8eda39b7.jpg"
-        tags={["January 6 Protest"]}
+        tags={["January 6 Protest", "Politics"]}
       />
       <ArticleBlock
         headline="Democrat Katie Porter&#39;s Profanity-Drenched Anti-Trump Tirade Crashes and Burns Spectacularly"
         tinyUrl="https://tinyurl.com/bdecxmfr"
         xPostUrl="https://x.com/C3Heditor/status/2026284050604757426"
         imageSrc="https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/post149_clean_4e951bff.jpg"
-        tags={["Katie Porter", "Democrat Party", "Politics"]}
+        tags={["Katie Porter", "Politics"]}
       />
       <ArticleBlock
         headline="NY&#39;s Democrat Gov. Hochul&#39;s Admin Shields Medicaid Fraudsters While Bleeding New York&#39;s Rural Hospitals Dry"
@@ -144,7 +144,7 @@ export default function Page25() {
         tinyUrl="https://tinyurl.com/fxa3cxyy"
         xPostUrl="https://x.com/C3Heditor/status/2026294095946092876"
         imageSrc="https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/post141_clean_7a7d815c.jpg"
-        tags={["Assassination"]}
+        tags={["Assassination", "Politics"]}
       />
       <Pagination currentPage={54} totalPages={61} />
     </div>
