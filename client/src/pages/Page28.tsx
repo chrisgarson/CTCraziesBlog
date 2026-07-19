@@ -39,7 +39,7 @@ export default function Home() {
         tinyUrl="https://tinyurl.com/ywxbnyb8"
         xPostUrl="https://x.com/C3Heditor/status/2046706849748074888"
         imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/jOVQZhrZddWOtRiP.jpg"
-        tags={["Hasan Piker"]}
+        tags={["Hasan Piker", "Racial Issues"]}
       />
             <ArticleBlock
         headline="Hasan Piker Called For Sen. Rick Scott&#39;s Death — And Scott Reminds All: &quot;This Is The Democrat Party&quot;"
@@ -60,14 +60,14 @@ export default function Home() {
         tinyUrl="https://tinyurl.com/bd589d4u"
         xPostUrl="https://x.com/C3Heditor/status/2046702473075630325"
         imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/mOZoMpkNRWQdjwFK.jpg"
-        tags={["Retail Crime"]}
+        tags={["Retail Crime", "Left-Wing"]}
       />
             <ArticleBlock
         headline="Priced Out Of Their Own Cities: Large Homes In These 10 Large Democrat-Run Cities Now Unaffordable"
         tinyUrl="https://tinyurl.com/354n38tj"
         xPostUrl="https://x.com/C3Heditor/status/2046701760207548641"
         imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/UyLgGCrzKgGSDnoG.jpg"
-        tags={["Housing"]}
+        tags={["Housing", "CBP-DHS-ICE", "Foreign Policy"]}
       />
             <ArticleBlock
         headline="Philadelphia&#39;s Democrat Mayor Lashes Out At Uber & Lyft For Pushing Back On Her Tax on Their Services"
@@ -102,7 +102,7 @@ export default function Home() {
         tinyUrl="https://tinyurl.com/5n6tk6mn"
         xPostUrl="https://x.com/C3Heditor/status/2046697816492282044"
         imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/JebOkUKtIulGxafl.jpg"
-        tags={["Karen Bass"]}
+        tags={["Karen Bass", "Los Angeles", "California"]}
       />
             <ArticleBlock
         headline="After Smearing FBI Director Kash Patel, Democrat Party Mouthpiece, The Atlantic, Actually Compares Modern America To Nazi-Occupied France"
@@ -123,7 +123,7 @@ export default function Home() {
         tinyUrl="https://tinyurl.com/yteamsv7"
         xPostUrl="https://x.com/C3Heditor/status/2046695317823737873"
         imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/dPezGKlIJZLpeHaj.jpg"
-        tags={["Election Fraud"]}
+        tags={["Election Fraud", "Corruption-Fraud", "2026 Elections"]}
       />
             <ArticleBlock
         headline="Swalwell Pal, Married Democrat Rep. Gomez, Accused Of Sexual Harassment of Young Staffer"
@@ -144,7 +144,7 @@ export default function Home() {
         tinyUrl="https://tinyurl.com/484u7pnh"
         xPostUrl="https://x.com/C3Heditor/status/2046692533510475977"
         imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/SjPqHNfSyUnfXpWQ.jpg"
-        tags={["John Fetterman", "Israel", "Democrat Party", "Graham Platner"]}
+        tags={["John Fetterman", "Israel", "Graham Platner"]}
       />
 
       <Pagination currentPage={28} totalPages={61} />
