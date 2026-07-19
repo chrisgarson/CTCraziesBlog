@@ -32,14 +32,14 @@ export default function Page18() {
         tinyUrl="https://tinyurl.com/47ncpf37"
         xPostUrl="https://x.com/C3Heditor/status/2036521586858270804"
         imageSrc="https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/post297_clean_6b6e6c0c.jpg"
-        tags={["DOJ", "FBI", "Democrat Party"]}
+        tags={["DOJ", "FBI"]}
       />
       <ArticleBlock
         headline="Preserving My Sanity Required Walking Away From California&#39;s Democrat Party for Good"
         tinyUrl="https://tinyurl.com/2s4bfj5j"
         xPostUrl="https://x.com/C3Heditor/status/2036445329093173578"
         imageSrc="https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/post296_clean_7868587f.jpg"
-        tags={["California", "Silicon Valley", "Democrat Party"]}
+        tags={["California", "Silicon Valley"]}
       />
       <ArticleBlock
         headline="Lies Are 2nd Nature For Democrats: Congressional Staffer Falsely Claimed to Be an Immigration Attorney on 11  Occasions"
@@ -60,21 +60,21 @@ export default function Page18() {
         tinyUrl="https://tinyurl.com/3tkcakh5"
         xPostUrl="https://x.com/C3Heditor/status/2036441408341680260"
         imageSrc="https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/post293_clean_94d805d4.jpg"
-        tags={["CBP-DHS-ICE"]}
+        tags={["CBP-DHS-ICE", "Immigration", "Law Enforcement"]}
       />
       <ArticleBlock
         headline="A Texas Democrat Congressional Candidate: Made denigrating comments about male homosexuals"
         tinyUrl="https://tinyurl.com/f6a25s95"
         xPostUrl="https://x.com/C3Heditor/status/2036440121323696532"
         imageSrc="https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/post292_clean_3e3ff4e9.jpg"
-        tags={["Texas"]}
+        tags={["Texas", "U.S. Congress", "2026 Elections"]}
       />
       <ArticleBlock
         headline="Trump Prosecutors Keep Getting Tossed by Federal Democrat-Partisan Judges, Stoking Judicial Impartiality Concerns"
         tinyUrl="https://tinyurl.com/mpssves2"
         xPostUrl="https://x.com/C3Heditor/status/2036438367106375787"
         imageSrc="https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/post291_clean_e3d6f296.jpg"
-        tags={["Judiciary-Judicial"]}
+        tags={["Judiciary-Judicial", "Politics"]}
       />
       <ArticleBlock
         headline="Result of Democrats&#39; Illegal Alien Policies: Family&#39;s Murder Suspect - A Salvadoran Gang Member"
