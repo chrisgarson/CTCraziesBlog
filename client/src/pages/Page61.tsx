@@ -18,49 +18,49 @@ export default function Page46() {
         tinyUrl="https://tinyurl.com/49pphzkp"
         xPostUrl="https://x.com/C3Heditor/status/2020257908995637594"
         imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-02-19_084056_18fb241e.jpg"
-        tags={["Washington", "Taxation", "Democrat Party", "Business Climate"]}
+        tags={["Washington", "Taxation", "Business Climate"]}
       />
       <ArticleBlock
         headline="Dem Rep Khanna&#39;s Epstein Island Pledge Backfires Instantly - Too Many Democrats Exposed"
         tinyUrl="https://tinyurl.com/mpvrvkcw"
         xPostUrl="https://x.com/C3Heditor/status/2019870687188730348"
         imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-02-19_083650_9c5486b0.jpg"
-        tags={["Epstein", "Democrat Party", "2026 Elections", "Left-Wing"]}
+        tags={["Epstein", "2026 Elections", "Left-Wing"]}
       />
       <ArticleBlock
         headline="Democrat Jasmine Crockett Resurrects Fake Border Agent&#39;s Whipping Story"
         tinyUrl="https://tinyurl.com/8x8zwrar"
         xPostUrl="https://x.com/C3Heditor/status/2019872267774386401"
         imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-02-19_083511_9d4be653.jpg"
-        tags={["CBP-DHS-ICE", "Media Bias", "Democrat Party", "Immigration"]}
+        tags={["CBP-DHS-ICE", "Media Bias", "Immigration"]}
       />
       <ArticleBlock
         headline="Major Democrat Donor Resigns From Powerful Law Firm After Epstein Emails Surface"
         tinyUrl="https://tinyurl.com/yy7pnmc9"
         xPostUrl="https://x.com/C3Heditor/status/2019872828783538537"
         imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-02-19_083347_3c19bb99.jpg"
-        tags={["Epstein", "2026 Elections", "Democrat Party", "DOJ"]}
+        tags={["Epstein", "2026 Elections", "DOJ"]}
       />
       <ArticleBlock
         headline="Miami&#39;s New Democrat Mayor Vows to Obstruct ICE"
         tinyUrl="https://tinyurl.com/5n8pc8cw"
         xPostUrl="https://x.com/C3Heditor/status/2019876895643562216"
         imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-02-19_083244_acf112ff.jpg"
-        tags={["CBP-DHS-ICE", "Immigration", "Democrat Party", "Law Enforcement"]}
+        tags={["CBP-DHS-ICE", "Immigration", "Law Enforcement"]}
       />
       <ArticleBlock
         headline="Texas White-Liberal Democrat for U.S. Senate Accused of Racism"
         tinyUrl="https://tinyurl.com/473a4xy4"
         xPostUrl="https://x.com/C3Heditor/status/2019874633001103772"
         imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-02-19_083121_c6e3623e.jpg"
-        tags={["Texas", "Democrat Party", "2026 Elections", "Politics"]}
+        tags={["Texas", "2026 Elections", "Politics"]}
       />
       <ArticleBlock
         headline="Third Georgia Democrat Liberal Busted for Pandemic Fraud"
         tinyUrl="https://tinyurl.com/2m7xbhta"
         xPostUrl="https://x.com/C3Heditor/status/2019875185416106436"
         imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-02-19_083014_b88324bf.jpg"
-        tags={["Corruption-Fraud", "Democrat Party", "COVID-19", "DOJ"]}
+        tags={["Corruption-Fraud", "COVID-19", "DOJ"]}
       />
       <ArticleBlock
         headline="Fringe Left-Wing ACLU Demands UN Probe Trump"
@@ -74,14 +74,14 @@ export default function Page46() {
         tinyUrl="https://tinyurl.com/yc7xnekx"
         xPostUrl="https://x.com/C3Heditor/status/2019880160221356388"
         imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-02-09_063903_ff900c99.jpg"
-        tags={["Virginia", "Gun Control", "Democrat Party", "Abigail Spanberger"]}
+        tags={["Virginia", "Gun Control", "Abigail Spanberger"]}
       />
       <ArticleBlock
         headline="&#39;Moderate&#39; Dems Take Big Checks from Epstein-Linked Donor"
         tinyUrl="https://tinyurl.com/2rm5tkxp"
         xPostUrl="https://x.com/C3Heditor/status/2019879421621203198"
         imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-02-09_063918_22072cae.jpg"
-        tags={["Epstein", "2026 Elections", "Democrat Party"]}
+        tags={["Epstein", "2026 Elections"]}
       />
       <ArticleBlock
         headline="Billionaire Dem Donors Bemoan Socialist Takeover of CA"
@@ -95,14 +95,14 @@ export default function Page46() {
         tinyUrl="https://tinyurl.com/4ersmz2a"
         xPostUrl="https://x.com/C3Heditor/status/2019883195450421328"
         imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-02-09_063829_24b2ef39.jpg"
-        tags={["Democrat Party", "Election Fraud", "Chuck Schumer"]}
+        tags={["Election Fraud", "Chuck Schumer"]}
       />
       <ArticleBlock
         headline="Democrats&#39; Radical Left-Wing Vision for Virginia"
         tinyUrl="https://tinyurl.com/55rkppas"
         xPostUrl="https://x.com/C3Heditor/status/2019883593158521147"
         imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-02-09_063816_5f56e920.jpg"
-        tags={["Virginia", "Democrat Party", "Abigail Spanberger", "Left-Wing"]}
+        tags={["Virginia", "Abigail Spanberger", "Left-Wing"]}
       />
       <ArticleBlock
         headline="Democrat Rep. Swalwell Caught Taking Money from CCP-Linked Firm"
@@ -116,7 +116,7 @@ export default function Page46() {
         tinyUrl="https://tinyurl.com/ym5bnx26"
         xPostUrl="https://x.com/C3Heditor/status/2019886561584624073"
         imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-02-09_063753_539c69a2.jpg"
-        tags={["Criminal Justice", "Democrat Party", "Violent Crime", "Law Enforcement"]}
+        tags={["Criminal Justice", "Violent Crime", "Law Enforcement"]}
       />
       <ArticleBlock
         headline="Hollywood&#39;s Outrage Machine: Part of Left&#39;s Propaganda"
@@ -137,14 +137,14 @@ export default function Page46() {
         tinyUrl="https://tinyurl.com/mr472x8e"
         xPostUrl="https://x.com/C3Heditor/status/2019870045388861874"
         imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-02-19_105623_73edc6df.jpg"
-        tags={["Epstein", "Bill Gates", "Democrat Party", "Left-Wing"]}
+        tags={["Epstein", "Bill Gates", "Left-Wing"]}
       />
       <ArticleBlock
         headline="Democrat State Senator: In Virginia, You Must Love Islam &#8212; Or Else"
         tinyUrl="https://tinyurl.com/muez66zm"
         xPostUrl="https://x.com/C3Heditor/status/2019868663273406689"
         imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-02-19_105951_7183d36f.jpg"
-        tags={["Virginia", "Democrat Party", "Judiciary-Judicial", "Left-Wing"]}
+        tags={["Virginia", "Judiciary-Judicial", "Left-Wing"]}
       />
       <Pagination currentPage={61} totalPages={61} />
     </div>
