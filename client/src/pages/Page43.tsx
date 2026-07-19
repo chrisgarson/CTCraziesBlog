@@ -25,7 +25,7 @@ export default function Page14() {
         tinyUrl="https://tinyurl.com/yzp4jxnn"
         xPostUrl="https://x.com/C3Heditor/status/2037268323386134935"
         imageSrc="https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/2026-03-26_154829_1b3652d8.jpg"
-        tags={["Election Fraud"]}
+        tags={["Election Fraud", "2026 Elections"]}
       />
       <ArticleBlock
         headline="The Anti-AmericanFirst Platform: Illegal Aliens Are &lsquo;The People We Care About Most&rsquo;, per U.S. Democrat Senator"
