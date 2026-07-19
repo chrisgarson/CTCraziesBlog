@@ -12,7 +12,7 @@ export default function Home() {
         tinyUrl="https://tinyurl.com/5bfbzce7"
         xPostUrl="https://x.com/C3Heditor/status/2048866523692081583"
         imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/kVcsMThomMkIcSFG.jpg"
-        tags={["Assassination"]}
+        tags={["Assassination", "Violent Crime", "Media Bias"]}
       />
       <ArticleBlock
         headline="Attempt To Incite Violence By The Democrat Deranged: America Under Trump Compared To Nazi-Occupied France By Major Publication"
@@ -131,7 +131,7 @@ export default function Home() {
         tinyUrl="https://tinyurl.com/4b3daa9y"
         xPostUrl="https://x.com/C3Heditor/status/2048838040454639786"
         imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/aPFNLMBiOAltdxIw.jpg"
-        tags={["Zohran Mamdani"]}
+        tags={["Zohran Mamdani", "New York", "Energy Policy"]}
       />
       <ArticleBlock
         headline="Major Democrat Mega-Donor Abandons The Party Entirely In Wake Of The Swalwell Scandal"
