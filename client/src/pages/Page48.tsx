@@ -102,7 +102,7 @@ export default function Page19() {
         tinyUrl="https://tinyurl.com/mfdbp6k4"
         xPostUrl="https://x.com/C3Heditor/status/2030767065317990889"
         imageSrc="https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/post267_clean_9594fd9d.jpg"
-        tags={["NYC"]}
+        tags={["NYC", "New York", "Violence"]}
       />
       <ArticleBlock
         headline="Minnesota Democrat Gov. Tim Walz Humiliated Over The 34,200% Autism Spending Spike He Can&#39;t Explain"
@@ -130,7 +130,7 @@ export default function Page19() {
         tinyUrl="https://tinyurl.com/35m88fjj"
         xPostUrl="https://x.com/C3Heditor/status/2030768992344764883"
         imageSrc="https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/post263_clean_28e5d576.jpg"
-        tags={["Idaho"]}
+        tags={["Idaho", "Violence"]}
       />
       <ArticleBlock
         headline="Democrat Immigration Policies: Illegal Alien Student, 18, Charged With Groping 12 Virginia Female Classmates"
@@ -144,7 +144,7 @@ export default function Page19() {
         tinyUrl="https://tinyurl.com/mtwmvdtj"
         xPostUrl="https://x.com/C3Heditor/status/2036078275714269466"
         imageSrc="https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/post261_clean_880f6a8a.jpg"
-        tags={["Chicago"]}
+        tags={["Chicago", "Illinois", "Politics"]}
       />
       <Pagination currentPage={48} totalPages={61} />
     </div>
