@@ -39,7 +39,7 @@ export default function Home() {
         tinyUrl="https://tinyurl.com/mr43jk6w"
         xPostUrl="https://x.com/C3Heditor/status/2052854035628151035"
         imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-05-08_155228_9a5db1ae.jpg"
-        tags={["California", "Israel", "Culture War", "Democrat Party"]}
+        tags={["California", "Israel", "Culture War"]}
       />
       <ArticleBlock
         headline="Far-Left Democrat Candidate For Los Angeles Mayor Provides Proof That Progressives Choose To Facilitate Violence"
@@ -67,14 +67,14 @@ export default function Home() {
         tinyUrl="https://tinyurl.com/ymvzfze5"
         xPostUrl="https://x.com/C3Heditor/status/2052850912104702232"
         imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-05-08_154018_74c0fa52.jpg"
-        tags={["Government", "New York", "Governor Hochul", "Democrat Party"]}
+        tags={["Government", "New York", "Governor Hochul"]}
       />
       <ArticleBlock
         headline="Minnesota Democrat Governor Walz Slammed As A Fraud Over Alleged $9 Billion In Taxpayer Theft"
         tinyUrl="https://tinyurl.com/5f5dce9t"
         xPostUrl="https://x.com/C3Heditor/status/2052849683198865889"
         imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-05-08_084053_b55d7b32.jpg"
-        tags={["Minnesota", "Governor Tim Walz", "Taxation", "Democrat Party"]}
+        tags={["Minnesota", "Governor Tim Walz", "Taxation"]}
       />
       <ArticleBlock
         headline="Activist Chaos At NYC ICE Protest As Police Arrest Nigerian Illegal Alien Who Weaponized His Vehicle Against Agents"
@@ -123,7 +123,7 @@ export default function Home() {
         tinyUrl="https://tinyurl.com/7u6erd5c"
         xPostUrl="https://x.com/C3Heditor/status/2052842045085987074"
         imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-05-08_150453_e4e344c3.jpg"
-        tags={["Corruption-Fraud", "Democrat Party"]}
+        tags={["Corruption-Fraud", "Healthcare Policy"]}
       />
       <ArticleBlock
         headline="Democrat-Socialist Seattle Mayor Laughs Off Amazon &amp; Starbuck&#39;s Wealth Exodus From The Big Taxes &amp; Crime-Ridden City"
