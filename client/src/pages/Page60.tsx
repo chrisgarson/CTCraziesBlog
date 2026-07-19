@@ -74,14 +74,14 @@ export default function Page31() {
         tinyUrl="https://tinyurl.com/4np2bjsh"
         xPostUrl="https://x.com/C3Heditor/status/2020870836828110989"
         imageSrc="https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/post31_clean_6d6444a8.jpg"
-        tags={["Election Fraud"]}
+        tags={["Election Fraud", "2026 Elections"]}
       />
       <ArticleBlock
         headline="Blue City Idiocracy: 5 largest U.S. cities don&rsquo;t have enough money to pay bills"
         tinyUrl="https://tinyurl.com/2rev8m4b"
         xPostUrl="https://x.com/C3Heditor/status/2020243948997079519"
         imageSrc="https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/post30_clean_963f138c.jpg"
-        tags={["Government"]}
+        tags={["Government", "Economic Policy"]}
       />
       <ArticleBlock
         headline="Per latest U-Haul report, top 5 states in population loss: Blue anti-growth states of California, Illinois, New Jersey, New York, &amp; Massachusetts"
