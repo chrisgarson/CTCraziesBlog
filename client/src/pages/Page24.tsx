@@ -75,7 +75,7 @@ export default function Home() {
         tinyUrl="https://tinyurl.com/2rzzm49b"
         xPostUrl="https://x.com/C3Heditor/status/2050532990791590108"
         imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/ZWNoCsnfFqKwaRTD.jpg"
-        tags={["Culture War"]}
+        tags={["Culture War", "New York", "Islam-Muslim"]}
       />
       <ArticleBlock
         headline="The View&#39;s Mouthpiece, Sonny Hostin, Claims Her Kids Somehow Lost Their Civil Rights After SCOTUS Ended Race-Based Districts - Her Family Lives In A Majority White Democrat District"
@@ -124,14 +124,14 @@ export default function Home() {
         tinyUrl="https://tinyurl.com/4f833b6h"
         xPostUrl="https://x.com/C3Heditor/status/2050328922294788258"
         imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/SZcepwORzJTCgrGo.jpg"
-        tags={["Election Fraud"]}
+        tags={["Election Fraud", "Wisconsin", "2026 Elections"]}
       />
       <ArticleBlock
         headline="After Pushing Virtue-Signaling &#39;No Kings&#39; Rhetoric, Democrats Get Mocked For Exuberantly Applauding UK&#39;s King Charles"
         tinyUrl="https://tinyurl.com/mr3emv32"
         xPostUrl="https://x.com/C3Heditor/status/2050327779292446776"
         imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/vktILYEOKphxpeQQ.jpg"
-        tags={["Democrat Party"]}
+        tags={["Culture War", "Politics"]}
       />
       <ArticleBlock
         headline="Anti-Crime Signs Removed By Woke Democrat City Council Members Who Call Them &#39;Racist&#39;"
