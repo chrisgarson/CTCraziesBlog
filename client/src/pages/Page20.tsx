@@ -39,7 +39,7 @@ export default function Home() {
         tinyUrl="https://tinyurl.com/yz58jfke"
         xPostUrl="https://x.com/C3Heditor/status/2053220368760947122"
         imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-05-09_160807_00e4aeaa.jpg"
-        tags={["Election Fraud"]}
+        tags={["Election Fraud", "2026 Elections"]}
       />
       <ArticleBlock
         headline="Nearly 50% of Inmates North Carolina&#39;s Democrat Gov. Roy Cooper Freed Have Reoffended &#8212; 18 Citizens Killed Since"
@@ -53,7 +53,7 @@ export default function Home() {
         tinyUrl="https://tinyurl.com/byyft37f"
         xPostUrl="https://x.com/C3Heditor/status/2053218553571029153"
         imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-05-09_160113_7097c55b.jpg"
-        tags={["Mark Hamill"]}
+        tags={["Mark Hamill", "Culture War"]}
       />
       <ArticleBlock
         headline="Court Victory For Trump: Federal Judge Throws Out Democrats&#39; Illegitimate Lawsuit, ICE Has Green Light To Operate Near Schools"
@@ -67,7 +67,7 @@ export default function Home() {
         tinyUrl="https://tinyurl.com/3wu9cuzz"
         xPostUrl="https://x.com/C3Heditor/status/2053216691836829923"
         imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-05-09_155335_7b0089f7.jpg"
-        tags={["Democrat Party"]}
+        tags={["Socialism", "Culture War"]}
       />
       <ArticleBlock
         headline="Industry Warnings That California&#39;s Red Tape Under Democrat Gov. Newsom Could Send California Gas Prices Skyrocketing"
@@ -123,7 +123,7 @@ export default function Home() {
         tinyUrl="https://tinyurl.com/2esvzxpp"
         xPostUrl="https://x.com/C3Heditor/status/2053199541055140010"
         imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-05-09_144519_276dd130.jpg"
-        tags={["Zohran Mamdani", "New York", "Reparations", "Government", "Racial Issues"]}
+        tags={["Zohran Mamdani", "New York", "Reparations", "Racial Issues"]}
       />
       <ArticleBlock
         headline="Federal Court Strikes Down Democrat Biden&#39;s Unlawful Discriminatory &#39;Digital Equity&#39; Rules"
