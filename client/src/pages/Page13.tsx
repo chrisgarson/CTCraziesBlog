@@ -11,14 +11,14 @@ export default function Page2() {
         tinyUrl="https://tinyurl.com/ykz2ywnc"
         xPostUrl="https://x.com/C3Heditor/status/2061536474780897531"
         imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-06-01_150632_71989704.jpg"
-        tags={["Democrat Party", "CBP-DHS-ICE", "Immigration", "Government"]}
+        tags={["CBP-DHS-ICE", "Immigration", "Government"]}
       />
       <ArticleBlock
         headline="Study of College Faculty Campaign Donations Reveals a Striking Far-Left Ideological Skew"
         tinyUrl="https://tinyurl.com/53kknp22"
         xPostUrl="https://x.com/C3Heditor/status/2061535858279866601"
         imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-06-01_150347_7b80a1fe.jpg"
-        tags={["Politics", "Left-Wing", "Democrat Party"]}
+        tags={["Politics", "Left-Wing"]}
       />
       <ArticleBlock
         headline="Democrat Ignoring U.S. Supreme Court Rulings: Maryland Governor Wes Moore Signs GLOCK Ban Bill Into Law"
@@ -74,7 +74,7 @@ export default function Page2() {
         tinyUrl="https://tinyurl.com/39d83tda"
         xPostUrl="https://x.com/C3Heditor/status/2061532235484807230"
         imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-06-01_143640_e4ebe1c3.jpg"
-        tags={["Virginia", "Taxation", "Democrat Party", "Government"]}
+        tags={["Virginia", "Taxation", "Government"]}
       />
       <ArticleBlock
         headline="On Democrat-Run Atlanta's Rapid Transit a 'Senseless' Broad Daylight Stabbing Attack on Woman Who Died From The Injuries"
@@ -130,7 +130,7 @@ export default function Page2() {
         tinyUrl="https://tinyurl.com/56uejss7"
         xPostUrl="https://x.com/C3Heditor/status/2061195475953565841"
         imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-05-31_161825_a40bf9f2.jpg"
-        tags={["Pennsylvania", "Israel", "Democrat Party", "Judiciary-Judicial"]}
+        tags={["Pennsylvania", "Israel", "Judiciary-Judicial"]}
       />
       <ArticleBlock
         headline="Democrats Still Want Open Borders: Deported Four Times, Mexican Illegal Alien Pleads Guilty To Killing A California 11-Year-Old Boy"
