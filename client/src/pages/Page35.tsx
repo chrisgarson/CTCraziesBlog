@@ -18,7 +18,7 @@ export default function Page6() {
         tinyUrl="https://tinyurl.com/482hhrkw"
         xPostUrl="https://x.com/C3Heditor/status/2043436562084467073"
         imageSrc="https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/2026-04-12_161054_c6fe84c4.jpg"
-        tags={["DOJ"]}
+        tags={["DOJ", "Politics"]}
       />
       <ArticleBlock
         headline="Democrats&#39; Own Voters Can&#39;t Stand Them, CNN Analysis Finds In A Brutal Numbers Breakdown"
@@ -67,7 +67,7 @@ export default function Page6() {
         tinyUrl="https://tinyurl.com/nwss5sau"
         xPostUrl="https://x.com/C3Heditor/status/2043429229132403004"
         imageSrc="https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/2026-04-12_154142_1315fee5.jpg"
-        tags={["Politics"]}
+        tags={["Politics", "Censorship"]}
       />
       <ArticleBlock
         headline="Corruption: Foreign Donation Scandal Sends Democratic Fundraiser ActBlue&#39;s Legal Team Into Crisis Mode"
@@ -81,7 +81,7 @@ export default function Page6() {
         tinyUrl="https://tinyurl.com/yc4k8wbh"
         xPostUrl="https://x.com/C3Heditor/status/2043427514815545654"
         imageSrc="https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/2026-04-12_153508_857f309b.jpg"
-        tags={["Assassination"]}
+        tags={["Assassination", "Politics"]}
       />
       <ArticleBlock
         headline="Utility Bills On Long Island Spike 20%, Leaving Residents Feeling The Financial Strain of Democrat Energy Policies"
@@ -102,7 +102,7 @@ export default function Page6() {
         tinyUrl="https://tinyurl.com/st8xmpfn"
         xPostUrl="https://x.com/C3Heditor/status/2043424582472815033"
         imageSrc="https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/2026-04-12_152340_3cc102ec.jpg"
-        tags={["Iryna Zarutska"]}
+        tags={["Iryna Zarutska", "Violent Crime"]}
       />
       <ArticleBlock
         headline="ABC Anchor Fact-Checks Democrat Live, Dismantling His False DHS Shutdown Narrative On Air"
