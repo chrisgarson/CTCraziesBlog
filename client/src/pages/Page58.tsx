@@ -18,7 +18,7 @@ export default function Page29() {
         tinyUrl="https://tinyurl.com/4v7ekc7w"
         xPostUrl="https://x.com/C3Heditor/status/2023152638825787575"
         imageSrc="https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/post79_clean_a5ef44f3.jpg"
-        tags={["California"]}
+        tags={["California", "Energy Policy", "Economic Policy"]}
       />
       <ArticleBlock
         headline="Unhinged Rep. Shri Thanedar threatens CBP Commissioner Rodney Scott with future prosecution once Democrats seize power"
@@ -60,7 +60,7 @@ export default function Page29() {
         tinyUrl="https://tinyurl.com/ycyam9hz"
         xPostUrl="https://x.com/C3Heditor/status/2022082204038574414"
         imageSrc="https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/post73_clean_4815f355.jpg"
-        tags={["Tim Walz", "Minnesota", "CBP-DHS-ICE", "Taxation", "Democrat Party"]}
+        tags={["Tim Walz", "Minnesota", "CBP-DHS-ICE", "Taxation"]}
       />
       <ArticleBlock
         headline="Illegal Student Enrollment Plunge Has Democrats &amp; Their Shock Troops Very Upset"
@@ -102,7 +102,7 @@ export default function Page29() {
         tinyUrl="https://tinyurl.com/9vwjhykz"
         xPostUrl="https://x.com/C3Heditor/status/2022070745397174432"
         imageSrc="https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/post67_clean_4986c3b0.jpg"
-        tags={["Harry Enten", "Democrat Party", "Politics", "Media Bias"]}
+        tags={["Harry Enten", "Politics", "Media Bias"]}
       />
       <ArticleBlock
         headline="It Was An Absolute Failure 3 Months Ago But Democrats Think Another Shutdown Is What Americans Are Demanding"
@@ -123,14 +123,14 @@ export default function Page29() {
         tinyUrl="https://tinyurl.com/bdehd89c"
         xPostUrl="https://x.com/C3Heditor/status/2022058251345641948"
         imageSrc="https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/post64_clean_90c9de4a.jpg"
-        tags={["Election Fraud"]}
+        tags={["Election Fraud", "2026 Elections"]}
       />
       <ArticleBlock
         headline="Nothing like sanctimonious, wealthy Hollywood liberal types showing their true colors"
         tinyUrl="https://tinyurl.com/jukjn3hd"
         xPostUrl="https://x.com/C3Heditor/status/2024619847758364799"
         imageSrc="https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/post63_clean_825f15a0.jpg"
-        tags={["Steven Spielberg", "California", "Taxation", "Democrat Party"]}
+        tags={["Steven Spielberg", "California", "Taxation"]}
       />
       <ArticleBlock
         headline="Instead of keeping its own refineries open, the &#39;Great State of Stupid&#39; does this. It&#39;s the Democrat Idiocracy on steroids."
