@@ -11,7 +11,7 @@ export default function Page30() {
         tinyUrl="https://tinyurl.com/2hxye7f3"
         xPostUrl="https://x.com/C3Heditor/status/2022055436011368838"
         imageSrc="https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/post60_clean_7e093ae2.jpg"
-        tags={["Election Fraud"]}
+        tags={["Election Fraud", "Corruption-Fraud", "2026 Elections"]}
       />
       <ArticleBlock
         headline="Biggest Podcaster Blasts Democrats &#39;Open Borders&#39; Stupidity"
@@ -25,7 +25,7 @@ export default function Page30() {
         tinyUrl="https://tinyurl.com/58bj3tmm"
         xPostUrl="https://x.com/C3Heditor/status/2022052925414191227"
         imageSrc="https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/post58_clean_b666da7e.jpg"
-        tags={["Election Fraud"]}
+        tags={["Election Fraud", "Georgia", "2026 Elections"]}
       />
       <ArticleBlock
         headline="Ilhan Omar Provides Further Proof That Democrats&#39; Lies &amp; Violent Rhetoric Is Their New Normal"
@@ -53,7 +53,7 @@ export default function Page30() {
         tinyUrl="https://tinyurl.com/9je5xzuz"
         xPostUrl="https://x.com/C3Heditor/status/2021700436709736618"
         imageSrc="https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/post54_clean_5b66412e.jpg"
-        tags={["Gretchen Whitmer", "Corruption-Fraud", "Taxation", "Democrat Party"]}
+        tags={["Gretchen Whitmer", "Corruption-Fraud", "Taxation"]}
       />
       <ArticleBlock
         headline="Pro-Life Groups Sue Michigan Over Democrats Demands That Pro-Abortion Staff Be Hired"
@@ -67,7 +67,7 @@ export default function Page30() {
         tinyUrl="https://tinyurl.com/4tk2vht3"
         xPostUrl="https://x.com/C3Heditor/status/2021695733091500387"
         imageSrc="https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/post52_clean_9d510d7f.jpg"
-        tags={["Illinois"]}
+        tags={["Illinois", "Climate Change", "Culture War"]}
       />
       <ArticleBlock
         headline="Gov. Newsom is blasted by critics who call the Democrats&#39; troubled &amp; long-delayed rail project a boondoggle - costing taxpayers a ludicrous $215 million per mile with no end in sight"
