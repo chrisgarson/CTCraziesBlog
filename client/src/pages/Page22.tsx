@@ -19,7 +19,7 @@ export default function Home() {
         tinyUrl="https://tinyurl.com/yu56zbc3"
         xPostUrl="https://x.com/C3Heditor/status/2052038802869195028"
         imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/LZOuyIggsKnCqfbK.jpg"
-        tags={["Iran"]}
+        tags={["Iran", "Media Bias", "Violence"]}
       />
       <ArticleBlock
         headline="Decade In Review: The Democrat-Left&#39;s Long &amp; Violent Legacy of Political Attacks On The Right"
@@ -33,7 +33,7 @@ export default function Home() {
         tinyUrl="https://tinyurl.com/mt755dcr"
         xPostUrl="https://x.com/C3Heditor/status/2052010337273016700"
         imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/ViXXbFUcGvDmcYWI.jpg"
-        tags={["Hasan Piker"]}
+        tags={["Hasan Piker", "New York", "Violent Crime"]}
       />
       <ArticleBlock
         headline="Charlottesville&#39;s Real Story: How Lefty Journalists &amp; SPLC Built And Exploited A False &#39;White Supremacist&#39; Narrative Used By Democrats"
@@ -47,7 +47,7 @@ export default function Home() {
         tinyUrl="https://tinyurl.com/5vwbkpsk"
         xPostUrl="https://x.com/C3Heditor/status/2052043160973430915"
         imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/RTskBKOJCRqdFNeA.jpg"
-        tags={["Corruption-Fraud"]}
+        tags={["Corruption-Fraud", "Blue States", "Healthcare Policy"]}
       />
       <ArticleBlock
         headline="Democrats&#39; Weaponized IRS To Target Conservative Pastors While Letting Liberals Slide, DOJ Finds"
@@ -68,7 +68,7 @@ export default function Home() {
         tinyUrl="https://tinyurl.com/mrd67w22"
         xPostUrl="https://x.com/C3Heditor/status/2052013613653627199"
         imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/GWKgTIcMcMGnhmDq.jpg"
-        tags={["Los Angeles", "Unions", "Democrat Party"]}
+        tags={["Los Angeles", "Unions"]}
       />
       <ArticleBlock
         headline="Wildfire Warning Ignored By LA Democrat Mayor Bass As She Was Alerted Before Her Virtue-Signaling Africa Trip"
@@ -117,7 +117,7 @@ export default function Home() {
         tinyUrl="https://tinyurl.com/53ph6yf5"
         xPostUrl="https://x.com/C3Heditor/status/2051779883240464693"
         imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/ATsGwdIRYBwjSCue.jpg"
-        tags={["Assassination"]}
+        tags={["Assassination", "Politics"]}
       />
       <ArticleBlock
         headline="Rich Author Brags About Shoplifting From Whole Foods — And Reveals Typical Hypocrisy"
