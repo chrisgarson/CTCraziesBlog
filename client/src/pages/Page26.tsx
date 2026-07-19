@@ -61,14 +61,14 @@ export default function Home() {
         tinyUrl="https://tinyurl.com/ycy5djpf"
         xPostUrl="https://x.com/C3Heditor/status/2048735447061524633"
         imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/ilmtglJMWTDmHHsn.jpg"
-        tags={["Tim Walz", "Keith Ellison", "Minnesota", "Democrat Party"]}
+        tags={["Tim Walz", "Keith Ellison", "Minnesota"]}
       />
       <ArticleBlock
         headline="Democrat- Woke DEI Legacy: Massive Disney Layoffs Begin As Entire Teams And Full Divisions Are Officially Eliminated"
         tinyUrl="https://tinyurl.com/5e7ub2e8"
         xPostUrl="https://x.com/C3Heditor/status/2048734816959635803"
         imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/dQZfFIdXQwOVkjsn.jpg"
-        tags={[]}
+        tags={["Culture War", "Racial Issues"]}
       />
       <ArticleBlock
         headline="Biden&#39;s Democrat Administration Allowed Violent Alien To Be Naturalized Who Then Killed A DHS Employee"
@@ -124,7 +124,7 @@ export default function Home() {
         tinyUrl="https://tinyurl.com/y8z9kr93"
         xPostUrl="https://x.com/C3Heditor/status/2048721530117619916"
         imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/qGBrJhwyGYzyhlGq.jpg"
-        tags={["2026 Elections"]}
+        tags={["2026 Elections", "Corruption-Fraud"]}
       />
       <ArticleBlock
         headline="While On SPLC Board, Democrat Governor Candidate Watched It Fund A KKK Member"
@@ -138,7 +138,7 @@ export default function Home() {
         tinyUrl="https://tinyurl.com/34tx434b"
         xPostUrl="https://x.com/C3Heditor/status/2048521440874447248"
         imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/pjHjltafyIwizZma.jpg"
-        tags={["Violent Crime"]}
+        tags={["Violent Crime", "New York"]}
       />
       <ArticleBlock
         headline="Democrat Blue-State Exodus Explained: Maryland Prosecutor Reveals The Real Driving Forces"
