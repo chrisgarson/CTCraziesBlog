@@ -75,7 +75,7 @@ export default function Home() {
         tinyUrl="https://tinyurl.com/4y823sdx"
         xPostUrl="https://x.com/C3Heditor/status/2048849433635508536"
         imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/nnzqiifFQedTxyVn.jpg"
-        tags={["Chris Murphy", "Iran", "Strait Of Hormuz"]}
+        tags={["Chris Murphy", "Iran", "Strait of Hormuz"]}
       />
       <ArticleBlock
         headline="Rallying His Violent Shock-Troops, Democrat Senator Incites &#39;Foot Soldiers&#39; To Fight Against &#39;Darkness&#39;"
