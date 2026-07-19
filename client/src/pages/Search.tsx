@@ -8,7 +8,7 @@ const articles = [
     "tinyUrl": "https://tinyurl.com/dzmh87hc",
     "xPostUrl": "https://x.com/C3Heditor/status/2076412518570877118",
     "imageUrl": "https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-07-12_160535.jpg",
-    "tags": ["Democrat Party", "U.S. Congress", "Politics"],
+    "tags": ["U.S. Congress", "Politics"],
     "page": 1,
     "batchDate": "July 12, 2026"
   },
@@ -17,7 +17,7 @@ const articles = [
     "tinyUrl": "https://tinyurl.com/bde4743x",
     "xPostUrl": "https://x.com/C3Heditor/status/2076411710483628443",
     "imageUrl": "https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-07-12_160228.jpg",
-    "tags": ["Ilhan Omar", "Corruption-Fraud", "Democrat Party"],
+    "tags": ["Ilhan Omar", "Corruption-Fraud"],
     "page": 1,
     "batchDate": "July 12, 2026"
   },
@@ -53,7 +53,7 @@ const articles = [
     "tinyUrl": "https://tinyurl.com/ajyccv6u",
     "xPostUrl": "https://x.com/C3Heditor/status/2076409438471061943",
     "imageUrl": "https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-07-12_155316.jpg",
-    "tags": ["Judiciary-Judicial", "Racial Issues", "Democrat Party"],
+    "tags": ["Judiciary-Judicial", "Racial Issues"],
     "page": 1,
     "batchDate": "July 12, 2026"
   },
@@ -71,7 +71,7 @@ const articles = [
     "tinyUrl": "https://tinyurl.com/4mcbxk4x",
     "xPostUrl": "https://x.com/C3Heditor/status/2076408493267910979",
     "imageUrl": "https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-07-12_154927.jpg",
-    "tags": ["California", "Economic Policy", "Democrat Party"],
+    "tags": ["California", "Economic Policy"],
     "page": 1,
     "batchDate": "July 12, 2026"
   },
@@ -80,7 +80,7 @@ const articles = [
     "tinyUrl": "https://tinyurl.com/3d3h88tm",
     "xPostUrl": "https://x.com/C3Heditor/status/2076407976189898936",
     "imageUrl": "https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-07-12_154718.jpg",
-    "tags": ["California", "Immigration", "Election Fraud", "Democrat Party"],
+    "tags": ["California", "Immigration", "Election Fraud"],
     "page": 1,
     "batchDate": "July 12, 2026"
   },
@@ -89,7 +89,7 @@ const articles = [
     "tinyUrl": "https://tinyurl.com/59s3bpvk",
     "xPostUrl": "https://x.com/C3Heditor/status/2076407344687095964",
     "imageUrl": "https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-07-12_154509.jpg",
-    "tags": ["Ro Khanna", "Israel", "Foreign Policy", "Democrat Party"],
+    "tags": ["Ro Khanna", "Israel", "Foreign Policy"],
     "page": 1,
     "batchDate": "July 12, 2026"
   },
@@ -98,7 +98,7 @@ const articles = [
     "tinyUrl": "https://tinyurl.com/46nsmx6s",
     "xPostUrl": "https://x.com/C3Heditor/status/2076406618313384332",
     "imageUrl": "https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-07-12_154203.jpg",
-    "tags": ["Graham Platner", "Sexual Misconduct", "Democrat Party"],
+    "tags": ["Graham Platner", "Sexual Misconduct"],
     "page": 1,
     "batchDate": "July 12, 2026"
   },
@@ -107,7 +107,7 @@ const articles = [
     "tinyUrl": "https://tinyurl.com/3uvpt4tx",
     "xPostUrl": "https://x.com/C3Heditor/status/2076405872884867377",
     "imageUrl": "https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-07-12_153938.jpg",
-    "tags": ["Graham Platner", "Ro Khanna", "Sexual Misconduct", "Democrat Party"],
+    "tags": ["Graham Platner", "Ro Khanna", "Sexual Misconduct"],
     "page": 1,
     "batchDate": "July 12, 2026"
   },
@@ -116,7 +116,7 @@ const articles = [
     "tinyUrl": "https://tinyurl.com/dkw98885",
     "xPostUrl": "https://x.com/C3Heditor/status/2076405406922842154",
     "imageUrl": "https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-07-1_1530285.jpg",
-    "tags": ["Graham Platner", "Sexual Misconduct", "Media Bias", "Democrat Party"],
+    "tags": ["Graham Platner", "Sexual Misconduct", "Media Bias"],
     "page": 1,
     "batchDate": "July 12, 2026"
   },
@@ -125,7 +125,7 @@ const articles = [
     "tinyUrl": "https://tinyurl.com/56drpebh",
     "xPostUrl": "https://x.com/C3Heditor/status/2076403731004887478",
     "imageUrl": "https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-07-12_153028.jpg",
-    "tags": ["Immigration", "Economic Policy", "Democrat Party"],
+    "tags": ["Immigration", "Economic Policy"],
     "page": 1,
     "batchDate": "July 12, 2026"
   },
@@ -134,7 +134,7 @@ const articles = [
     "tinyUrl": "https://tinyurl.com/yyx3eedz",
     "xPostUrl": "https://x.com/C3Heditor/status/2076402993771983048",
     "imageUrl": "https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-07-12_152746.jpg",
-    "tags": ["Socialism", "Left-Wing", "Democrat Party"],
+    "tags": ["Socialism", "Left-Wing"],
     "page": 1,
     "batchDate": "July 12, 2026"
   },
@@ -143,7 +143,7 @@ const articles = [
     "tinyUrl": "https://tinyurl.com/5du22knn",
     "xPostUrl": "https://x.com/C3Heditor/status/2076402207738507331",
     "imageUrl": "https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-07-12_152433.jpg",
-    "tags": ["New York", "Immigration", "Violent Crime", "Democrat Party"],
+    "tags": ["New York", "Immigration", "Violent Crime"],
     "page": 1,
     "batchDate": "July 12, 2026"
   },
@@ -161,7 +161,7 @@ const articles = [
     "tinyUrl": "https://tinyurl.com/55pu44ps",
     "xPostUrl": "https://x.com/C3Heditor/status/2076400327780077685",
     "imageUrl": "https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-07-12_151706.jpg",
-    "tags": ["Adam Smith", "Democrat Party", "Politics"],
+    "tags": ["Adam Smith", "Politics"],
     "page": 1,
     "batchDate": "July 12, 2026"
   },
@@ -170,7 +170,7 @@ const articles = [
     "tinyUrl": "https://tinyurl.com/3rt5ry3c",
     "xPostUrl": "https://x.com/C3Heditor/status/2076399043190685798",
     "imageUrl": "https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-07-12_151411.jpg",
-    "tags": ["Becca Balint", "Israel", "Democrat Party"],
+    "tags": ["Becca Balint", "Israel"],
     "page": 1,
     "batchDate": "July 12, 2026"
   },
@@ -179,7 +179,7 @@ const articles = [
     "tinyUrl": "https://tinyurl.com/3au6u3t4",
     "xPostUrl": "https://x.com/C3Heditor/status/2076398433905053890",
     "imageUrl": "https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-07-12_150945.jpg",
-    "tags": ["Lindsey Graham", "Democrat Party", "Violence"],
+    "tags": ["Lindsey Graham", "Violence"],
     "page": 1,
     "batchDate": "July 12, 2026"
   },
@@ -188,7 +188,7 @@ const articles = [
     "tinyUrl": "https://tinyurl.com/u4v76emz",
     "xPostUrl": "https://x.com/C3Heditor/status/2076030577770188917",
     "imageUrl": "https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-07-11_144744.jpg",
-    "tags": ["Josh Shapiro", "Pennsylvania", "Socialism", "Democrat Party"],
+    "tags": ["Josh Shapiro", "Pennsylvania", "Socialism"],
     "page": 2,
     "batchDate": "July 11, 2026"
   },
@@ -197,7 +197,7 @@ const articles = [
     "tinyUrl": "https://tinyurl.com/bdfvv78h",
     "xPostUrl": "https://x.com/C3Heditor/status/2076030018170307024",
     "imageUrl": "https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-07-11_144555.jpg",
-    "tags": ["Illinois", "Economic Policy", "Democrat Party"],
+    "tags": ["Illinois", "Economic Policy"],
     "page": 2,
     "batchDate": "July 11, 2026"
   },
@@ -206,7 +206,7 @@ const articles = [
     "tinyUrl": "https://tinyurl.com/5n9bb252",
     "xPostUrl": "https://x.com/C3Heditor/status/2076029185319989732",
     "imageUrl": "https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-07-11_144223.jpg",
-    "tags": ["Polling", "Democrat Party", "Politics"],
+    "tags": ["Polling", "Politics"],
     "page": 2,
     "batchDate": "July 11, 2026"
   },
@@ -215,7 +215,7 @@ const articles = [
     "tinyUrl": "https://tinyurl.com/yzmeffxb",
     "xPostUrl": "https://x.com/C3Heditor/status/2076028708020707638",
     "imageUrl": "https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-07-11_144021.jpg",
-    "tags": ["Economic Policy", "Democrat Party"],
+    "tags": ["Economic Policy"],
     "page": 2,
     "batchDate": "July 11, 2026"
   },
@@ -224,7 +224,7 @@ const articles = [
     "tinyUrl": "https://tinyurl.com/43hvfru9",
     "xPostUrl": "https://x.com/C3Heditor/status/2076028073066082357",
     "imageUrl": "https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-07-11_143538.jpg",
-    "tags": ["Economic Policy", "Socialism", "Democrat Party"],
+    "tags": ["Economic Policy", "Socialism"],
     "page": 2,
     "batchDate": "July 11, 2026"
   },
@@ -233,7 +233,7 @@ const articles = [
     "tinyUrl": "https://tinyurl.com/ktpss6t3",
     "xPostUrl": "https://x.com/C3Heditor/status/2076027233987068167",
     "imageUrl": "https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-07-11_143432.jpg",
-    "tags": ["Immigration", "Election Fraud", "Democrat Party"],
+    "tags": ["Immigration", "Election Fraud"],
     "page": 2,
     "batchDate": "July 11, 2026"
   },
@@ -242,7 +242,7 @@ const articles = [
     "tinyUrl": "https://tinyurl.com/bderfbsv",
     "xPostUrl": "https://x.com/C3Heditor/status/2076026758470439068",
     "imageUrl": "https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-07-11_143244.jpg",
-    "tags": ["Bob Brooks", "Pennsylvania", "2026 Elections", "Democrat Party"],
+    "tags": ["Bob Brooks", "Pennsylvania", "2026 Elections"],
     "page": 2,
     "batchDate": "July 11, 2026"
   },
@@ -251,7 +251,7 @@ const articles = [
     "tinyUrl": "https://tinyurl.com/8da5wvnh",
     "xPostUrl": "https://x.com/C3Heditor/status/2076026259256045852",
     "imageUrl": "https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-07-11_143038.jpg",
-    "tags": ["Bernie Sanders", "Mississippi", "Corruption-Fraud", "Democrat Party"],
+    "tags": ["Bernie Sanders", "Mississippi", "Corruption-Fraud"],
     "page": 2,
     "batchDate": "July 11, 2026"
   },
@@ -260,7 +260,7 @@ const articles = [
     "tinyUrl": "https://tinyurl.com/3recu2ct",
     "xPostUrl": "https://x.com/C3Heditor/status/2076025446718636116",
     "imageUrl": "https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-07-11_142719.jpg",
-    "tags": ["Graham Platner", "Bernie Sanders", "Socialism", "Democrat Party"],
+    "tags": ["Graham Platner", "Bernie Sanders", "Socialism"],
     "page": 2,
     "batchDate": "July 11, 2026"
   },
@@ -287,7 +287,7 @@ const articles = [
     "tinyUrl": "https://tinyurl.com/a3z88wbu",
     "xPostUrl": "https://x.com/C3Heditor/status/2075985733756518489",
     "imageUrl": "https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-07-11_114948.jpg",
-    "tags": ["Adelita Grijalva", "Culture War", "Patriotism", "Democrat Party"],
+    "tags": ["Adelita Grijalva", "Culture War", "Patriotism"],
     "page": 2,
     "batchDate": "July 11, 2026"
   },
@@ -323,7 +323,7 @@ const articles = [
     "tinyUrl": "https://tinyurl.com/5bcerfs7",
     "xPostUrl": "https://x.com/C3Heditor/status/2075979749071966310",
     "imageUrl": "https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-07-11_112553.jpg",
-    "tags": ["Economic Policy", "Democrat Party", "U.S. Congress"],
+    "tags": ["Economic Policy", "U.S. Congress"],
     "page": 2,
     "batchDate": "July 11, 2026"
   },
@@ -332,7 +332,7 @@ const articles = [
     "tinyUrl": "https://tinyurl.com/mw8fwr",
     "xPostUrl": "https://x.com/C3Heditor/status/2075978704442798350",
     "imageUrl": "https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-07-11_112205.jpg",
-    "tags": ["California", "Education Policy", "Racial Issues", "Democrat Party"],
+    "tags": ["California", "Education Policy", "Racial Issues"],
     "page": 2,
     "batchDate": "July 11, 2026"
   },
@@ -350,7 +350,7 @@ const articles = [
     "tinyUrl": "https://tinyurl.com/3s36h5p9",
     "xPostUrl": "https://x.com/C3Heditor/status/2075977187312734353",
     "imageUrl": "https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-07-11_111354.jpg",
-    "tags": ["Election Fraud", "Foreign Policy", "Democrat Party"],
+    "tags": ["Election Fraud", "Foreign Policy"],
     "page": 2,
     "batchDate": "July 11, 2026"
   },
@@ -359,7 +359,7 @@ const articles = [
     "tinyUrl": "https://tinyurl.com/mr2ukkxw",
     "xPostUrl": "https://x.com/C3Heditor/status/2075976211222651241",
     "imageUrl": "https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-07-11_111157.jpg",
-    "tags": ["Wisconsin", "Violence", "Democrat Party"],
+    "tags": ["Wisconsin", "Violence"],
     "page": 2,
     "batchDate": "July 11, 2026"
   },
@@ -395,7 +395,7 @@ const articles = [
     "tinyUrl": "https://tinyurl.com/4pdbjhay",
     "xPostUrl": "https://x.com/C3Heditor/status/2075589279682634022",
     "imageUrl": "https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-07-10_093411.jpg",
-    "tags": ["Chicago", "Violent Crime", "Law Enforcement", "Democrat Party"],
+    "tags": ["Chicago", "Violent Crime", "Law Enforcement"],
     "page": 3,
     "batchDate": "July 10, 2026"
   },
@@ -404,7 +404,7 @@ const articles = [
     "tinyUrl": "https://tinyurl.com/kyd5bekt",
     "xPostUrl": "https://x.com/C3Heditor/status/2075588722507108512",
     "imageUrl": "https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-07-10_093201.jpg",
-    "tags": ["California", "Gas Prices", "Economic Policy", "Democrat Party"],
+    "tags": ["California", "Gas Prices", "Economic Policy"],
     "page": 3,
     "batchDate": "July 10, 2026"
   },
@@ -413,7 +413,7 @@ const articles = [
     "tinyUrl": "https://tinyurl.com/4hx2p2w6",
     "xPostUrl": "https://x.com/C3Heditor/status/2075587384280772631",
     "imageUrl": "https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-07-10_092642.jpg",
-    "tags": ["Biden Administration", "Censorship", "Democrat Party"],
+    "tags": ["Biden Administration", "Censorship"],
     "page": 3,
     "batchDate": "July 10, 2026"
   },
@@ -422,7 +422,7 @@ const articles = [
     "tinyUrl": "https://tinyurl.com/42nt5unn",
     "xPostUrl": "https://x.com/C3Heditor/status/2075586350309331159",
     "imageUrl": "https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-07-10_092253.jpg",
-    "tags": ["Judiciary-Judicial", "Democrat Party", "U.S. Congress"],
+    "tags": ["Judiciary-Judicial", "U.S. Congress"],
     "page": 3,
     "batchDate": "July 10, 2026"
   },
@@ -440,7 +440,7 @@ const articles = [
     "tinyUrl": "https://tinyurl.com/4wtv5jtd",
     "xPostUrl": "https://x.com/C3Heditor/status/2075553988523553071",
     "imageUrl": "https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-07-10_071402.jpg",
-    "tags": ["Israel", "Democrat Party", "Politics"],
+    "tags": ["Israel", "Politics"],
     "page": 3,
     "batchDate": "July 10, 2026"
   },
@@ -467,7 +467,7 @@ const articles = [
     "tinyUrl": "https://tinyurl.com/5bd8e8rw",
     "xPostUrl": "https://x.com/C3Heditor/status/2075547941264109573",
     "imageUrl": "https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-07-10_065000.jpg",
-    "tags": ["Socialism", "Democrat Party", "Politics"],
+    "tags": ["Socialism", "Politics"],
     "page": 3,
     "batchDate": "July 10, 2026"
   },
@@ -476,7 +476,7 @@ const articles = [
     "tinyUrl": "https://tinyurl.com/4junvkfe",
     "xPostUrl": "https://x.com/C3Heditor/status/2075545986546487414",
     "imageUrl": "https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-07-10_064217.jpg",
-    "tags": ["SPLC", "Racial Issues", "Democrat Party"],
+    "tags": ["SPLC", "Racial Issues"],
     "page": 3,
     "batchDate": "July 10, 2026"
   },
@@ -485,7 +485,7 @@ const articles = [
     "tinyUrl": "https://tinyurl.com/54m6bens",
     "xPostUrl": "https://x.com/C3Heditor/status/2075543829638173111",
     "imageUrl": "https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-07-10_063337.jpg",
-    "tags": ["Patriotism", "Democrat Party", "Culture War"],
+    "tags": ["Patriotism", "Culture War"],
     "page": 3,
     "batchDate": "July 10, 2026"
   },
@@ -494,7 +494,7 @@ const articles = [
     "tinyUrl": "https://tinyurl.com/m2thba44",
     "xPostUrl": "https://x.com/C3Heditor/status/2075543055252279499",
     "imageUrl": "https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-07-10_063046.jpg",
-    "tags": ["Racial Issues", "Polling", "Patriotism", "Democrat Party"],
+    "tags": ["Racial Issues", "Polling", "Patriotism"],
     "page": 3,
     "batchDate": "July 10, 2026"
   },
@@ -503,7 +503,7 @@ const articles = [
     "tinyUrl": "https://tinyurl.com/4km6wduh",
     "xPostUrl": "https://x.com/C3Heditor/status/2075556280698040605",
     "imageUrl": "https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-07-10_062733.jpg",
-    "tags": ["California", "Education Policy", "Democrat Party"],
+    "tags": ["California", "Education Policy"],
     "page": 3,
     "batchDate": "July 10, 2026"
   },
@@ -521,7 +521,7 @@ const articles = [
     "tinyUrl": "https://tinyurl.com/mwyu6kaa",
     "xPostUrl": "https://x.com/C3Heditor/status/2075540195420565533",
     "imageUrl": "https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-07-10_061913.jpg",
-    "tags": ["Illinois", "Sexual Misconduct", "Democrat Party"],
+    "tags": ["Illinois", "Sexual Misconduct"],
     "page": 3,
     "batchDate": "July 10, 2026"
   },
@@ -530,7 +530,7 @@ const articles = [
     "tinyUrl": "https://tinyurl.com/yc4vmrwe",
     "xPostUrl": "https://x.com/C3Heditor/status/2075538901435859264",
     "imageUrl": "https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-07-10_061410.jpg",
-    "tags": ["Graham Platner", "Eric Swalwell", "Sexual Misconduct", "Democrat Party"],
+    "tags": ["Graham Platner", "Eric Swalwell", "Sexual Misconduct"],
     "page": 3,
     "batchDate": "July 10, 2026"
   },
@@ -539,7 +539,7 @@ const articles = [
     "tinyUrl": "https://tinyurl.com/2s3hnzef",
     "xPostUrl": "https://x.com/C3Heditor/status/2075537688703148266",
     "imageUrl": "https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-07-10_060924.jpg",
-    "tags": ["Media Bias", "Sexual Misconduct", "Democrat Party"],
+    "tags": ["Media Bias", "Sexual Misconduct"],
     "page": 3,
     "batchDate": "July 10, 2026"
   },
@@ -548,7 +548,7 @@ const articles = [
     "tinyUrl": "https://tinyurl.com/4x6j33n3",
     "xPostUrl": "https://x.com/C3Heditor/status/2071702652170436881",
     "imageUrl": "https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-06-29_161124.jpg",
-    "tags": ["Roy Cooper", "North Carolina", "Violent Crime", "Democrat Party"],
+    "tags": ["Roy Cooper", "North Carolina", "Violent Crime"],
     "page": 4,
     "batchDate": "June 29, 2026"
   },
@@ -557,7 +557,7 @@ const articles = [
     "tinyUrl": "https://tinyurl.com/55t4jm6r",
     "xPostUrl": "https://x.com/C3Heditor/status/2071702056755466651",
     "imageUrl": "https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-06-29_160743.jpg",
-    "tags": ["James Carville", "New York", "Racial Issues", "Democrat Party"],
+    "tags": ["James Carville", "New York", "Racial Issues"],
     "page": 4,
     "batchDate": "June 29, 2026"
   },
@@ -566,7 +566,7 @@ const articles = [
     "tinyUrl": "https://tinyurl.com/dvnh7rc7",
     "xPostUrl": "https://x.com/C3Heditor/status/2071701081583915457",
     "imageUrl": "https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-06-29_160353.jpg",
-    "tags": ["Gavin Newsom", "California", "Corruption-Fraud", "Democrat Party"],
+    "tags": ["Gavin Newsom", "California", "Corruption-Fraud"],
     "page": 4,
     "batchDate": "June 29, 2026"
   },
@@ -593,7 +593,7 @@ const articles = [
     "tinyUrl": "https://tinyurl.com/4mehan58",
     "xPostUrl": "https://x.com/C3Heditor/status/2071698618571215254",
     "imageUrl": "https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-06-29_155412.jpg",
-    "tags": ["Kirsten Gillibrand", "New York", "Corruption-Fraud", "Democrat Party"],
+    "tags": ["Kirsten Gillibrand", "New York", "Corruption-Fraud"],
     "page": 4,
     "batchDate": "June 29, 2026"
   },
@@ -602,7 +602,7 @@ const articles = [
     "tinyUrl": "https://tinyurl.com/54cmth5a",
     "xPostUrl": "https://x.com/C3Heditor/status/2071696498841243909",
     "imageUrl": "https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-06-29_154540.jpg",
-    "tags": ["Debbie Wasserman Schultz", "Racial Issues", "Democrat Party"],
+    "tags": ["Debbie Wasserman Schultz", "Racial Issues"],
     "page": 4,
     "batchDate": "June 29, 2026"
   },
@@ -611,7 +611,7 @@ const articles = [
     "tinyUrl": "https://tinyurl.com/y75k4mam",
     "xPostUrl": "https://x.com/C3Heditor/status/2071695731816345803",
     "imageUrl": "https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-06-29_154258.jpg",
-    "tags": ["Climate Change", "Economic Policy", "Left-Wing", "Democrat Party"],
+    "tags": ["Climate Change", "Economic Policy", "Left-Wing"],
     "page": 4,
     "batchDate": "June 29, 2026"
   },
@@ -620,7 +620,7 @@ const articles = [
     "tinyUrl": "https://tinyurl.com/45p34ruc",
     "xPostUrl": "https://x.com/C3Heditor/status/2071694912823984362",
     "imageUrl": "https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-06-29_153928.jpg",
-    "tags": ["Culture War", "Racial Issues", "Democrat Party"],
+    "tags": ["Culture War", "Racial Issues"],
     "page": 4,
     "batchDate": "June 29, 2026"
   },
@@ -629,7 +629,7 @@ const articles = [
     "tinyUrl": "https://tinyurl.com/mr24hfw9",
     "xPostUrl": "https://x.com/C3Heditor/status/2071693768613351587",
     "imageUrl": "https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-06-29_153454.jpg",
-    "tags": ["Graham Platner", "Maine", "2026 Elections", "Democrat Party"],
+    "tags": ["Graham Platner", "Maine", "2026 Elections"],
     "page": 4,
     "batchDate": "June 29, 2026"
   },
@@ -647,7 +647,7 @@ const articles = [
     "tinyUrl": "https://tinyurl.com/v6j4wptn",
     "xPostUrl": "https://x.com/C3Heditor/status/2071691856182694209",
     "imageUrl": "https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-06-29_152742.jpg",
-    "tags": ["New York", "Socialism", "2026 Elections", "Democrat Party"],
+    "tags": ["New York", "Socialism", "2026 Elections"],
     "page": 4,
     "batchDate": "June 29, 2026"
   },
@@ -656,7 +656,7 @@ const articles = [
     "tinyUrl": "https://tinyurl.com/5n23sdc4",
     "xPostUrl": "https://x.com/C3Heditor/status/2071690925932183708",
     "imageUrl": "https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-06-29_152350.jpg",
-    "tags": ["Immigration", "Election Fraud", "Polling", "Democrat Party"],
+    "tags": ["Immigration", "Election Fraud", "Polling"],
     "page": 4,
     "batchDate": "June 29, 2026"
   },
@@ -665,7 +665,7 @@ const articles = [
     "tinyUrl": "https://tinyurl.com/2ektbspu",
     "xPostUrl": "https://x.com/C3Heditor/status/2071690461253664869",
     "imageUrl": "https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-06-29_152047.jpg",
-    "tags": ["California", "Healthcare Policy", "Immigration", "Democrat Party"],
+    "tags": ["California", "Healthcare Policy", "Immigration"],
     "page": 4,
     "batchDate": "June 29, 2026"
   },
@@ -674,7 +674,7 @@ const articles = [
     "tinyUrl": "https://tinyurl.com/a9ff2psf",
     "xPostUrl": "https://x.com/C3Heditor/status/2071689140014367057",
     "imageUrl": "https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-06-29_151626.jpg",
-    "tags": ["Media Bias", "Democrat Party", "Politics"],
+    "tags": ["Media Bias", "Politics"],
     "page": 4,
     "batchDate": "June 29, 2026"
   },
@@ -692,7 +692,7 @@ const articles = [
     "tinyUrl": "https://tinyurl.com/y9cbnvap",
     "xPostUrl": "https://x.com/C3Heditor/status/2071687258281746597",
     "imageUrl": "https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-06-29_150618.jpg",
-    "tags": ["Brandon Johnson", "Chicago", "Violent Crime", "Democrat Party"],
+    "tags": ["Brandon Johnson", "Chicago", "Violent Crime"],
     "page": 4,
     "batchDate": "June 29, 2026"
   },
@@ -701,7 +701,7 @@ const articles = [
     "tinyUrl": "https://tinyurl.com/njxzbb3f",
     "xPostUrl": "https://x.com/C3Heditor/status/2071686265108320691",
     "imageUrl": "https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-06-29_145747.jpg",
-    "tags": ["Culture War", "Democrat Party"],
+    "tags": ["Culture War"],
     "page": 4,
     "batchDate": "June 29, 2026"
   },
@@ -710,7 +710,7 @@ const articles = [
     "tinyUrl": "https://tinyurl.com/ykewd34t",
     "xPostUrl": "https://x.com/C3Heditor/status/2071683779559616637",
     "imageUrl": "https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-06-29_145525.jpg",
-    "tags": ["Judiciary-Judicial", "Immigration", "Democrat Party"],
+    "tags": ["Judiciary-Judicial", "Immigration"],
     "page": 4,
     "batchDate": "June 29, 2026"
   },
@@ -719,7 +719,7 @@ const articles = [
     "tinyUrl": "https://tinyurl.com/ys2hkpw2",
     "xPostUrl": "https://x.com/C3Heditor/status/2071682870439981170",
     "imageUrl": "https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-06-29_145130.jpg",
-    "tags": ["Racial Issues", "Polling", "Democrat Party"],
+    "tags": ["Racial Issues", "Polling"],
     "page": 4,
     "batchDate": "June 29, 2026"
   },
@@ -746,7 +746,7 @@ const articles = [
     "tinyUrl": "https://tinyurl.com/ysmpv3t3",
     "xPostUrl": "https://x.com/C3Heditor/status/2069909133323538772",
     "imageUrl": "https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-06-24_172323.jpg",
-    "tags": ["Immigration", "Texas", "CBP-DHS-ICE", "Democrat Party"],
+    "tags": ["Immigration", "Texas", "CBP-DHS-ICE"],
     "page": 5,
     "batchDate": "June 24, 2026"
   },
@@ -755,7 +755,7 @@ const articles = [
     "tinyUrl": "https://tinyurl.com/ssby7z8v",
     "xPostUrl": "https://x.com/C3Heditor/status/2069906603784978449",
     "imageUrl": "https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-06-24_171407.jpg",
-    "tags": ["Chuck Schumer", "Election Fraud", "Immigration", "Democrat Party"],
+    "tags": ["Chuck Schumer", "Election Fraud", "Immigration"],
     "page": 5,
     "batchDate": "June 24, 2026"
   },
@@ -764,7 +764,7 @@ const articles = [
     "tinyUrl": "https://tinyurl.com/z8vsyd5a",
     "xPostUrl": "https://x.com/C3Heditor/status/2069903659446554789",
     "imageUrl": "https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-06-24_171024.jpg",
-    "tags": ["Culture War", "Democrat Party", "Polling"],
+    "tags": ["Culture War", "Polling"],
     "page": 5,
     "batchDate": "June 24, 2026"
   },
@@ -773,7 +773,7 @@ const articles = [
     "tinyUrl": "https://tinyurl.com/msd5m975",
     "xPostUrl": "https://x.com/C3Heditor/status/2069902959836557791",
     "imageUrl": "https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-06-24_165849.jpg",
-    "tags": ["Corruption-Fraud", "California", "Homeless", "Democrat Party"],
+    "tags": ["Corruption-Fraud", "California", "Homeless"],
     "page": 5,
     "batchDate": "June 24, 2026"
   },
@@ -782,7 +782,7 @@ const articles = [
     "tinyUrl": "https://tinyurl.com/yt4y8uc2",
     "xPostUrl": "https://x.com/C3Heditor/status/2069901792171704810",
     "imageUrl": "https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-06-24_165409.jpg",
-    "tags": ["Gavin Newsom", "California", "Economic Policy", "Democrat Party"],
+    "tags": ["Gavin Newsom", "California", "Economic Policy"],
     "page": 5,
     "batchDate": "June 24, 2026"
   },
@@ -791,7 +791,7 @@ const articles = [
     "tinyUrl": "https://tinyurl.com/vfvs7m3u",
     "xPostUrl": "https://x.com/C3Heditor/status/2069898011593855124",
     "imageUrl": "https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-06-24_132844.jpg",
-    "tags": ["Illinois", "Immigration", "Education Policy", "Democrat Party"],
+    "tags": ["Illinois", "Immigration", "Education Policy"],
     "page": 5,
     "batchDate": "June 24, 2026"
   },
@@ -800,7 +800,7 @@ const articles = [
     "tinyUrl": "https://tinyurl.com/mt439dav",
     "xPostUrl": "https://x.com/C3Heditor/status/2069892265560957171",
     "imageUrl": "https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-06-24_162311.jpg",
-    "tags": ["California", "Economic Policy", "Socialism", "Democrat Party"],
+    "tags": ["California", "Economic Policy", "Socialism"],
     "page": 5,
     "batchDate": "June 24, 2026"
   },
@@ -809,7 +809,7 @@ const articles = [
     "tinyUrl": "https://tinyurl.com/53c6e5ju",
     "xPostUrl": "https://x.com/C3Heditor/status/2069886653087244411",
     "imageUrl": "https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-06-24_155406.jpg",
-    "tags": ["Chicago", "Obama Presidential Center", "Corruption-Fraud", "Democrat Party"],
+    "tags": ["Chicago", "Obama Presidential Center", "Corruption-Fraud"],
     "page": 5,
     "batchDate": "June 24, 2026"
   },
@@ -827,7 +827,7 @@ const articles = [
     "tinyUrl": "https://tinyurl.com/4uc58d38",
     "xPostUrl": "https://x.com/C3Heditor/status/2069884771048562963",
     "imageUrl": "https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-06-24_154644.jpg",
-    "tags": ["Roy Cooper", "Corruption-Fraud", "Immigration", "Democrat Party"],
+    "tags": ["Roy Cooper", "Corruption-Fraud", "Immigration"],
     "page": 5,
     "batchDate": "June 24, 2026"
   },
@@ -836,7 +836,7 @@ const articles = [
     "tinyUrl": "https://tinyurl.com/44y4xhvh",
     "xPostUrl": "https://x.com/C3Heditor/status/2069883424806961312",
     "imageUrl": "https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-06-24_154112.jpg",
-    "tags": ["Virginia", "Racial Issues", "Culture War", "Democrat Party"],
+    "tags": ["Virginia", "Racial Issues", "Culture War"],
     "page": 5,
     "batchDate": "June 24, 2026"
   },
@@ -845,7 +845,7 @@ const articles = [
     "tinyUrl": "https://tinyurl.com/ymakc29b",
     "xPostUrl": "https://x.com/C3Heditor/status/2069882548335903198",
     "imageUrl": "https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-06-24_153811.jpg",
-    "tags": ["Left-Wing", "Vandalism", "DOJ", "Democrat Party"],
+    "tags": ["Left-Wing", "Vandalism", "DOJ"],
     "page": 5,
     "batchDate": "June 24, 2026"
   },
@@ -854,7 +854,7 @@ const articles = [
     "tinyUrl": "https://tinyurl.com/4y42a6nm",
     "xPostUrl": "https://x.com/C3Heditor/status/2069881278288044529",
     "imageUrl": "https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-06-24_153347.jpg",
-    "tags": ["Graham Platner", "2026 Elections", "Maine", "Democrat Party"],
+    "tags": ["Graham Platner", "2026 Elections", "Maine"],
     "page": 5,
     "batchDate": "June 24, 2026"
   },
@@ -890,7 +890,7 @@ const articles = [
     "tinyUrl": "https://tinyurl.com/v2fjs2zd",
     "xPostUrl": "https://x.com/C3Heditor/status/2069854496184795536",
     "imageUrl": "https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-06-24_134616.jpg",
-    "tags": ["Foreign Policy", "Iran", "Democrat Party"],
+    "tags": ["Foreign Policy", "Iran"],
     "page": 5,
     "batchDate": "June 24, 2026"
   },
@@ -899,7 +899,7 @@ const articles = [
     "tinyUrl": "https://tinyurl.com/3ad7zj8p",
     "xPostUrl": "https://x.com/C3Heditor/status/2069853604693877108",
     "imageUrl": "https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-06-24_134310.jpg",
-    "tags": ["New York", "Socialism", "2026 Elections", "Democrat Party"],
+    "tags": ["New York", "Socialism", "2026 Elections"],
     "page": 5,
     "batchDate": "June 24, 2026"
   },
@@ -908,7 +908,7 @@ const articles = [
     "tinyUrl": "https://tinyurl.com/35ku53zc",
     "xPostUrl": "https://x.com/C3Heditor/status/2069111052499861870",
     "imageUrl": "https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-06-22_123205.jpg",
-    "tags": ["Graham Platner", "2026 Elections", "Law Enforcement", "Democrat Party"],
+    "tags": ["Graham Platner", "2026 Elections", "Law Enforcement"],
     "page": 6,
     "batchDate": "June 22, 2026"
   },
@@ -917,7 +917,7 @@ const articles = [
     "tinyUrl": "https://tinyurl.com/y63mmbfk",
     "xPostUrl": "https://x.com/C3Heditor/status/2069110471488119204",
     "imageUrl": "https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-06-22_122945.jpg",
-    "tags": ["Immigration", "Terrorism", "National Security", "Democrat Party"],
+    "tags": ["Immigration", "Terrorism", "National Security"],
     "page": 6,
     "batchDate": "June 22, 2026"
   },
@@ -926,7 +926,7 @@ const articles = [
     "tinyUrl": "https://tinyurl.com/59jrbfn6",
     "xPostUrl": "https://x.com/C3Heditor/status/2069109808603476406",
     "imageUrl": "https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-06-22_122711.jpg",
-    "tags": ["Immigration", "Terrorism", "National Security", "Democrat Party"],
+    "tags": ["Immigration", "Terrorism", "National Security"],
     "page": 6,
     "batchDate": "June 22, 2026"
   },
@@ -935,7 +935,7 @@ const articles = [
     "tinyUrl": "https://tinyurl.com/79b73cf8",
     "xPostUrl": "https://x.com/C3Heditor/status/2069109046653694006",
     "imageUrl": "https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-06-22_122428.jpg",
-    "tags": ["Abigail Spanberger", "Virginia", "LGBTQ", "Democrat Party"],
+    "tags": ["Abigail Spanberger", "Virginia", "LGBTQ"],
     "page": 6,
     "batchDate": "June 22, 2026"
   },
@@ -962,7 +962,7 @@ const articles = [
     "tinyUrl": "https://tinyurl.com/w8ubjjn7",
     "xPostUrl": "https://x.com/C3Heditor/status/2069106767477235748",
     "imageUrl": "https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-06-22_121505.jpg",
-    "tags": ["Immigration", "New Jersey", "Left-Wing", "Democrat Party"],
+    "tags": ["Immigration", "New Jersey", "Left-Wing"],
     "page": 6,
     "batchDate": "June 22, 2026"
   },
@@ -980,7 +980,7 @@ const articles = [
     "tinyUrl": "https://tinyurl.com/3k6c73fe",
     "xPostUrl": "https://x.com/C3Heditor/status/2069105517285220816",
     "imageUrl": "https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-06-22_121007.jpg",
-    "tags": ["Election Fraud", "FBI", "George Soros", "Democrat Party"],
+    "tags": ["Election Fraud", "FBI", "George Soros"],
     "page": 6,
     "batchDate": "June 22, 2026"
   },
@@ -989,7 +989,7 @@ const articles = [
     "tinyUrl": "https://tinyurl.com/44k4wk4m",
     "xPostUrl": "https://x.com/C3Heditor/status/2069104956276142172",
     "imageUrl": "https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-06-22_120747.jpg",
-    "tags": ["James Talarico", "2026 Elections", "Corruption-Fraud", "Democrat Party"],
+    "tags": ["James Talarico", "2026 Elections", "Corruption-Fraud"],
     "page": 6,
     "batchDate": "June 22, 2026"
   },
@@ -998,7 +998,7 @@ const articles = [
     "tinyUrl": "https://tinyurl.com/5avpmbrm",
     "xPostUrl": "https://x.com/C3Heditor/status/2069093073296953608",
     "imageUrl": "https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-06-22_112049.jpg",
-    "tags": ["Gabe Vasquez", "New Mexico", "Corruption-Fraud", "Democrat Party"],
+    "tags": ["Gabe Vasquez", "New Mexico", "Corruption-Fraud"],
     "page": 6,
     "batchDate": "June 22, 2026"
   },
@@ -1007,7 +1007,7 @@ const articles = [
     "tinyUrl": "https://tinyurl.com/44thevvd",
     "xPostUrl": "https://x.com/C3Heditor/status/2069092412564046093",
     "imageUrl": "https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-06-22_111451.jpg",
-    "tags": ["2026 Elections", "Election Fraud", "Democrat Party"],
+    "tags": ["2026 Elections", "Election Fraud"],
     "page": 6,
     "batchDate": "June 22, 2026"
   },
@@ -1025,7 +1025,7 @@ const articles = [
     "tinyUrl": "https://tinyurl.com/ytsb48am",
     "xPostUrl": "https://x.com/C3Heditor/status/2069090194171519360",
     "imageUrl": "https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-06-22_110917.jpg",
-    "tags": ["Socialism", "Economic Policy", "Left-Wing", "Democrat Party"],
+    "tags": ["Socialism", "Economic Policy", "Left-Wing"],
     "page": 6,
     "batchDate": "June 22, 2026"
   },
@@ -1043,7 +1043,7 @@ const articles = [
     "tinyUrl": "https://tinyurl.com/342fucsw",
     "xPostUrl": "https://x.com/C3Heditor/status/2069088451509543224",
     "imageUrl": "https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-06-22_110216.jpg",
-    "tags": ["San Francisco", "Culture War", "Media Bias", "Democrat Party"],
+    "tags": ["San Francisco", "Culture War", "Media Bias"],
     "page": 6,
     "batchDate": "June 22, 2026"
   },
@@ -1052,7 +1052,7 @@ const articles = [
     "tinyUrl": "https://tinyurl.com/yj3uh5n4",
     "xPostUrl": "https://x.com/C3Heditor/status/2069087815585894609",
     "imageUrl": "https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-06-22_105955.jpg",
-    "tags": ["Education Policy", "LGBTQ", "Colorado", "Democrat Party"],
+    "tags": ["Education Policy", "LGBTQ", "Colorado"],
     "page": 6,
     "batchDate": "June 22, 2026"
   },
@@ -1061,7 +1061,7 @@ const articles = [
     "tinyUrl": "https://tinyurl.com/y2jpmuru",
     "xPostUrl": "https://x.com/C3Heditor/status/2069087077635862961",
     "imageUrl": "https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-06-22_105652.jpg",
-    "tags": ["Election Fraud", "California", "DOJ", "Democrat Party"],
+    "tags": ["Election Fraud", "California", "DOJ"],
     "page": 6,
     "batchDate": "June 22, 2026"
   },
@@ -1079,7 +1079,7 @@ const articles = [
     "tinyUrl": "https://tinyurl.com/yu7f53f2",
     "xPostUrl": "https://x.com/C3Heditor/status/2069085223535440279",
     "imageUrl": "https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-06-22_104927.jpg",
-    "tags": ["Socialism", "Left-Wing", "Violence", "Democrat Party"],
+    "tags": ["Socialism", "Left-Wing", "Violence"],
     "page": 6,
     "batchDate": "June 22, 2026"
   },
@@ -1088,7 +1088,7 @@ const articles = [
     "tinyUrl": "https://tinyurl.com/4khjhu5j",
     "xPostUrl": "https://x.com/C3Heditor/status/2068815444417380814",
     "imageUrl": "https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-06-21_165723.jpg",
-    "tags": ["Darializa Avila Chevalier", "NYC", "Corruption-Fraud", "Democrat Party"],
+    "tags": ["Darializa Avila Chevalier", "NYC", "Corruption-Fraud"],
     "page": 7,
     "batchDate": "June 21, 2026"
   },
@@ -1097,7 +1097,7 @@ const articles = [
     "tinyUrl": "https://tinyurl.com/mr2x2adz",
     "xPostUrl": "https://x.com/C3Heditor/status/2068814758761881851",
     "imageUrl": "https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-06-21_165440.jpg",
-    "tags": ["Democrat Party", "Patriotism", "Culture War", "Politics"],
+    "tags": ["Patriotism", "Culture War", "Politics"],
     "page": 7,
     "batchDate": "June 21, 2026"
   },
@@ -1106,7 +1106,7 @@ const articles = [
     "tinyUrl": "https://tinyurl.com/y2v9z6hn",
     "xPostUrl": "https://x.com/C3Heditor/status/2068813325161361731",
     "imageUrl": "https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-06-21_164900.jpg",
-    "tags": ["Wes Moore", "Maryland", "Democrat Party", "Criminal Investigation"],
+    "tags": ["Wes Moore", "Maryland", "Criminal Investigation"],
     "page": 7,
     "batchDate": "June 21, 2026"
   },
@@ -1115,7 +1115,7 @@ const articles = [
     "tinyUrl": "https://tinyurl.com/ykjvryte",
     "xPostUrl": "https://x.com/C3Heditor/status/2068812197665354122",
     "imageUrl": "https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-06-21_164428.jpg",
-    "tags": ["Connecticut", "Election Fraud", "Democrat Party", "Criminal Investigation"],
+    "tags": ["Connecticut", "Election Fraud", "Criminal Investigation"],
     "page": 7,
     "batchDate": "June 21, 2026"
   },
@@ -1124,7 +1124,7 @@ const articles = [
     "tinyUrl": "https://tinyurl.com/mrxnp8j7",
     "xPostUrl": "https://x.com/C3Heditor/status/2068811137185874387",
     "imageUrl": "https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-06-21_163832.jpg",
-    "tags": ["Chicago", "Hate", "Democrat Party", "Racial Issues"],
+    "tags": ["Chicago", "Hate", "Racial Issues"],
     "page": 7,
     "batchDate": "June 21, 2026"
   },
@@ -1133,7 +1133,7 @@ const articles = [
     "tinyUrl": "https://tinyurl.com/34t8mvs9",
     "xPostUrl": "https://x.com/C3Heditor/status/2068810150790529107",
     "imageUrl": "https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-06-21_163618.jpg",
-    "tags": ["California", "LGBTQ", "Democrat Party", "Economic Policy"],
+    "tags": ["California", "LGBTQ", "Economic Policy"],
     "page": 7,
     "batchDate": "June 21, 2026"
   },
@@ -1142,7 +1142,7 @@ const articles = [
     "tinyUrl": "https://tinyurl.com/5489eu8c",
     "xPostUrl": "https://x.com/C3Heditor/status/2068809693967856029",
     "imageUrl": "https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-06-21_163430.jpg",
-    "tags": ["LGBTQ", "Democrat Party", "Felony Charges", "Sexual Misconduct"],
+    "tags": ["LGBTQ", "Felony Charges", "Sexual Misconduct"],
     "page": 7,
     "batchDate": "June 21, 2026"
   },
@@ -1151,7 +1151,7 @@ const articles = [
     "tinyUrl": "https://tinyurl.com/5akcjrhv",
     "xPostUrl": "https://x.com/C3Heditor/status/2068808467888955850",
     "imageUrl": "https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-06-21_162950.jpg",
-    "tags": ["Socialism", "Democrat Party", "U.S. Constitution", "Politics"],
+    "tags": ["Socialism", "U.S. Constitution", "Politics"],
     "page": 7,
     "batchDate": "June 21, 2026"
   },
@@ -1160,7 +1160,7 @@ const articles = [
     "tinyUrl": "https://tinyurl.com/mr33pjy4",
     "xPostUrl": "https://x.com/C3Heditor/status/2068809024791891993",
     "imageUrl": "https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-06-21_163153.jpg",
-    "tags": ["Gun Control", "Blue States", "Business Relocation", "Democrat Party"],
+    "tags": ["Gun Control", "Blue States", "Business Relocation"],
     "page": 7,
     "batchDate": "June 21, 2026"
   },
@@ -1169,7 +1169,7 @@ const articles = [
     "tinyUrl": "https://tinyurl.com/msfvp7nb",
     "xPostUrl": "https://x.com/C3Heditor/status/2068807887082664133",
     "imageUrl": "https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-06-21_162733.jpg",
-    "tags": ["Democrat Party", "Weaponization", "Left-Wing", "DOJ"],
+    "tags": ["Weaponization", "Left-Wing", "DOJ"],
     "page": 7,
     "batchDate": "June 21, 2026"
   },
@@ -1205,7 +1205,7 @@ const articles = [
     "tinyUrl": "https://tinyurl.com/yjnfcnmj",
     "xPostUrl": "https://x.com/C3Heditor/status/2068805379689988297",
     "imageUrl": "https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-06-21_161725.jpg",
-    "tags": ["Arizona", "Kris Mayes", "Weaponization", "Democrat Party"],
+    "tags": ["Arizona", "Kris Mayes", "Weaponization"],
     "page": 7,
     "batchDate": "June 21, 2026"
   },
@@ -1232,7 +1232,7 @@ const articles = [
     "tinyUrl": "https://tinyurl.com/2cbxnbek",
     "xPostUrl": "https://x.com/C3Heditor/status/2068803636935676030",
     "imageUrl": "https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-06-21_161030.jpg",
-    "tags": ["Janeese Lewis George", "WashingtonDC", "Violent Crime", "Democrat Party"],
+    "tags": ["Janeese Lewis George", "WashingtonDC", "Violent Crime"],
     "page": 7,
     "batchDate": "June 21, 2026"
   },
@@ -1241,7 +1241,7 @@ const articles = [
     "tinyUrl": "https://tinyurl.com/3z5p6wz4",
     "xPostUrl": "https://x.com/C3Heditor/status/2068802946721051089",
     "imageUrl": "https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-06-21_160826.jpg",
-    "tags": ["Abdul El-Sayed", "Michigan", "Islam-Muslim", "Democrat Party"],
+    "tags": ["Abdul El-Sayed", "Michigan", "Islam-Muslim"],
     "page": 7,
     "batchDate": "June 21, 2026"
   },
@@ -1250,7 +1250,7 @@ const articles = [
     "tinyUrl": "https://tinyurl.com/yedjvsch",
     "xPostUrl": "https://x.com/C3Heditor/status/2068802359619191005",
     "imageUrl": "https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-06-21_160529.jpg",
-    "tags": ["Ro Khanna", "Graham Platner", "Sexual Misconduct", "Democrat Party"],
+    "tags": ["Ro Khanna", "Graham Platner", "Sexual Misconduct"],
     "page": 7,
     "batchDate": "June 21, 2026"
   },
@@ -1277,7 +1277,7 @@ const articles = [
     "tinyUrl": "https://tinyurl.com/4nn4hf4m",
     "xPostUrl": "https://x.com/C3Heditor/status/2066987835945570716",
     "imageUrl": "https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/DgIHArJKfyFMesaV.jpg",
-    "tags": ["Democrat Party"],
+    "tags": [],
     "page": 8,
     "batchDate": "June 16, 2026"
   },
@@ -1286,7 +1286,7 @@ const articles = [
     "tinyUrl": "https://tinyurl.com/4nn4hf4m",
     "xPostUrl": "https://x.com/C3Heditor/status/2066987135974912285",
     "imageUrl": "https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/dPpfBwvsHhBdqpeZ.jpg",
-    "tags": ["Biden Administration", "LGBTQ", "Democrat Party"],
+    "tags": ["Biden Administration", "LGBTQ"],
     "page": 8,
     "batchDate": "June 16, 2026"
   },
@@ -1313,7 +1313,7 @@ const articles = [
     "tinyUrl": "https://tinyurl.com/yc6nkpw7",
     "xPostUrl": "https://x.com/C3Heditor/status/2066984017413415333",
     "imageUrl": "https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/kdDOaWmZWHfkRMNS.jpg",
-    "tags": ["Zohran Mamdani", "NYC", "Democrat Party"],
+    "tags": ["Zohran Mamdani", "NYC"],
     "page": 8,
     "batchDate": "June 16, 2026"
   },
@@ -1331,7 +1331,7 @@ const articles = [
     "tinyUrl": "https://tinyurl.com/4m9a945p",
     "xPostUrl": "https://x.com/C3Heditor/status/2066982232128962991",
     "imageUrl": "https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/JDlSzEoOhqSizOnS.jpg",
-    "tags": ["California", "Los Angeles", "Democrat Party"],
+    "tags": ["California", "Los Angeles"],
     "page": 8,
     "batchDate": "June 16, 2026"
   },
@@ -1349,7 +1349,7 @@ const articles = [
     "tinyUrl": "https://tinyurl.com/4ck6aye6",
     "xPostUrl": "https://x.com/C3Heditor/status/2066980729242706219",
     "imageUrl": "https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/xkzvDanyfYEIsFdY.jpg",
-    "tags": ["Philadelphia", "Democrat Party"],
+    "tags": ["Philadelphia"],
     "page": 8,
     "batchDate": "June 16, 2026"
   },
@@ -1358,7 +1358,7 @@ const articles = [
     "tinyUrl": "https://tinyurl.com/bdh72a5t",
     "xPostUrl": "https://x.com/C3Heditor/status/2066978586142142819",
     "imageUrl": "https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/VUjhxttqsyQSjZEp.jpg",
-    "tags": ["Immigration", "Racial Issues", "Democrat Party"],
+    "tags": ["Immigration", "Racial Issues"],
     "page": 8,
     "batchDate": "June 16, 2026"
   },
@@ -1367,7 +1367,7 @@ const articles = [
     "tinyUrl": "https://tinyurl.com/4rpa9bjs",
     "xPostUrl": "https://x.com/C3Heditor/status/2066978140727996600",
     "imageUrl": "https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/DDesvXefRtijZcAh.jpg",
-    "tags": ["CBP-DHS-ICE", "Immigration", "Democrat Party"],
+    "tags": ["CBP-DHS-ICE", "Immigration"],
     "page": 8,
     "batchDate": "June 16, 2026"
   },
@@ -1385,7 +1385,7 @@ const articles = [
     "tinyUrl": "https://tinyurl.com/mwcbzsdf",
     "xPostUrl": "https://x.com/C3Heditor/status/2066976981011317114",
     "imageUrl": "https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/jMzOPtLOupvBOQBN.jpg",
-    "tags": ["CBP-DHS-ICE", "Immigration", "Democrat Party"],
+    "tags": ["CBP-DHS-ICE", "Immigration"],
     "page": 8,
     "batchDate": "June 16, 2026"
   },
@@ -1394,7 +1394,7 @@ const articles = [
     "tinyUrl": "https://tinyurl.com/2s3wrfe5",
     "xPostUrl": "https://x.com/C3Heditor/status/2066976391787094264",
     "imageUrl": "https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/cZIkVhZosksEMrix.jpg",
-    "tags": ["Hunter Biden", "Gavin Newsom", "Democrat Party"],
+    "tags": ["Hunter Biden", "Gavin Newsom"],
     "page": 8,
     "batchDate": "June 16, 2026"
   },
@@ -1430,7 +1430,7 @@ const articles = [
     "tinyUrl": "https://tinyurl.com/2xxk55fh",
     "xPostUrl": "https://x.com/C3Heditor/status/2066972192911262140",
     "imageUrl": "https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/oFmZcCRsgZDaQjXJ.jpg",
-    "tags": ["Democrat Party", "2026 Elections", "Left-Wing"],
+    "tags": ["2026 Elections", "Left-Wing"],
     "page": 8,
     "batchDate": "June 16, 2026"
   },
@@ -1439,7 +1439,7 @@ const articles = [
     "tinyUrl": "https://tinyurl.com/42k3yrxx",
     "xPostUrl": "https://x.com/C3Heditor/status/2066566439293603842",
     "imageUrl": "https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/YpcPQxVMUHCHfElL.jpg",
-    "tags": ["California", "Democrat Party", "Fareed Zakaria", "Mainstream Media"],
+    "tags": ["California", "Fareed Zakaria", "Mainstream Media"],
     "page": 8,
     "batchDate": "June 16, 2026"
   },
@@ -1448,7 +1448,7 @@ const articles = [
     "tinyUrl": "https://tinyurl.com/y8mbn3r7",
     "xPostUrl": "https://x.com/C3Heditor/status/2065510291371110591",
     "imageUrl": "https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-06-12_110945_16b0bea4.jpg",
-    "tags": ["California", "Democrat Party", "Government"],
+    "tags": ["California", "Government"],
     "page": 9,
     "batchDate": "June 12, 2026"
   },
@@ -1457,7 +1457,7 @@ const articles = [
     "tinyUrl": "https://tinyurl.com/ymtvx6ne",
     "xPostUrl": "https://x.com/C3Heditor/status/2065509254941798548",
     "imageUrl": "https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-06-12_139001_922d63a4.jpg",
-    "tags": ["California", "Government", "Democrat Party"],
+    "tags": ["California", "Government"],
     "page": 9,
     "batchDate": "June 12, 2026"
   },
@@ -1466,7 +1466,7 @@ const articles = [
     "tinyUrl": "https://tinyurl.com/3ufn2r3b",
     "xPostUrl": "https://x.com/C3Heditor/status/2065507885753233665",
     "imageUrl": "https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-06-12_135423_5866a5e6.jpg",
-    "tags": ["Summer Lee", "Reparations", "Racial Issues", "Democrat Party"],
+    "tags": ["Summer Lee", "Reparations", "Racial Issues"],
     "page": 9,
     "batchDate": "June 12, 2026"
   },
@@ -1475,7 +1475,7 @@ const articles = [
     "tinyUrl": "https://tinyurl.com/fc3ptrp2",
     "xPostUrl": "https://x.com/C3Heditor/status/2065507269849063429",
     "imageUrl": "https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-06-12_135206_84a0d131.jpg",
-    "tags": ["New Jersey", "Immigration", "Election Fraud", "Democrat Party"],
+    "tags": ["New Jersey", "Immigration", "Election Fraud"],
     "page": 9,
     "batchDate": "June 12, 2026"
   },
@@ -1502,7 +1502,7 @@ const articles = [
     "tinyUrl": "https://tinyurl.com/cbm7y84v",
     "xPostUrl": "https://x.com/C3Heditor/status/2065492254546952498",
     "imageUrl": "https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-06-12_125216_c264d270.jpg",
-    "tags": ["SPLC", "Racial Issues", "Democrat Party"],
+    "tags": ["SPLC", "Racial Issues"],
     "page": 9,
     "batchDate": "June 12, 2026"
   },
@@ -1520,7 +1520,7 @@ const articles = [
     "tinyUrl": "https://tinyurl.com/yc5a427x",
     "xPostUrl": "https://x.com/C3Heditor/status/2065487093023805543",
     "imageUrl": "https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-06-12_123143_89ad24d7.jpg",
-    "tags": ["Democrat Party", "Politics", "2026 Elections"],
+    "tags": ["Politics", "2026 Elections"],
     "page": 9,
     "batchDate": "June 12, 2026"
   },
@@ -1529,7 +1529,7 @@ const articles = [
     "tinyUrl": "https://tinyurl.com/39wutf9f",
     "xPostUrl": "https://x.com/C3Heditor/status/2065486385050513547",
     "imageUrl": "https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-06-12_122859_44189727.jpg",
-    "tags": ["2026 Elections", "Immigration", "Corruption-Fraud", "Democrat Party"],
+    "tags": ["2026 Elections", "Immigration", "Corruption-Fraud"],
     "page": 9,
     "batchDate": "June 12, 2026"
   },
@@ -1538,7 +1538,7 @@ const articles = [
     "tinyUrl": "https://tinyurl.com/yw43va4a",
     "xPostUrl": "https://x.com/C3Heditor/status/2065485497456066894",
     "imageUrl": "https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-06-12_122530_f9d4a5d0.jpg",
-    "tags": ["Graham Platner", "Mainstream Media", "Democrat Party", "Politics"],
+    "tags": ["Graham Platner", "Mainstream Media", "Politics"],
     "page": 9,
     "batchDate": "June 12, 2026"
   },
@@ -1547,7 +1547,7 @@ const articles = [
     "tinyUrl": "https://tinyurl.com/pbn8m4jv",
     "xPostUrl": "https://x.com/C3Heditor/status/2065483754194231784",
     "imageUrl": "https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-06-12_121926_ac9076f3.jpg",
-    "tags": ["CBP-DHS-ICE", "Immigration", "Democrat Party"],
+    "tags": ["CBP-DHS-ICE", "Immigration"],
     "page": 9,
     "batchDate": "June 12, 2026"
   },
@@ -1565,7 +1565,7 @@ const articles = [
     "tinyUrl": "https://tinyurl.com/3mp8nw7w",
     "xPostUrl": "https://x.com/C3Heditor/status/2065481666819223670",
     "imageUrl": "https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-06-12_121015_9083a5d9.jpg",
-    "tags": ["Illinois", "Taxation", "Government", "Democrat Party"],
+    "tags": ["Illinois", "Taxation", "Government"],
     "page": 9,
     "batchDate": "June 12, 2026"
   },
@@ -1583,7 +1583,7 @@ const articles = [
     "tinyUrl": "https://tinyurl.com/2jpdub7n",
     "xPostUrl": "https://x.com/C3Heditor/status/2065479088060375307",
     "imageUrl": "https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-06-12_120004_006e88b4.jpg",
-    "tags": ["Democrat Party", "Politics", "2026 Elections"],
+    "tags": ["Politics", "2026 Elections"],
     "page": 9,
     "batchDate": "June 12, 2026"
   },
@@ -1619,7 +1619,7 @@ const articles = [
     "tinyUrl": "https://tinyurl.com/583cxj77",
     "xPostUrl": "https://x.com/C3Heditor/status/2065474378913952037",
     "imageUrl": "https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-06-12_113718_0ddd9e22.jpg",
-    "tags": ["Democrat Party", "Politics", "Media Bias"],
+    "tags": ["Politics", "Media Bias"],
     "page": 9,
     "batchDate": "June 12, 2026"
   },
@@ -1646,7 +1646,7 @@ const articles = [
     "tinyUrl": "https://tinyurl.com/8wyymaz6",
     "xPostUrl": "https://x.com/C3Heditor/status/2064101700181320071",
     "imageUrl": "https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-06-08_164720_ff3769e1.jpg",
-    "tags": ["Democrat Party", "Politics", "Left-Wing", "Media Bias"],
+    "tags": ["Politics", "Left-Wing", "Media Bias"],
     "page": 10,
     "batchDate": "June 8, 2026"
   },
@@ -1655,7 +1655,7 @@ const articles = [
     "tinyUrl": "https://tinyurl.com/ysvxpdtp",
     "xPostUrl": "https://x.com/C3Heditor/status/2064101132432032136",
     "imageUrl": "https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-06-08_164437_a232a8a8.jpg",
-    "tags": ["Al Green", "Racial Issues", "Democrat Party"],
+    "tags": ["Al Green", "Racial Issues"],
     "page": 10,
     "batchDate": "June 8, 2026"
   },
@@ -1709,7 +1709,7 @@ const articles = [
     "tinyUrl": "https://tinyurl.com/44nrd5z6",
     "xPostUrl": "https://x.com/C3Heditor/status/2064096248332726436",
     "imageUrl": "https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-06-08_162506_bd25445c.jpg",
-    "tags": ["New Jersey", "Immigration", "CBP-DHS-ICE", "Democrat Party"],
+    "tags": ["New Jersey", "Immigration", "CBP-DHS-ICE"],
     "page": 10,
     "batchDate": "June 8, 2026"
   },
@@ -1727,7 +1727,7 @@ const articles = [
     "tinyUrl": "https://tinyurl.com/2wkx96pt",
     "xPostUrl": "https://x.com/C3Heditor/status/2064094969149657418",
     "imageUrl": "https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-06-08_161957_351dfd50.jpg",
-    "tags": ["Chicago", "Democrat Party", "Government"],
+    "tags": ["Chicago", "Government"],
     "page": 10,
     "batchDate": "June 8, 2026"
   },
@@ -1736,7 +1736,7 @@ const articles = [
     "tinyUrl": "https://tinyurl.com/yeu4m87f",
     "xPostUrl": "https://x.com/C3Heditor/status/2064094357641154589",
     "imageUrl": "https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-06-08_161742_700421c6.jpg",
-    "tags": ["California", "Democrat Party", "Government"],
+    "tags": ["California", "Government"],
     "page": 10,
     "batchDate": "June 8, 2026"
   },
@@ -1808,7 +1808,7 @@ const articles = [
     "tinyUrl": "https://tinyurl.com/nwwupx8f",
     "xPostUrl": "https://x.com/C3Heditor/status/2062934483095937075",
     "imageUrl": "https://static-assets.manus.space/manus-storage/2026-06-05_112850_e58fd9f8.jpg",
-    "tags": ["Election Fraud", "Democrat Party"],
+    "tags": ["Election Fraud"],
     "page": 11,
     "batchDate": "June 5, 2026"
   },
@@ -1826,7 +1826,7 @@ const articles = [
     "tinyUrl": "https://tinyurl.com/4bb2sjj9",
     "xPostUrl": "https://x.com/C3Heditor/status/2062932035610542590",
     "imageUrl": "https://static-assets.manus.space/manus-storage/2026-06-05_111856_0305279d.jpg",
-    "tags": ["Democrat Party", "Politics", "Left-Wing"],
+    "tags": ["Politics", "Left-Wing"],
     "page": 11,
     "batchDate": "June 5, 2026"
   },
@@ -1844,7 +1844,7 @@ const articles = [
     "tinyUrl": "https://tinyurl.com/4292nbyf",
     "xPostUrl": "https://x.com/C3Heditor/status/2062930769836650895",
     "imageUrl": "https://static-assets.manus.space/manus-storage/2026-06-05_111352_a1b35241.jpg",
-    "tags": ["New York", "Culture War", "LGBTQ", "Democrat Party"],
+    "tags": ["New York", "Culture War", "LGBTQ"],
     "page": 11,
     "batchDate": "June 5, 2026"
   },
@@ -1853,7 +1853,7 @@ const articles = [
     "tinyUrl": "https://tinyurl.com/22rrpyu6",
     "xPostUrl": "https://x.com/C3Heditor/status/2062929507988672857",
     "imageUrl": "https://static-assets.manus.space/manus-storage/2026-06-05_111030_558c4f98.jpg",
-    "tags": ["Democrat Party", "Politics", "2026 Elections"],
+    "tags": ["Politics", "2026 Elections"],
     "page": 11,
     "batchDate": "June 5, 2026"
   },
@@ -1871,7 +1871,7 @@ const articles = [
     "tinyUrl": "https://tinyurl.com/2dvbxej3",
     "xPostUrl": "https://x.com/C3Heditor/status/2062926900876521805",
     "imageUrl": "https://static-assets.manus.space/manus-storage/2026-06-05_105830_0eadd2d7.jpg",
-    "tags": ["California", "Taxation", "Government", "Democrat Party"],
+    "tags": ["California", "Taxation", "Government"],
     "page": 11,
     "batchDate": "June 5, 2026"
   },
@@ -1898,7 +1898,7 @@ const articles = [
     "tinyUrl": "https://tinyurl.com/58jmjydj",
     "xPostUrl": "https://x.com/C3Heditor/status/2062922306565915043",
     "imageUrl": "https://static-assets.manus.space/manus-storage/2026-06-05_104300_bc8ec037.jpg",
-    "tags": ["Culture War", "Menstrual Products", "Left-Wing", "Democrat Party"],
+    "tags": ["Culture War", "Menstrual Products", "Left-Wing"],
     "page": 11,
     "batchDate": "June 5, 2026"
   },
@@ -1907,7 +1907,7 @@ const articles = [
     "tinyUrl": "https://tinyurl.com/25kmwu3t",
     "xPostUrl": "https://x.com/C3Heditor/status/2062921121620439265",
     "imageUrl": "https://static-assets.manus.space/manus-storage/2026-06-05_103536_0d0630d9.jpg",
-    "tags": ["Zohran Mamdani", "NYC", "Democrat Party", "Politics"],
+    "tags": ["Zohran Mamdani", "NYC", "Politics"],
     "page": 11,
     "batchDate": "June 5, 2026"
   },
@@ -1916,7 +1916,7 @@ const articles = [
     "tinyUrl": "https://tinyurl.com/5cx4m9av",
     "xPostUrl": "https://x.com/C3Heditor/status/2062874881696436385",
     "imageUrl": "https://static-assets.manus.space/manus-storage/2026-06-05_073145_31292df5.jpg",
-    "tags": ["Massachusetts", "Immigration", "Taxation", "Democrat Party"],
+    "tags": ["Massachusetts", "Immigration", "Taxation"],
     "page": 11,
     "batchDate": "June 5, 2026"
   },
@@ -1925,7 +1925,7 @@ const articles = [
     "tinyUrl": "https://tinyurl.com/5ex38sty",
     "xPostUrl": "https://x.com/C3Heditor/status/2062873552630513810",
     "imageUrl": "https://static-assets.manus.space/manus-storage/2026-06-05_072818_af2eab19.jpg",
-    "tags": ["Wisconsin", "Left-Wing", "2026 Elections", "Democrat Party"],
+    "tags": ["Wisconsin", "Left-Wing", "2026 Elections"],
     "page": 11,
     "batchDate": "June 5, 2026"
   },
@@ -1952,7 +1952,7 @@ const articles = [
     "tinyUrl": "https://tinyurl.com/4ztjxvec",
     "xPostUrl": "https://x.com/C3Heditor/status/2062863398988026191",
     "imageUrl": "https://static-assets.manus.space/manus-storage/2026-06-05_064606_072d15f4.jpg",
-    "tags": ["Impeachment", "Democrat Party", "2026 Elections", "Politics"],
+    "tags": ["Impeachment", "2026 Elections", "Politics"],
     "page": 11,
     "batchDate": "June 5, 2026"
   },
@@ -1961,7 +1961,7 @@ const articles = [
     "tinyUrl": "https://tinyurl.com/4su4tkhf",
     "xPostUrl": "https://x.com/C3Heditor/status/2062862557518381380",
     "imageUrl": "https://static-assets.manus.space/manus-storage/2026-06-05_064249_b1c32ccc.jpg",
-    "tags": ["Judiciary-Judicial", "Democrat Party"],
+    "tags": ["Judiciary-Judicial"],
     "page": 11,
     "batchDate": "June 5, 2026"
   },
@@ -1988,7 +1988,7 @@ const articles = [
     "tinyUrl": "https://tinyurl.com/2fz3hrmc",
     "xPostUrl": "https://x.com/C3Heditor/status/2062288943123435897",
     "imageUrl": "https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-06-03_164327_40ae9f27.jpg",
-    "tags": ["Ro Khanna", "Democrat Party", "Politics", "Left-Wing"],
+    "tags": ["Ro Khanna", "Politics", "Left-Wing"],
     "page": 12,
     "batchDate": "June 3, 2026"
   },
@@ -2006,7 +2006,7 @@ const articles = [
     "tinyUrl": "https://tinyurl.com/5c5d826j",
     "xPostUrl": "https://x.com/C3Heditor/status/2062285352639889732",
     "imageUrl": "https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-06-03_162908_022fc92c.jpg",
-    "tags": ["Democrat Party", "Racial Issues", "Politics", "Left-Wing"],
+    "tags": ["Racial Issues", "Politics", "Left-Wing"],
     "page": 12,
     "batchDate": "June 3, 2026"
   },
@@ -2015,7 +2015,7 @@ const articles = [
     "tinyUrl": "https://tinyurl.com/3zvvuy9r",
     "xPostUrl": "https://x.com/C3Heditor/status/2062284811109113923",
     "imageUrl": "https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-06-03_162706_78bc5fff.jpg",
-    "tags": ["Racial Issues", "Democrat Party", "Mainstream Media", "Politics"],
+    "tags": ["Racial Issues", "Mainstream Media", "Politics"],
     "page": 12,
     "batchDate": "June 3, 2026"
   },
@@ -2024,7 +2024,7 @@ const articles = [
     "tinyUrl": "https://tinyurl.com/e4jsjzsb",
     "xPostUrl": "https://x.com/C3Heditor/status/2062284302373490696",
     "imageUrl": "https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-06-03_162510_bc948891.jpg",
-    "tags": ["Reparations", "Immigration", "Democrat Party", "Politics"],
+    "tags": ["Reparations", "Immigration", "Politics"],
     "page": 12,
     "batchDate": "June 3, 2026"
   },
@@ -2042,7 +2042,7 @@ const articles = [
     "tinyUrl": "https://tinyurl.com/5dw6h9wf",
     "xPostUrl": "https://x.com/C3Heditor/status/2062282153438703804",
     "imageUrl": "https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-06-03_161632_5ec8791c.jpg",
-    "tags": ["New Jersey", "Immigration", "Democrat Party"],
+    "tags": ["New Jersey", "Immigration"],
     "page": 12,
     "batchDate": "June 3, 2026"
   },
@@ -2096,7 +2096,7 @@ const articles = [
     "tinyUrl": "https://tinyurl.com/bdf98yrp",
     "xPostUrl": "https://x.com/C3Heditor/status/2062277276826263778",
     "imageUrl": "https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-06-03_155727_7aafb6dd.jpg",
-    "tags": ["Biden Administration", "Democrat Party", "Joe Biden", "Politics"],
+    "tags": ["Biden Administration", "Joe Biden", "Politics"],
     "page": 12,
     "batchDate": "June 3, 2026"
   },
@@ -2168,7 +2168,7 @@ const articles = [
     "tinyUrl": "https://tinyurl.com/ykz2ywnc",
     "xPostUrl": "https://x.com/C3Heditor/status/2061536474780897531",
     "imageUrl": "https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-06-01_150632_71989704.jpg",
-    "tags": ["Democrat Party", "CBP-DHS-ICE", "Immigration", "Government"],
+    "tags": ["CBP-DHS-ICE", "Immigration", "Government"],
     "page": 13,
     "batchDate": "June 1, 2026"
   },
@@ -2177,7 +2177,7 @@ const articles = [
     "tinyUrl": "https://tinyurl.com/53kknp22",
     "xPostUrl": "https://x.com/C3Heditor/status/2061535858279866601",
     "imageUrl": "https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-06-01_150347_7b80a1fe.jpg",
-    "tags": ["Politics", "Left-Wing", "Democrat Party"],
+    "tags": ["Politics", "Left-Wing"],
     "page": 13,
     "batchDate": "June 1, 2026"
   },
@@ -2249,7 +2249,7 @@ const articles = [
     "tinyUrl": "https://tinyurl.com/39d83tda",
     "xPostUrl": "https://x.com/C3Heditor/status/2061532235484807230",
     "imageUrl": "https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-06-01_143640_e4ebe1c3.jpg",
-    "tags": ["Virginia", "Taxation", "Democrat Party", "Government"],
+    "tags": ["Virginia", "Taxation", "Government"],
     "page": 13,
     "batchDate": "June 1, 2026"
   },
@@ -2321,7 +2321,7 @@ const articles = [
     "tinyUrl": "https://tinyurl.com/56uejss7",
     "xPostUrl": "https://x.com/C3Heditor/status/2061195475953565841",
     "imageUrl": "https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-05-31_161825_a40bf9f2.jpg",
-    "tags": ["Pennsylvania", "Israel", "Democrat Party", "Judiciary-Judicial"],
+    "tags": ["Pennsylvania", "Israel", "Judiciary-Judicial"],
     "page": 13,
     "batchDate": "June 1, 2026"
   },
@@ -2348,7 +2348,7 @@ const articles = [
     "tinyUrl": "https://tinyurl.com/ym5akc6h",
     "xPostUrl": "https://x.com/C3Heditor/status/2060796629569937705",
     "imageUrl": "https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-05-30_135335_2e1c5646.jpg",
-    "tags": ["Immigration", "Islam-Muslim", "Democrat Party"],
+    "tags": ["Immigration", "Islam-Muslim"],
     "page": 14,
     "batchDate": "May 30, 2026"
   },
@@ -2366,7 +2366,7 @@ const articles = [
     "tinyUrl": "https://tinyurl.com/3zsujmj3",
     "xPostUrl": "https://x.com/C3Heditor/status/2060794118473765354",
     "imageUrl": "https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-05-30_134338_1d75349d.jpg",
-    "tags": ["California", "Gavin Newsom", "Government", "Democrat Party"],
+    "tags": ["California", "Gavin Newsom", "Government"],
     "page": 14,
     "batchDate": "May 30, 2026"
   },
@@ -2375,7 +2375,7 @@ const articles = [
     "tinyUrl": "https://tinyurl.com/3ufh2jhv",
     "xPostUrl": "https://x.com/C3Heditor/status/2060793328241700905",
     "imageUrl": "https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-05-30_134033_e4e33bd6.jpg",
-    "tags": ["Judiciary-Judicial", "Democrat Party", "Weaponization", "Biden Administration"],
+    "tags": ["Judiciary-Judicial", "Weaponization", "Biden Administration"],
     "page": 14,
     "batchDate": "May 30, 2026"
   },
@@ -2384,7 +2384,7 @@ const articles = [
     "tinyUrl": "https://tinyurl.com/mutsh9e2",
     "xPostUrl": "https://x.com/C3Heditor/status/2060792092251566168",
     "imageUrl": "https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-05-30_133538_662252ca.jpg",
-    "tags": ["Taxation", "Democrat Party", "Government"],
+    "tags": ["Taxation", "Government"],
     "page": 14,
     "batchDate": "May 30, 2026"
   },
@@ -2402,7 +2402,7 @@ const articles = [
     "tinyUrl": "https://tinyurl.com/4bvar7z4",
     "xPostUrl": "https://x.com/C3Heditor/status/2060788856702566686",
     "imageUrl": "https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-05-30_132245_fcab9c76.jpg",
-    "tags": ["Mainstream Media", "Media Bias", "U.S. Constitution", "Democrat Party"],
+    "tags": ["Mainstream Media", "Media Bias", "U.S. Constitution"],
     "page": 14,
     "batchDate": "May 30, 2026"
   },
@@ -2429,7 +2429,7 @@ const articles = [
     "tinyUrl": "https://tinyurl.com/4htjtyej",
     "xPostUrl": "https://x.com/C3Heditor/status/2060781201489531311",
     "imageUrl": "https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-05-30_125233_fc6f46c1.jpg",
-    "tags": ["Racial Issues", "Judiciary-Judicial", "Culture War", "Democrat Party"],
+    "tags": ["Racial Issues", "Judiciary-Judicial", "Culture War"],
     "page": 14,
     "batchDate": "May 30, 2026"
   },
@@ -2456,7 +2456,7 @@ const articles = [
     "tinyUrl": "https://tinyurl.com/23rv2vtj",
     "xPostUrl": "https://x.com/C3Heditor/status/2060759022593032657",
     "imageUrl": "https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-05-30_112413_9f1fc221.jpg",
-    "tags": ["Joe Biden", "Democrat Party", "Biden Administration", "Politics"],
+    "tags": ["Joe Biden", "Biden Administration", "Politics"],
     "page": 14,
     "batchDate": "May 30, 2026"
   },
@@ -2483,7 +2483,7 @@ const articles = [
     "tinyUrl": "https://tinyurl.com/4dns9byt",
     "xPostUrl": "https://x.com/C3Heditor/status/2060756753512358278",
     "imageUrl": "https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-05-30_111515_1770996a.jpg",
-    "tags": ["Soft-On-Crime", "Violent Crime", "Washington", "Democrat Party"],
+    "tags": ["Soft-On-Crime", "Violent Crime", "Washington"],
     "page": 14,
     "batchDate": "May 30, 2026"
   },
@@ -2492,7 +2492,7 @@ const articles = [
     "tinyUrl": "https://tinyurl.com/5cwe9zv3",
     "xPostUrl": "https://x.com/C3Heditor/status/2060756068372759023",
     "imageUrl": "https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-05-30_111229_c1312495.jpg",
-    "tags": ["AOC", "Islam-Muslim", "New York", "Democrat Party"],
+    "tags": ["AOC", "Islam-Muslim", "New York"],
     "page": 14,
     "batchDate": "May 30, 2026"
   },
@@ -2537,7 +2537,7 @@ const articles = [
     "tinyUrl": "https://tinyurl.com/bdzymbbx",
     "xPostUrl": "https://x.com/C3Heditor/status/2060388742121070617",
     "imageUrl": "https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-05-29_105242_82e69735.jpg",
-    "tags": ["Culture War", "Democrat Party"],
+    "tags": ["Culture War"],
     "page": 15,
     "batchDate": "May 29, 2026"
   },
@@ -2555,7 +2555,7 @@ const articles = [
     "tinyUrl": "https://tinyurl.com/4tsby4b5",
     "xPostUrl": "https://x.com/C3Heditor/status/2060390374435164362",
     "imageUrl": "https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-05-29_105919_44b970ca.jpg",
-    "tags": ["California", "Left-Wing", "Democrat Party", "Politics"],
+    "tags": ["California", "Left-Wing", "Politics"],
     "page": 15,
     "batchDate": "May 29, 2026"
   },
@@ -2564,7 +2564,7 @@ const articles = [
     "tinyUrl": "https://tinyurl.com/e24kpxmt",
     "xPostUrl": "https://x.com/C3Heditor/status/2060391380938096865",
     "imageUrl": "https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-05-29_110533_5e19a253.jpg",
-    "tags": ["Politics", "Democrat Party", "U.S. Congress", "Florida"],
+    "tags": ["Politics", "U.S. Congress", "Florida"],
     "page": 15,
     "batchDate": "May 29, 2026"
   },
@@ -2582,7 +2582,7 @@ const articles = [
     "tinyUrl": "https://tinyurl.com/2f7t9z48",
     "xPostUrl": "https://x.com/C3Heditor/status/2060394271442694222",
     "imageUrl": "https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-05-29_111443_59eef124.jpg",
-    "tags": ["Democrat Party", "Racial Issues", "Entertainment Industry"],
+    "tags": ["Racial Issues", "Entertainment Industry"],
     "page": 15,
     "batchDate": "May 29, 2026"
   },
@@ -2609,7 +2609,7 @@ const articles = [
     "tinyUrl": "https://tinyurl.com/yb98sjv3",
     "xPostUrl": "https://x.com/C3Heditor/status/2060399940132577764",
     "imageUrl": "https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-05-29_114610_df673ad3.jpg",
-    "tags": ["NYC", "Socialism", "Democrat Party", "Politics"],
+    "tags": ["NYC", "Socialism", "Politics"],
     "page": 15,
     "batchDate": "May 29, 2026"
   },
@@ -2627,7 +2627,7 @@ const articles = [
     "tinyUrl": "https://tinyurl.com/ye2a6ayb",
     "xPostUrl": "https://x.com/C3Heditor/status/2060421475534827683",
     "imageUrl": "https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-05-29_130243_099cb04d.jpg",
-    "tags": ["Boston", "Immigration", "Democrat Party"],
+    "tags": ["Boston", "Immigration"],
     "page": 15,
     "batchDate": "May 29, 2026"
   },
@@ -2636,7 +2636,7 @@ const articles = [
     "tinyUrl": "https://tinyurl.com/3ed77ehn",
     "xPostUrl": "https://x.com/C3Heditor/status/2060422148661854268",
     "imageUrl": "https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-05-29_130517_aa736f2b.jpg",
-    "tags": ["Arizona", "Election Fraud", "Democrat Party"],
+    "tags": ["Arizona", "Election Fraud"],
     "page": 15,
     "batchDate": "May 29, 2026"
   },
@@ -2672,7 +2672,7 @@ const articles = [
     "tinyUrl": "https://tinyurl.com/yycucptm",
     "xPostUrl": "https://x.com/C3Heditor/status/2060425186801856886",
     "imageUrl": "https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-05-29_131734_97e2ba56.jpg",
-    "tags": ["LGBTQ", "Democrat Party", "Politics", "Culture War"],
+    "tags": ["LGBTQ", "Politics", "Culture War"],
     "page": 15,
     "batchDate": "May 29, 2026"
   },
@@ -2681,7 +2681,7 @@ const articles = [
     "tinyUrl": "https://tinyurl.com/2s752cbe",
     "xPostUrl": "https://x.com/C3Heditor/status/2060425803301531770",
     "imageUrl": "https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-05-29_132006_438a0e51.jpg",
-    "tags": ["Michigan", "Democrat Party", "U.S. Congress"],
+    "tags": ["Michigan", "U.S. Congress"],
     "page": 15,
     "batchDate": "May 29, 2026"
   },
@@ -2690,7 +2690,7 @@ const articles = [
     "tinyUrl": "https://tinyurl.com/4ju6uh77",
     "xPostUrl": "https://x.com/C3Heditor/status/2060426326851338462",
     "imageUrl": "https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-05-29_132200_b318a5ab.jpg",
-    "tags": ["New Mexico", "Democrat Party", "Politics"],
+    "tags": ["New Mexico", "Politics"],
     "page": 15,
     "batchDate": "May 29, 2026"
   },
@@ -2710,7 +2710,7 @@ const articles = [
     tinyUrl: "https://tinyurl.com/2n39kxje",
     imageUrl: "https://static-assets.manus.space/manus-storage/2026-05-27_160517_98b4fc75.jpg",
     xPostUrl: "https://x.com/C3Heditor/status/2059742832366109071",
-    tags: ["Left-Wing", "Democrat Party", "Housing", "Government"],
+    tags: ["Left-Wing", "Housing", "Government"],
     page: 3,
     batchDate: "May 27, 2026",
   },
@@ -2720,7 +2720,7 @@ const articles = [
     tinyUrl: "https://tinyurl.com/3rfkx44u",
     imageUrl: "https://static-assets.manus.space/manus-storage/2026-05-27_160012_2e66c7b0.jpg",
     xPostUrl: "https://x.com/C3Heditor/status/2059742129165922348",
-    tags: ["Second Amendment", "Democrat Party", "Gun Control", "Maryland Politics"],
+    tags: ["Second Amendment", "Gun Control", "Maryland Politics"],
     page: 3,
     batchDate: "May 27, 2026",
   },
@@ -2730,7 +2730,7 @@ const articles = [
     tinyUrl: "https://tinyurl.com/5n7n2vvn",
     imageUrl: "https://static-assets.manus.space/manus-storage/2026-05-27_155354_f9712f4f.jpg",
     xPostUrl: "https://x.com/C3Heditor/status/2059739723443159513",
-    tags: ["Los Angeles Politics", "Government", "Business Climate", "Democrat Party"],
+    tags: ["Los Angeles Politics", "Government", "Business Climate"],
     page: 3,
     batchDate: "May 27, 2026",
   },
@@ -2740,7 +2740,7 @@ const articles = [
     tinyUrl: "https://tinyurl.com/4krcukkp",
     imageUrl: "https://static-assets.manus.space/manus-storage/2026-05-27_155047_ee18d31c.jpg",
     xPostUrl: "https://x.com/C3Heditor/status/2059738992304672874",
-    tags: ["Democrat Party", "Left-Wing", "Campaign Finance", "Government"],
+    tags: ["Left-Wing", "Campaign Finance", "Government"],
     page: 3,
     batchDate: "May 27, 2026",
   },
@@ -2750,7 +2750,7 @@ const articles = [
     tinyUrl: "https://tinyurl.com/52yb7xwx",
     imageUrl: "https://static-assets.manus.space/manus-storage/2026-05-27_154832_c80a6cc3.jpg",
     xPostUrl: "https://x.com/C3Heditor/status/2059738231042891871",
-    tags: ["Democrat Party", "Left-Wing", "Media Bias", "Politics"],
+    tags: ["Left-Wing", "Media Bias", "Politics"],
     page: 3,
     batchDate: "May 27, 2026",
   },
@@ -2760,7 +2760,7 @@ const articles = [
     tinyUrl: "https://tinyurl.com/bd28rrcc",
     imageUrl: "https://static-assets.manus.space/manus-storage/2026-05-27_154344_bb0630d0.jpg",
     xPostUrl: "https://x.com/C3Heditor/status/2059737216621166771",
-    tags: ["Alternative & Social Media", "Democrat Party", "Donald Trump", "Michigan Politics"],
+    tags: ["Alternative & Social Media", "Donald Trump", "Michigan Politics"],
     page: 3,
     batchDate: "May 27, 2026",
   },
@@ -2770,7 +2770,7 @@ const articles = [
     tinyUrl: "https://tinyurl.com/495ke6vb",
     imageUrl: "https://static-assets.manus.space/manus-storage/2026-05-27_154153_cf85cdae.jpg",
     xPostUrl: "https://x.com/C3Heditor/status/2059736717280862439",
-    tags: ["Donald Trump", "Trump Opposition", "Democrat Party", "Media Bias"],
+    tags: ["Donald Trump", "Trump Opposition", "Media Bias"],
     page: 3,
     batchDate: "May 27, 2026",
   },
@@ -2780,7 +2780,7 @@ const articles = [
     tinyUrl: "https://tinyurl.com/hzt9u4d8",
     imageUrl: "https://static-assets.manus.space/manus-storage/2026-05-27_153905_944e8030.jpg",
     xPostUrl: "https://x.com/C3Heditor/status/2059736031994482971",
-    tags: ["Democrat Party", "Campaign Finance", "Government", "California Politics"],
+    tags: ["Campaign Finance", "Government", "California Politics"],
     page: 3,
     batchDate: "May 27, 2026",
   },
@@ -2790,7 +2790,7 @@ const articles = [
     tinyUrl: "https://tinyurl.com/hwu42zf3",
     imageUrl: "https://static-assets.manus.space/manus-storage/2026-05-27_153109_f96201e7.jpg",
     xPostUrl: "https://x.com/C3Heditor/status/2059734050995397037",
-    tags: ["Michigan Politics", "Democrat Party", "Left-Wing", "Gender Issues"],
+    tags: ["Michigan Politics", "Left-Wing", "Gender Issues"],
     page: 3,
     batchDate: "May 27, 2026",
   },
@@ -2800,7 +2800,7 @@ const articles = [
     tinyUrl: "https://tinyurl.com/bd6hard5",
     imageUrl: "https://static-assets.manus.space/manus-storage/2026-05-27_152916_e1de9784.jpg",
     xPostUrl: "https://x.com/C3Heditor/status/2059733557854245168",
-    tags: ["Donald Trump", "Democrat Party", "Polling", "Trump Opposition"],
+    tags: ["Donald Trump", "Polling", "Trump Opposition"],
     page: 3,
     batchDate: "May 27, 2026",
   },
@@ -2810,7 +2810,7 @@ const articles = [
     tinyUrl: "https://tinyurl.com/bdz7p9ku",
     imageUrl: "https://static-assets.manus.space/manus-storage/2026-05-27_152359_e24ecf75.jpg",
     xPostUrl: "https://x.com/C3Heditor/status/2059732225357480195",
-    tags: ["Democrat Party", "Midterm Elections", "Mainstream Media", "Military"],
+    tags: ["Midterm Elections", "Mainstream Media", "Military"],
     page: 3,
     batchDate: "May 27, 2026",
   },
@@ -2820,7 +2820,7 @@ const articles = [
     tinyUrl: "https://tinyurl.com/57y9xa36",
     imageUrl: "https://static-assets.manus.space/manus-storage/2026-05-27_152148_c19d1397.jpg",
     xPostUrl: "https://x.com/C3Heditor/status/2059731614578651465",
-    tags: ["Healthcare Policy", "Democrat Party", "North Carolina Politics", "Government"],
+    tags: ["Healthcare Policy", "North Carolina Politics", "Government"],
     page: 3,
     batchDate: "May 27, 2026",
   },
@@ -2830,7 +2830,7 @@ const articles = [
     tinyUrl: "https://tinyurl.com/4ktnfd5k",
     imageUrl: "https://static-assets.manus.space/manus-storage/2026-05-27_151839_80ef6a92.jpg",
     xPostUrl: "https://x.com/C3Heditor/status/2059730913043640710",
-    tags: ["California Politics", "Democrat Party", "Left-Wing", "Midterm Elections"],
+    tags: ["California Politics", "Left-Wing", "Midterm Elections"],
     page: 3,
     batchDate: "May 27, 2026",
   },
@@ -2840,7 +2840,7 @@ const articles = [
     tinyUrl: "https://tinyurl.com/y8yunz2v",
     imageUrl: "https://static-assets.manus.space/manus-storage/2026-05-27_151640_28d99044.jpg",
     xPostUrl: "https://x.com/C3Heditor/status/2059730376898359728",
-    tags: ["Democrat Party", "Left-Wing", "Politics", "Media Bias"],
+    tags: ["Left-Wing", "Politics", "Media Bias"],
     page: 3,
     batchDate: "May 27, 2026",
   },
@@ -2850,7 +2850,7 @@ const articles = [
     tinyUrl: "https://tinyurl.com/25zcy68s",
     imageUrl: "https://static-assets.manus.space/manus-storage/2026-05-27_151438_e9ea2ec1.jpg",
     xPostUrl: "https://x.com/C3Heditor/status/2059729885581713853",
-    tags: ["Democrat Party", "Government", "Left-Wing", "New York Politics"],
+    tags: ["Government", "Left-Wing", "New York Politics"],
     page: 3,
     batchDate: "May 27, 2026",
   },
@@ -2860,7 +2860,7 @@ const articles = [
     tinyUrl: "https://tinyurl.com/w2v5fn2v",
     imageUrl: "https://static-assets.manus.space/manus-storage/2026-05-27_151204_a79e265c.jpg",
     xPostUrl: "https://x.com/C3Heditor/status/2059729014659723281",
-    tags: ["Democrat Party", "DNC", "Donald Trump", "Trump Opposition"],
+    tags: ["DNC", "Donald Trump", "Trump Opposition"],
     page: 3,
     batchDate: "May 27, 2026",
   },
@@ -2870,7 +2870,7 @@ const articles = [
     tinyUrl: "https://tinyurl.com/4yhsfcz9",
     imageUrl: "https://static-assets.manus.space/manus-storage/2026-05-27_150641_7e443be0.jpg",
     xPostUrl: "https://x.com/C3Heditor/status/2059727752547516772",
-    tags: ["Left-Wing", "Democrat Party", "Media Bias", "Identity Politics"],
+    tags: ["Left-Wing", "Media Bias", "Identity Politics"],
     page: 3,
     batchDate: "May 27, 2026",
   },
@@ -2890,7 +2890,7 @@ const articles = [
     tinyUrl: "https://tinyurl.com/3sd4f6vf",
     imageUrl: "https://static-assets.manus.space/manus-storage/2026-05-27_145538_8ccf9a09.jpg",
     xPostUrl: "https://x.com/C3Heditor/status/2059725101092728878",
-    tags: ["Corruption-Fraud", "Democrat Party", "Healthcare Policy", "Government"],
+    tags: ["Corruption-Fraud", "Healthcare Policy", "Government"],
     page: 3,
     batchDate: "May 27, 2026",
   },
@@ -2900,7 +2900,7 @@ const articles = [
     tinyUrl: "https://tinyurl.com/yc2fkmbu",
     imageUrl: "https://static-assets.manus.space/manus-storage/2026-05-27_145324_0ab236e8.jpg",
     xPostUrl: "https://x.com/C3Heditor/status/2059722930439720997",
-    tags: ["Violent Crime", "Criminal Justice", "Democrat Party", "Left-Wing"],
+    tags: ["Violent Crime", "Criminal Justice", "Left-Wing"],
     page: 3,
     batchDate: "May 27, 2026",
   },
@@ -2909,7 +2909,7 @@ const articles = [
     "tinyUrl": "https://tinyurl.com/2n39kxje",
     "xPostUrl": "https://x.com/C3Heditor/status/2059742832366109071",
     "imageUrl": "https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-05-27_160517_98b4fc75.jpg",
-    "tags": ["Left-Wing", "Democrat Party", "Housing", "Government"],
+    "tags": ["Left-Wing", "Housing", "Government"],
     "page": 17,
     "batchDate": "May 27, 2026"
   },
@@ -2918,7 +2918,7 @@ const articles = [
     "tinyUrl": "https://tinyurl.com/3rfkx44u",
     "xPostUrl": "https://x.com/C3Heditor/status/2059742129165922348",
     "imageUrl": "https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-05-27_160012_2e66c7b0.jpg",
-    "tags": ["Culture War", "Democrat Party", "Gun Control", "Maryland"],
+    "tags": ["Culture War", "Gun Control", "Maryland"],
     "page": 17,
     "batchDate": "May 27, 2026"
   },
@@ -2927,7 +2927,7 @@ const articles = [
     "tinyUrl": "https://tinyurl.com/5n7n2vvn",
     "xPostUrl": "https://x.com/C3Heditor/status/2059739723443159513",
     "imageUrl": "https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-05-27_155354_f9712f4f.jpg",
-    "tags": ["Los Angeles", "Government", "Business Climate", "Democrat Party"],
+    "tags": ["Los Angeles", "Government", "Business Climate"],
     "page": 17,
     "batchDate": "May 27, 2026"
   },
@@ -2936,7 +2936,7 @@ const articles = [
     "tinyUrl": "https://tinyurl.com/4krcukkp",
     "xPostUrl": "https://x.com/C3Heditor/status/2059738992304672874",
     "imageUrl": "https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-05-27_155047_ee18d31c.jpg",
-    "tags": ["Democrat Party", "Left-Wing", "2026 Elections", "Government"],
+    "tags": ["Left-Wing", "2026 Elections", "Government"],
     "page": 17,
     "batchDate": "May 27, 2026"
   },
@@ -2945,7 +2945,7 @@ const articles = [
     "tinyUrl": "https://tinyurl.com/52yb7xwx",
     "xPostUrl": "https://x.com/C3Heditor/status/2059738231042891871",
     "imageUrl": "https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-05-27_154832_c80a6cc3.jpg",
-    "tags": ["Democrat Party", "Left-Wing", "Media Bias", "Politics"],
+    "tags": ["Left-Wing", "Media Bias", "Politics"],
     "page": 17,
     "batchDate": "May 27, 2026"
   },
@@ -2954,7 +2954,7 @@ const articles = [
     "tinyUrl": "https://tinyurl.com/bd28rrcc",
     "xPostUrl": "https://x.com/C3Heditor/status/2059737216621166771",
     "imageUrl": "https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-05-27_154344_bb0630d0.jpg",
-    "tags": ["Alternative & Social Media", "Democrat Party", "Michigan"],
+    "tags": ["Alternative & Social Media", "Michigan"],
     "page": 17,
     "batchDate": "May 27, 2026"
   },
@@ -2963,7 +2963,7 @@ const articles = [
     "tinyUrl": "https://tinyurl.com/495ke6vb",
     "xPostUrl": "https://x.com/C3Heditor/status/2059736717280862439",
     "imageUrl": "https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-05-27_154153_cf85cdae.jpg",
-    "tags": ["Democrat Party", "Media Bias"],
+    "tags": ["Media Bias"],
     "page": 17,
     "batchDate": "May 27, 2026"
   },
@@ -2972,7 +2972,7 @@ const articles = [
     "tinyUrl": "https://tinyurl.com/hzt9u4d8",
     "xPostUrl": "https://x.com/C3Heditor/status/2059736031994482971",
     "imageUrl": "https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-05-27_153905_944e8030.jpg",
-    "tags": ["Democrat Party", "2026 Elections", "Government", "California"],
+    "tags": ["2026 Elections", "Government", "California"],
     "page": 17,
     "batchDate": "May 27, 2026"
   },
@@ -2981,7 +2981,7 @@ const articles = [
     "tinyUrl": "https://tinyurl.com/hwu42zf3",
     "xPostUrl": "https://x.com/C3Heditor/status/2059734050995397037",
     "imageUrl": "https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-05-27_153109_f96201e7.jpg",
-    "tags": ["Michigan", "Democrat Party", "Left-Wing", "LGBTQ"],
+    "tags": ["Michigan", "Left-Wing", "LGBTQ"],
     "page": 17,
     "batchDate": "May 27, 2026"
   },
@@ -2990,7 +2990,7 @@ const articles = [
     "tinyUrl": "https://tinyurl.com/bd6hard5",
     "xPostUrl": "https://x.com/C3Heditor/status/2059733557854245168",
     "imageUrl": "https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-05-27_152916_e1de9784.jpg",
-    "tags": ["Democrat Party", "Polling"],
+    "tags": ["Polling"],
     "page": 17,
     "batchDate": "May 27, 2026"
   },
@@ -2999,7 +2999,7 @@ const articles = [
     "tinyUrl": "https://tinyurl.com/bdz7p9ku",
     "xPostUrl": "https://x.com/C3Heditor/status/2059732225357480195",
     "imageUrl": "https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-05-27_152359_e24ecf75.jpg",
-    "tags": ["Democrat Party", "Midterm Elections", "Mainstream Media"],
+    "tags": ["Midterm Elections", "Mainstream Media"],
     "page": 17,
     "batchDate": "May 27, 2026"
   },
@@ -3008,7 +3008,7 @@ const articles = [
     "tinyUrl": "https://tinyurl.com/57y9xa36",
     "xPostUrl": "https://x.com/C3Heditor/status/2059731614578651465",
     "imageUrl": "https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-05-27_152148_c19d1397.jpg",
-    "tags": ["Healthcare Policy", "Democrat Party", "North Carolina", "Government"],
+    "tags": ["Healthcare Policy", "North Carolina", "Government"],
     "page": 17,
     "batchDate": "May 27, 2026"
   },
@@ -3017,7 +3017,7 @@ const articles = [
     "tinyUrl": "https://tinyurl.com/4ktnfd5k",
     "xPostUrl": "https://x.com/C3Heditor/status/2059730913043640710",
     "imageUrl": "https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-05-27_151839_80ef6a92.jpg",
-    "tags": ["California", "Democrat Party", "Left-Wing", "Midterm Elections"],
+    "tags": ["California", "Left-Wing", "Midterm Elections"],
     "page": 17,
     "batchDate": "May 27, 2026"
   },
@@ -3026,7 +3026,7 @@ const articles = [
     "tinyUrl": "https://tinyurl.com/y8yunz2v",
     "xPostUrl": "https://x.com/C3Heditor/status/2059730376898359728",
     "imageUrl": "https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-05-27_151640_28d99044.jpg",
-    "tags": ["Democrat Party", "Left-Wing", "Politics", "Media Bias"],
+    "tags": ["Left-Wing", "Politics", "Media Bias"],
     "page": 17,
     "batchDate": "May 27, 2026"
   },
@@ -3035,7 +3035,7 @@ const articles = [
     "tinyUrl": "https://tinyurl.com/25zcy68s",
     "xPostUrl": "https://x.com/C3Heditor/status/2059729885581713853",
     "imageUrl": "https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-05-27_151438_e9ea2ec1.jpg",
-    "tags": ["Democrat Party", "Government", "Left-Wing", "New York"],
+    "tags": ["Government", "Left-Wing", "New York"],
     "page": 17,
     "batchDate": "May 27, 2026"
   },
@@ -3044,7 +3044,7 @@ const articles = [
     "tinyUrl": "https://tinyurl.com/w2v5fn2v",
     "xPostUrl": "https://x.com/C3Heditor/status/2059729014659723281",
     "imageUrl": "https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-05-27_151204_a79e265c.jpg",
-    "tags": ["Democrat Party", "Media Bias"],
+    "tags": ["Media Bias"],
     "page": 17,
     "batchDate": "May 27, 2026"
   },
@@ -3053,7 +3053,7 @@ const articles = [
     "tinyUrl": "https://tinyurl.com/4yhsfcz9",
     "xPostUrl": "https://x.com/C3Heditor/status/2059727752547516772",
     "imageUrl": "https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-05-27_150641_7e443be0.jpg",
-    "tags": ["Left-Wing", "Democrat Party", "Media Bias", "Culture War"],
+    "tags": ["Left-Wing", "Media Bias", "Culture War"],
     "page": 17,
     "batchDate": "May 27, 2026"
   },
@@ -3071,7 +3071,7 @@ const articles = [
     "tinyUrl": "https://tinyurl.com/3sd4f6vf",
     "xPostUrl": "https://x.com/C3Heditor/status/2059725101092728878",
     "imageUrl": "https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-05-27_145538_8ccf9a09.jpg",
-    "tags": ["Corruption-Fraud", "Democrat Party", "Healthcare Policy", "Government"],
+    "tags": ["Corruption-Fraud", "Healthcare Policy", "Government"],
     "page": 17,
     "batchDate": "May 27, 2026"
   },
@@ -3080,7 +3080,7 @@ const articles = [
     "tinyUrl": "https://tinyurl.com/yc2fkmbu",
     "xPostUrl": "https://x.com/C3Heditor/status/2059722930439720997",
     "imageUrl": "https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-05-27_145324_0ab236e8.jpg",
-    "tags": ["Violent Crime", "Criminal Justice", "Democrat Party", "Left-Wing"],
+    "tags": ["Violent Crime", "Criminal Justice", "Left-Wing"],
     "page": 17,
     "batchDate": "May 27, 2026"
   },
