@@ -11,7 +11,7 @@ export default function Page21() {
         tinyUrl="https://tinyurl.com/5b7sk5f3"
         xPostUrl="https://x.com/C3Heditor/status/2028603510476947704"
         imageSrc="https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/post240_clean_7746a7b3.jpg"
-        tags={["Federal Workforce"]}
+        tags={["Federal Workforce", "Politics"]}
       />
       <ArticleBlock
         headline="Three Dem Senators Keep Putting Illegal Aliens Ahead of Their Own American Citizens"
@@ -32,7 +32,7 @@ export default function Page21() {
         tinyUrl="https://tinyurl.com/49a72zjs"
         xPostUrl="https://x.com/C3Heditor/status/2028224148825166269"
         imageSrc="https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/post237_clean_f8c7e62f.jpg"
-        tags={["Media Bias"]}
+        tags={["Media Bias", "Politics"]}
       />
       <ArticleBlock
         headline="Facing a Bloated Budget Gap, Maryland Democrats Eye Raiding the State Green Energy Fund"
@@ -46,14 +46,14 @@ export default function Page21() {
         tinyUrl="https://tinyurl.com/5afx5dnu"
         xPostUrl="https://x.com/C3Heditor/status/2028225587320402349"
         imageSrc="https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/post235_clean_85f60c73.jpg"
-        tags={["Artificial Intelligence"]}
+        tags={["Artificial Intelligence", "Culture War", "Politics"]}
       />
       <ArticleBlock
         headline="Paramount Win: Vindictive Minority Democrat On Netflix Board Places Partisan CNN Hacks In Mortal Danger"
         tinyUrl="https://tinyurl.com/mua3bp46"
         xPostUrl="https://x.com/C3Heditor/status/2027772936556253588"
         imageSrc="https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/post234_clean_41e61cce.jpg"
-        tags={["Susan Rice"]}
+        tags={["Susan Rice", "Media Bias"]}
       />
       <ArticleBlock
         headline="Storage Giant Becomes Latest Major Company Fleeing Democrat California&#39;s Hostile Business Climate"
