@@ -46,7 +46,7 @@ export default function Page27() {
         tinyUrl="https://tinyurl.com/55b4ufhy"
         xPostUrl="https://x.com/C3Heditor/status/2024252153192149304"
         imageSrc="https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/post115_clean_8855a469.jpg"
-        tags={["Retail Crime", "California", "Democrat Party"]}
+        tags={["Retail Crime", "California"]}
       />
       <ArticleBlock
         headline="Democrats in trouble? CNN&#39;s main election analyst shares the bad news"
@@ -60,7 +60,7 @@ export default function Page27() {
         tinyUrl="https://tinyurl.com/7u4vrjy4"
         xPostUrl="https://x.com/C3Heditor/status/2024248362640289868"
         imageSrc="https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/post113_clean_859b60a1.jpg"
-        tags={["California", "Election Fraud", "Democrat Party"]}
+        tags={["California", "Election Fraud"]}
       />
       <ArticleBlock
         headline="Transgender mass shooting in Rhode Island confirms need for law enforcement to take this continuing risk seriosly"
@@ -74,7 +74,7 @@ export default function Page27() {
         tinyUrl="https://tinyurl.com/2evzsfej"
         xPostUrl="https://x.com/C3Heditor/status/2024245580877213848"
         imageSrc="https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/post111_clean_5e9d67c9.jpg"
-        tags={["Violent Crime"]}
+        tags={["Violent Crime", "Judiciary-Judicial"]}
       />
       <ArticleBlock
         headline="Democrats created this NYC crisis: Homelessness Crisis That Mamdani Is Ill-Equipped To Fix"
@@ -116,14 +116,14 @@ export default function Page27() {
         tinyUrl="https://tinyurl.com/5n6cefzf"
         xPostUrl="https://x.com/C3Heditor/status/2023897328516550873"
         imageSrc="https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/post105_clean_7547fb44.jpg"
-        tags={["Alexandria Ocasio-Cortez"]}
+        tags={["Alexandria Ocasio-Cortez", "Politics"]}
       />
       <ArticleBlock
         headline="Goldman Sachs Chooses Sanity: &#39;Debanking&#39; Democrat DEI idiocy is a growth industry"
         tinyUrl="https://tinyurl.com/ybkaezyf"
         xPostUrl="https://x.com/C3Heditor/status/2023896297007198718"
         imageSrc="https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/post104_clean_ee6a2735.jpg"
-        tags={["Culture War"]}
+        tags={["Culture War", "Racial Issues", "Business Climate"]}
       />
       <ArticleBlock
         headline="Democrats&#39; love affair with metally ill people has consequences: Dad In Dress Kills Ex-Wife, Child, Self At School Hockey Game"
