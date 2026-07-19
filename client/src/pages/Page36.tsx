@@ -53,7 +53,7 @@ export default function Page7() {
         tinyUrl="https://tinyurl.com/3x2pt3ju"
         xPostUrl="https://x.com/C3Heditor/status/2043071682982605297"
         imageSrc="https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/2026-04-11_160130_d4db0300.jpg"
-        tags={["Feeding Our Future"]}
+        tags={["Feeding Our Future", "Minnesota", "Corruption-Fraud"]}
       />
       <ArticleBlock
         headline="Los Angeles Is Being Driven Into The Ground By Newsom &amp; His California Democrats"
@@ -74,7 +74,7 @@ export default function Page7() {
         tinyUrl="https://tinyurl.com/7etanejk"
         xPostUrl="https://x.com/C3Heditor/status/2043067029066764745"
         imageSrc="https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/2026-04-11_154227_6d5325b4.jpg"
-        tags={["2026 Elections"]}
+        tags={["2026 Elections", "Corruption-Fraud"]}
       />
       <ArticleBlock
         headline="Woke Democrat Mayor Turns Once-Beautiful American City Into A Haven For Homeless &#39;Drug Zombies&#39;"
@@ -88,7 +88,7 @@ export default function Page7() {
         tinyUrl="https://tinyurl.com/2s3dx997"
         xPostUrl="https://x.com/C3Heditor/status/2043064922209173532"
         imageSrc="https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/2026-04-11_153400_24a7e7b0.jpg"
-        tags={["Ohio"]}
+        tags={["Ohio", "2026 Elections", "U.S. Congress"]}
       />
       <ArticleBlock
         headline="Major News Networks Gave Literally Zero Seconds To The House Ethics Trial of a Democrat Member"
@@ -116,7 +116,7 @@ export default function Page7() {
         tinyUrl="https://tinyurl.com/5737jdbc"
         xPostUrl="https://x.com/C3Heditor/status/2043061145066496059"
         imageSrc="https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/2026-04-11_151935_1261591b.jpg"
-        tags={["California"]}
+        tags={["California", "San Francisco", "Energy Policy"]}
       />
       <ArticleBlock
         headline="Celebrating America Enrages The Democrats As The Dept. of Education Now Leans Patriotic"
@@ -144,7 +144,7 @@ export default function Page7() {
         tinyUrl="https://tinyurl.com/53wybn9f"
         xPostUrl="https://x.com/C3Heditor/status/2042636909143359663"
         imageSrc="https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/2026-04-10_111524_6cc43dd1.jpg"
-        tags={["CBP-DHS-ICE"]}
+        tags={["CBP-DHS-ICE", "Immigration", "Healthcare Policy"]}
       />
       <Pagination currentPage={36} totalPages={61} />
     </div>
