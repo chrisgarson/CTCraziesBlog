@@ -123,7 +123,7 @@ export default function Page8() {
         tinyUrl="https://tinyurl.com/36zc86bp"
         xPostUrl="https://x.com/C3Heditor/status/2040048741990703264"
         imageSrc="https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/2026-04-03_074849_cca8adca.jpg"
-        tags={["Politics"]}
+        tags={["Politics", "Media Bias"]}
       />
       <ArticleBlock
         headline="Progressive Insurance Company Embraces Democrats&#39; Racial Discrimination Policies &amp; Calls It Progress — Seriously"
@@ -137,7 +137,7 @@ export default function Page8() {
         tinyUrl="https://tinyurl.com/25b476yb"
         xPostUrl="https://x.com/C3Heditor/status/2040046978420097448"
         imageSrc="https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/2026-04-03_074023_71fdb8b7.jpg"
-        tags={["Iryna Zarutska"]}
+        tags={["Iryna Zarutska", "2026 Elections"]}
       />
       <ArticleBlock
         headline="Explosive Report Reveals Democrat-controlled California&#39;s Fraud Scandal And How Taxpayer Cash Is Being Wasted"
