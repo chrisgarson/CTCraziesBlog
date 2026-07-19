@@ -18,21 +18,21 @@ export default function Home() {
         tinyUrl="https://tinyurl.com/4ju6uh77"
         xPostUrl="https://x.com/C3Heditor/status/2060426326851338462"
         imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-05-29_132200_b318a5ab.jpg"
-        tags={["New Mexico", "Democrat Party", "Politics"]}
+        tags={["New Mexico", "Politics"]}
       />
       <ArticleBlock
         headline="Michigan Democrat Goes Full Stupid: Says The Filibuster &#39;must go&#39; But Then Says Dems Should Use It To Stop &#39;big ugly bill&#39;"
         tinyUrl="https://tinyurl.com/2s752cbe"
         xPostUrl="https://x.com/C3Heditor/status/2060425803301531770"
         imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-05-29_132006_438a0e51.jpg"
-        tags={["Michigan", "Democrat Party", "U.S. Congress"]}
+        tags={["Michigan", "U.S. Congress"]}
       />
       <ArticleBlock
         headline="Man Bites Dog Surprise: Democrats Admit LGBT Extremism, Identity Politics Hurt Kamala Harris in 2024 Election"
         tinyUrl="https://tinyurl.com/yycucptm"
         xPostUrl="https://x.com/C3Heditor/status/2060425186801856886"
         imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-05-29_131734_97e2ba56.jpg"
-        tags={["LGBTQ", "Democrat Party", "Politics", "Culture War"]}
+        tags={["LGBTQ", "Politics", "Culture War"]}
       />
       <ArticleBlock
         headline="Texas Democrat Who Vilified and Desired to Jail &amp; Castrate Jews/Zionists Loses Congressional Runoff Election"
@@ -60,14 +60,14 @@ export default function Home() {
         tinyUrl="https://tinyurl.com/3ed77ehn"
         xPostUrl="https://x.com/C3Heditor/status/2060422148661854268"
         imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-05-29_130517_aa736f2b.jpg"
-        tags={["Arizona", "Election Fraud", "Democrat Party"]}
+        tags={["Arizona", "Election Fraud"]}
       />
       <ArticleBlock
         headline="Incompetent Democrat Mayor of Boston Pushes Non-Serious Policies - Promotes Menstruation Event for Transgenders"
         tinyUrl="https://tinyurl.com/ye2a6ayb"
         xPostUrl="https://x.com/C3Heditor/status/2060421475534827683"
         imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-05-29_130243_099cb04d.jpg"
-        tags={["Boston", "Immigration", "Democrat Party"]}
+        tags={["Boston", "Immigration"]}
       />
       <ArticleBlock
         headline="Soft-On-Crime Minnesota Democrat Gov. Tim Walz Pardons Illegal Alien Convicted of Armed Robbery Before ICE Deportation"
@@ -81,7 +81,7 @@ export default function Home() {
         tinyUrl="https://tinyurl.com/yb98sjv3"
         xPostUrl="https://x.com/C3Heditor/status/2060399940132577764"
         imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-05-29_114610_df673ad3.jpg"
-        tags={["NYC", "Socialism", "Democrat Party", "Politics"]}
+        tags={["NYC", "Socialism", "Politics"]}
       />
       <ArticleBlock
         headline="New York Governor &amp; Democrats Provide $557M Pension-Pork After Public-Sector Unions Donated Millions to Campaigns"
@@ -102,7 +102,7 @@ export default function Home() {
         tinyUrl="https://tinyurl.com/2f7t9z48"
         xPostUrl="https://x.com/C3Heditor/status/2060394271442694222"
         imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-05-29_111443_59eef124.jpg"
-        tags={["Democrat Party", "Racial Issues", "Entertainment Industry"]}
+        tags={["Racial Issues", "Entertainment Industry"]}
       />
       <ArticleBlock
         headline="Democrat Running for California Lt. Governor Linked to Chinese Communist Donor Funding"
@@ -116,14 +116,14 @@ export default function Home() {
         tinyUrl="https://tinyurl.com/e24kpxmt"
         xPostUrl="https://x.com/C3Heditor/status/2060391380938096865"
         imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-05-29_110533_5e19a253.jpg"
-        tags={["Politics", "Democrat Party", "U.S. Congress", "Florida"]}
+        tags={["Politics", "U.S. Congress", "Florida"]}
       />
       <ArticleBlock
         headline="California Makes the Case That the Extreme Left Has Become the Democrat Mainstream"
         tinyUrl="https://tinyurl.com/4tsby4b5"
         xPostUrl="https://x.com/C3Heditor/status/2060390374435164362"
         imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-05-29_105919_44b970ca.jpg"
-        tags={["California", "Left-Wing", "Democrat Party", "Politics"]}
+        tags={["California", "Left-Wing", "Politics"]}
       />
       <ArticleBlock
         headline="Democrat Weirdo Confirms He&#39;s Also Delusional: Texas Senate Candidate James Talarico Claims Republicans Are Secretly Supporting Him"
@@ -137,7 +137,7 @@ export default function Home() {
         tinyUrl="https://tinyurl.com/bdzymbbx"
         xPostUrl="https://x.com/C3Heditor/status/2060388742121070617"
         imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-05-29_105242_82e69735.jpg"
-        tags={["Culture War", "Democrat Party"]}
+        tags={["Culture War", "Education Policy", "Racial Issues"]}
       />
       <ArticleBlock
         headline="California&#39;s Shady Non-Profit &#39;Health Charities&#39; Channel Funds to Los Angeles Mayor Karen Bass &amp; Democrats"
