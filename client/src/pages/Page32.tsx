@@ -18,7 +18,7 @@ export default function Page3() {
         tinyUrl="https://tinyurl.com/2s68mepu"
         xPostUrl="https://x.com/C3Heditor/status/2044825373511188812"
         imageSrc="https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/2026-04-16_121048_fcf79eaa.jpg"
-        tags={["Racial Issues"]}
+        tags={["Racial Issues", "California", "Culture War"]}
       />
       <ArticleBlock
         headline="Boston Mayor Buries Delivery Companies Under New Rules That Drive Up Costs And Paperwork"
@@ -39,7 +39,7 @@ export default function Page3() {
         tinyUrl="https://tinyurl.com/nhhvnma3"
         xPostUrl="https://x.com/C3Heditor/status/2044820339201282212"
         imageSrc="https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/2026-04-16_114729_4323a72e.jpg"
-        tags={["Eric Swalwell", "Democrat Party", "2026 Elections"]}
+        tags={["Eric Swalwell", "2026 Elections"]}
       />
       <ArticleBlock
         headline="Democrat Mayor&#39;s City-Owned Grocery Stores Are Coming To NYC And Bread Lines May Not Be Far Behind"
@@ -81,7 +81,7 @@ export default function Page3() {
         tinyUrl="https://tinyurl.com/3z9v5b7c"
         xPostUrl="https://x.com/C3Heditor/status/2044788111457075613"
         imageSrc="https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/2026-04-16_094127_d199c76b.jpg"
-        tags={["Israel", "Democrat Party"]}
+        tags={["Israel", "Media Bias", "Violence"]}
       />
       <ArticleBlock
         headline="Is The View&#39;s Joy Behar the Democrats&#39; Biblical Scholar? She Ignorantly Claims Jesus Never Declared Himself To Be The Messiah"
