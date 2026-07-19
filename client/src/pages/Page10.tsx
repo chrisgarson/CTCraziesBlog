@@ -25,14 +25,14 @@ export default function Page2() {
         tinyUrl="https://tinyurl.com/8wyymaz6"
         xPostUrl="https://x.com/C3Heditor/status/2064101700181320071"
         imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-06-08_164720_ff3769e1.jpg"
-        tags={["Democrat Party", "Politics", "Left-Wing", "Media Bias"]}
+        tags={["Politics", "Left-Wing", "Media Bias"]}
       />
       <ArticleBlock
         headline="Democrat Al Green Loses It Completely - Screams 'SHUT up!' and Calls DHS Sec. Mullin a Racist"
         tinyUrl="https://tinyurl.com/ysvxpdtp"
         xPostUrl="https://x.com/C3Heditor/status/2064101132432032136"
         imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-06-08_164437_a232a8a8.jpg"
-        tags={["Al Green", "Racial Issues", "Democrat Party"]}
+        tags={["Al Green", "Racial Issues"]}
       />
       <ArticleBlock
         headline="Tax-Free Reparations for Blacks Demanded by California Democrat Tina McKinnor, Before Recipients Are Even Identified"
@@ -74,7 +74,7 @@ export default function Page2() {
         tinyUrl="https://tinyurl.com/44nrd5z6"
         xPostUrl="https://x.com/C3Heditor/status/2064096248332726436"
         imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-06-08_162506_bd25445c.jpg"
-        tags={["New Jersey", "Immigration", "CBP-DHS-ICE", "Democrat Party"]}
+        tags={["New Jersey", "Immigration", "CBP-DHS-ICE"]}
       />
       <ArticleBlock
         headline="Deep Democrat Ties of Obama Judge John J. McConnell Jr. Raise Red Flags After Trump Immigration Rules Are Tossed"
@@ -88,14 +88,14 @@ export default function Page2() {
         tinyUrl="https://tinyurl.com/2wkx96pt"
         xPostUrl="https://x.com/C3Heditor/status/2064094969149657418"
         imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-06-08_161957_351dfd50.jpg"
-        tags={["Chicago", "Democrat Party", "Government"]}
+        tags={["Chicago", "Government"]}
       />
       <ArticleBlock
         headline="California's Bad Policies &amp; High Costs Are Driving People Out of Democrats' One-Party Rule State at a Record Pace"
         tinyUrl="https://tinyurl.com/yeu4m87f"
         xPostUrl="https://x.com/C3Heditor/status/2064094357641154589"
         imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-06-08_161742_700421c6.jpg"
-        tags={["California", "Democrat Party", "Government"]}
+        tags={["California", "Government"]}
       />
       <ArticleBlock
         headline="Top Wisconsin Democrat Governor Hopeful Francesca Hong Hit With Lawsuit Over Unpaid Credit Card Debt"
