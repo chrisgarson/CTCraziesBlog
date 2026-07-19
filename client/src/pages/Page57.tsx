@@ -25,7 +25,7 @@ export default function Page28() {
         tinyUrl="https://tinyurl.com/ys8a8prj"
         xPostUrl="https://x.com/C3Heditor/status/2023887828820931027"
         imageSrc="https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/post98_clean_63fda7fe.jpg"
-        tags={["Oregon"]}
+        tags={["Oregon", "2026 Elections", "Censorship"]}
       />
       <ArticleBlock
         headline="Hawaii Democrats attempting end runs around 2nd Amendment"
@@ -67,7 +67,7 @@ export default function Page28() {
         tinyUrl="https://tinyurl.com/2zes9rw7"
         xPostUrl="https://x.com/C3Heditor/status/2023526511798874545"
         imageSrc="https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/post92_clean_84f4f5db.jpg"
-        tags={["Left-Wing"]}
+        tags={["Left-Wing", "Culture War"]}
       />
       <ArticleBlock
         headline="Stanford Economist Mocks $500M Super Bowl Impact Claim By Democrats & NFL"
@@ -102,7 +102,7 @@ export default function Page28() {
         tinyUrl="https://tinyurl.com/yeymssxs"
         xPostUrl="https://x.com/C3Heditor/status/2023517845989323083"
         imageSrc="https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/post87_clean_99975ce7.jpg"
-        tags={["Sewage Spill", "Democrat Party"]}
+        tags={["Sewage Spill", "Maryland", "Economic Policy"]}
       />
       <ArticleBlock
         headline="Students Threaten Press at Anti-ICE Walkout: ‘If I Had A Gun, I’d Pew-Pew Your Motherf*cking A*S!’"
