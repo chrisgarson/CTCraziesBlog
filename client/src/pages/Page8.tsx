@@ -18,14 +18,14 @@ export default function Page2() {
         tinyUrl="https://tinyurl.com/4nn4hf4m"
         xPostUrl="https://x.com/C3Heditor/status/2066987835945570716"
         imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/DgIHArJKfyFMesaV.jpg"
-        tags={["Democrat Party"]}
+        tags={["Economic Policy", "Foreign Policy"]}
       />
       <ArticleBlock
         headline="Biden's Democrat Education Department Bureaucrats Defied Court Orders to Keep Pushing Gender Ideology in Schools"
         tinyUrl="https://tinyurl.com/4nn4hf4m"
         xPostUrl="https://x.com/C3Heditor/status/2066987135974912285"
         imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/dPpfBwvsHhBdqpeZ.jpg"
-        tags={["Biden Administration", "LGBTQ", "Democrat Party"]}
+        tags={["Biden Administration", "LGBTQ"]}
       />
       <ArticleBlock
         headline="Florida Democrat Governor Nominee's Running Mate: Illegal Aliens Should Have Driver's Licenses"
@@ -46,7 +46,7 @@ export default function Page2() {
         tinyUrl="https://tinyurl.com/yc6nkpw7"
         xPostUrl="https://x.com/C3Heditor/status/2066984017413415333"
         imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/kdDOaWmZWHfkRMNS.jpg"
-        tags={["Zohran Mamdani", "NYC", "Democrat Party"]}
+        tags={["Zohran Mamdani", "NYC"]}
       />
       <ArticleBlock
         headline="In Democrat-Controlled Washington State, a High School Female Wrestler Sexually Assaulted by a Transgender Athlete During Official Match"
@@ -60,7 +60,7 @@ export default function Page2() {
         tinyUrl="https://tinyurl.com/4m9a945p"
         xPostUrl="https://x.com/C3Heditor/status/2066982232128962991"
         imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/JDlSzEoOhqSizOnS.jpg"
-        tags={["California", "Los Angeles", "Democrat Party"]}
+        tags={["California", "Los Angeles"]}
       />
       <ArticleBlock
         headline="Democrat Candidate Abdul El-Sayed's MI U.S. Senate Bid Is Overshadowed by a Resurging Detroit Animal Shelter Scandal"
@@ -74,21 +74,21 @@ export default function Page2() {
         tinyUrl="https://tinyurl.com/4ck6aye6"
         xPostUrl="https://x.com/C3Heditor/status/2066980729242706219"
         imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/xkzvDanyfYEIsFdY.jpg"
-        tags={["Philadelphia", "Democrat Party"]}
+        tags={["Philadelphia", "Pennsylvania", "Healthcare Policy"]}
       />
       <ArticleBlock
         headline="Result of Democrats' Open Borders: White Students Fall Below Half of U.S. School Enrollment as Latino Numbers Keep Surging"
         tinyUrl="https://tinyurl.com/bdh72a5t"
         xPostUrl="https://x.com/C3Heditor/status/2066978586142142819"
         imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/VUjhxttqsyQSjZEp.jpg"
-        tags={["Immigration", "Racial Issues", "Democrat Party"]}
+        tags={["Immigration", "Racial Issues"]}
       />
       <ArticleBlock
         headline="Democrats' Illegal Aliens Hit With Federal Charges in a Migrant Child Smuggling Operation"
         tinyUrl="https://tinyurl.com/4rpa9bjs"
         xPostUrl="https://x.com/C3Heditor/status/2066978140727996600"
         imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/DDesvXefRtijZcAh.jpg"
-        tags={["CBP-DHS-ICE", "Immigration", "Democrat Party"]}
+        tags={["CBP-DHS-ICE", "Immigration"]}
       />
       <ArticleBlock
         headline="DOJ Says Over 475K Children Were Trafficked Into U.S. Under Democrat Biden Admin  - 300K Still Missing"
@@ -102,14 +102,14 @@ export default function Page2() {
         tinyUrl="https://tinyurl.com/mwcbzsdf"
         xPostUrl="https://x.com/C3Heditor/status/2066976981011317114"
         imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/jMzOPtLOupvBOQBN.jpg"
-        tags={["CBP-DHS-ICE", "Immigration", "Democrat Party"]}
+        tags={["CBP-DHS-ICE", "Immigration"]}
       />
       <ArticleBlock
         headline="Option #1: He Must Be On Crack ==> Hunter Biden Floats Running as Democrat Gavin Newsom's VP in a 2028 White House Bid in Stunning Interview"
         tinyUrl="https://tinyurl.com/2s3wrfe5"
         xPostUrl="https://x.com/C3Heditor/status/2066976391787094264"
         imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/cZIkVhZosksEMrix.jpg"
-        tags={["Hunter Biden", "Gavin Newsom", "Democrat Party"]}
+        tags={["Hunter Biden", "Gavin Newsom"]}
       />
       <ArticleBlock
         headline="DOJ Will Challenge Virginia's Democrat Spanberger In Court Over Her Obvious 'Unconstitutional' Anti-ICE Laws"
@@ -137,14 +137,14 @@ export default function Page2() {
         tinyUrl="https://tinyurl.com/2xxk55fh"
         xPostUrl="https://x.com/C3Heditor/status/2066972192911262140"
         imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/oFmZcCRsgZDaQjXJ.jpg"
-        tags={["Democrat Party", "2026 Elections", "Left-Wing"]}
+        tags={["2026 Elections", "Left-Wing"]}
       />
       <ArticleBlock
         headline="CNN Does Brutal Takedown of Democrats' California One-Party Rule Incompetence"
         tinyUrl="https://tinyurl.com/42k3yrxx"
         xPostUrl="https://x.com/C3Heditor/status/2066566439293603842"
         imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/YpcPQxVMUHCHfElL.jpg"
-        tags={["California", "Democrat Party", "Fareed Zakaria", "Media Bias"]}
+        tags={["California", "Fareed Zakaria", "Media Bias"]}
       />
       </div>
       <Pagination currentPage={8} totalPages={61} />
