@@ -12,7 +12,7 @@ export default function Page2() {
         tinyUrl="https://tinyurl.com/2xjck623"
         xPostUrl="https://x.com/C3Heditor/status/2046335930496131095"
         imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/xkMeaZgbxnxAWUkv.jpg"
-        tags={["James Carville", "Democrat Party", "WashingtonDC"]}
+        tags={["James Carville", "WashingtonDC"]}
       />
       <ArticleBlock
         headline="In Democrat-Run Macon County, GA, Healthcare Fraud Charges Filed Against Election Workers"
@@ -89,7 +89,7 @@ export default function Page2() {
         tinyUrl="https://tinyurl.com/bdh8nprk"
         xPostUrl="https://x.com/C3Heditor/status/2046315144142102763"
         imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/LrxkPXeAIHfksdPq.jpg"
-        tags={["Democrat Party"]}
+        tags={["Politics", "Corruption-Fraud"]}
       />
       <ArticleBlock
         headline="Democrat Mayor Mamdani&#39;s New Grand Socialist Vision: Get New Yorkers To Actually Use Trash Bins By The Year 2031"
@@ -124,14 +124,14 @@ export default function Page2() {
         tinyUrl="https://tinyurl.com/hkjzysjb"
         xPostUrl="https://x.com/C3Heditor/status/2046309956773937651"
         imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/ESAOoSfsbPYIZbOJ.jpg"
-        tags={["Foreign Policy"]}
+        tags={["Foreign Policy", "Corruption-Fraud"]}
       />
       <ArticleBlock
         headline="Video Surfaces Of Michigan Democrat Joking About The MSU Shooter Just Weeks After Attack"
         tinyUrl="https://tinyurl.com/54ym7z86"
         xPostUrl="https://x.com/C3Heditor/status/2046304259269103964"
         imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/HSRAFuCvejNnXeHV.jpg"
-        tags={["Censorship"]}
+        tags={["Censorship", "Michigan", "Violent Crime"]}
       />
       <ArticleBlock
         headline="Citizens Are Still Suffering From Democrats&#39; Open Border Policies: Illegal Alien Brutally Assaults &amp; Attempts To Rape Missouri Woman"
