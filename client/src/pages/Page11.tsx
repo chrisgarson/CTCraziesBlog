@@ -11,7 +11,7 @@ export default function Page2() {
         tinyUrl="https://tinyurl.com/nwwupx8f"
         xPostUrl="https://x.com/C3Heditor/status/2062934483095937075"
         imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-06-05_112850_e58fd9f8.jpg"
-        tags={["Election Fraud", "Democrat Party"]}
+        tags={["Election Fraud", "2026 Elections", "Media Bias"]}
       />
       <ArticleBlock
         headline="California's Latest Democrat Election Farce Production Has Launched Several Federal Investigations"
@@ -25,7 +25,7 @@ export default function Page2() {
         tinyUrl="https://tinyurl.com/4bb2sjj9"
         xPostUrl="https://x.com/C3Heditor/status/2062932035610542590"
         imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-06-05_111856_0305279d.jpg"
-        tags={["Democrat Party", "Politics", "Left-Wing"]}
+        tags={["Politics", "Left-Wing"]}
       />
       <ArticleBlock
         headline="New Poll Finds Broad Decline in Support for Democrats' Midterm Hot-Woke Priorities: LGBT Issues, Gay Marriage, &amp; Gender Changes"
@@ -39,14 +39,14 @@ export default function Page2() {
         tinyUrl="https://tinyurl.com/4292nbyf"
         xPostUrl="https://x.com/C3Heditor/status/2062930769836650895"
         imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-06-05_111352_a1b35241.jpg"
-        tags={["New York", "Culture War", "LGBTQ", "Democrat Party"]}
+        tags={["New York", "Culture War", "LGBTQ"]}
       />
       <ArticleBlock
         headline="It Increasingly Appears Democrats Lack Any Credible Plan To Win Back Male Voters"
         tinyUrl="https://tinyurl.com/22rrpyu6"
         xPostUrl="https://x.com/C3Heditor/status/2062929507988672857"
         imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-06-05_111030_558c4f98.jpg"
-        tags={["Democrat Party", "Politics", "2026 Elections"]}
+        tags={["Politics", "2026 Elections"]}
       />
       <ArticleBlock
         headline="NJ Democrats Pick Nominee With 9/11 Ties to Al-Qaeda Islamicist Terrorists and The WTC Blind Sheikh Bomber"
@@ -60,7 +60,7 @@ export default function Page2() {
         tinyUrl="https://tinyurl.com/2dvbxej3"
         xPostUrl="https://x.com/C3Heditor/status/2062926900876521805"
         imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-06-05_105830_0eadd2d7.jpg"
-        tags={["California", "Taxation", "Government", "Democrat Party"]}
+        tags={["California", "Taxation", "Government"]}
       />
       <ArticleBlock
         headline="Meet the Democrats Still Defending Maine's Nazi-Tattooed, Sexting Porta-Potty Masturbator Senate Hopeful Graham Platner"
@@ -81,28 +81,28 @@ export default function Page2() {
         tinyUrl="https://tinyurl.com/58jmjydj"
         xPostUrl="https://x.com/C3Heditor/status/2062922306565915043"
         imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-06-05_104300_bc8ec037.jpg"
-        tags={["Culture War", "Menstrual Products", "Left-Wing", "Democrat Party"]}
+        tags={["Culture War", "Menstrual Products", "Left-Wing"]}
       />
       <ArticleBlock
         headline="NYC Democrat-Marxist Mayor Mamdani Ignites Democrat Civil War With a Divisive Endorsement of a Hate-Filled U.S. House Rep Candidate"
         tinyUrl="https://tinyurl.com/25kmwu3t"
         xPostUrl="https://x.com/C3Heditor/status/2062921121620439265"
         imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-06-05_103536_0d0630d9.jpg"
-        tags={["Zohran Mamdani", "NYC", "Democrat Party", "Politics"]}
+        tags={["Zohran Mamdani", "NYC", "Politics"]}
       />
       <ArticleBlock
         headline="MA's Cape Cod Taxpayer Blasts Local Democrat Council Members Over Illegal Immigrant Benefits In Furious Speech"
         tinyUrl="https://tinyurl.com/5cx4m9av"
         xPostUrl="https://x.com/C3Heditor/status/2062874881696436385"
         imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-06-05_073145_31292df5.jpg"
-        tags={["Massachusetts", "Immigration", "Taxation", "Democrat Party"]}
+        tags={["Massachusetts", "Immigration", "Taxation"]}
       />
       <ArticleBlock
         headline="Democrats Roll Out the Welcome Mat for Another Socialist Candidate - This One Plans to 'Californize' Wisconsin As Governor"
         tinyUrl="https://tinyurl.com/5ex38sty"
         xPostUrl="https://x.com/C3Heditor/status/2062873552630513810"
         imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-06-05_072818_af2eab19.jpg"
-        tags={["Wisconsin", "Left-Wing", "2026 Elections", "Democrat Party"]}
+        tags={["Wisconsin", "Left-Wing", "2026 Elections"]}
       />
       <ArticleBlock
         headline="Eric Swalwell Drags Another Democrat Buddy Into the Sludge: New House Probe Triggered as Rep. Jimmy Gomez Admits to Cheating on His Wife"
@@ -123,14 +123,14 @@ export default function Page2() {
         tinyUrl="https://tinyurl.com/4ztjxvec"
         xPostUrl="https://x.com/C3Heditor/status/2062863398988026191"
         imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-06-05_064606_072d15f4.jpg"
-        tags={["Impeachment", "Democrat Party", "2026 Elections", "Politics"]}
+        tags={["Impeachment", "2026 Elections", "Politics"]}
       />
       <ArticleBlock
         headline="Court-Wrecking Pledge From Democrats Raises Alarm About the Future of the Supreme Court"
         tinyUrl="https://tinyurl.com/4su4tkhf"
         xPostUrl="https://x.com/C3Heditor/status/2062862557518381380"
         imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-06-05_064249_b1c32ccc.jpg"
-        tags={["Judiciary-Judicial", "Democrat Party"]}
+        tags={["Judiciary-Judicial", "Politics"]}
       />
       <ArticleBlock
         headline="Another Democrat Utopia: California's Santa Monica Shoppers Terrorized by Bat-Wielding Driver Shouting Antisemitic Slurs"
