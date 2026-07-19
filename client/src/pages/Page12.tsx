@@ -11,7 +11,7 @@ export default function Page2() {
         tinyUrl="https://tinyurl.com/2fz3hrmc"
         xPostUrl="https://x.com/C3Heditor/status/2062288943123435897"
         imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-06-03_164327_40ae9f27.jpg"
-        tags={["Ro Khanna", "Democrat Party", "Politics", "Left-Wing"]}
+        tags={["Ro Khanna", "Politics", "Left-Wing"]}
       />
       <ArticleBlock
         headline="'Crazy' Might Not Be Strong Enough: Fight Climate Change and Live Like 'the Jetsons,' Democrat James Talarico Promises Texas Voters"
@@ -25,21 +25,21 @@ export default function Page2() {
         tinyUrl="https://tinyurl.com/5c5d826j"
         xPostUrl="https://x.com/C3Heditor/status/2062285352639889732"
         imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-06-03_162908_022fc92c.jpg"
-        tags={["Democrat Party", "Racial Issues", "Politics", "Left-Wing"]}
+        tags={["Racial Issues", "Politics", "Left-Wing"]}
       />
       <ArticleBlock
         headline="Even Legacy Media Can't Ignore It: Black Voters Are Walking Away From The Democrat Party"
         tinyUrl="https://tinyurl.com/3zvvuy9r"
         xPostUrl="https://x.com/C3Heditor/status/2062284811109113923"
         imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-06-03_162706_78bc5fff.jpg"
-        tags={["Racial Issues", "Democrat Party", "Media Bias", "Politics"]}
+        tags={["Racial Issues", "Media Bias", "Politics"]}
       />
       <ArticleBlock
         headline="Black Reparations Activists Turn on Democrats Over the Ongoing Migration Surge Problem"
         tinyUrl="https://tinyurl.com/e4jsjzsb"
         xPostUrl="https://x.com/C3Heditor/status/2062284302373490696"
         imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-06-03_162510_bc948891.jpg"
-        tags={["Reparations", "Immigration", "Democrat Party", "Politics"]}
+        tags={["Reparations", "Immigration", "Politics"]}
       />
       <ArticleBlock
         headline="New Degenerate's Scandal Forces NJ Sen. Cory Booker to Admit Democrat Graham Platner 'Has Questions to Answer'"
@@ -53,7 +53,7 @@ export default function Page2() {
         tinyUrl="https://tinyurl.com/5dw6h9wf"
         xPostUrl="https://x.com/C3Heditor/status/2062282153438703804"
         imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-06-03_161632_5ec8791c.jpg"
-        tags={["New Jersey", "Immigration", "Democrat Party"]}
+        tags={["New Jersey", "Immigration"]}
       />
       <ArticleBlock
         headline="California's &quot;Moderate&quot; Democrats Move to Criminalize Investigative Journalism to Shield Immigrant Fraud"
@@ -95,7 +95,7 @@ export default function Page2() {
         tinyUrl="https://tinyurl.com/bdf98yrp"
         xPostUrl="https://x.com/C3Heditor/status/2062277276826263778"
         imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-06-03_155727_7aafb6dd.jpg"
-        tags={["Biden Administration", "Democrat Party", "Joe Biden", "Politics"]}
+        tags={["Biden Administration", "Joe Biden", "Politics"]}
       />
       <ArticleBlock
         headline="Sheriffs &amp; Prosecutors Push Back Hard Against Democrat VA &amp; MD Governors’ Far-Left Gun Policy Agenda"
