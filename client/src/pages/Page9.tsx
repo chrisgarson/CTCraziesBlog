@@ -11,28 +11,28 @@ export default function Page2() {
         tinyUrl="https://tinyurl.com/y8mbn3r7"
         xPostUrl="https://x.com/C3Heditor/status/2065510291371110591"
         imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-06-12_110945_16b0bea4.jpg"
-        tags={["California", "Democrat Party", "Government"]}
+        tags={["California", "Government"]}
       />
       <ArticleBlock
         headline="Democrats Can't Even Run a Zoo Properly: The San Francisco Zoo Becomes the Latest Case Study in Dem Mismanagement &amp; Wasted Funds"
         tinyUrl="https://tinyurl.com/ymtvx6ne"
         xPostUrl="https://x.com/C3Heditor/status/2065509254941798548"
         imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-06-12_139001_922d63a4.jpg"
-        tags={["California", "Government", "Democrat Party"]}
+        tags={["California", "Government"]}
       />
       <ArticleBlock
         headline="Blacks Will Quit Voting Unless They Get Reparation Payoffs Says Democrat House Rep. Summer Lee"
         tinyUrl="https://tinyurl.com/3ufn2r3b"
         xPostUrl="https://x.com/C3Heditor/status/2065507885753233665"
         imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-06-12_135423_5866a5e6.jpg"
-        tags={["Summer Lee", "Reparations", "Racial Issues", "Democrat Party"]}
+        tags={["Summer Lee", "Reparations", "Racial Issues"]}
       />
       <ArticleBlock
         headline="Illegal Aliens Were Signed up to Vote in Democrat New Jersey Without Their Knowledge"
         tinyUrl="https://tinyurl.com/fc3ptrp2"
         xPostUrl="https://x.com/C3Heditor/status/2065507269849063429"
         imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-06-12_135206_84a0d131.jpg"
-        tags={["New Jersey", "Immigration", "Election Fraud", "Democrat Party"]}
+        tags={["New Jersey", "Immigration", "Election Fraud"]}
       />
       <ArticleBlock
         headline="Former NY Governor Democrat David Paterson Rips Fellow Dem Gov Kathy Hochul &amp; Others Over Their Partisan Redistricting Push"
@@ -53,7 +53,7 @@ export default function Page2() {
         tinyUrl="https://tinyurl.com/cbm7y84v"
         xPostUrl="https://x.com/C3Heditor/status/2065492254546952498"
         imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-06-12_125216_c264d270.jpg"
-        tags={["SPLC", "Racial Issues", "Democrat Party"]}
+        tags={["SPLC", "Racial Issues"]}
       />
       <ArticleBlock
         headline="Staffer for MI U.S. Senate Democrat Candidate Abdul El-Sayed Busted in Hamas-Linked Threat Plot Against Univ of Michigan Officials"
@@ -67,28 +67,28 @@ export default function Page2() {
         tinyUrl="https://tinyurl.com/yc5a427x"
         xPostUrl="https://x.com/C3Heditor/status/2065487093023805543"
         imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-06-12_123143_89ad24d7.jpg"
-        tags={["Democrat Party", "Politics", "2026 Elections"]}
+        tags={["Politics", "2026 Elections"]}
       />
       <ArticleBlock
         headline="Pressed on Illegal Foreign Donations for Democrats, ActBlue CEO Refuses To Cooperate"
         tinyUrl="https://tinyurl.com/39wutf9f"
         xPostUrl="https://x.com/C3Heditor/status/2065486385050513547"
         imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-06-12_122859_44189727.jpg"
-        tags={["2026 Elections", "Immigration", "Corruption-Fraud", "Democrat Party"]}
+        tags={["2026 Elections", "Immigration", "Corruption-Fraud"]}
       />
       <ArticleBlock
         headline="Supporting Nazi-Misogynist Abuser Graham Platner Has Exposed Democrats as Pure 'Hypocrites,' CNN Panelist"
         tinyUrl="https://tinyurl.com/yw43va4a"
         xPostUrl="https://x.com/C3Heditor/status/2065485497456066894"
         imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-06-12_122530_f9d4a5d0.jpg"
-        tags={["Graham Platner", "Media Bias", "Democrat Party", "Politics"]}
+        tags={["Graham Platner", "Media Bias", "Politics"]}
       />
       <ArticleBlock
         headline="Democrats' Anti-ICE Campaign to Protect Open Borders &amp; Illegal Immigration an Epic Fail"
         tinyUrl="https://tinyurl.com/pbn8m4jv"
         xPostUrl="https://x.com/C3Heditor/status/2065483754194231784"
         imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-06-12_121926_ac9076f3.jpg"
-        tags={["CBP-DHS-ICE", "Immigration", "Democrat Party"]}
+        tags={["CBP-DHS-ICE", "Immigration"]}
       />
       <ArticleBlock
         headline="Democrat-Muslim NYC Mayor Zohran Mamdani Pushes Dems to Embrace His Radical 'Abolish ICE' Message Nationwide"
@@ -102,7 +102,7 @@ export default function Page2() {
         tinyUrl="https://tinyurl.com/3mp8nw7w"
         xPostUrl="https://x.com/C3Heditor/status/2065481666819223670"
         imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-06-12_121015_9083a5d9.jpg"
-        tags={["Illinois", "Taxation", "Government", "Democrat Party"]}
+        tags={["Illinois", "Taxation", "Government"]}
       />
       <ArticleBlock
         headline="Michigan Muslim Abdul El-Sayed Running For U.S. Senate Is Surging and Putting Establishment Democrats On Edge Regarding Anti-Semitism"
@@ -116,7 +116,7 @@ export default function Page2() {
         tinyUrl="https://tinyurl.com/2jpdub7n"
         xPostUrl="https://x.com/C3Heditor/status/2065479088060375307"
         imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-06-12_120004_006e88b4.jpg"
-        tags={["Democrat Party", "Politics", "2026 Elections"]}
+        tags={["Politics", "2026 Elections"]}
       />
       <ArticleBlock
         headline="Minnesota Democrats Tim Walz &amp; Keith Ellison Slammed in Report for Turning a Blind Eye to Their State's Massive Welfare Fraud"
@@ -144,7 +144,7 @@ export default function Page2() {
         tinyUrl="https://tinyurl.com/583cxj77"
         xPostUrl="https://x.com/C3Heditor/status/2065474378913952037"
         imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-06-12_113718_0ddd9e22.jpg"
-        tags={["Democrat Party", "Politics", "Media Bias"]}
+        tags={["Politics", "Media Bias"]}
       />
       </div>
       <Pagination currentPage={9} totalPages={61} />
