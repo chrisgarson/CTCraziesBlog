@@ -47,7 +47,7 @@ export default function Home() {
         tinyUrl="https://tinyurl.com/etv898cb"
         xPostUrl="https://x.com/C3Heditor/status/2051057877989617847"
         imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/ijiyWcjBJufrkRwO.jpg"
-        tags={["Joy Reid"]}
+        tags={["Joy Reid", "Media Bias"]}
       />
       <ArticleBlock
         headline="Man-Burner Suspect With Over 100 Arrests Represents Repeat Crime Problem in America&#39;s Democrat Urban Areas"
@@ -61,7 +61,7 @@ export default function Home() {
         tinyUrl="https://tinyurl.com/3wda6sby"
         xPostUrl="https://x.com/C3Heditor/status/2051055790459392204"
         imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/gsNDNVBWAkAfPUcF.jpg"
-        tags={["Immigration"]}
+        tags={["Immigration", "Business Climate"]}
       />
       <ArticleBlock
         headline="Because SCOTUS Disagrees With Skin-Color Favoritism, Democrat House Minority Leader Hakeem Jeffries Calls Them Illegitimate"
@@ -145,7 +145,7 @@ export default function Home() {
         tinyUrl="https://tinyurl.com/yc2fjsdk"
         xPostUrl="https://x.com/C3Heditor/status/2051036887301661122"
         imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/HrDZpkAubYifdszQ.jpg"
-        tags={[]}
+        tags={["Violent Crime", "Energy Policy"]}
       />
       </div>
       <Pagination currentPage={23} totalPages={61} />
