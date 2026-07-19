@@ -60,7 +60,7 @@ export default function Page17() {
         tinyUrl="https://tinyurl.com/uapdb68t"
         xPostUrl="https://x.com/C3Heditor/status/2036786302016782676"
         imageSrc="https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/2026-03-25_074642_8b34b883.jpg"
-        tags={["CBP-DHS-ICE"]}
+        tags={["CBP-DHS-ICE", "National Security"]}
       />
       <ArticleBlock
         headline="Democrat Mayor Mamdani&#39;s Embrace of Extremism Is Normalizing Radicalism in Post-9/11 NYC"
