@@ -46,7 +46,7 @@ export default function Page9() {
         tinyUrl="https://tinyurl.com/4wyp32e9"
         xPostUrl="https://x.com/C3Heditor/status/2040039948280082820"
         imageSrc="https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/2026-04-03_071410_98289663.jpg"
-        tags={[]}
+        tags={["Left-Wing", "Violence"]}
       />
       <ArticleBlock
         headline="Justice Department Takes Minnesota&#39;s Democrat Administration To Court Over Girls&#39; Transgender Sports Eligibility Rules"
@@ -67,7 +67,7 @@ export default function Page9() {
         tinyUrl="https://tinyurl.com/yc6hwtv5"
         xPostUrl="https://x.com/C3Heditor/status/2040036917153038672"
         imageSrc="https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/2026-04-03_070157_9846fc89.jpg"
-        tags={["Minnesota"]}
+        tags={["Minnesota", "2026 Elections"]}
       />
       <ArticleBlock
         headline="Colorado Democrat-Run School District Handed 61 Girls&#39; Sports Slots to Boys, Feds Determine"
@@ -144,7 +144,7 @@ export default function Page9() {
         tinyUrl="https://tinyurl.com/bp6curr9"
         xPostUrl="https://x.com/C3Heditor/status/2039819011479761297"
         imageSrc="https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/2026-04-02_163556_ae1f39f2.jpg"
-        tags={["Violent Crime"]}
+        tags={["Violent Crime", "Immigration", "California"]}
       />
       <Pagination currentPage={38} totalPages={61} />
     </div>
