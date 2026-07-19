@@ -32,7 +32,7 @@ export default function Page13() {
         tinyUrl="https://tinyurl.com/mpbh5v6j"
         xPostUrl="https://x.com/C3Heditor/status/2038344728341537131"
         imageSrc="https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/2026-03-29_145740_b50d94ef.jpg"
-        tags={["California"]}
+        tags={["California", "Gas Prices", "CBP-DHS-ICE"]}
       />
       <ArticleBlock
         headline="Seattle&#39;s Woke-Democrat Mayor Kills New Police Cameras to Protect Illegal Immigrants From Detection"
@@ -53,7 +53,7 @@ export default function Page13() {
         tinyUrl="https://tinyurl.com/2x2ec3en"
         xPostUrl="https://x.com/C3Heditor/status/2038341525164159463"
         imageSrc="https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/2026-03-29_144503_6644421e.jpg"
-        tags={["Democrat Party"]}
+        tags={["California", "Corruption-Fraud"]}
       />
       <ArticleBlock
         headline="Americans Blast Democrat Gov. Newsom Over the Synagogue Attack — His Own anti-Semitic Rhetoric Is the Problem"
@@ -81,14 +81,14 @@ export default function Page13() {
         tinyUrl="https://tinyurl.com/mwsb474r"
         xPostUrl="https://x.com/C3Heditor/status/2038333841002139898"
         imageSrc="https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/2026-03-29_140601_fc970112.jpg"
-        tags={["Texas"]}
+        tags={["Texas", "U.S. Congress"]}
       />
       <ArticleBlock
         headline="One of America&#39;s Most Corrupt, Poorly Run Democrat Cities Eyes Massive Pay Bumps for Its Council Members"
         tinyUrl="https://tinyurl.com/4vw9wm48"
         xPostUrl="https://x.com/C3Heditor/status/2038329923421479002"
         imageSrc="https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/2026-03-29_135859_417cfdc6.jpg"
-        tags={["Oakland", "Democrat Party", "California", "Corruption-Fraud"]}
+        tags={["Oakland", "California", "Corruption-Fraud"]}
       />
       <ArticleBlock
         headline="North Carolina&#39;s Democrat Governor Goes Full-Pander To Please Islamicists"
@@ -102,21 +102,21 @@ export default function Page13() {
         tinyUrl="https://tinyurl.com/panuaham"
         xPostUrl="https://x.com/C3Heditor/status/2038198790620950977"
         imageSrc="https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/2026-03-29_051818_d23483d6.jpg"
-        tags={["Censorship"]}
+        tags={["Censorship", "Immigration", "Illinois"]}
       />
       <ArticleBlock
         headline="Democrat Gov. Pritzker Lays Out the Dems&#39; Project2029 Agenda to Weaponize Govt Lawfare Against GOP &amp; Trump Officials"
         tinyUrl="https://tinyurl.com/43sthx5v"
         xPostUrl="https://x.com/C3Heditor/status/2038198173349347824"
         imageSrc="https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/2026-03-29_051250_c1e691db.jpg"
-        tags={["JB Pritzker", "Democrat Party", "Weaponization"]}
+        tags={["JB Pritzker", "Weaponization"]}
       />
       <ArticleBlock
         headline="Soros Democrats: Anti-American Crowd Caught Cheering US Troops Returning Home in Body Bags"
         tinyUrl="https://tinyurl.com/25ye6ek4"
         xPostUrl="https://x.com/C3Heditor/status/2038195899025727687"
         imageSrc="https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/2026-03-29_050620_1287d29e.jpg"
-        tags={["Left-Wing"]}
+        tags={["Left-Wing", "Patriotism"]}
       />
       <ArticleBlock
         headline="Cops Blame SF Mayor Democrat Daniel Lurie for the Wild Brawl That Injured His Own Security Guards"
