@@ -11,7 +11,7 @@ export default function Page23() {
         tinyUrl="https://tinyurl.com/474fjp99"
         xPostUrl="https://x.com/C3Heditor/status/2027360575395704883"
         imageSrc="https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/post200_clean_58000ae3.jpg"
-        tags={["Election Fraud"]}
+        tags={["Election Fraud", "Corruption-Fraud", "2026 Elections"]}
       />
       <ArticleBlock
         headline="U.S. Democrat Senator Demands Photo ID at Rally But Rejects Voter Identification Requirements"
@@ -32,7 +32,7 @@ export default function Page23() {
         tinyUrl="https://tinyurl.com/ncfkebzk"
         xPostUrl="https://x.com/C3Heditor/status/2027353813711978841"
         imageSrc="https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/post197_clean_6ff15c26.jpg"
-        tags={["Election Fraud"]}
+        tags={["Election Fraud", "Ohio", "2026 Elections"]}
       />
       <ArticleBlock
         headline="Virginia Democrats Demand Three-Day Extension for Absentee Ballot Counting Window"
@@ -144,7 +144,7 @@ export default function Page23() {
         tinyUrl="https://tinyurl.com/2p8yhtc5"
         xPostUrl="https://x.com/C3Heditor/status/2027133347474850289"
         imageSrc="https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/post181_clean_950673af.jpg"
-        tags={["Norm Eisen", "Democrat Party", "Joe Biden", "Election Fraud"]}
+        tags={["Norm Eisen", "Joe Biden", "Election Fraud"]}
       />
       <Pagination currentPage={52} totalPages={61} />
     </div>
