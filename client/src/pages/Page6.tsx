@@ -11,28 +11,28 @@ export default function Page2() {
         tinyUrl="https://tinyurl.com/35ku53zc"
         xPostUrl="https://x.com/C3Heditor/status/2069111052499861870"
         imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-06-22_123205.jpg"
-        tags={["Graham Platner", "2026 Elections", "Law Enforcement", "Democrat Party"]}
+        tags={["Graham Platner", "2026 Elections", "Law Enforcement"]}
       />
       <ArticleBlock
         headline="Democrats' Open Border Policies Gave Arrested Illegal Alien Opportunity For Drone Attacks On FIFA World Cup Venues"
         tinyUrl="https://tinyurl.com/y63mmbfk"
         xPostUrl="https://x.com/C3Heditor/status/2069110471488119204"
         imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-06-22_122945.jpg"
-        tags={["Immigration", "Terrorism", "National Security", "Democrat Party"]}
+        tags={["Immigration", "Terrorism", "National Security"]}
       />
       <ArticleBlock
         headline="Illegal Alien DACA Recipient Was Democrat-Activist Mastermind Behind Planned Drone Attack at White House's 250 UFC Event"
         tinyUrl="https://tinyurl.com/59jrbfn6"
         xPostUrl="https://x.com/C3Heditor/status/2069109808603476406"
         imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-06-22_122711.jpg"
-        tags={["Immigration", "Terrorism", "National Security", "Democrat Party"]}
+        tags={["Immigration", "Terrorism", "National Security"]}
       />
       <ArticleBlock
         headline="Democrat VA Gov. Spanberger Appoints LGBT Activist Who Fought Girls’ Bathroom Protections From Male Intrusions for Virginia State Board Role"
         tinyUrl="https://tinyurl.com/79b73cf8"
         xPostUrl="https://x.com/C3Heditor/status/2069109046653694006"
         imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-06-22_122428.jpg"
-        tags={["Abigail Spanberger", "Virginia", "LGBTQ", "Democrat Party"]}
+        tags={["Abigail Spanberger", "Virginia", "LGBTQ"]}
       />
       <ArticleBlock
         headline="Georgia's SPLC-Funded Democrat Senator Ossoff Declines Comments About His Donors 'Pay-to-Play White Supremacy' Scandal"
@@ -53,7 +53,7 @@ export default function Page2() {
         tinyUrl="https://tinyurl.com/w8ubjjn7"
         xPostUrl="https://x.com/C3Heditor/status/2069106767477235748"
         imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-06-22_121505.jpg"
-        tags={["Immigration", "New Jersey", "Left-Wing", "Democrat Party"]}
+        tags={["Immigration", "New Jersey", "Left-Wing"]}
       />
       <ArticleBlock
         headline="Michigan's Top Politics News Outlet Pressured To Kill Poll That Has Democrat Senate Candidate, Mallory McMorrow, With Only 6% Support"
@@ -67,28 +67,28 @@ export default function Page2() {
         tinyUrl="https://tinyurl.com/3k6c73fe"
         xPostUrl="https://x.com/C3Heditor/status/2069105517285220816"
         imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-06-22_121007.jpg"
-        tags={["Election Fraud", "FBI", "George Soros", "Democrat Party"]}
+        tags={["Election Fraud", "FBI", "George Soros"]}
       />
       <ArticleBlock
         headline="Texas James Talarico, Running for U.S. Senate, Claims Faith Bars Him Accepting 'Big Money' Influence but His Own Campaign Website Coordinates with Super PACS"
         tinyUrl="https://tinyurl.com/44k4wk4m"
         xPostUrl="https://x.com/C3Heditor/status/2069104956276142172"
         imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-06-22_120747.jpg"
-        tags={["James Talarico", "2026 Elections", "Corruption-Fraud", "Democrat Party"]}
+        tags={["James Talarico", "2026 Elections", "Corruption-Fraud"]}
       />
       <ArticleBlock
         headline="New Mexico's Democrat Rep. Gabe Vasquez Exposed for Lavish Fake Wedding That Turns Out Not to Be a Legal Marriage"
         tinyUrl="https://tinyurl.com/5avpmbrm"
         xPostUrl="https://x.com/C3Heditor/status/2069093073296953608"
         imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-06-22_112049.jpg"
-        tags={["Gabe Vasquez", "New Mexico", "Corruption-Fraud", "Democrat Party"]}
+        tags={["Gabe Vasquez", "New Mexico", "Corruption-Fraud"]}
       />
       <ArticleBlock
         headline="Booted From Alaska's Primary Ballot: Democrats' Fake GOP 'Sham' Candidate Loses His Spot in the Race"
         tinyUrl="https://tinyurl.com/44thevvd"
         xPostUrl="https://x.com/C3Heditor/status/2069092412564046093"
         imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-06-22_111451.jpg"
-        tags={["2026 Elections", "Election Fraud", "Democrat Party"]}
+        tags={["2026 Elections", "Election Fraud"]}
       />
       <ArticleBlock
         headline="The Democrat District Attorney Larry Krasner Is so Soft on Crime That Even Pennsylvania's Dem Judges Have Had Enough"
@@ -102,7 +102,7 @@ export default function Page2() {
         tinyUrl="https://tinyurl.com/ytsb48am"
         xPostUrl="https://x.com/C3Heditor/status/2069090194171519360"
         imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-06-22_110917.jpg"
-        tags={["Socialism", "Economic Policy", "Left-Wing", "Democrat Party"]}
+        tags={["Socialism", "Economic Policy", "Left-Wing"]}
       />
       <ArticleBlock
         headline="New York Democrat Government Hit With DOJ Fraud Lawsuit Over Its $10 Billion Medicaid Home Care Program"
@@ -116,21 +116,21 @@ export default function Page2() {
         tinyUrl="https://tinyurl.com/342fucsw"
         xPostUrl="https://x.com/C3Heditor/status/2069088451509543224"
         imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-06-22_110216.jpg"
-        tags={["San Francisco", "Culture War", "Media Bias", "Democrat Party"]}
+        tags={["San Francisco", "Culture War", "Media Bias"]}
       />
       <ArticleBlock
         headline="Democrat-Controlled Denver School Board Forced To Fire Teacher After Kids Were Graded on Same-Sex Kissing Roleplays"
         tinyUrl="https://tinyurl.com/yj3uh5n4"
         xPostUrl="https://x.com/C3Heditor/status/2069087815585894609"
         imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-06-22_105955.jpg"
-        tags={["Education Policy", "LGBTQ", "Colorado", "Democrat Party"]}
+        tags={["Education Policy", "LGBTQ", "Colorado"]}
       />
       <ArticleBlock
         headline="Top Federal Prosecutor Warns That Democrats In California Have Effectively 'Decriminalized Voter Fraud'"
         tinyUrl="https://tinyurl.com/y2jpmuru"
         xPostUrl="https://x.com/C3Heditor/status/2069087077635862961"
         imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-06-22_105652.jpg"
-        tags={["Election Fraud", "California", "DOJ", "Democrat Party"]}
+        tags={["Election Fraud", "California", "DOJ"]}
       />
       <ArticleBlock
         headline="DOJ Corruption Probe of California's Gov. Gavin Newsom Targets Behested Payments, Family Nonprofits, &amp; Questions of Influence"
@@ -144,7 +144,7 @@ export default function Page2() {
         tinyUrl="https://tinyurl.com/yu7f53f2"
         xPostUrl="https://x.com/C3Heditor/status/2069085223535440279"
         imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-06-22_104927.jpg"
-        tags={["Socialism", "Left-Wing", "Violence", "Democrat Party"]}
+        tags={["Socialism", "Left-Wing", "Violence"]}
       />
       </div>
       <Pagination currentPage={6} totalPages={61} />
