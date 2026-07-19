@@ -24,14 +24,14 @@ export default function Home() {
         tinyUrl="https://tinyurl.com/yckdvh8w"
         xPostUrl="https://x.com/C3Heditor/status/2045533019314758140"
         imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/UyKWcwuafMhesmbP.jpg"
-        tags={["California"]}
+        tags={["California", "Foreign Policy", "Patriotism"]}
       />
       <ArticleBlock
         headline="Nigerian Islamists Kidnap Priests &amp; Christians While Democrat-Operative Pope Does Zilch For Them"
         tinyUrl="https://tinyurl.com/yh2wtkbs"
         xPostUrl="https://x.com/C3Heditor/status/2045531132536516848"
         imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/ZCwBREJlUjafeXDN.jpg"
-        tags={["Islam-Muslim"]}
+        tags={["Islam-Muslim", "Foreign Policy"]}
       />
       <ArticleBlock
         headline="Texas Democrat Shatters Records For Spending Donor Cash Recklessly - Will Wildly Spend Even More As U.S. Senator"
@@ -59,7 +59,7 @@ export default function Home() {
         tinyUrl="https://tinyurl.com/599k9dk8"
         xPostUrl="https://x.com/C3Heditor/status/2045521791288742255"
         imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/CGMXnLseagKZaIQY.jpg"
-        tags={["Democrat Party", "Politics"]}
+        tags={["Politics", "Culture War"]}
       />
       <ArticleBlock
         headline="Virginia&#39;s Electoral Votes Will Now Be Tied To Democrat-Controlled California Due To Bill Gov Spanberger Signed"
@@ -87,7 +87,7 @@ export default function Home() {
         tinyUrl="https://tinyurl.com/36p9m8s8"
         xPostUrl="https://x.com/C3Heditor/status/2045515239605625138"
         imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/KzamokevXKFdzgMM.jpg"
-        tags={["California"]}
+        tags={["California", "Energy Policy"]}
       />
       <ArticleBlock
         headline="Deported Illegal Gang Member Who Crossed Open Border During Democrat Administration Is Now Wanted For Murder In Florida"
