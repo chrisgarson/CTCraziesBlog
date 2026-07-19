@@ -46,7 +46,7 @@ export default function Page26() {
         tinyUrl="https://tinyurl.com/9kbxcrkv"
         xPostUrl="https://x.com/C3Heditor/status/2025584761104630123"
         imageSrc="https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/post135_clean_df42d98f.jpg"
-        tags={["Globalism"]}
+        tags={["Globalism", "Patriotism"]}
       />
       <ArticleBlock
         headline="Democrat Pandering On Steroids: Bill Would Give the Pride Flag Same Federal Protections as the US Flag"
@@ -60,14 +60,14 @@ export default function Page26() {
         tinyUrl="https://tinyurl.com/wxvukshb"
         xPostUrl="https://x.com/C3Heditor/status/2025587842043257022"
         imageSrc="https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/post133_clean_3c0b770f.jpg"
-        tags={["Los Angeles", "Utility Bills", "Democrat Party"]}
+        tags={["Los Angeles", "Utility Bills"]}
       />
       <ArticleBlock
         headline="Democrat Incompetence Squanders Millions: Vermont&#39;s Electric Bus Fleet Too Unreliable In Cold Weather"
         tinyUrl="https://tinyurl.com/mr44jesm"
         xPostUrl="https://x.com/C3Heditor/status/2025537941095821588"
         imageSrc="https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/post132_clean_711d363f.jpg"
-        tags={["Vermont", "Democrat Party"]}
+        tags={["Vermont", "Economic Policy"]}
       />
       <ArticleBlock
         headline="Caught on Camera: Legacy Media Reporter Flips Off Marco Rubio at Press Conference"
@@ -88,7 +88,7 @@ export default function Page26() {
         tinyUrl="https://tinyurl.com/w8bymuff"
         xPostUrl="https://x.com/C3Heditor/status/2025532587859399004"
         imageSrc="https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/post129_clean_fa3abebe.jpg"
-        tags={[]}
+        tags={["Culture War", "Polling"]}
       />
       <ArticleBlock
         headline="Radical Activist Avoids Trial After Court Rules Her Far-Left Extremism Is a Mental Illness"
@@ -109,7 +109,7 @@ export default function Page26() {
         tinyUrl="https://tinyurl.com/55xzkcbp"
         xPostUrl="https://x.com/C3Heditor/status/2025527251110932493"
         imageSrc="https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/2026-02-22_050525_3500af21.jpg"
-        tags={["Media Bias"]}
+        tags={["Media Bias", "Politics"]}
       />
       <ArticleBlock
         headline="Democrat Walz&#39;s-Era: Arrest #79 in Minnesota Fraud Ring That Drained Millions of Taxpayer Funds"
@@ -130,7 +130,7 @@ export default function Page26() {
         tinyUrl="https://tinyurl.com/mrym5xrx"
         xPostUrl="https://x.com/C3Heditor/status/2025590192724193358"
         imageSrc="https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/post123_clean_b33bfd2f.jpg"
-        tags={["Business Relocation"]}
+        tags={["Business Relocation", "Business Climate"]}
       />
       <ArticleBlock
         headline="Texas Democrat Senate Candidate Lies: Claims FCC Blocked His Stephen Colbert Interview From Airing"
