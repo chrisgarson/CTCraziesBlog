@@ -11,7 +11,7 @@ export default function Home() {
         tinyUrl="https://tinyurl.com/ym5akc6h"
         xPostUrl="https://x.com/C3Heditor/status/2060796629569937705"
         imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-05-30_135335_2e1c5646.jpg"
-        tags={["Immigration", "Islam-Muslim", "Democrat Party"]}
+        tags={["Immigration", "Islam-Muslim"]}
       />
       <ArticleBlock
         headline="Swatting Attack Violence by Democrat Activists on Conservative SCOTUS Justice Amy Coney Barrett"
@@ -25,21 +25,21 @@ export default function Home() {
         tinyUrl="https://tinyurl.com/3zsujmj3"
         xPostUrl="https://x.com/C3Heditor/status/2060794118473765354"
         imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-05-30_134338_1d75349d.jpg"
-        tags={["California", "Gavin Newsom", "Government", "Democrat Party"]}
+        tags={["California", "Gavin Newsom", "Government"]}
       />
       <ArticleBlock
         headline="Clinton-Appointed Judge Blocks Trump&#39;s $1.8B Fund for Victims of Wrongful DOJ&#39;s Democrat Prosecution"
         tinyUrl="https://tinyurl.com/3ufh2jhv"
         xPostUrl="https://x.com/C3Heditor/status/2060793328241700905"
         imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-05-30_134033_e4e33bd6.jpg"
-        tags={["Judiciary-Judicial", "Democrat Party", "Weaponization", "Biden Administration"]}
+        tags={["Judiciary-Judicial", "Weaponization", "Biden Administration"]}
       />
       <ArticleBlock
         headline="Left-Wing Politico Concedes That the Democrats&#39; Plan of 100% Tax Confiscation of Any Wealth Over $1B Is Doomed"
         tinyUrl="https://tinyurl.com/mutsh9e2"
         xPostUrl="https://x.com/C3Heditor/status/2060792092251566168"
         imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-05-30_133538_662252ca.jpg"
-        tags={["Taxation", "Democrat Party", "Government"]}
+        tags={["Taxation", "Government"]}
       />
       <ArticleBlock
         headline="Charges Filed Against Radical Democrat Activist&#39;s Terrorist Threats Targeting TPUSA &amp; Erika Kirk"
@@ -53,7 +53,7 @@ export default function Home() {
         tinyUrl="https://tinyurl.com/4bvar7z4"
         xPostUrl="https://x.com/C3Heditor/status/2060788856702566686"
         imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-05-30_132245_fcab9c76.jpg"
-        tags={["Media Bias", "U.S. Constitution", "Democrat Party"]}
+        tags={["Media Bias", "U.S. Constitution"]}
       />
       <ArticleBlock
         headline="New York&#39;s Democrat Ban On Non-Lethal Weapons Is Unconstitutional &amp; Directly Undermines the Supreme Court"
@@ -74,7 +74,7 @@ export default function Home() {
         tinyUrl="https://tinyurl.com/4htjtyej"
         xPostUrl="https://x.com/C3Heditor/status/2060781201489531311"
         imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-05-30_125233_fc6f46c1.jpg"
-        tags={["Racial Issues", "Judiciary-Judicial", "Culture War", "Democrat Party"]}
+        tags={["Racial Issues", "Judiciary-Judicial", "Culture War"]}
       />
       <ArticleBlock
         headline="Prominent California Democrat Candidate Accused of Exposing Herself To Employee Then Paying Her Off With $350K"
@@ -95,7 +95,7 @@ export default function Home() {
         tinyUrl="https://tinyurl.com/23rv2vtj"
         xPostUrl="https://x.com/C3Heditor/status/2060759022593032657"
         imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-05-30_112413_9f1fc221.jpg"
-        tags={["Joe Biden", "Democrat Party", "Biden Administration", "Politics"]}
+        tags={["Joe Biden", "Biden Administration", "Politics"]}
       />
       <ArticleBlock
         headline="Scandalous Sexual Affair Between Black Female Judge Appointed by Democrat Obama With Local Official in Her Court Chambers"
@@ -116,14 +116,14 @@ export default function Home() {
         tinyUrl="https://tinyurl.com/4dns9byt"
         xPostUrl="https://x.com/C3Heditor/status/2060756753512358278"
         imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-05-30_111515_1770996a.jpg"
-        tags={["Criminal Justice", "Violent Crime", "Washington", "Democrat Party"]}
+        tags={["Criminal Justice", "Violent Crime", "Washington"]}
       />
       <ArticleBlock
         headline="Know Your Place, Woman: Hijab-Clad Democrat AOC Gets Talked Over &amp; Ignored by Muslim Men at NYC Address"
         tinyUrl="https://tinyurl.com/5cwe9zv3"
         xPostUrl="https://x.com/C3Heditor/status/2060756068372759023"
         imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-05-30_111229_c1312495.jpg"
-        tags={["Alexandria Ocasio-Cortez", "Islam-Muslim", "New York", "Democrat Party"]}
+        tags={["Alexandria Ocasio-Cortez", "Islam-Muslim", "New York"]}
       />
       <ArticleBlock
         headline="MSM Bites Dog Story: CNN Host Slams Democrats for Years of Hiding Biden&#39;s Worsening Cognitive Decline"
