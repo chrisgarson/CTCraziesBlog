@@ -24,7 +24,7 @@ export default function Page2() {
         tinyUrl="https://tinyurl.com/3xaz4vtw"
         xPostUrl="https://x.com/C3Heditor/status/2045476677011001549"
         imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/RVqTzPiZztVzQhsW.jpg"
-        tags={[]}
+        tags={["Economic Policy", "California"]}
       />
       <ArticleBlock
         headline="Democrat-Partisan Pope Fail: Among Mass-Attending Catholics, Trump Pulls A 58% Approval Rating"
@@ -115,7 +115,7 @@ export default function Page2() {
         tinyUrl="https://tinyurl.com/25k2cr9u"
         xPostUrl="https://x.com/C3Heditor/status/2045463049734119616"
         imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/EgKjvwiMSOxbajXL.jpg"
-        tags={["Culture War"]}
+        tags={["Culture War", "Polling"]}
       />
       <ArticleBlock
         headline="Democrats Force Lawyers To Swear They Won&#39;t Help Feds Nab Illegals"
@@ -143,7 +143,7 @@ export default function Page2() {
         tinyUrl="https://tinyurl.com/bdh3wpds"
         xPostUrl="https://x.com/C3Heditor/status/2045459949224955938"
         imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/EXkTiGqUqjcOVrgt.jpg"
-        tags={["Violent Crime"]}
+        tags={["Violent Crime", "California", "Sexual Misconduct"]}
       />
       <Pagination currentPage={31} totalPages={61} />
     </div>
