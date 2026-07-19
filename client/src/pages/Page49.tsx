@@ -39,7 +39,7 @@ export default function Page20() {
         tinyUrl="https://tinyurl.com/mwjuv7t9"
         xPostUrl="https://x.com/C3Heditor/status/2036069232086077555"
         imageSrc="https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/post256_clean_5e5fcb65.jpg"
-        tags={["Judiciary-Judicial"]}
+        tags={["Judiciary-Judicial", "Texas"]}
       />
       <ArticleBlock
         headline="Democrats Allowed Convicted ISIS Terrorist Back On Old Dominion University Campus To Kill"
@@ -81,14 +81,14 @@ export default function Page20() {
         tinyUrl="https://tinyurl.com/5yffkun2"
         xPostUrl="https://x.com/C3Heditor/status/2036057266848157785"
         imageSrc="https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/post250_clean_9de03aca.jpg"
-        tags={["Law Enforcement"]}
+        tags={["Law Enforcement", "Arizona"]}
       />
       <ArticleBlock
         headline="Democrat LA Council Chief Who Wept Racism Over a Traffic Stop Exposed as a Colossal Hypocrite"
         tinyUrl="https://tinyurl.com/3nc29evf"
         xPostUrl="https://x.com/C3Heditor/status/2036058011983081631"
         imageSrc="https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/post249_clean_69c77eec.jpg"
-        tags={["Los Angeles"]}
+        tags={["Los Angeles", "Racial Issues"]}
       />
       <ArticleBlock
         headline="Gay Democrat Mayor Faces &#39;Child Sex Crime&#39; Arrest in a Case That Is Rocking His Community"
@@ -116,7 +116,7 @@ export default function Page20() {
         tinyUrl="https://tinyurl.com/b2xcsmrp"
         xPostUrl="https://x.com/C3Heditor/status/2035837803787907084"
         imageSrc="https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/post245_clean_040638bf.jpg"
-        tags={["James Boasberg", "DOJ", "Democrat Party"]}
+        tags={["James Boasberg", "DOJ"]}
       />
       <ArticleBlock
         headline="Uber&#39;s Billionaire Co-Founder Joinsd the Growing Exodus Out of Democrat-Controlled California"
