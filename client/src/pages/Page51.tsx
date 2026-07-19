@@ -32,7 +32,7 @@ export default function Page22() {
         tinyUrl="https://tinyurl.com/mup87mwn"
         xPostUrl="https://x.com/C3Heditor/status/2028584065784308067"
         imageSrc="https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/post217_clean_fbedf847.jpg"
-        tags={["Censorship"]}
+        tags={["Censorship", "Media Bias"]}
       />
       <ArticleBlock
         headline="Democrats Are Angry People: New Poll Surfaces Suggesting Link Between Transgender Identity &amp; Shootings"
