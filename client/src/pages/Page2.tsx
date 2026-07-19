@@ -11,63 +11,63 @@ export default function Page2() {
         tinyUrl="https://tinyurl.com/u4v76emz"
         xPostUrl="https://x.com/C3Heditor/status/2076030577770188917"
         imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-07-11_144744.jpg"
-        tags={["Josh Shapiro", "Pennsylvania", "Socialism", "Democrat Party"]}
+        tags={["Josh Shapiro", "Pennsylvania", "Socialism"]}
       />
       <ArticleBlock
         headline="Illinois Loses Hardware Giant HQ, True Value, To Indiana Citing Failures by Democrats' Governance"
         tinyUrl="https://tinyurl.com/bdfvv78h"
         xPostUrl="https://x.com/C3Heditor/status/2076030018170307024"
         imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-07-11_144555.jpg"
-        tags={["Illinois", "Economic Policy", "Democrat Party"]}
+        tags={["Illinois", "Economic Policy"]}
       />
       <ArticleBlock
         headline="Most Democrats Say They Would Rather Be Living in a Different Country, New Survey Finds"
         tinyUrl="https://tinyurl.com/5n9bb252"
         xPostUrl="https://x.com/C3Heditor/status/2076029185319989732"
         imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-07-11_144223.jpg"
-        tags={["Polling", "Democrat Party", "Politics"]}
+        tags={["Polling", "Politics"]}
       />
       <ArticleBlock
         headline="Trump Accounts' Are Tax-Free Opportunity To Build Wealth for a Child But Democrats Urge Families to Reject the Enormous Benefit of These Accounts"
         tinyUrl="https://tinyurl.com/yzmeffxb"
         xPostUrl="https://x.com/C3Heditor/status/2076028708020707638"
         imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-07-11_144021.jpg"
-        tags={["Economic Policy", "Democrat Party"]}
+        tags={["Economic Policy", "Taxation", "Politics"]}
       />
       <ArticleBlock
         headline="Leading Democrats Cut Wealth-Tax Threshold, Exposing More Citizens to Dems' Phony 'Billionaire Tax' Scheme"
         tinyUrl="https://tinyurl.com/43hvfru9"
         xPostUrl="https://x.com/C3Heditor/status/2076028073066082357"
         imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-07-11_143538.jpg"
-        tags={["Economic Policy", "Socialism", "Democrat Party"]}
+        tags={["Economic Policy", "Socialism"]}
       />
       <ArticleBlock
         headline="Arrested Alien Voted in Two Separate Elections and Democrats Still Claim This Does Not Happen"
         tinyUrl="https://tinyurl.com/ktpss6t3"
         xPostUrl="https://x.com/C3Heditor/status/2076027233987068167"
         imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-07-11_143432.jpg"
-        tags={["Immigration", "Election Fraud", "Democrat Party"]}
+        tags={["Immigration", "Election Fraud"]}
       />
       <ArticleBlock
         headline="State Records Reveal Pennsylvania's House Democrat Nominee, Bob Brooks, Ran a Business That Lacked Mandatory Workers' Comp"
         tinyUrl="https://tinyurl.com/bderfbsv"
         xPostUrl="https://x.com/C3Heditor/status/2076026758470439068"
         imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-07-11_143244.jpg"
-        tags={["Bob Brooks", "Pennsylvania", "2026 Elections", "Democrat Party"]}
+        tags={["Bob Brooks", "Pennsylvania", "2026 Elections"]}
       />
       <ArticleBlock
         headline="Bernie Sanders-Backed Democrat Mayor Admits Guilt in Mississippi Corruption Case"
         tinyUrl="https://tinyurl.com/8da5wvnh"
         xPostUrl="https://x.com/C3Heditor/status/2076026259256045852"
         imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-07-11_143038.jpg"
-        tags={["Bernie Sanders", "Mississippi", "Corruption-Fraud", "Democrat Party"]}
+        tags={["Bernie Sanders", "Mississippi", "Corruption-Fraud"]}
       />
       <ArticleBlock
         headline="Pointing the Finger: After Graham Platner's Implosion, Democrats Criticize Looney-Socialist Bernie Sanders for Backing Radicals"
         tinyUrl="https://tinyurl.com/3recu2ct"
         xPostUrl="https://x.com/C3Heditor/status/2076025446718636116"
         imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-07-11_142719.jpg"
-        tags={["Graham Platner", "Bernie Sanders", "Socialism", "Democrat Party"]}
+        tags={["Graham Platner", "Bernie Sanders", "Socialism"]}
       />
       <ArticleBlock
         headline="Wisconsin Democrat Governor Hopeful, Francesca Hong, Wants Taxpayer-Funded Gender Mutilation Treatments"
@@ -88,7 +88,7 @@ export default function Page2() {
         tinyUrl="https://tinyurl.com/a3z88wbu"
         xPostUrl="https://x.com/C3Heditor/status/2075985733756518489"
         imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-07-11_114948.jpg"
-        tags={["Adelita Grijalva", "Culture War", "Patriotism", "Democrat Party"]}
+        tags={["Adelita Grijalva", "Culture War", "Patriotism"]}
       />
       <ArticleBlock
         headline="Self-Proclaimed &quot;Moderate&quot; Democrat, Josh Turek, Voted to Keep Race-Based, Woke Anti-Male, Anti-White DEI Programs in Iowa's Schools"
@@ -116,14 +116,14 @@ export default function Page2() {
         tinyUrl="https://tinyurl.com/5bcerfs7"
         xPostUrl="https://x.com/C3Heditor/status/2075979749071966310"
         imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-07-11_112553.jpg"
-        tags={["Economic Policy", "Democrat Party", "U.S. Congress"]}
+        tags={["Economic Policy", "U.S. Congress"]}
       />
       <ArticleBlock
         headline="Black &quot;English&quot; Taught in Pre-Schools?? California's Woke Democrat Activists Attempt to Make it Happen"
         tinyUrl="https://tinyurl.com/mw8fwr"
         xPostUrl="https://x.com/C3Heditor/status/2075978704442798350"
         imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-07-11_112205.jpg"
-        tags={["California", "Education Policy", "Racial Issues", "Democrat Party"]}
+        tags={["California", "Education Policy", "Racial Issues"]}
       />
       <ArticleBlock
         headline="Texas Doctor Who Did Trans Mutilation Surgeries on Minors is Now Campaigning With Radical-Left Democrat Senate Candidate James Talarico"
@@ -137,14 +137,14 @@ export default function Page2() {
         tinyUrl="https://tinyurl.com/3s36h5p9"
         xPostUrl="https://x.com/C3Heditor/status/2075977187312734353"
         imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-07-11_111354.jpg"
-        tags={["Election Fraud", "Foreign Policy", "Democrat Party"]}
+        tags={["Election Fraud", "Foreign Policy"]}
       />
       <ArticleBlock
         headline="Democrats Are Hateful and Violent: Staffer Who Made Death Threat Videos for a Wisconsin Democrat's Campaign Has Been Identified"
         tinyUrl="https://tinyurl.com/mr2ukkxw"
         xPostUrl="https://x.com/C3Heditor/status/2075976211222651241"
         imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-07-11_111157.jpg"
-        tags={["Wisconsin", "Violence", "Democrat Party"]}
+        tags={["Wisconsin", "Violence"]}
       />
       </div>
       <Pagination currentPage={2} totalPages={61} />
