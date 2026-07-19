@@ -19,7 +19,7 @@ export default function Home() {
         tinyUrl="https://tinyurl.com/mssxkdex"
         xPostUrl="https://x.com/C3Heditor/status/2048509088519045606"
         imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/JmwjlAUhFGqxOWyD.jpg"
-        tags={["Taxation", "Democrat Party", "California", "Culture War"]}
+        tags={["Taxation", "California", "Culture War"]}
       />
       <ArticleBlock
         headline="Making California Unaffordble: Skyrocketing Costs Due To Democrat Policies Are Pushing Families Out Of The State"
@@ -110,7 +110,7 @@ export default function Home() {
         tinyUrl="https://tinyurl.com/2s44bufe"
         xPostUrl="https://x.com/C3Heditor/status/2048439157618552893"
         imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/VQbEtdAKeBVDtPTy.jpg"
-        tags={["California"]}
+        tags={["California", "Energy Policy"]}
       />
       <ArticleBlock
         headline="Dark Money From Soros-Linked Groups Seals Virginia&#39;s Unfair Democrat Gerrymander Map Drawings"
@@ -124,7 +124,7 @@ export default function Home() {
         tinyUrl="https://tinyurl.com/nhzz8dp9"
         xPostUrl="https://x.com/C3Heditor/status/2048355310847348798"
         imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/SnzjbpZEqnbQhhjb.jpg"
-        tags={["Assassination"]}
+        tags={["Assassination", "Media Bias", "Violence"]}
       />
       <ArticleBlock
         headline="Democrat Extremist Journalists: 250+ Demand Protest Against Trump at White House Correspondents’ Dinner"
@@ -145,7 +145,7 @@ export default function Home() {
         tinyUrl="https://tinyurl.com/yc7v4pbj"
         xPostUrl="https://x.com/C3Heditor/status/2048342550843474099"
         imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/kBuMuchmLmnVSwsc.jpg"
-        tags={["Government", "Democrat Party"]}
+        tags={["Government", "Corruption-Fraud"]}
       />
       </div>
       <Pagination currentPage={27} totalPages={61} />
