@@ -116,7 +116,7 @@ export default function Page12() {
         tinyUrl="https://tinyurl.com/muue6ssv"
         xPostUrl="https://x.com/C3Heditor/status/2038354427946426787"
         imageSrc="https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/2026-03-29_153611_872b56dc.jpg"
-        tags={["Immigration"]}
+        tags={["Immigration", "New York"]}
       />
       <ArticleBlock
         headline="If Democrats Win the Midterms, Multiple Anti-Trump Investigations Will Immediately Launch"
