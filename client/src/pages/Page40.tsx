@@ -11,28 +11,28 @@ export default function Page11() {
         tinyUrl="https://tinyurl.com/yvky7uka"
         xPostUrl="https://x.com/C3Heditor/status/2039059874424717750"
         imageSrc="https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/2026-03-31_141945_28c7cc15.jpg"
-        tags={["Eric Swalwell", "U.S. Congress", "U.S. Congress", "Democrat Party"]}
+        tags={["Eric Swalwell", "U.S. Congress", "U.S. Congress"]}
       />
       <ArticleBlock
         headline="Top Democrat Accidentally Reveals Exactly What Her Party Fears Most About SAVE Act - Stopping Dems&#39; Voter Fraud"
         tinyUrl="https://tinyurl.com/2krk4nr3"
         xPostUrl="https://x.com/C3Heditor/status/2039059091855667202"
         imageSrc="https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/2026-03-31_141630_dab34419.jpg"
-        tags={["Election Fraud"]}
+        tags={["Election Fraud", "Corruption-Fraud", "2026 Elections"]}
       />
       <ArticleBlock
         headline="Radical Democrat-Fascists Tell Conservative Students to Die - Use Charlie Kirk Death Imagery as Threats"
         tinyUrl="https://tinyurl.com/2s7erd3j"
         xPostUrl="https://x.com/C3Heditor/status/2039058285542670771"
         imageSrc="https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/2026-03-31_141313_c1732f90.jpg"
-        tags={["Censorship"]}
+        tags={["Censorship", "Education Policy", "Violence"]}
       />
       <ArticleBlock
         headline="Hitler-Groupie Nick Fuentes Is Being Discovered By Appreciative Democrat Lefties"
         tinyUrl="https://tinyurl.com/54vsaxvx"
         xPostUrl="https://x.com/C3Heditor/status/2039057216246833340"
         imageSrc="https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/2026-03-31_140915_c0098405.jpg"
-        tags={["Alternative & Social Media"]}
+        tags={["Alternative & Social Media", "Racial Issues"]}
       />
       <ArticleBlock
         headline="NY Democrats Back Energy Plans Designed to Bring 3rd World-Style Blackouts"
@@ -88,7 +88,7 @@ export default function Page11() {
         tinyUrl="https://tinyurl.com/yurk3tus"
         xPostUrl="https://x.com/C3Heditor/status/2038739226255044866"
         imageSrc="https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/2026-03-30_170536_dee70b5a.jpg"
-        tags={["Minnesota"]}
+        tags={["Minnesota", "Corruption-Fraud", "Energy Policy"]}
       />
       <ArticleBlock
         headline="Creepy Maine&#39;s Democrat Senate Hopeful Brags About Wrestling &amp; Beating High School Girls"
@@ -137,7 +137,7 @@ export default function Page11() {
         tinyUrl="https://tinyurl.com/mtu476dh"
         xPostUrl="https://x.com/C3Heditor/status/2038729360488693767"
         imageSrc="https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/2026-03-30_162608_7dfb6b47.jpg"
-        tags={["Violent Crime"]}
+        tags={["Violent Crime", "Illinois", "Politics"]}
       />
       <ArticleBlock
         headline="San Diego&#39;s Democrat School Board Members Vote Themselves a 400% Pay Raise as Furious Staff Look On"
