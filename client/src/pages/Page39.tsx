@@ -18,7 +18,7 @@ export default function Page10() {
         tinyUrl="https://tinyurl.com/7uubwxpk"
         xPostUrl="https://x.com/C3Heditor/status/2039081331708326342"
         imageSrc="https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/2026-03-31_154315_44361632.jpg"
-        tags={["Maryland", "Democrat Party"]}
+        tags={["Maryland", "Corruption-Fraud"]}
       />
       <ArticleBlock
         headline="Corrupt Democrat Lawmaker Sentenced for Fabricating Support Letters &amp; Probed for Bullying"
@@ -67,14 +67,14 @@ export default function Page10() {
         tinyUrl="https://tinyurl.com/k4rhpr88"
         xPostUrl="https://x.com/C3Heditor/status/2039074364788769250"
         imageSrc="https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/2026-03-31_151658_626df9bc.jpg"
-        tags={["Business Climate", "Politics", "Democrat Party"]}
+        tags={["Business Climate", "Politics"]}
       />
       <ArticleBlock
         headline="Never Forget: Democrats Withhold Applause as Trump Honors American Olympic Hockey Champions"
         tinyUrl="https://tinyurl.com/bdcmss8y"
         xPostUrl="https://x.com/C3Heditor/status/2039073582156836886"
         imageSrc="https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/2026-03-31_151402_b85fea9e.jpg"
-        tags={["State of the Union"]}
+        tags={["State of the Union", "Patriotism", "Politics"]}
       />
       <ArticleBlock
         headline="Federal DOJ Enters Anti-White Discrimination Suit Against LA&#39;s Largest, Democrat-Run School District"
@@ -109,14 +109,14 @@ export default function Page10() {
         tinyUrl="https://tinyurl.com/yhrec8hr"
         xPostUrl="https://x.com/C3Heditor/status/2039067163294597287"
         imageSrc="https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/2026-03-31_144824_92cadc68.jpg"
-        tags={["Sexual Misconduct"]}
+        tags={["Sexual Misconduct", "Silicon Valley", "Violent Crime"]}
       />
       <ArticleBlock
         headline="Democrat Senator Sounds Alarm: His Own Party Is Still Sick With Trump Derangement Syndrome"
         tinyUrl="https://tinyurl.com/s5m6txkh"
         xPostUrl="https://x.com/C3Heditor/status/2039066364724253040"
         imageSrc="https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/2026-03-31_144513_c839d5cf.jpg"
-        tags={["John Fetterman", "Democrat Party"]}
+        tags={["John Fetterman", "U.S. Congress", "Foreign Policy"]}
       />
       <ArticleBlock
         headline="Chicago Dem Blasts Gov. Pritzker and His Party — Reveals Why Democrats Block Trump on Immigration"
@@ -137,7 +137,7 @@ export default function Page10() {
         tinyUrl="https://tinyurl.com/msmv4zty"
         xPostUrl="https://x.com/C3Heditor/status/2039063260901847255"
         imageSrc="https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/2026-03-31_143255_d8e37da2.jpg"
-        tags={["Culture War"]}
+        tags={["Culture War", "Judiciary-Judicial"]}
       />
       <ArticleBlock
         headline="U.S. House Democrat Cherfilus-McCormick Found Guilty of 25 Ethics Violations — Expulsion Has Yet to Be Decided"
