@@ -25,21 +25,21 @@ export default function Page24() {
         tinyUrl="https://tinyurl.com/vcne6su9"
         xPostUrl="https://x.com/C3Heditor/status/2026422018283864282"
         imageSrc="https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/post178_clean_3e6c90c4.jpg"
-        tags={[]}
+        tags={["Violent Crime", "Culture War"]}
       />
       <ArticleBlock
         headline="19 CIA Reports Retracted After Expert Review Found Deep Leftist/Democrat Political Bias"
         tinyUrl="https://tinyurl.com/y5utbhej"
         xPostUrl="https://x.com/C3Heditor/status/2026421073110081899"
         imageSrc="https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/post177_clean_a3e8c2b5.jpg"
-        tags={["Politics"]}
+        tags={["Politics", "National Security"]}
       />
       <ArticleBlock
         headline="Democrats&#39; California Insurance Fraud Now in the Crosshairs as Trump Deploys a Federal Strike Team"
         tinyUrl="https://tinyurl.com/ytm535jp"
         xPostUrl="https://x.com/C3Heditor/status/2026420336502149576"
         imageSrc="https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/post176_clean_7ea282b6.jpg"
-        tags={["Corruption-Fraud"]}
+        tags={["Corruption-Fraud", "California", "Taxation"]}
       />
       <ArticleBlock
         headline="Small American Business Tells Democrats At HuffPost To Go F**K Themselves Over Its Bashing U.S. Hockey Team Patriotism"
@@ -60,21 +60,21 @@ export default function Page24() {
         tinyUrl="https://tinyurl.com/4dzf72h9"
         xPostUrl="https://x.com/C3Heditor/status/2026416016297701670"
         imageSrc="https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/post173_clean_e4896834.jpg"
-        tags={["Susan Rice", "Democrat Party", "Politics"]}
+        tags={["Susan Rice", "Politics"]}
       />
       <ArticleBlock
         headline="Parents Kept In The Dark: Middle School Students Racially Separated by Woke Democrat Administrators"
         tinyUrl="https://tinyurl.com/3ytb5sy9"
         xPostUrl="https://x.com/C3Heditor/status/2026411701420114068"
         imageSrc="https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/post172_clean_4561e759.jpg"
-        tags={["Culture War"]}
+        tags={["Culture War", "Education Policy", "Racial Issues"]}
       />
       <ArticleBlock
         headline="New Proposed Law Protecting Newborns From Infanticide Voted Down by Oregon Democrats"
         tinyUrl="https://tinyurl.com/mbvub6ct"
         xPostUrl="https://x.com/C3Heditor/status/2026412770938298646"
         imageSrc="https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/post171_clean_59dd004e.jpg"
-        tags={["Oregon"]}
+        tags={["Oregon", "2026 Elections"]}
       />
       <ArticleBlock
         headline="New Jersey Democrat Indicted by Grand Jury in Corruption Investigation"
@@ -95,7 +95,7 @@ export default function Page24() {
         tinyUrl="https://tinyurl.com/44842r4r"
         xPostUrl="https://x.com/C3Heditor/status/2026405151343354304"
         imageSrc="https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/post168_clean_fba2c586.jpg"
-        tags={["Election Fraud"]}
+        tags={["Election Fraud", "2026 Elections"]}
       />
       <ArticleBlock
         headline="Defense Industry Giant Quickly Abandons Virginia Following Democrat Gov.  Spanberger&#39;s Radical Policy Shifts"
