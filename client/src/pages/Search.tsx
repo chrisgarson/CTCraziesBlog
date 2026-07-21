@@ -40,7 +40,7 @@ const articles = [
     "batchDate": "July 20, 2026"
   },
   {
-    "headline": "Voter Rolls in 4 Blue/Purple States Hold 250,000 Non-Citizens, Complexly Obliterating Democrat Denials That It Does Not Happen",
+    "headline": "Voter Rolls in 4 Blue/Purple States Hold 250,000 Non-Citizens, Completely Obliterating Democrat Denials That It Does Not Happen",
     "tinyUrl": "https://tinyurl.com/2s3nf587",
     "xPostUrl": "https://x.com/C3Heditor/status/2079264805316182099",
     "imageUrl": "https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-07-20_125926.jpg",
