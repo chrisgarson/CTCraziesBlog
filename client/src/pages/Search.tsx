@@ -4,7 +4,7 @@ import { Link } from 'wouter';
 
 const articles = [
   {
-    "headline": "More Democrat Craziness: Representative Gabe Vasquez Thinks Eliminating New Mexico's Oil and Gas Industry Is a Good Idea",
+    "headline": "More Democrat Craziness: Representative Gabe Vasquez Thinks Eliminating New Mexico's Oil & Gas Industry is a Brilliant Job-Creation Idea",
     "tinyUrl": "https://tinyurl.com/2kzfz96r",
     "xPostUrl": "https://x.com/C3Heditor/status/2081137687730286877",
     "imageUrl": "https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-07-25_165701.jpg",
@@ -13,7 +13,7 @@ const articles = [
     "batchDate": "2026-07-26"
   },
   {
-    "headline": "Democrat Anti-White Racist Representative Jasmine Crockett Says Rooting For Spain Over USA Is Perfectly Fine",
+    "headline": "Democrat Anti-White Racist Representative Jasmine Crockett Says Rooting For Spanish Team in World Cup Final Was Racist",
     "tinyUrl": "https://tinyurl.com/2w3uunzh",
     "xPostUrl": "https://x.com/C3Heditor/status/2081136124768985485",
     "imageUrl": "https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-07-25_165536.jpg",
@@ -67,7 +67,7 @@ const articles = [
     "batchDate": "2026-07-26"
   },
   {
-    "headline": "Ohio's Democrat Governor Hopeful Amy Acton, is 'Hopeful' That Voter Totally Forget Her Covid-19 Bureaucrat Shutdown Tyranny",
+    "headline": "Ohio's Democrat Governor Hopeful Amy Acton, is 'Hopeful' That Voters Totally Forget Her Covid-19 Bureaucrat Shutdown Tyranny",
     "tinyUrl": "https://tinyurl.com/3saj4det",
     "xPostUrl": "https://x.com/C3Heditor/status/2081126614411116711",
     "imageUrl": "https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-07-25_161756.jpg",
@@ -103,7 +103,7 @@ const articles = [
     "batchDate": "2026-07-26"
   },
   {
-    "headline": "Most Democrats are Reluctant to Speak About Their New Marist-Communist DSA Platform That Now Represents The Party",
+    "headline": "Most Democrats are Reluctant to Speak About Their New Marxist-Communist DSA Platform That Now Represents The Party",
     "tinyUrl": "https://tinyurl.com/3cr9ddrt",
     "xPostUrl": "https://x.com/C3Heditor/status/2081114057914859742",
     "imageUrl": "https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-07-25_152741.jpg",
@@ -130,7 +130,7 @@ const articles = [
     "batchDate": "2026-07-26"
   },
   {
-    "headline": "A Democrat Open Border Illegal Alien Murders Michigan Woman, Found Guilty, Then Sues Trump for $75M & a Public Apology For His Hurt Feelings",
+    "headline": "A Democrat Open Border Illegal Murders Michigan Woman, Found Guilty, Then Sues Trump for $75M Including a Public Apology For His Hurt Feelings",
     "tinyUrl": "https://tinyurl.com/frmnh5rt",
     "xPostUrl": "https://x.com/C3Heditor/status/2081111447568797956",
     "imageUrl": "https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-07-25_151718.jpg",
