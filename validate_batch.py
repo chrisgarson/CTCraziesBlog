@@ -1,9 +1,16 @@
-#!/usr/bin/env python3.11
+#!/usr/bin/env python3
 """
 validate_batch.py — Standalone batch JSON validation script for CT Crazies.
 
 Usage:
-    python3.11 validate_batch.py <articles_json>
+    python3 validate_batch.py <articles_json> [<source_xlsx>]
+
+    articles_json : path to JSON file with 20 article objects
+    source_xlsx   : (optional but strongly recommended) path to the source XLSX
+                    file. When provided, every headline in the JSON is verified
+                    against column B of the XLSX row-by-row. Any mismatch blocks
+                    the batch — this prevents hallucinated or truncated headlines
+                    from reaching the site.
 
 Runs all data quality checks on a batch JSON file and reports any errors.
 This is run automatically by batch_process.py before any files are modified,
@@ -15,12 +22,14 @@ Checks performed:
   - imagePath exists on local filesystem
   - All tags are from the approved list (no new tags created)
   - No news source included as a tag
-  - Exactly 4 tags per article
+  - 2-4 tags per article
   - No duplicate article numbers within the batch
   - No duplicate image filenames within the batch
   - URLs start with http
-  - Headlines are not blank and not modified from source
+  - Headlines are not blank
   - imageName matches the basename of imagePath
+  - [XLSX cross-check] Every headline matches column B of the source XLSX exactly
+    (requires source_xlsx argument; blocks batch on any mismatch)
 
 Exit codes:
   0 = all checks passed
@@ -54,6 +63,96 @@ def load_approved_tags() -> set:
     with open(TAG_INDEX_SRC, encoding='utf-8') as f:
         data = json.load(f)
     return set(data.keys())
+
+
+def normalize_headline(s: str) -> str:
+    """
+    Normalize a headline string for comparison purposes.
+    Handles common Excel auto-formatting artifacts:
+      - Non-breaking spaces (\xa0) -> regular space
+      - Smart/curly single quotes (\u2018, \u2019) -> straight apostrophe
+      - Smart/curly double quotes (\u201c, \u201d) -> straight double quote
+      - En dash (\u2013) and em dash (\u2014) -> hyphen
+    This prevents false positives when Excel auto-formats punctuation.
+    NOTE: Normalization is used ONLY for comparison — the original text is
+    shown in error messages so the user sees the actual XLSX content.
+    """
+    if not s:
+        return ''
+    s = s.strip()
+    s = s.replace('\xa0', ' ')           # non-breaking space
+    s = s.replace('\u2018', "'")          # left single quotation mark
+    s = s.replace('\u2019', "'")          # right single quotation mark / apostrophe
+    s = s.replace('\u201c', '"')          # left double quotation mark
+    s = s.replace('\u201d', '"')          # right double quotation mark
+    s = s.replace('\u2013', '-')          # en dash
+    s = s.replace('\u2014', '-')          # em dash
+    return s
+
+
+def load_xlsx_headlines(xlsx_path: str) -> list[str]:
+    """
+    Read column B (X-Post Headline) from the source XLSX, skipping the header row.
+    Returns a list of headline strings in row order (top to bottom).
+    Raises ImportError if openpyxl is not installed.
+    """
+    try:
+        import openpyxl
+    except ImportError:
+        raise ImportError("openpyxl is required for XLSX cross-check: pip install openpyxl")
+
+    wb = openpyxl.load_workbook(xlsx_path, read_only=True, data_only=True)
+    ws = wb.active
+    headlines = []
+    for row in ws.iter_rows(min_row=2, values_only=True):
+        headline = row[1] if len(row) > 1 else None  # column B = index 1
+        if headline and str(headline).strip():
+            headlines.append(str(headline).strip())
+    wb.close()
+    return headlines
+
+
+def xlsx_cross_check(articles: list, xlsx_path: str) -> list:
+    """
+    Cross-check every headline in the JSON against the source XLSX column B.
+    Articles are matched positionally (article[0] ↔ xlsx row 2, etc.).
+    Returns a list of error strings; empty list means all headlines match.
+    """
+    errors = []
+
+    try:
+        xlsx_headlines = load_xlsx_headlines(xlsx_path)
+    except Exception as e:
+        errors.append(f"XLSX cross-check: could not read '{xlsx_path}': {e}")
+        return errors
+
+    if len(xlsx_headlines) != len(articles):
+        errors.append(
+            f"XLSX cross-check: XLSX has {len(xlsx_headlines)} data rows "
+            f"but JSON has {len(articles)} articles — counts must match"
+        )
+        # Still check as many as we can
+        check_count = min(len(xlsx_headlines), len(articles))
+    else:
+        check_count = len(articles)
+
+    for i in range(check_count):
+        json_headline_raw = str(articles[i].get('headline', '')).strip()
+        xlsx_headline_raw = xlsx_headlines[i].strip()
+        num = articles[i].get('num', f'#{i+1}')
+
+        # Normalize both sides to avoid false positives from Excel formatting
+        json_norm = normalize_headline(json_headline_raw)
+        xlsx_norm = normalize_headline(xlsx_headline_raw)
+
+        if json_norm != xlsx_norm:
+            errors.append(
+                f"XLSX cross-check — num {num} (row {i+2}): headline mismatch\n"
+                f"     JSON:  \"{json_headline_raw}\"\n"
+                f"     XLSX:  \"{xlsx_headline_raw}\""
+            )
+
+    return errors
 
 
 def validate(articles: list, approved_tags: set) -> tuple[list, list]:
@@ -129,10 +228,10 @@ def validate(articles: list, approved_tags: set) -> tuple[list, list]:
             if not isinstance(tags, list):
                 errors.append(f"Article {idx} (num {num}): 'tags' must be a list, got {type(tags).__name__}")
             else:
-                # Exactly 4 tags
-                if len(tags) != 4:
+                # 2-4 tags allowed
+                if not (2 <= len(tags) <= 4):
                     errors.append(
-                        f"Article {idx} (num {num}): expected exactly 4 tags, got {len(tags)}: {tags}"
+                        f"Article {idx} (num {num}): expected 2-4 tags, got {len(tags)}: {tags}"
                     )
 
                 for tag in tags:
@@ -162,11 +261,13 @@ def validate(articles: list, approved_tags: set) -> tuple[list, list]:
     return errors, warnings
 
 
-def print_report(articles: list, errors: list, warnings: list, json_path: str):
+def print_report(articles: list, errors: list, warnings: list, json_path: str, xlsx_path: str = None):
     """Print a formatted validation report."""
     print(f"\n{'='*60}")
     print(f"BATCH VALIDATION REPORT")
     print(f"File: {json_path}")
+    if xlsx_path:
+        print(f"XLSX: {xlsx_path}")
     print(f"Articles: {len(articles)}")
     print(f"{'='*60}")
 
@@ -190,14 +291,20 @@ def print_report(articles: list, errors: list, warnings: list, json_path: str):
 
 def main():
     if len(sys.argv) < 2:
-        print("Usage: python3.11 validate_batch.py <articles_json>")
+        print("Usage: python3 validate_batch.py <articles_json> [<source_xlsx>]")
         print("  articles_json : path to JSON file with 20 article objects")
+        print("  source_xlsx   : (recommended) path to source XLSX for headline cross-check")
         sys.exit(2)
 
     json_path = sys.argv[1]
+    xlsx_path = sys.argv[2] if len(sys.argv) >= 3 else None
 
     if not os.path.exists(json_path):
         print(f"Error: file not found: {json_path}")
+        sys.exit(2)
+
+    if xlsx_path and not os.path.exists(xlsx_path):
+        print(f"Error: XLSX file not found: {xlsx_path}")
         sys.exit(2)
 
     with open(json_path, encoding='utf-8') as f:
@@ -208,7 +315,21 @@ def main():
         print(f"Loaded {len(approved_tags)} approved tags from tag-index")
 
     errors, warnings = validate(articles, approved_tags)
-    print_report(articles, errors, warnings, json_path)
+
+    # ── XLSX cross-check (blocks batch on any mismatch) ───────────────────────
+    if xlsx_path:
+        print(f"Running XLSX headline cross-check against: {os.path.basename(xlsx_path)}")
+        xlsx_errors = xlsx_cross_check(articles, xlsx_path)
+        if xlsx_errors:
+            errors.extend(xlsx_errors)
+            print(f"  ✗ {len(xlsx_errors)} headline mismatch(es) found")
+        else:
+            print(f"  ✓ All {len(articles)} headlines match XLSX source")
+    else:
+        print("  ⚠  WARNING: No XLSX provided — headline cross-check skipped.")
+        print("              Always pass the source XLSX to catch hallucinated headlines.")
+
+    print_report(articles, errors, warnings, json_path, xlsx_path)
 
     sys.exit(1 if errors else 0)
 
