@@ -7,14 +7,14 @@ export default function Home() {
       <PageHeader />
       <div className="space-y-12">
       <ArticleBlock
-        headline="More Democrat Craziness: Representative Gabe Vasquez Thinks Eliminating New Mexico's Oil and Gas Industry Is a Good Idea"
+        headline="More Democrat Craziness: Representative Gabe Vasquez Thinks Eliminating New Mexico's Oil &amp; Gas Industry is a Brilliant Job-Creation Idea"
         tinyUrl="https://tinyurl.com/2kzfz96r"
         xPostUrl="https://x.com/C3Heditor/status/2081137687730286877"
         imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-07-25_165701.jpg"
         tags={["Gabe Vasquez", "New Mexico", "Energy Policy"]}
       />
       <ArticleBlock
-        headline="Democrat Anti-White Racist Representative Jasmine Crockett Says Rooting For Spain Over USA Is Perfectly Fine"
+        headline="Democrat Anti-White Racist Representative Jasmine Crockett Says Rooting For Spanish Team in World Cup Final Was Racist"
         tinyUrl="https://tinyurl.com/2w3uunzh"
         xPostUrl="https://x.com/C3Heditor/status/2081136124768985485"
         imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-07-25_165536.jpg"
@@ -56,7 +56,7 @@ export default function Home() {
         tags={["Dan Osborn", "Nebraska", "Gun Control", "2026 Elections"]}
       />
       <ArticleBlock
-        headline="Ohio's Democrat Governor Hopeful Amy Acton, is 'Hopeful' That Voter Totally Forget Her Covid-19 Bureaucrat Shutdown Tyranny"
+        headline="Ohio's Democrat Governor Hopeful Amy Acton, is 'Hopeful' That Voters Totally Forget Her Covid-19 Bureaucrat Shutdown Tyranny"
         tinyUrl="https://tinyurl.com/3saj4det"
         xPostUrl="https://x.com/C3Heditor/status/2081126614411116711"
         imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-07-25_161756.jpg"
@@ -84,7 +84,7 @@ export default function Home() {
         tags={["Gavin Newsom", "California", "Politics"]}
       />
       <ArticleBlock
-        headline="Most Democrats are Reluctant to Speak About Their New Marist-Communist DSA Platform That Now Represents The Party"
+        headline="Most Democrats are Reluctant to Speak About Their New Marxist-Communist DSA Platform That Now Represents The Party"
         tinyUrl="https://tinyurl.com/3cr9ddrt"
         xPostUrl="https://x.com/C3Heditor/status/2081114057914859742"
         imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-07-25_152741.jpg"
@@ -105,7 +105,7 @@ export default function Home() {
         tags={["New York", "Education Policy", "Culture War"]}
       />
       <ArticleBlock
-        headline="A Democrat Open Border Illegal Alien Murders Michigan Woman, Found Guilty, Then Sues Trump for $75M &amp; a Public Apology For His Hurt Feelings"
+        headline="A Democrat Open Border Illegal Murders Michigan Woman, Found Guilty, Then Sues Trump for $75M Including a Public Apology For His Hurt Feelings"
         tinyUrl="https://tinyurl.com/frmnh5rt"
         xPostUrl="https://x.com/C3Heditor/status/2081111447568797956"
         imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-07-25_151718.jpg"
