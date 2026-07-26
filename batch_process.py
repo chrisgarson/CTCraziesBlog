@@ -797,6 +797,15 @@ def main():
     with open(articles_json_path, encoding='utf-8') as f:
         articles = json.load(f)
 
+    # ── Auto-discover XLSX in same directory as articles JSON ─────────────────
+    batch_dir = os.path.dirname(os.path.abspath(articles_json_path))
+    xlsx_candidates = [f for f in os.listdir(batch_dir) if f.lower().endswith('.xlsx')]
+    xlsx_path = os.path.join(batch_dir, xlsx_candidates[0]) if xlsx_candidates else None
+    if xlsx_path:
+        print(f"  Found XLSX for cross-check: {os.path.basename(xlsx_path)}")
+    else:
+        print(f"  WARNING: No XLSX found in {batch_dir} — headline cross-check will be skipped")
+
     # ── PRE-FLIGHT VALIDATION ─────────────────────────────────────────────────
     print(f"\n[PRE-FLIGHT] Validating {len(articles)} articles...")
     approved_tags = load_approved_tags()
@@ -806,6 +815,34 @@ def main():
         print(f"  WARNING: Could not load approved tags — tag validation skipped")
 
     errors = preflight_validate(articles, approved_tags)
+
+    # ── XLSX headline cross-check (blocks batch on any mismatch) ──────────────
+    if xlsx_path:
+        print(f"  Running XLSX headline cross-check...")
+        validate_cmd = ['python3', os.path.join(PROJECT, 'validate_batch.py'),
+                        articles_json_path, xlsx_path]
+        validate_result = subprocess.run(validate_cmd, capture_output=True, text=True)
+        # Extract only XLSX cross-check errors from validate_batch output
+        for line in validate_result.stdout.splitlines():
+            if 'XLSX cross-check' in line and ('✗' in line or 'mismatch' in line.lower()):
+                errors.append(line.strip())
+        if validate_result.returncode != 0:
+            # Parse the full output for XLSX-specific errors
+            in_errors = False
+            for line in validate_result.stdout.splitlines():
+                if 'ERROR(S)' in line:
+                    in_errors = True
+                elif in_errors and line.strip().startswith('•'):
+                    if 'XLSX cross-check' in line:
+                        errors.append(line.strip().lstrip('• '))
+            if not any('XLSX cross-check' in e for e in errors):
+                # Fallback: re-run validate_batch.py as the authoritative check
+                print(validate_result.stdout)
+                print(validate_result.stderr)
+                print(f"\n  No files were modified. Fix the errors above and re-run.")
+                sys.exit(1)
+    else:
+        print(f"  ⚠  XLSX cross-check skipped — no XLSX file found in batch directory")
 
     if errors:
         print(f"\n  ✗ PRE-FLIGHT FAILED — {len(errors)} error(s) found:")
@@ -918,7 +955,7 @@ def main():
         # ── STEP 5: Validate and rebuild tag-index ────────────────────────────
         print(f"\n[STEP 5] Running validation and rebuilding tag-index...")
         result = subprocess.run(
-            ['python3.11', 'rebuild_search.py', '--rebuild'],
+            ['python3', 'rebuild_search.py', '--rebuild'],
             cwd=PROJECT, capture_output=True, text=True
         )
         print(result.stdout)
@@ -988,7 +1025,6 @@ def main():
         xml_path = os.path.expanduser(f'~/ctcrazies_wordpress_import_{today_str}.xml')
 
         # Generate ZIP (exclude node_modules, .git, dist, .manus, .wrangler)
-        import subprocess
         project_dir = os.path.dirname(os.path.abspath(__file__))
         zip_result = subprocess.run(
             ['zip', '-r', zip_path, os.path.basename(project_dir),
