@@ -645,46 +645,90 @@ def verify_article_counts(total_pages: int, dry_run: bool = False) -> list:
 # ─────────────────────────────────────────────
 
 def github_push_page_files(new_total_pages: int, batch_date: str, dry_run: bool = False) -> bool:
-    """Push all changed page files and supporting files to GitHub via Contents API."""
-    commit_msg = f"Batch update: {batch_date} — {new_total_pages} total pages"
+    """
+    Push all changed page files and supporting files to GitHub via Contents API.
 
-    files_to_push = [(HOME, "client/src/pages/Home.tsx")]
-    for n in range(2, new_total_pages + 1):
+    Two-stage push for sandbox-reset resilience:
+      Stage 1 (critical): Home.tsx + new Page2.tsx — the new batch content.
+                          If the sandbox resets after Stage 1, the new articles
+                          are safely in GitHub and recoverable from the XLSX.
+      Stage 2 (bulk):     Shifted pages (Page3..PageN), App.tsx, Search.tsx,
+                          tag index files.
+    If Stage 1 succeeds but Stage 2 is interrupted, re-running the batch will
+    complete Stage 2 (all GitHub puts are idempotent via SHA-based updates).
+    """
+    stage1_commit = f"Batch update Stage 1/2: {batch_date} — new articles (Home + Page2)"
+    stage2_commit = f"Batch update Stage 2/2: {batch_date} — {new_total_pages} total pages"
+
+    # ── Stage 1: Home.tsx + new Page2.tsx ─────────────────────────────────
+    stage1_files = [
+        (HOME, "client/src/pages/Home.tsx"),
+        (os.path.join(PAGES_DIR, 'Page2.tsx'), "client/src/pages/Page2.tsx"),
+    ]
+    stage1_files = [(lp, gp) for lp, gp in stage1_files if os.path.exists(lp)]
+
+    # ── Stage 2: shifted pages + App.tsx + Search.tsx + tag index ─────────
+    stage2_files = []
+    for n in range(3, new_total_pages + 1):
         local = os.path.join(PAGES_DIR, f'Page{n}.tsx')
         if os.path.exists(local):
-            files_to_push.append((local, f"client/src/pages/Page{n}.tsx"))
-    files_to_push.append((SEARCH, "client/src/pages/Search.tsx"))
-    files_to_push.append((os.path.join(PROJECT, 'client/src/App.tsx'), "client/src/App.tsx"))
+            stage2_files.append((local, f"client/src/pages/Page{n}.tsx"))
+    stage2_files.append((SEARCH, "client/src/pages/Search.tsx"))
+    stage2_files.append((os.path.join(PROJECT, 'client/src/App.tsx'), "client/src/App.tsx"))
     if os.path.exists(TAG_INDEX_SRC):
-        files_to_push.append((TAG_INDEX_SRC, "client/src/data/tag-index.json"))
+        stage2_files.append((TAG_INDEX_SRC, "client/src/data/tag-index.json"))
     if os.path.exists(TAG_INDEX_PUB):
-        files_to_push.append((TAG_INDEX_PUB, "client/public/tag-index.json"))
+        stage2_files.append((TAG_INDEX_PUB, "client/public/tag-index.json"))
 
-    total = len(files_to_push)
+    total = len(stage1_files) + len(stage2_files)
 
     if dry_run:
-        print(f"  [DRY-RUN] Would push {total} files to GitHub via Contents API")
+        print(f"  [DRY-RUN] Would push {total} files to GitHub in 2 stages:")
+        print(f"    Stage 1 ({len(stage1_files)} files): Home.tsx + Page2.tsx  ← sandbox-reset safe point")
+        print(f"    Stage 2 ({len(stage2_files)} files): Page3..Page{new_total_pages}, App.tsx, Search.tsx, tag index")
         return True
 
-    print(f"  Pushing {total} files to GitHub via Contents API...")
     failed = []
-    for i, (local_path, github_path) in enumerate(files_to_push):
-        success = github_put_file(github_path, local_path, commit_msg)
+
+    # ── Push Stage 1 ───────────────────────────────────────────────────────
+    print(f"  Stage 1/2: Pushing {len(stage1_files)} critical files (Home + new Page2)...")
+    for i, (local_path, github_path) in enumerate(stage1_files):
+        success = github_put_file(github_path, local_path, stage1_commit)
         if success:
-            if i < 3 or (i + 1) % 20 == 0 or i == total - 1:
-                print(f"    [{i+1}/{total}] ✓ {github_path}")
+            print(f"    [S1 {i+1}/{len(stage1_files)}] ✓ {github_path}")
         else:
-            print(f"    [{i+1}/{total}] ✗ FAILED: {github_path}")
+            print(f"    [S1 {i+1}/{len(stage1_files)}] ✗ FAILED: {github_path}")
             failed.append(github_path)
         time.sleep(0.2)
 
     if failed:
-        print(f"\n  WARNING: {len(failed)} files failed to push:")
+        print(f"\n  ✗ Stage 1 FAILED — aborting before Stage 2. Failed files:")
         for f in failed:
             print(f"    {f}")
         return False
 
-    print(f"  ✓ All {total} files pushed to GitHub successfully")
+    print(f"  ✓ Stage 1 complete — new batch articles are safely committed to GitHub.")
+
+    # ── Push Stage 2 ───────────────────────────────────────────────────────
+    print(f"  Stage 2/2: Pushing {len(stage2_files)} files (shifted pages + App + Search)...")
+    for i, (local_path, github_path) in enumerate(stage2_files):
+        success = github_put_file(github_path, local_path, stage2_commit)
+        if success:
+            if i < 2 or (i + 1) % 20 == 0 or i == len(stage2_files) - 1:
+                print(f"    [S2 {i+1}/{len(stage2_files)}] ✓ {github_path}")
+        else:
+            print(f"    [S2 {i+1}/{len(stage2_files)}] ✗ FAILED: {github_path}")
+            failed.append(github_path)
+        time.sleep(0.2)
+
+    if failed:
+        print(f"\n  WARNING: {len(failed)} Stage 2 files failed to push:")
+        for f in failed:
+            print(f"    {f}")
+        print(f"  NOTE: Stage 1 succeeded — new articles are in GitHub. Re-run to complete Stage 2.")
+        return False
+
+    print(f"  ✓ All {total} files pushed to GitHub successfully (2 stages)")
     return True
 
 
