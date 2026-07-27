@@ -147,10 +147,10 @@ export default function Home() {
         tags={["New York", "Christianity", "Judiciary-Judicial"]}
       />
       </div>
-      <Pagination currentPage={1} totalPages={65} />
+      <Pagination currentPage={1} totalPages={64} />
       {/* SITE STATS — auto-updated by batch_process.py. DO NOT edit manually. */}
       <p className="text-sm text-gray-500 mt-2" style={{fontFamily: 'Roboto Slab, serif'}}>
-        Last updated: <strong style={{ color: '#555' }}>2026-07-26</strong> &nbsp;|&nbsp; Total articles: <strong style={{ color: '#555' }}>1300</strong>
+        Last updated: <strong style={{ color: '#555' }}>2026-07-26</strong> &nbsp;|&nbsp; Total articles: <strong style={{ color: '#555' }}>1280</strong>
       </p>
     </div>
   );
