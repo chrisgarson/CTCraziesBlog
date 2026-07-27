@@ -7,151 +7,147 @@ export default function Page2() {
       <PageHeader />
       <div className="space-y-12">
       <ArticleBlock
-        headline="Remember When Democrat-Liberal Celebrities Once Tried to Overturn 2016's Election Results in &quot;Democracy's&quot; Name"
-        tinyUrl="https://tinyurl.com/y454vz84"
-        xPostUrl="https://x.com/C3Heditor/status/2080031275700638178"
-        imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-07-22_154527.jpg"
-        tags={["Election Fraud", "Media Bias", "Left-Wing"]}
+        headline="These people are CRAZY"
+        tinyUrl="https://tinyurl.com/46264me5"
+        xPostUrl="https://x.com/C3Heditor/status/2080731361896243548"
+        imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-07-23_075421.jpg"
+        tags={["Left-Wing", "Politics", "Culture War"]}
       />
       <ArticleBlock
-        headline="As Wealthy Residents Flee New York, Democrat Governor Hochul Blames Trump and COVID Instead"
-        tinyUrl="https://tinyurl.com/37587z82"
-        xPostUrl="https://x.com/C3Heditor/status/2080030351288627282"
-        imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-07-22_154159.jpg"
-        tags={["Governor Hochul", "New York", "Economic Policy"]}
+        headline="AOC Accused of ‘Stoking Jew Hatred’ by Pushing False Claims on New Defense Bill"
+        tinyUrl="https://tinyurl.com/y2p76h77"
+        xPostUrl="https://x.com/C3Heditor/status/2080730326880465125"
+        imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-07-24_140259.jpg"
+        tags={["Alexandria Ocasio-Cortez", "Israel", "Media Bias"]}
       />
       <ArticleBlock
-        headline="New York City Mayor Democrat-Communist Zohran Mamdani's Proposed Tax Is Being Called 'The Best Thing for Republicans' by Former Dem Governor"
-        tinyUrl="https://tinyurl.com/mry2x8hm"
-        xPostUrl="https://x.com/C3Heditor/status/2080029720171753960"
-        imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-07-22_153857.jpg"
-        tags={["Zohran Mamdani", "New York", "Communism-Socialism"]}
+        headline="Nebraska Dem Senate Candidate Ally Caught Red-Handed Admitting to Doxxing ICE Agent"
+        tinyUrl="https://tinyurl.com/3dmrjr8s"
+        xPostUrl="https://x.com/C3Heditor/status/2080728613356274065"
+        imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-07-24_135501.jpg"
+        tags={["Dan Osborn", "Nebraska", "CBP-DHS-ICE"]}
       />
       <ArticleBlock
-        headline="During a Fiery Debate on Capitalism, an Expert Crushed a Democrat-Socialist's Moronic 'Doomsday' Claims"
-        tinyUrl="https://tinyurl.com/4rbtwrat"
-        xPostUrl="https://x.com/C3Heditor/status/2080029140615340345"
-        imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-07-22_153639.jpg"
-        tags={["Communism-Socialism", "Economic Policy"]}
+        headline="Staggering new figures show LA’s homeless problem is getting worse — as Karen Bass gives pathetic excuse"
+        tinyUrl="https://tinyurl.com/49r5zkfu"
+        xPostUrl="https://x.com/C3Heditor/status/2080727114714874365"
+        imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-07-24_135026.jpg"
+        tags={["Los Angeles", "Homeless", "Karen Bass"]}
       />
       <ArticleBlock
-        headline="A European-Style Tech Censorship Crackdown Has Democrat 'Project2029' Support in Order to Silence Americans Online"
-        tinyUrl="https://tinyurl.com/5dbxc3j6"
-        xPostUrl="https://x.com/C3Heditor/status/2080028541224137034"
-        imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-07-22_152530.jpg"
-        tags={["Censorship", "Politics", "Left-Wing"]}
+        headline="&#39;Unexpected&#39;: Jobless Claims Fall to the Lowest Level Since the Days of Woodstock"
+        tinyUrl="https://tinyurl.com/bp6wf99y"
+        xPostUrl="https://x.com/C3Heditor/status/2080726153904668799"
+        imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-07-24_134648.jpg"
+        tags={["Economic Policy", "Politics", "Conservative Politics"]}
       />
       <ArticleBlock
-        headline="Today's Rhetoric From Democrats Echoes 1932 Germany and Stalin's Russia, the Party Is Imploding"
-        tinyUrl="https://tinyurl.com/ymuvwjcz"
-        xPostUrl="https://x.com/C3Heditor/status/2080024859065671782"
-        imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-07-22_151930.jpg"
-        tags={["Communism-Socialism", "Politics", "Left-Wing"]}
+        headline="‘Blew Through Constitutional Stop Signs’: Jack Smith Obtained Review Texts of 44 Lawmakers, DOJ Records Show"
+        tinyUrl="https://tinyurl.com/drc4z94u"
+        xPostUrl="https://x.com/C3Heditor/status/2080725517800813044"
+        imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-07-24_134349.jpg"
+        tags={["DOJ", "Weaponization", "U.S. Congress"]}
       />
       <ArticleBlock
-        headline="Plans to Scrap the U.S. Senate and End Capitalism Are Unveiled by Democrat-Socialists"
-        tinyUrl="https://tinyurl.com/423zmkz9"
-        xPostUrl="https://x.com/C3Heditor/status/2080024192431374458"
-        imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-07-22_151706.jpg"
-        tags={["Communism-Socialism", "U.S. Congress"]}
+        headline="Jim Jordan Refers Jack Smith to DOJ for Possible Prosecution"
+        tinyUrl="https://tinyurl.com/mrzb4msb"
+        xPostUrl="https://x.com/C3Heditor/status/2080724827598700914"
+        imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-07-24_134103.jpg"
+        tags={["DOJ", "Weaponization", "Criminal Investigation"]}
       />
       <ArticleBlock
-        headline="Election Fraud Has More Evidence Than Democrats' Combined Evidence of &quot;Doomsday&quot; Global Warming and Actual Israeli &quot;Genocide&quot; of Gazans"
-        tinyUrl="https://tinyurl.com/4t8j9das"
-        xPostUrl="https://x.com/C3Heditor/status/2080023452992315563"
-        imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-07-22_151411.jpg"
-        tags={["Election Fraud", "Culture War", "Politics"]}
+        headline="Anti-ICE &#39;extremist&#39; who attacked NYC federal building charged with arson"
+        tinyUrl="https://tinyurl.com/bdb6yf55"
+        xPostUrl="https://x.com/C3Heditor/status/2080723994236661976"
+        imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-07-24_133740.jpg"
+        tags={["CBP-DHS-ICE", "NYC", "Terrorism"]}
       />
       <ArticleBlock
-        headline="Duplicate Mail-In Ballots Sent Out Again by Democrat Bureaucrats to Green Bay Voters, Wisconsin Officials Say"
-        tinyUrl="https://tinyurl.com/msfct5bv"
-        xPostUrl="https://x.com/C3Heditor/status/2080021959203504495"
-        imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-07-22_150802.jpg"
-        tags={["Election Fraud", "Wisconsin", "Politics"]}
+        headline="Sophie Cunningham slams woke fury after the WNBA star spoke out against trans athletes in women&#39;s sports"
+        tinyUrl="https://tinyurl.com/bdfah88h"
+        xPostUrl="https://x.com/C3Heditor/status/2080413650880213043"
+        imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-07-23_170435.jpg"
+        tags={["Culture War", "LGBTQ", "Conservative Politics"]}
       />
       <ArticleBlock
-        headline="A New Survey Finds That Most American Voters Strongly Reject Communism, Socialism and Democrat-Socialists"
-        tinyUrl="https://tinyurl.com/yhdu46uy"
-        xPostUrl="https://x.com/C3Heditor/status/2080021371984257418"
-        imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-07-22_150606.jpg"
-        tags={["Communism-Socialism", "Polling"]}
+        headline="Secret Service has probed 10,000 threats to Trump, other US officials so far this year, director says"
+        tinyUrl="https://tinyurl.com/x699k9ev"
+        xPostUrl="https://x.com/C3Heditor/status/2080412533664452934"
+        imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-07-23_170007.jpg"
+        tags={["Assassination", "National Security", "Violence"]}
       />
       <ArticleBlock
-        headline="In Democrat-Controlled California, City Council Members Can Easily Vote Themselves a 500% Pay Raise Despite Voter Outrage"
-        tinyUrl="https://tinyurl.com/5catpr5e"
-        xPostUrl="https://x.com/C3Heditor/status/2079689502826897598"
-        imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-07-21_170703.jpg"
-        tags={["California", "Corruption-Fraud", "Politics"]}
+        headline="New Jersey’s Damning Admission on Illegal Voting"
+        tinyUrl="https://tinyurl.com/yyzx3cn7"
+        xPostUrl="https://x.com/C3Heditor/status/2080411828627095969"
+        imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-07-23_165730.jpg"
+        tags={["New Jersey", "Election Fraud", "Immigration"]}
       />
       <ArticleBlock
-        headline="Why Did Graham Platner, Maine's Democrat-Marxist U.S. Senate Candidate, Exit the Race? A Possible Medicaid Fraud Case?"
-        tinyUrl="https://tinyurl.com/36mz3yzd"
-        xPostUrl="https://x.com/C3Heditor/status/2079688535280640167"
-        imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-07-21_170318.jpg"
-        tags={["Graham Platner", "2026 Elections", "Corruption-Fraud"]}
+        headline="Democrat Rep. AOC Accused of ‘Going Full Kamala’ with ‘Fake Accent’ at Memphis Rally"
+        tinyUrl="https://tinyurl.com/3evt674u"
+        xPostUrl="https://x.com/C3Heditor/status/2080411210411860270"
+        imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-07-23_165452.jpg"
+        tags={["Alexandria Ocasio-Cortez", "Left-Wing", "Politics"]}
       />
       <ArticleBlock
-        headline="Organizers of 'Cocks Not Glocks' Hired by Texas Democrat U.S. Senate Candidate, James Talarico, to Draft Gun Restriction Legislation"
-        tinyUrl="https://tinyurl.com/y7abmds3"
-        xPostUrl="https://x.com/C3Heditor/status/2079685788087037972"
-        imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-07-21_165319.jpg"
-        tags={["James Talarico", "Texas", "Gun Control"]}
+        headline="Democrats Nominate Anti-ICE Candidate Accused of Mortgage Fraud and Throwing a Bottle at a Woman for Maine Senate Race"
+        tinyUrl="https://tinyurl.com/pfwkwvs4"
+        xPostUrl="https://x.com/C3Heditor/status/2080410597099729208"
+        imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-07-23_165244.jpg"
+        tags={["Maine", "Immigration", "CBP-DHS-ICE"]}
       />
       <ArticleBlock
-        headline="U.S. Election and Economic Security, and Democrats' Creditability, Takes Major Hit After Revelation of the Chinese Hack of Voting Systems"
-        tinyUrl="https://tinyurl.com/mrx66xuw"
-        xPostUrl="https://x.com/C3Heditor/status/2079685036778098689"
-        imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-07-21_164925.jpg"
-        tags={["Election Fraud", "National Security"]}
+        headline="Gay Cruise Debacle Proves Liberals Are Deluded About Alliance With Muslims"
+        tinyUrl="https://tinyurl.com/38yrp7z9"
+        xPostUrl="https://x.com/C3Heditor/status/2080409927365935172"
+        imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-07-23_164952.jpg"
+        tags={["Islam-Muslim", "LGBTQ", "Culture War"]}
       />
       <ArticleBlock
-        headline="Charges Filed After a Noncitizen Voted Illegally and Falsely Claimed U.S. Citizenship, Which Democrats Claim Does Not Happen"
-        tinyUrl="https://tinyurl.com/mux3uc6y"
-        xPostUrl="https://x.com/C3Heditor/status/2079684487164915743"
-        imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-07-21_164706.jpg"
-        tags={["Election Fraud", "Immigration"]}
+        headline="Reporter Nails Mamdani When He Has Trouble Defining What &#39;Working Class&#39; Means"
+        tinyUrl="https://tinyurl.com/yvk4z3zb"
+        xPostUrl="https://x.com/C3Heditor/status/2080409324417917363"
+        imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-07-24_141956.jpg"
+        tags={["Zohran Mamdani", "NYC", "Communism-Socialism"]}
       />
       <ArticleBlock
-        headline="In Democrat-Run Virginia, a School Board Fears Drug Testing Teachers Despite a Classroom Fentanyl Overdose of a Teacher in Front of Students"
-        tinyUrl="https://tinyurl.com/2etp4xws"
-        xPostUrl="https://x.com/C3Heditor/status/2079683884154052682"
-        imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-07-21_164447.jpg"
-        tags={["Virginia", "Education Policy", "Drug Crime"]}
+        headline="Top House Democrat Flip-Flops, Votes to Freeze Aid to Israel After Leftists Threaten His Family"
+        tinyUrl="https://tinyurl.com/5n6euw6p"
+        xPostUrl="https://x.com/C3Heditor/status/2080408556218544577"
+        imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-07-23_164430.jpg"
+        tags={["Adam Smith", "Israel", "U.S. Congress"]}
       />
       <ArticleBlock
-        headline="Roughly 67 Percent of U.S. Colleges Require Woke Progressive-Democrat DEI Coursework in Order to Graduate"
-        tinyUrl="https://tinyurl.com/yc2bvhr8"
-        xPostUrl="https://x.com/C3Heditor/status/2079683368627925209"
-        imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-07-21_164243.jpg"
-        tags={["Education Policy", "Culture War"]}
+        headline="Head of Medical School Tells Congresswoman the Vast Majority of Pregnancies Occur in Women"
+        tinyUrl="https://tinyurl.com/w35kdthz"
+        xPostUrl="https://x.com/C3Heditor/status/2080407607135633782"
+        imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-07-23_163900.jpg"
+        tags={["Culture War", "Healthcare Policy", "Left-Wing"]}
       />
       <ArticleBlock
-        headline="A New York Democrat City's Incompetence Hired A Known Pedophile and Then Was Forced to Fire Him After New Claims Involving a 12-Year-Old Girl"
-        tinyUrl="https://tinyurl.com/yazjj63n"
-        xPostUrl="https://x.com/C3Heditor/status/2079682500172116362"
-        imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-07-21_163907.jpg"
-        tags={["New York", "Violent Crime", "Culture War"]}
+        headline="Feds deploy &#39;strike team&#39; to probe New York fraud"
+        tinyUrl="https://tinyurl.com/5yyuksec"
+        xPostUrl="https://x.com/C3Heditor/status/2080406428515197269"
+        imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-07-23_163600.jpg"
+        tags={["New York", "Corruption-Fraud", "Election Fraud"]}
       />
       <ArticleBlock
-        headline="Maryland's Democrat Governor, Wes Moore, Reveals Significant Spine as He Praises Trump's $1,000 Child Payment as 'Smart Policy'"
-        tinyUrl="https://tinyurl.com/4acmv3t8"
-        xPostUrl="https://x.com/C3Heditor/status/2079681666516500686"
-        imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-07-21_163554.jpg"
-        tags={["Wes Moore", "Maryland", "Economic Policy"]}
+        headline="James Carville Warns ‘Left-Wing Idiots’ Are Major Threat to Democrats in Midterms"
+        tinyUrl="https://tinyurl.com/4yp4z38z"
+        xPostUrl="https://x.com/C3Heditor/status/2080405558255894839"
+        imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-07-23_163226.jpg"
+        tags={["James Carville", "Left-Wing", "Politics"]}
       />
       <ArticleBlock
-        headline="A Push to Block Trump's Military Force to Protect Americans Against Cartels and Terrorists Is Led by Democrat Rep. Ilhan Omar"
-        tinyUrl="https://tinyurl.com/5d9njxcc"
-        xPostUrl="https://x.com/C3Heditor/status/2079680995390058743"
-        imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-07-21_163316.jpg"
-        tags={["Ilhan Omar", "CBP-DHS-ICE", "National Security"]}
+        headline="James Talarico Continues Pandering to Voters, This Time by Supporting Reparations"
+        tinyUrl="https://tinyurl.com/r3vf3p8b"
+        xPostUrl="https://x.com/C3Heditor/status/2080404762839613539"
+        imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-07-23_162915.jpg"
+        tags={["James Talarico", "Texas", "Left-Wing"]}
       />
       </div>
-      <Pagination currentPage={2} totalPages={64} />
-      {/* SITE STATS — auto-updated by batch_process.py. DO NOT edit manually. */}
-      <p className="text-sm text-gray-500 mt-2" style={{fontFamily: 'Roboto Slab, serif'}}>
-        Last updated: <strong style={{ color: '#555' }}>July 22, 2026</strong> &nbsp;|&nbsp; Total articles: <strong style={{ color: '#555' }}>1260</strong>
-      </p>
+      <Pagination currentPage={2} totalPages={65} />
     </div>
   );
 }
