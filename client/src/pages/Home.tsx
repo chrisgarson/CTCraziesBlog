@@ -18,7 +18,7 @@ export default function Home() {
         tinyUrl="https://tinyurl.com/mtxt6z3u"
         xPostUrl="https://x.com/C3Heditor/status/2082152767242584354"
         imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-07-28_121512.jpg"
-        tags={["Blue States", "Politics", "Government"]}
+        tags={["Blue States", "Politics", "Government", "DNC"]}
       />
       <ArticleBlock
         headline="House of Democrats in Disarray as DNC Chairman, Ken Martin, Displays Uber Stress by Throwing Phone at Young Staffer in Fit of Rage"
@@ -46,7 +46,7 @@ export default function Home() {
         tinyUrl="https://tinyurl.com/5c67hp7a"
         xPostUrl="https://x.com/C3Heditor/status/2082128345823588489"
         imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-07-28_103806.jpg"
-        tags={["Corruption-Fraud", "ActBlue", "Democrat Party"]}
+        tags={["Corruption-Fraud", "ActBlue", "Left-Wing"]}
       />
       <ArticleBlock
         headline="Over 50% of Democrats Support 'Gimme, Gimme' Socialism"
@@ -60,7 +60,7 @@ export default function Home() {
         tinyUrl="https://tinyurl.com/3hr7hx7c"
         xPostUrl="https://x.com/C3Heditor/status/2082126219626119207"
         imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-07-28_102737.jpg"
-        tags={["Immigration", "Polling", "CBP-DHS-ICE"]}
+        tags={["Immigration", "Polling", "CBP-DHS-ICE", "Virtue Signaling"]}
       />
       <ArticleBlock
         headline="Certainly Not the Dems “Abortion is rare and safe” Policy Any Longer - MA House Democrats Vote for Unlimited Abortion Up to Birth"
@@ -74,7 +74,7 @@ export default function Home() {
         tinyUrl="https://tinyurl.com/ys2cskvb"
         xPostUrl="https://x.com/C3Heditor/status/2082123175546978565"
         imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-07-28_101747.jpg"
-        tags={["Seth Moulton", "Left-Wing", "Politics"]}
+        tags={["Seth Moulton", "Left-Wing", "Politics", "Massachusetts"]}
       />
       <ArticleBlock
         headline="Colorado's Democrat Governor, Jared Polis, Cuts Through the B.S., Blasts Party’s Far-Left Shift: ‘Socialism Has Failed’"
@@ -88,7 +88,7 @@ export default function Home() {
         tinyUrl="https://tinyurl.com/3ksw8p5m"
         xPostUrl="https://x.com/C3Heditor/status/2082119050272919826"
         imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-07-28_100139.jpg"
-        tags={["James Carville", "Economic Policy", "Left-Wing"]}
+        tags={["James Carville", "Economic Policy", "Left-Wing", "Election Fraud"]}
       />
       <ArticleBlock
         headline="Congressional Hopeful, Colorado's Democrat-Marxist Milat Kiros, Wants U.S. to Elect More 'Global South' Immigrants to Usher in a &quot;Reckoning&quot;"
@@ -123,7 +123,7 @@ export default function Home() {
         tinyUrl="https://tinyurl.com/4dv3ujkj"
         xPostUrl="https://x.com/C3Heditor/status/2082072829676138550"
         imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-07-28_065731.jpg"
-        tags={["JoAnna Mendoza", "Arizona", "Terrorism"]}
+        tags={["JoAnna Mendoza", "Arizona", "Left-Wing"]}
       />
       <ArticleBlock
         headline="Democrats in New Jersey Plan More Gun Control Stupidity After Courts Smackdown of Their 'Assault Weapons' Legislation"
