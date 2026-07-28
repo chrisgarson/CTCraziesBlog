@@ -131,7 +131,7 @@ export default function Home() {
         tinyUrl="https://tinyurl.com/mr3emv32"
         xPostUrl="https://x.com/C3Heditor/status/2050327779292446776"
         imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/vktILYEOKphxpeQQ.jpg"
-        tags={["Culture War", "Politics"]}
+        tags={["Culture War", "Politics", "Virtue Signaling"]}
       />
       <ArticleBlock
         headline="Anti-Crime Signs Removed By Woke Democrat City Council Members Who Call Them &#39;Racist&#39;"
