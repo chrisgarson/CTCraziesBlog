@@ -1,4 +1,4 @@
-import { useState, useMemo } from 'react';
+import { useState, useMemo, useEffect } from 'react';
 import Fuse from 'fuse.js';
 import { Link } from 'wouter';
 
@@ -10118,7 +10118,17 @@ const fuseOptions = {
 };
 
 export default function Search() {
-  const [query, setQuery] = useState('');
+  const initialQuery = new URLSearchParams(window.location.search).get('q') ?? '';
+  const [query, setQuery] = useState(initialQuery);
+
+  useEffect(() => {
+    const params = new URLSearchParams();
+    if (query) params.set('q', query);
+    const newUrl = query
+      ? `${window.location.pathname}?${params.toString()}`
+      : window.location.pathname;
+    window.history.replaceState(null, '', newUrl);
+  }, [query]);
 
   const fuse = useMemo(() => new Fuse(articles, fuseOptions), []);
 
