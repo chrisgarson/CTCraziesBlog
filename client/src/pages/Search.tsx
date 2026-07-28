@@ -17,7 +17,7 @@ const articles = [
     "tinyUrl": "https://tinyurl.com/mtxt6z3u",
     "xPostUrl": "https://x.com/C3Heditor/status/2082152767242584354",
     "imageUrl": "https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-07-28_121512.jpg",
-    "tags": ["Blue States", "Politics", "Government"],
+    "tags": ["Blue States", "Politics", "Government", "DNC"],
     "page": 1,
     "batchDate": "2026-07-28"
   },
@@ -53,7 +53,7 @@ const articles = [
     "tinyUrl": "https://tinyurl.com/5c67hp7a",
     "xPostUrl": "https://x.com/C3Heditor/status/2082128345823588489",
     "imageUrl": "https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-07-28_103806.jpg",
-    "tags": ["Corruption-Fraud", "ActBlue", "Democrat Party"],
+    "tags": ["Corruption-Fraud", "ActBlue", "Left-Wing"],
     "page": 1,
     "batchDate": "2026-07-28"
   },
@@ -71,7 +71,7 @@ const articles = [
     "tinyUrl": "https://tinyurl.com/3hr7hx7c",
     "xPostUrl": "https://x.com/C3Heditor/status/2082126219626119207",
     "imageUrl": "https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-07-28_102737.jpg",
-    "tags": ["Immigration", "Polling", "CBP-DHS-ICE"],
+    "tags": ["Immigration", "Polling", "CBP-DHS-ICE", "Virtue Signaling"],
     "page": 1,
     "batchDate": "2026-07-28"
   },
@@ -89,7 +89,7 @@ const articles = [
     "tinyUrl": "https://tinyurl.com/ys2cskvb",
     "xPostUrl": "https://x.com/C3Heditor/status/2082123175546978565",
     "imageUrl": "https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-07-28_101747.jpg",
-    "tags": ["Seth Moulton", "Left-Wing", "Politics"],
+    "tags": ["Seth Moulton", "Left-Wing", "Politics", "Massachusetts"],
     "page": 1,
     "batchDate": "2026-07-28"
   },
@@ -107,7 +107,7 @@ const articles = [
     "tinyUrl": "https://tinyurl.com/3ksw8p5m",
     "xPostUrl": "https://x.com/C3Heditor/status/2082119050272919826",
     "imageUrl": "https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-07-28_100139.jpg",
-    "tags": ["James Carville", "Economic Policy", "Left-Wing"],
+    "tags": ["James Carville", "Economic Policy", "Left-Wing", "Election Fraud"],
     "page": 1,
     "batchDate": "2026-07-28"
   },
@@ -152,7 +152,7 @@ const articles = [
     "tinyUrl": "https://tinyurl.com/4dv3ujkj",
     "xPostUrl": "https://x.com/C3Heditor/status/2082072829676138550",
     "imageUrl": "https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-07-28_065731.jpg",
-    "tags": ["JoAnna Mendoza", "Arizona", "Terrorism"],
+    "tags": ["JoAnna Mendoza", "Arizona", "Left-Wing"],
     "page": 1,
     "batchDate": "2026-07-28"
   },
