@@ -4,6 +4,186 @@ import { Link } from 'wouter';
 
 const articles = [
   {
+    "headline": "Texas \"Christian\" Democrat Senate Candidate, James Talarico, Claims That Islam Mystics Influenced Him",
+    "tinyUrl": "https://tinyurl.com/2rjm8pf4",
+    "xPostUrl": "https://x.com/C3Heditor/status/2082155004517896596",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-07-28_122402.jpg",
+    "tags": ["James Talarico", "Texas", "Islam-Muslim", "Pandering"],
+    "page": 1,
+    "batchDate": "2026-07-28"
+  },
+  {
+    "headline": "Dem Governance Incompetence Not Only Prevailing In Blue Cities & States: Democrats Forced to Mortgage Party HQ for $15 Million Due to Debt",
+    "tinyUrl": "https://tinyurl.com/mtxt6z3u",
+    "xPostUrl": "https://x.com/C3Heditor/status/2082152767242584354",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-07-28_121512.jpg",
+    "tags": ["Blue States", "Politics", "Government"],
+    "page": 1,
+    "batchDate": "2026-07-28"
+  },
+  {
+    "headline": "House of Democrats in Disarray as DNC Chairman, Ken Martin, Displays Uber Stress by Throwing Phone at Young Staffer in Fit of Rage",
+    "tinyUrl": "https://tinyurl.com/4cb9rj8e",
+    "xPostUrl": "https://x.com/C3Heditor/status/2082151813856284964",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-07-28_121129.jpg",
+    "tags": ["Ken Martin", "DNC", "Politics"],
+    "page": 1,
+    "batchDate": "2026-07-28"
+  },
+  {
+    "headline": "They Embrace Insider Corruption: 198 House Democrats Reject Congressional Stock-Trading Crackdown",
+    "tinyUrl": "https://tinyurl.com/mu428k82",
+    "xPostUrl": "https://x.com/C3Heditor/status/2082151146689384489",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-07-28_120847.jpg",
+    "tags": ["U.S. Congress", "Corruption-Fraud", "Politics"],
+    "page": 1,
+    "batchDate": "2026-07-28"
+  },
+  {
+    "headline": "Dem Corruption Is a Feature, Not a Bug: Hawaii's Democrat Lt. Governor, Sylvia Luke, Indicted In State's Huge Bribery Scandal",
+    "tinyUrl": "https://tinyurl.com/7ybj5yh5",
+    "xPostUrl": "https://x.com/C3Heditor/status/2082150544467014010",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-07-28_120619.jpg",
+    "tags": ["Sylvia Luke", "Hawaii", "Corruption-Fraud"],
+    "page": 1,
+    "batchDate": "2026-07-28"
+  },
+  {
+    "headline": "Donor Fraud: Shocked 88-Year-Old Widow With No Computer Donated Over 14K Times to Democrats' Online ActBlue For A Total of $150K",
+    "tinyUrl": "https://tinyurl.com/5c67hp7a",
+    "xPostUrl": "https://x.com/C3Heditor/status/2082128345823588489",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-07-28_103806.jpg",
+    "tags": ["Corruption-Fraud", "ActBlue", "Democrat Party"],
+    "page": 1,
+    "batchDate": "2026-07-28"
+  },
+  {
+    "headline": "Over 50% of Democrats Support 'Gimme, Gimme' Socialism",
+    "tinyUrl": "https://tinyurl.com/ynym68ty",
+    "xPostUrl": "https://x.com/C3Heditor/status/2082126804035248519",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-07-28_103210.jpg",
+    "tags": ["Communism-Socialism", "Polling", "Left-Wing"],
+    "page": 1,
+    "batchDate": "2026-07-28"
+  },
+  {
+    "headline": "Virtue-Signaling While Completely Ignoring the Real-World Consequences: 68% of Democrats Say ‘Yes’ to Abolishing ICE",
+    "tinyUrl": "https://tinyurl.com/3hr7hx7c",
+    "xPostUrl": "https://x.com/C3Heditor/status/2082126219626119207",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-07-28_102737.jpg",
+    "tags": ["Immigration", "Polling", "CBP-DHS-ICE"],
+    "page": 1,
+    "batchDate": "2026-07-28"
+  },
+  {
+    "headline": "Certainly Not the Dems “Abortion is rare and safe” Policy Any Longer - MA House Democrats Vote for Unlimited Abortion Up to Birth",
+    "tinyUrl": "https://tinyurl.com/3m6ehmsv",
+    "xPostUrl": "https://x.com/C3Heditor/status/2082124187871645892",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-07-28_102142.jpg",
+    "tags": ["Massachusetts", "Healthcare Policy", "Politics"],
+    "page": 1,
+    "batchDate": "2026-07-28"
+  },
+  {
+    "headline": "Democrat U.S. Representative Seth Moulton of Massachusetts Admits Dems Have No Real Plans to Help Americans Other Than Being Anti-Trump",
+    "tinyUrl": "https://tinyurl.com/ys2cskvb",
+    "xPostUrl": "https://x.com/C3Heditor/status/2082123175546978565",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-07-28_101747.jpg",
+    "tags": ["Seth Moulton", "Left-Wing", "Politics"],
+    "page": 1,
+    "batchDate": "2026-07-28"
+  },
+  {
+    "headline": "Colorado's Democrat Governor, Jared Polis, Cuts Through the B.S., Blasts Party’s Far-Left Shift: ‘Socialism Has Failed’",
+    "tinyUrl": "https://tinyurl.com/2fte59c9",
+    "xPostUrl": "https://x.com/C3Heditor/status/2082122439757029715",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-07-28_101446.jpg",
+    "tags": ["Colorado", "Left-Wing", "Politics"],
+    "page": 1,
+    "batchDate": "2026-07-28"
+  },
+  {
+    "headline": "James Carville, a Top Democrat Strategist, States His Party is Losing ‘War’ on Election Integrity – Urges Dems to Support Voter ID",
+    "tinyUrl": "https://tinyurl.com/3ksw8p5m",
+    "xPostUrl": "https://x.com/C3Heditor/status/2082119050272919826",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-07-28_100139.jpg",
+    "tags": ["James Carville", "Economic Policy", "Left-Wing"],
+    "page": 1,
+    "batchDate": "2026-07-28"
+  },
+  {
+    "headline": "Congressional Hopeful, Colorado's Democrat-Marxist Milat Kiros, Wants U.S. to Elect More 'Global South' Immigrants to Usher in a \"Reckoning\"",
+    "tinyUrl": "https://tinyurl.com/2jz7rhvh",
+    "xPostUrl": "https://x.com/C3Heditor/status/2082118520830144910",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-07-28_100220.jpg",
+    "tags": ["Milat Kiros", "Colorado", "CBP-DHS-ICE", "Immigration"],
+    "page": 1,
+    "batchDate": "2026-07-28"
+  },
+  {
+    "headline": "New Book by Former Top Dem Operator Confirms the Racism & Bias Against White People in the Democrat Party at the Highest Levels",
+    "tinyUrl": "https://tinyurl.com/54hvc4ej",
+    "xPostUrl": "https://x.com/C3Heditor/status/2082079497600323652",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-07-28_072417.jpg",
+    "tags": ["Racial Issues", "Left-Wing", "Culture War"],
+    "page": 1,
+    "batchDate": "2026-07-28"
+  },
+  {
+    "headline": "Cartel Favorite, Enrique Sanchez, Rhode Island Democrat Party State Rep, Calls ICE Agents ‘Nazi Gestapo Thugs,’ Then Issues a Hate Threat: ‘Your Day of Reckoning Will Come’",
+    "tinyUrl": "https://tinyurl.com/yc4hbstt",
+    "xPostUrl": "https://x.com/C3Heditor/status/2082077609983185188",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-07-28_071633.jpg",
+    "tags": ["Enrique Sanchez", "Rhode Island Politics", "CBP-DHS-ICE", "Immigration"],
+    "page": 1,
+    "batchDate": "2026-07-28"
+  },
+  {
+    "headline": "Georgia Democrat Senator, Jon Ossoff, Is a Non-Serious BETA Male Spending More on Makeup Than AOC and Rashida Tlaib",
+    "tinyUrl": "https://tinyurl.com/yc3xc873",
+    "xPostUrl": "https://x.com/C3Heditor/status/2082073343482589231",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-07-28_065932.jpg",
+    "tags": ["Jon Ossoff", "Georgia", "Politics"],
+    "page": 1,
+    "batchDate": "2026-07-28"
+  },
+  {
+    "headline": "Unserious AZ Congressional Democrat Candidate, JoAnna Mendoza, Follows Multiple OnlyFans & Witchcraft Social Media Accounts",
+    "tinyUrl": "https://tinyurl.com/4dv3ujkj",
+    "xPostUrl": "https://x.com/C3Heditor/status/2082072829676138550",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-07-28_065731.jpg",
+    "tags": ["JoAnna Mendoza", "Arizona", "Terrorism"],
+    "page": 1,
+    "batchDate": "2026-07-28"
+  },
+  {
+    "headline": "Democrats in New Jersey Plan More Gun Control Stupidity After Courts Smackdown of Their 'Assault Weapons' Legislation",
+    "tinyUrl": "https://tinyurl.com/3s9nanf9",
+    "xPostUrl": "https://x.com/C3Heditor/status/2082072214841532555",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-07-28_065500.jpg",
+    "tags": ["New Jersey", "Gun Control", "Politics"],
+    "page": 1,
+    "batchDate": "2026-07-28"
+  },
+  {
+    "headline": "The Democrat Governor Tim Walz Appointee Who Assassinated Democrat Lawmakers Is Sentenced to Life Imprisonment",
+    "tinyUrl": "https://tinyurl.com/kpc3nzke",
+    "xPostUrl": "https://x.com/C3Heditor/status/2082071568901914884",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-07-28_065225.jpg",
+    "tags": ["Governor Tim Walz", "Assassination", "Violence", "Minnesota"],
+    "page": 1,
+    "batchDate": "2026-07-28"
+  },
+  {
+    "headline": "‘Friend’ of Jeffrey Epstein, Democrat Representative Stacey Plaskett, Receives Max Donations For Her Gubernatorial Run From Epstein’s Political Fixer",
+    "tinyUrl": "https://tinyurl.com/4anzb4yb",
+    "xPostUrl": "https://x.com/C3Heditor/status/2082067900936917052",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-07-28_063759.jpg",
+    "tags": ["Stacey Plaskett", "Epstein", "Virgin Islands", "Corruption-Fraud"],
+    "page": 1,
+    "batchDate": "2026-07-28"
+  },
+  {
     "headline": "More Democrat Craziness: Representative Gabe Vasquez Thinks Eliminating New Mexico's Oil & Gas Industry is a Brilliant Job-Creation Idea",
     "tinyUrl": "https://tinyurl.com/2kzfz96r",
     "xPostUrl": "https://x.com/C3Heditor/status/2081137687730286877",
