@@ -1520,7 +1520,7 @@ const articles = [
     "tinyUrl": "https://tinyurl.com/45p34ruc",
     "xPostUrl": "https://x.com/C3Heditor/status/2071694912823984362",
     "imageUrl": "https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-06-29_153928.jpg",
-    "tags": ["Culture War", "Racial Issues"],
+    "tags": ["Culture War", "Racial Issues", "Virtue Signaling"],
     "page": 8,
     "batchDate": "June 29, 2026"
   },
@@ -4612,6 +4612,8 @@ const articles = [
     "headline": "Wildfire Warning Ignored By LA Democrat Mayor Bass As She Was Alerted Before Her Virtue-Signaling Africa Trip",
     "tinyUrl": "https://tinyurl.com/3n3257mx",
     "xPostUrl": "https://x.com/C3Heditor/status/2052012043511693538",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/RRkprFEhEPtHyPHu.jpg",
+    "tags": ["Karen Bass", "Los Angeles", "Virtue Signaling"],
     "page": 26,
     "batchDate": "May 06, 2026"
   },
@@ -4948,6 +4950,8 @@ const articles = [
     "headline": "After Pushing Virtue-Signaling 'No Kings' Rhetoric, Democrats Get Mocked For Exuberantly Applauding UK's King Charles",
     "tinyUrl": "https://tinyurl.com/mr3emv32",
     "xPostUrl": "https://x.com/C3Heditor/status/2050327779292446776",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/vktILYEOKphxpeQQ.jpg",
+    "tags": ["Culture War", "Politics", "Virtue Signaling"],
     "page": 28,
     "batchDate": "May 02, 2026"
   },
@@ -6040,6 +6044,8 @@ const articles = [
     "headline": "Democrats Do Virtue-Signaling: Chicago Names Playground For Armed Gunman Killed In Justified Shooting",
     "tinyUrl": "https://tinyurl.com/48m9t32d",
     "xPostUrl": "https://x.com/C3Heditor/status/2044784828239782165",
+    "imageUrl": "https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/2026-04-16_092706_070d03a7.jpg",
+    "tags": ["Chicago", "Police Shooting", "Left-Wing", "Virtue Signaling"],
     "page": 36,
     "batchDate": "Apr 16, 2026"
   },
@@ -6411,6 +6417,8 @@ const articles = [
     "headline": "Virtue-Signaling Democrat Sheds Crocodile Tears For Illegal Alien Criminal Who Caused Big Pileup While Fleeing ICE",
     "tinyUrl": "https://tinyurl.com/3j5kkavw",
     "xPostUrl": "https://x.com/C3Heditor/status/2043431496015282603",
+    "imageUrl": "https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/2026-04-12_155052_a416e9ec.jpg",
+    "tags": ["Chris Van Hollen", "CBP-DHS-ICE", "Immigration", "Virtue Signaling"],
     "page": 39,
     "batchDate": "Apr 12, 2026"
   },
@@ -9611,6 +9619,8 @@ const articles = [
     "headline": "Virtue-Signaling Democrat: \u2018I Do Love Gays\u2019 But Then Reveals Not Knowing 'LGBTQIA' Stands For",
     "tinyUrl": "https://tinyurl.com/yehp9w2r",
     "xPostUrl": "https://x.com/C3Heditor/status/2023150152773689385",
+    "imageUrl": "https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/post77_clean_01a7f18c.jpg",
+    "tags": ["Graham Platner", "LGBTQ", "Maine", "Bernie Sanders", "Virtue Signaling"],
     "page": 62,
     "batchDate": "Feb 20, 2026"
   },
