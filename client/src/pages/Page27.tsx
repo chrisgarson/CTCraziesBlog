@@ -75,7 +75,7 @@ export default function Home() {
         tinyUrl="https://tinyurl.com/3n3257mx"
         xPostUrl="https://x.com/C3Heditor/status/2052012043511693538"
         imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/RRkprFEhEPtHyPHu.jpg"
-        tags={["Karen Bass", "Los Angeles"]}
+        tags={["Karen Bass", "Los Angeles", "Virtue Signaling"]}
       />
       <ArticleBlock
         headline="Pressed About Her Suspicious Financial History, House Democrat Ilhan Omar Seethes &amp; Deflects"
