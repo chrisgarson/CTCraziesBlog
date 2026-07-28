@@ -32,7 +32,7 @@ export default function Page29() {
         tinyUrl="https://tinyurl.com/yehp9w2r"
         xPostUrl="https://x.com/C3Heditor/status/2023150152773689385"
         imageSrc="https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/post77_clean_01a7f18c.jpg"
-        tags={["Graham Platner", "LGBTQ", "Maine", "Bernie Sanders"]}
+        tags={["Graham Platner", "LGBTQ", "Maine", "Bernie Sanders", "Virtue Signaling"]}
       />
       <ArticleBlock
         headline="Despite California being broke, Democrat governor always has more $$$ for killing babies"
