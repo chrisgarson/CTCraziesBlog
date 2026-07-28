@@ -7,150 +7,150 @@ export default function Home() {
       <PageHeader />
       <div className="space-y-12">
       <ArticleBlock
-        headline="More Democrat Craziness: Representative Gabe Vasquez Thinks Eliminating New Mexico's Oil &amp; Gas Industry is a Brilliant Job-Creation Idea"
-        tinyUrl="https://tinyurl.com/2kzfz96r"
-        xPostUrl="https://x.com/C3Heditor/status/2081137687730286877"
-        imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-07-25_165701.jpg"
-        tags={["Gabe Vasquez", "New Mexico", "Energy Policy"]}
+        headline="Texas &quot;Christian&quot; Democrat Senate Candidate, James Talarico, Claims That Islam Mystics Influenced Him"
+        tinyUrl="https://tinyurl.com/2rjm8pf4"
+        xPostUrl="https://x.com/C3Heditor/status/2082155004517896596"
+        imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-07-28_122402.jpg"
+        tags={["James Talarico", "Texas", "Islam-Muslim", "Pandering"]}
       />
       <ArticleBlock
-        headline="Democrat Anti-White Racist Representative Jasmine Crockett Says Rooting For Spanish Team in World Cup Final Was Racist"
-        tinyUrl="https://tinyurl.com/2w3uunzh"
-        xPostUrl="https://x.com/C3Heditor/status/2081136124768985485"
-        imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-07-25_165536.jpg"
-        tags={["Jasmine Crockett", "Texas", "Racial Issues"]}
+        headline="Dem Governance Incompetence Not Only Prevailing In Blue Cities &amp; States: Democrats Forced to Mortgage Party HQ for $15 Million Due to Debt"
+        tinyUrl="https://tinyurl.com/mtxt6z3u"
+        xPostUrl="https://x.com/C3Heditor/status/2082152767242584354"
+        imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-07-28_121512.jpg"
+        tags={["Blue States", "Politics", "Government"]}
       />
       <ArticleBlock
-        headline="Democrat Claims of 'Tolerance' Continues to be a Laughable Farce as Black Female Owned Restaurant Faces Boycott for Serving a Republican"
-        tinyUrl="https://tinyurl.com/ynem8spv"
-        xPostUrl="https://x.com/C3Heditor/status/2081135598027300901"
-        imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-07-25_164525.jpg"
-        tags={["Racial Issues", "Culture War", "Left-Wing"]}
+        headline="House of Democrats in Disarray as DNC Chairman, Ken Martin, Displays Uber Stress by Throwing Phone at Young Staffer in Fit of Rage"
+        tinyUrl="https://tinyurl.com/4cb9rj8e"
+        xPostUrl="https://x.com/C3Heditor/status/2082151813856284964"
+        imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-07-28_121129.jpg"
+        tags={["Ken Martin", "DNC", "Politics"]}
       />
       <ArticleBlock
-        headline="Embracing Communists: Democrats Jamie Raskin, Kamala Harris, Andy Beshear, JB Pritzker, Chris Murphy, James Talarico Give Support to Hasan Piker's Maoist Agenda"
-        tinyUrl="https://tinyurl.com/4kds8dcp"
-        xPostUrl="https://x.com/C3Heditor/status/2081131981237096635"
-        imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-07-25_163924.jpg"
-        tags={["Hasan Piker", "Left-Wing", "Communism-Socialism"]}
+        headline="They Embrace Insider Corruption: 198 House Democrats Reject Congressional Stock-Trading Crackdown"
+        tinyUrl="https://tinyurl.com/mu428k82"
+        xPostUrl="https://x.com/C3Heditor/status/2082151146689384489"
+        imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-07-28_120847.jpg"
+        tags={["U.S. Congress", "Corruption-Fraud", "Politics"]}
       />
       <ArticleBlock
-        headline="Texas U.S. Senate Candidate, Democrat James Talarico, Takes Funds from Epstein's Buddy Billionaire, After Campaigning Against 'Epstein Class'"
-        tinyUrl="https://tinyurl.com/mdc9m3dd"
-        xPostUrl="https://x.com/C3Heditor/status/2081130184086802907"
-        imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-07-25_163152.jpg"
-        tags={["James Talarico", "Texas", "Epstein", "2026 Elections"]}
+        headline="Dem Corruption Is a Feature, Not a Bug: Hawaii's Democrat Lt. Governor, Sylvia Luke, Indicted In State's Huge Bribery Scandal"
+        tinyUrl="https://tinyurl.com/7ybj5yh5"
+        xPostUrl="https://x.com/C3Heditor/status/2082150544467014010"
+        imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-07-28_120619.jpg"
+        tags={["Sylvia Luke", "Hawaii", "Corruption-Fraud"]}
       />
       <ArticleBlock
-        headline="NYC Mayor Zohran Mamdani Backed Democrat-Marxist Candidate Darializa Avila Chevalier Believes Border Patrol is 'Steeped in Anti-Blackness and Islamophobia'"
-        tinyUrl="https://tinyurl.com/mwwufhbm"
-        xPostUrl="https://x.com/C3Heditor/status/2081128279050735805"
-        imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-07-25_162414.jpg"
-        tags={["Zohran Mamdani", "Darializa Avila Chevalier", "CBP-DHS-ICE"]}
+        headline="Donor Fraud: Shocked 88-Year-Old Widow With No Computer Donated Over 14K Times to Democrats' Online ActBlue For A Total of $150K"
+        tinyUrl="https://tinyurl.com/5c67hp7a"
+        xPostUrl="https://x.com/C3Heditor/status/2082128345823588489"
+        imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-07-28_103806.jpg"
+        tags={["Corruption-Fraud", "ActBlue", "Democrat Party"]}
       />
       <ArticleBlock
-        headline="Nebraska's Democrat-Favored Senate Candidate, Dan Osborn, Believes There Should Be 'Preemptive' Mental Health Checks For AR-15 Owners"
-        tinyUrl="https://tinyurl.com/23ucsk8t"
-        xPostUrl="https://x.com/C3Heditor/status/2081127597115678979"
-        imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-07-25_162139.jpg"
-        tags={["Dan Osborn", "Nebraska", "Gun Control", "2026 Elections"]}
+        headline="Over 50% of Democrats Support 'Gimme, Gimme' Socialism"
+        tinyUrl="https://tinyurl.com/ynym68ty"
+        xPostUrl="https://x.com/C3Heditor/status/2082126804035248519"
+        imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-07-28_103210.jpg"
+        tags={["Communism-Socialism", "Polling", "Left-Wing"]}
       />
       <ArticleBlock
-        headline="Ohio's Democrat Governor Hopeful Amy Acton, is 'Hopeful' That Voters Totally Forget Her Covid-19 Bureaucrat Shutdown Tyranny"
-        tinyUrl="https://tinyurl.com/3saj4det"
-        xPostUrl="https://x.com/C3Heditor/status/2081126614411116711"
-        imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-07-25_161756.jpg"
-        tags={["Amy Acton", "Ohio", "2026 Elections"]}
+        headline="Virtue-Signaling While Completely Ignoring the Real-World Consequences: 68% of Democrats Say ‘Yes’ to Abolishing ICE"
+        tinyUrl="https://tinyurl.com/3hr7hx7c"
+        xPostUrl="https://x.com/C3Heditor/status/2082126219626119207"
+        imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-07-28_102737.jpg"
+        tags={["Immigration", "Polling", "CBP-DHS-ICE"]}
       />
       <ArticleBlock
-        headline="The Inept Disinformation Campaign by Mainstream Media On the Evidence of Illegal Alien Voting Was Demonstrated, Again"
-        tinyUrl="https://tinyurl.com/2nyy5zae"
-        xPostUrl="https://x.com/C3Heditor/status/2081125938838786184"
-        imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-07-25_161457.jpg"
-        tags={["Election Fraud", "Media Bias", "Immigration"]}
+        headline="Certainly Not the Dems “Abortion is rare and safe” Policy Any Longer - MA House Democrats Vote for Unlimited Abortion Up to Birth"
+        tinyUrl="https://tinyurl.com/3m6ehmsv"
+        xPostUrl="https://x.com/C3Heditor/status/2082124187871645892"
+        imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-07-28_102142.jpg"
+        tags={["Massachusetts", "Healthcare Policy", "Politics"]}
       />
       <ArticleBlock
-        headline="Los Angeles Democrat-Socialist Mayor Bass Facing Continuing &amp; Significant Budget Gaps Wants to Make City's Metro System Fare-Free"
-        tinyUrl="https://tinyurl.com/88kr5uz9"
-        xPostUrl="https://x.com/C3Heditor/status/2081125152608145501"
-        imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-07-25_161215.jpg"
-        tags={["Karen Bass", "Los Angeles", "Economic Policy"]}
+        headline="Democrat U.S. Representative Seth Moulton of Massachusetts Admits Dems Have No Real Plans to Help Americans Other Than Being Anti-Trump"
+        tinyUrl="https://tinyurl.com/ys2cskvb"
+        xPostUrl="https://x.com/C3Heditor/status/2082123175546978565"
+        imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-07-28_101747.jpg"
+        tags={["Seth Moulton", "Left-Wing", "Politics"]}
       />
       <ArticleBlock
-        headline="Holy Crap, He's Serious! Democrat Governor, Gavin Newsom, Now Claims That When it Comes to Fire Management, California is a 'Model for the Globe'"
-        tinyUrl="https://www.thegatewaypundit.com/2026/07/laughable-gavin-newsom-claims-that-when-it-comes/"
-        xPostUrl="https://x.com/C3Heditor/status/2081114977293771195"
-        imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-07-25_153134.jpg"
-        tags={["Gavin Newsom", "California", "Politics"]}
+        headline="Colorado's Democrat Governor, Jared Polis, Cuts Through the B.S., Blasts Party’s Far-Left Shift: ‘Socialism Has Failed’"
+        tinyUrl="https://tinyurl.com/2fte59c9"
+        xPostUrl="https://x.com/C3Heditor/status/2082122439757029715"
+        imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-07-28_101446.jpg"
+        tags={["Colorado", "Left-Wing", "Politics"]}
       />
       <ArticleBlock
-        headline="Most Democrats are Reluctant to Speak About Their New Marxist-Communist DSA Platform That Now Represents The Party"
-        tinyUrl="https://tinyurl.com/3cr9ddrt"
-        xPostUrl="https://x.com/C3Heditor/status/2081114057914859742"
-        imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-07-25_152741.jpg"
-        tags={["Communism-Socialism", "Left-Wing", "Politics"]}
+        headline="James Carville, a Top Democrat Strategist, States His Party is Losing ‘War’ on Election Integrity – Urges Dems to Support Voter ID"
+        tinyUrl="https://tinyurl.com/3ksw8p5m"
+        xPostUrl="https://x.com/C3Heditor/status/2082119050272919826"
+        imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-07-28_100139.jpg"
+        tags={["James Carville", "Economic Policy", "Left-Wing"]}
       />
       <ArticleBlock
-        headline="Blue States Generate Huge Fraud and Democrat-Run Maryland Has Lame Controls That Put Millions of Federal Tax Dollars at Risk"
-        tinyUrl="https://tinyurl.com/2zs7dfdc"
-        xPostUrl="https://x.com/C3Heditor/status/2081113284825006208"
-        imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-07-25_152439.jpg"
-        tags={["Wes Moore", "Maryland", "Corruption-Fraud"]}
+        headline="Congressional Hopeful, Colorado's Democrat-Marxist Milat Kiros, Wants U.S. to Elect More 'Global South' Immigrants to Usher in a &quot;Reckoning&quot;"
+        tinyUrl="https://tinyurl.com/2jz7rhvh"
+        xPostUrl="https://x.com/C3Heditor/status/2082118520830144910"
+        imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-07-28_100220.jpg"
+        tags={["Milat Kiros", "Colorado", "CBP-DHS-ICE", "Immigration"]}
       />
       <ArticleBlock
-        headline="Buffalo, New York's 'University of Woke' Funds Wasteful Research Dollars on 'Queer Theory,' 'Racial Capitalism'"
-        tinyUrl="https://tinyurl.com/2ts3fhv9"
-        xPostUrl="https://x.com/C3Heditor/status/2081112448724086888"
-        imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-07-25_152214.jpg"
-        tags={["New York", "Education Policy", "Culture War"]}
+        headline="New Book by Former Top Dem Operator Confirms the Racism &amp; Bias Against White People in the Democrat Party at the Highest Levels"
+        tinyUrl="https://tinyurl.com/54hvc4ej"
+        xPostUrl="https://x.com/C3Heditor/status/2082079497600323652"
+        imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-07-28_072417.jpg"
+        tags={["Racial Issues", "Left-Wing", "Culture War"]}
       />
       <ArticleBlock
-        headline="A Democrat Open Border Illegal Murders Michigan Woman, Found Guilty, Then Sues Trump for $75M Including a Public Apology For His Hurt Feelings"
-        tinyUrl="https://tinyurl.com/frmnh5rt"
-        xPostUrl="https://x.com/C3Heditor/status/2081111447568797956"
-        imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-07-25_151718.jpg"
-        tags={["Immigration", "Violent Crime", "Michigan"]}
+        headline="Cartel Favorite, Enrique Sanchez, Rhode Island Democrat Party State Rep, Calls ICE Agents ‘Nazi Gestapo Thugs,’ Then Issues a Hate Threat: ‘Your Day of Reckoning Will Come’"
+        tinyUrl="https://tinyurl.com/yc4hbstt"
+        xPostUrl="https://x.com/C3Heditor/status/2082077609983185188"
+        imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-07-28_071633.jpg"
+        tags={["Enrique Sanchez", "Rhode Island Politics", "CBP-DHS-ICE", "Immigration"]}
       />
       <ArticleBlock
-        headline="U.S. Supreme Court Forced to Reject Another Ludicrous Democrat Attempt to Restrict 2nd Amendment Freedom in Hawaii"
-        tinyUrl="https://tinyurl.com/5cr4ev3t"
-        xPostUrl="https://x.com/C3Heditor/status/2081110410304925858"
-        imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-07-25_151311.jpg"
-        tags={["Judiciary-Judicial", "Gun Control", "Hawaii"]}
+        headline="Georgia Democrat Senator, Jon Ossoff, Is a Non-Serious BETA Male Spending More on Makeup Than AOC and Rashida Tlaib"
+        tinyUrl="https://tinyurl.com/yc3xc873"
+        xPostUrl="https://x.com/C3Heditor/status/2082073343482589231"
+        imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-07-28_065932.jpg"
+        tags={["Jon Ossoff", "Georgia", "Politics"]}
       />
       <ArticleBlock
-        headline="The San Francisco's Democrat Plot for Raising Taxes by Effectively Raising Grocery Prices Has a New Twist"
-        tinyUrl="https://tinyurl.com/bd364t78"
-        xPostUrl="https://x.com/C3Heditor/status/2081109756198924607"
-        imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-07-25_151041.jpg"
-        tags={["San Francisco", "Taxation", "Economic Policy"]}
+        headline="Unserious AZ Congressional Democrat Candidate, JoAnna Mendoza, Follows Multiple OnlyFans &amp; Witchcraft Social Media Accounts"
+        tinyUrl="https://tinyurl.com/4dv3ujkj"
+        xPostUrl="https://x.com/C3Heditor/status/2082072829676138550"
+        imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-07-28_065731.jpg"
+        tags={["JoAnna Mendoza", "Arizona", "Terrorism"]}
       />
       <ArticleBlock
-        headline="Democrats Think Voters Are Seriously Stupid: Low in the Polls, October 7 Fan-Boy, Muslim Abdul El-Sayed, Now Claims He &quot;Likes&quot; Jews and Judaism"
-        tinyUrl="https://tinyurl.com/f2rbbe6w"
-        xPostUrl="https://x.com/C3Heditor/status/2081108701717401751"
-        imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-07-25_150625.jpg"
-        tags={["Abdul El-Sayed", "Michigan", "Israel", "2026 Elections"]}
+        headline="Democrats in New Jersey Plan More Gun Control Stupidity After Courts Smackdown of Their 'Assault Weapons' Legislation"
+        tinyUrl="https://tinyurl.com/3s9nanf9"
+        xPostUrl="https://x.com/C3Heditor/status/2082072214841532555"
+        imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-07-28_065500.jpg"
+        tags={["New Jersey", "Gun Control", "Politics"]}
       />
       <ArticleBlock
-        headline="Jewish Democrat Donors Plan to Bankroll Republican if Muslim Antisemite-Tangential Abdul El-Sayed Wins U.S. Senate Primary"
-        tinyUrl="https://tinyurl.com/6d4ujuh6"
-        xPostUrl="https://x.com/C3Heditor/status/2081108057589748170"
-        imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-07-25_150407.jpg"
-        tags={["Abdul El-Sayed", "Michigan", "Israel", "2026 Elections"]}
+        headline="The Democrat Governor Tim Walz Appointee Who Assassinated Democrat Lawmakers Is Sentenced to Life Imprisonment"
+        tinyUrl="https://tinyurl.com/kpc3nzke"
+        xPostUrl="https://x.com/C3Heditor/status/2082071568901914884"
+        imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-07-28_065225.jpg"
+        tags={["Governor Tim Walz", "Assassination", "Violence", "Minnesota"]}
       />
       <ArticleBlock
-        headline="Democrats in New York Attempt to Force Catholic Organizations to Support Assisted-Dying Law but Nuns Fight Back With Lawsuit"
-        tinyUrl="https://tinyurl.com/5ycj6ek6"
-        xPostUrl="https://x.com/C3Heditor/status/2081106554611282411"
-        imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-07-25_145815.jpg"
-        tags={["New York", "Christianity", "Judiciary-Judicial"]}
+        headline="‘Friend’ of Jeffrey Epstein, Democrat Representative Stacey Plaskett, Receives Max Donations For Her Gubernatorial Run From Epstein’s Political Fixer"
+        tinyUrl="https://tinyurl.com/4anzb4yb"
+        xPostUrl="https://x.com/C3Heditor/status/2082067900936917052"
+        imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-07-28_063759.jpg"
+        tags={["Stacey Plaskett", "Epstein", "Virgin Islands", "Corruption-Fraud"]}
       />
       </div>
-      <Pagination currentPage={1} totalPages={65} />
+      <Pagination currentPage={1} totalPages={66} />
       {/* SITE STATS — auto-updated by batch_process.py. DO NOT edit manually. */}
       <p className="text-sm text-gray-500 mt-2" style={{fontFamily: 'Roboto Slab, serif'}}>
-        Last updated: <strong style={{ color: '#555' }}>2026-07-26</strong> &nbsp;|&nbsp; Total articles: <strong style={{ color: '#555' }}>1300</strong>
+        Last updated: <strong style={{ color: '#555' }}>2026-07-28</strong> &nbsp;|&nbsp; Total articles: <strong style={{ color: '#555' }}>1320</strong>
       </p>
     </div>
   );
