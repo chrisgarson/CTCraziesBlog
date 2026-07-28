@@ -67,7 +67,7 @@ export default function Page2() {
         tinyUrl="https://tinyurl.com/45p34ruc"
         xPostUrl="https://x.com/C3Heditor/status/2071694912823984362"
         imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-06-29_153928.jpg"
-        tags={["Culture War", "Racial Issues"]}
+        tags={["Culture War", "Racial Issues", "Virtue Signaling"]}
       />
       <ArticleBlock
         headline="Adding to to Avalanche of Scandals, Maine Democrat Senate Candidate, Graham Platner, Now Reveals He Used to Get Checked for STDs"
