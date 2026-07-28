@@ -13,7 +13,7 @@ const articles = [
     "batchDate": "2026-07-26"
   },
   {
-    "headline": "These people are CRAZY",
+    "headline": "Former House Speaker Comes to Same Conclusion About Democrats - \"These People Are Crazy\"",
     "tinyUrl": "https://tinyurl.com/46264me5",
     "xPostUrl": "https://x.com/C3Heditor/status/2080731361896243548",
     "imageUrl": "https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-07-23_075421.jpg",
@@ -22,7 +22,7 @@ const articles = [
     "batchDate": "July 24, 2026"
   },
   {
-    "headline": "AOC Accused of ‘Stoking Jew Hatred’ by Pushing False Claims on New Defense Bill",
+    "headline": "Democrat-Marxist Antisemite Lies Are Being Spread by AOC",
     "tinyUrl": "https://tinyurl.com/y2p76h77",
     "xPostUrl": "https://x.com/C3Heditor/status/2080730326880465125",
     "imageUrl": "https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-07-24_140259.jpg",
@@ -31,7 +31,7 @@ const articles = [
     "batchDate": "July 24, 2026"
   },
   {
-    "headline": "Nebraska Dem Senate Candidate Ally Caught Red-Handed Admitting to Doxxing ICE Agent",
+    "headline": "Close Ally of Nebraska U.S. Senate Candidate, Democrat Dan Osborn, Brags About Doxxing ICE Agent",
     "tinyUrl": "https://tinyurl.com/3dmrjr8s",
     "xPostUrl": "https://x.com/C3Heditor/status/2080728613356274065",
     "imageUrl": "https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-07-24_135501.jpg",
@@ -40,7 +40,7 @@ const articles = [
     "batchDate": "July 24, 2026"
   },
   {
-    "headline": "Staggering new figures show LA’s homeless problem is getting worse — as Karen Bass gives pathetic excuse",
+    "headline": "The Los Angeles Homeless Problem Has Gotten Even Worse Despite Democrat-Socialist Mayor Karen Bass' Promises",
     "tinyUrl": "https://tinyurl.com/49r5zkfu",
     "xPostUrl": "https://x.com/C3Heditor/status/2080727114714874365",
     "imageUrl": "https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-07-24_135026.jpg",
@@ -49,7 +49,7 @@ const articles = [
     "batchDate": "July 24, 2026"
   },
   {
-    "headline": "'Unexpected': Jobless Claims Fall to the Lowest Level Since the Days of Woodstock",
+    "headline": "Democrats Panic as U.S. Jobless Claims Reach Low Levels of 1969",
     "tinyUrl": "https://tinyurl.com/bp6wf99y",
     "xPostUrl": "https://x.com/C3Heditor/status/2080726153904668799",
     "imageUrl": "https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-07-24_134648.jpg",
@@ -58,7 +58,7 @@ const articles = [
     "batchDate": "July 24, 2026"
   },
   {
-    "headline": "‘Blew Through Constitutional Stop Signs’: Jack Smith Obtained Review Texts of 44 Lawmakers, DOJ Records Show",
+    "headline": "Democrats’ Favorite Legal Thug ‘Blew Through Constitutional Stop Signs’ by Obtaining Texts of 40 GOP Lawmakers",
     "tinyUrl": "https://tinyurl.com/drc4z94u",
     "xPostUrl": "https://x.com/C3Heditor/status/2080725517800813044",
     "imageUrl": "https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-07-24_134349.jpg",
@@ -67,7 +67,7 @@ const articles = [
     "batchDate": "July 24, 2026"
   },
   {
-    "headline": "Jim Jordan Refers Jack Smith to DOJ for Possible Prosecution",
+    "headline": "Biden Administration's Weaponized Democrat-Lawfare Thug, Jack Smith, Referred to DOJ for Criminal Prosecution",
     "tinyUrl": "https://tinyurl.com/mrzb4msb",
     "xPostUrl": "https://x.com/C3Heditor/status/2080724827598700914",
     "imageUrl": "https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-07-24_134103.jpg",
@@ -76,7 +76,7 @@ const articles = [
     "batchDate": "July 24, 2026"
   },
   {
-    "headline": "Anti-ICE 'extremist' who attacked NYC federal building charged with arson",
+    "headline": "Democrat-Antifa Soldier Is Charged With Attacking NYC Federal Building",
     "tinyUrl": "https://tinyurl.com/bdb6yf55",
     "xPostUrl": "https://x.com/C3Heditor/status/2080723994236661976",
     "imageUrl": "https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-07-24_133740.jpg",
@@ -85,7 +85,7 @@ const articles = [
     "batchDate": "July 24, 2026"
   },
   {
-    "headline": "Sophie Cunningham slams woke fury after the WNBA star spoke out against trans athletes in women's sports",
+    "headline": "WNBA Star Sophie Cunningham Slams Democrat-Liberal Doctrine by Speaking Out Against Trans-Females in Women's Sports",
     "tinyUrl": "https://tinyurl.com/bdfah88h",
     "xPostUrl": "https://x.com/C3Heditor/status/2080413650880213043",
     "imageUrl": "https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-07-23_170435.jpg",
@@ -94,7 +94,7 @@ const articles = [
     "batchDate": "July 24, 2026"
   },
   {
-    "headline": "Secret Service has probed 10,000 threats to Trump, other US officials so far this year, director says",
+    "headline": "Hate and Violence Threats by Democrat Activists Towards Trump Administration Officials Reach Unprecedented Levels, per Secret Service Director",
     "tinyUrl": "https://tinyurl.com/x699k9ev",
     "xPostUrl": "https://x.com/C3Heditor/status/2080412533664452934",
     "imageUrl": "https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-07-23_170007.jpg",
@@ -103,7 +103,7 @@ const articles = [
     "batchDate": "July 24, 2026"
   },
   {
-    "headline": "New Jersey’s Damning Admission on Illegal Voting",
+    "headline": "Democrat Governor of New Jersey, Mikie Sherrill, Admits Her State Has Thousands of Illegal Voters on Its Rolls",
     "tinyUrl": "https://tinyurl.com/yyzx3cn7",
     "xPostUrl": "https://x.com/C3Heditor/status/2080411828627095969",
     "imageUrl": "https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-07-23_165730.jpg",
@@ -112,7 +112,7 @@ const articles = [
     "batchDate": "July 24, 2026"
   },
   {
-    "headline": "Democrat Rep. AOC Accused of ‘Going Full Kamala’ with ‘Fake Accent’ at Memphis Rally",
+    "headline": "To Pander Is a Democrat Feature, Not a Bug: Rep. AOC Accused of 'Going Full Kamala' with 'Fake Accent' at Memphis Rally",
     "tinyUrl": "https://tinyurl.com/3evt674u",
     "xPostUrl": "https://x.com/C3Heditor/status/2080411210411860270",
     "imageUrl": "https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-07-23_165452.jpg",
@@ -121,7 +121,7 @@ const articles = [
     "batchDate": "July 24, 2026"
   },
   {
-    "headline": "Democrats Nominate Anti-ICE Candidate Accused of Mortgage Fraud and Throwing a Bottle at a Woman for Maine Senate Race",
+    "headline": "Maine Democrats Nominate Troy Jackson as Candidate for U.S. Senate, He Wants to Abolish ICE, Struck a Female Colleague, and Accused of Mortgage Fraud",
     "tinyUrl": "https://tinyurl.com/pfwkwvs4",
     "xPostUrl": "https://x.com/C3Heditor/status/2080410597099729208",
     "imageUrl": "https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-07-23_165244.jpg",
@@ -130,7 +130,7 @@ const articles = [
     "batchDate": "July 24, 2026"
   },
   {
-    "headline": "Gay Cruise Debacle Proves Liberals Are Deluded About Alliance With Muslims",
+    "headline": "Democrat Liberals Receive a Humiliating Lesson About Their Delusions That LGBTQ and Muslims Go Well Together",
     "tinyUrl": "https://tinyurl.com/38yrp7z9",
     "xPostUrl": "https://x.com/C3Heditor/status/2080409927365935172",
     "imageUrl": "https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-07-23_164952.jpg",
@@ -139,7 +139,7 @@ const articles = [
     "batchDate": "July 24, 2026"
   },
   {
-    "headline": "Reporter Nails Mamdani When He Has Trouble Defining What 'Working Class' Means",
+    "headline": "Wealthy Democrat-Marxist NYC Mayor Zohran Mamdani is Unable to Define What 'Working Class' Means",
     "tinyUrl": "https://tinyurl.com/yvk4z3zb",
     "xPostUrl": "https://x.com/C3Heditor/status/2080409324417917363",
     "imageUrl": "https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-07-24_141956.jpg",
@@ -148,7 +148,7 @@ const articles = [
     "batchDate": "July 24, 2026"
   },
   {
-    "headline": "Top House Democrat Flip-Flops, Votes to Freeze Aid to Israel After Leftists Threaten His Family",
+    "headline": "Spineless Congressional Dem, Rep. Adam Smith, Performs a Policy Flip-Flop Due to Democrat-Leftist Threats Against His Family",
     "tinyUrl": "https://tinyurl.com/5n6euw6p",
     "xPostUrl": "https://x.com/C3Heditor/status/2080408556218544577",
     "imageUrl": "https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-07-23_164430.jpg",
@@ -157,7 +157,7 @@ const articles = [
     "batchDate": "July 24, 2026"
   },
   {
-    "headline": "Head of Medical School Tells Congresswoman the Vast Majority of Pregnancies Occur in Women",
+    "headline": "Head of Medical School Speaks Democrat Anti-Science Stupidity by Claiming the Vast Majority - Not 100 Percent - of Pregnancies Occur in Women",
     "tinyUrl": "https://tinyurl.com/w35kdthz",
     "xPostUrl": "https://x.com/C3Heditor/status/2080407607135633782",
     "imageUrl": "https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-07-23_163900.jpg",
@@ -166,7 +166,7 @@ const articles = [
     "batchDate": "July 24, 2026"
   },
   {
-    "headline": "Feds deploy 'strike team' to probe New York fraud",
+    "headline": "The Fraud is So Large and Bad in Democrat-Controlled New York the Feds Deploy a Strike Force Team",
     "tinyUrl": "https://tinyurl.com/5yyuksec",
     "xPostUrl": "https://x.com/C3Heditor/status/2080406428515197269",
     "imageUrl": "https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-07-23_163600.jpg",
@@ -175,7 +175,7 @@ const articles = [
     "batchDate": "July 24, 2026"
   },
   {
-    "headline": "James Carville Warns ‘Left-Wing Idiots’ Are Major Threat to Democrats in Midterms",
+    "headline": "Long-Time Political Strategist, James Carville, Lets The Cat Out of The Bag: 'Left-Wing Idiots' Are Major Threat to Democrats in Midterm",
     "tinyUrl": "https://tinyurl.com/4yp4z38z",
     "xPostUrl": "https://x.com/C3Heditor/status/2080405558255894839",
     "imageUrl": "https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-07-23_163226.jpg",
@@ -184,7 +184,7 @@ const articles = [
     "batchDate": "July 24, 2026"
   },
   {
-    "headline": "James Talarico Continues Pandering to Voters, This Time by Supporting Reparations",
+    "headline": "Pandering Texas Democrat Candidate for U.S. Senate, James Talarico, Decides That Promising Reparations for Blacks Will Make Him Senator",
     "tinyUrl": "https://tinyurl.com/r3vf3p8b",
     "xPostUrl": "https://x.com/C3Heditor/status/2080404762839613539",
     "imageUrl": "https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-07-23_162915.jpg",
