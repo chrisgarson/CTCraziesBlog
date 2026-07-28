@@ -53,7 +53,7 @@ export default function Page6() {
         tinyUrl="https://tinyurl.com/3j5kkavw"
         xPostUrl="https://x.com/C3Heditor/status/2043431496015282603"
         imageSrc="https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/2026-04-12_155052_a416e9ec.jpg"
-        tags={["Chris Van Hollen", "CBP-DHS-ICE", "Immigration"]}
+        tags={["Chris Van Hollen", "CBP-DHS-ICE", "Immigration", "Virtue Signaling"]}
       />
       <ArticleBlock
         headline="Rising Costs From Democrats&#39; Over-Regulation Drive Even More Residents Out As California&#39; Migration Wave Keeps Growing"
