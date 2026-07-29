@@ -49,7 +49,7 @@ export default function Page7() {
         tags={["Obama Presidential Center", "Election Fraud"]}
       />
       <ArticleBlock
-        headline="Minnesota Judge Hands Somali Fraudster Just 6 Months After $500K Theft in Child Food Scam"
+        headline="Democrats' "Justice": Only Six Months For a Somali Fraudster Who Stole $500K From Minnesota's Child Food Program"
         tinyUrl="https://tinyurl.com/3x2pt3ju"
         xPostUrl="https://x.com/C3Heditor/status/2043071682982605297"
         imageSrc="https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/2026-04-11_160130_d4db0300.jpg"
