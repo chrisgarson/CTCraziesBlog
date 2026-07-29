@@ -56,7 +56,7 @@ export default function Page11() {
         tags={["CBP-DHS-ICE", "Immigration"]}
       />
       <ArticleBlock
-        headline="Muslim-Democrat U.S. Senate Candidate Wanted To Defund Police, Compared Cops To "slave catchers""
+        headline="Muslim-Democrat U.S. Senate Candidate Wanted To Defund Police, Compared Cops To &quot;slave catchers&quot;"
         tinyUrl="https://tinyurl.com/2ffd9zr8"
         xPostUrl="https://x.com/C3Heditor/status/2039050127118065953"
         imageSrc="https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/2026-03-31_134114_b03cc4ff.jpg"

@@ -105,7 +105,7 @@ export default function Page26() {
         tags={["Education Policy", "CBP-DHS-ICE", "Immigration"]}
       />
       <ArticleBlock
-        headline="Even The WH Press Corps Laughs At Partisan CBS "Journalist's" TDS"
+        headline="Even The WH Press Corps Laughs At Partisan CBS &quot;Journalist's&quot; TDS"
         tinyUrl="https://tinyurl.com/55xzkcbp"
         xPostUrl="https://x.com/C3Heditor/status/2025527251110932493"
         imageSrc="https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/2026-02-22_050525_3500af21.jpg"
