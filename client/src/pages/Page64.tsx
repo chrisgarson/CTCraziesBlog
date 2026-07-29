@@ -146,7 +146,7 @@ export default function Page30() {
         imageSrc="https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/post41_clean_12481740.jpg"
         tags={["California", "Super Bowl", "Washington"]}
       />
-      <Pagination currentPage={64} totalPages={66} />
+      <Pagination currentPage={64} totalPages={67} />
     </div>
   );
 }

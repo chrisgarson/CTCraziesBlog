@@ -146,7 +146,7 @@ export default function Page16() {
         imageSrc="https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/2026-03-25_085401_1bfba604.jpg"
         tags={["Los Angeles", "Corruption-Fraud", "Government"]}
       />
-      <Pagination currentPage={50} totalPages={66} />
+      <Pagination currentPage={50} totalPages={67} />
     </div>
   );
 }

@@ -147,7 +147,7 @@ export default function Page2() {
         tags={["Lindsey Graham", "Violence"]}
       />
       </div>
-      <Pagination currentPage={6} totalPages={66} />
+      <Pagination currentPage={6} totalPages={67} />
       {/* SITE STATS — auto-updated by batch_process.py. DO NOT edit manually. */}
       <p className="text-sm text-gray-500 mt-2" style={{fontFamily: 'Roboto Slab, serif'}}>
         Last updated: <strong style={{ color: '#555' }}>July 12, 2026</strong> &nbsp;|&nbsp; Total articles: <strong style={{ color: '#555' }}>1220</strong>

@@ -146,7 +146,7 @@ export default function Page15() {
         imageSrc="https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/2026-03-25_164914_75e7b364.jpg"
         tags={["Election Fraud", "Stephen A. Smith"]}
       />
-      <Pagination currentPage={49} totalPages={66} />
+      <Pagination currentPage={49} totalPages={67} />
     </div>
   );
 }

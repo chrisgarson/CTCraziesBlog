@@ -145,7 +145,7 @@ export default function Home() {
         imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/kkGSlqaUgCdWHGKF.jpg"
         tags={["DOJ", "Censorship", "Culture War"]}
       />
-      <Pagination currentPage={35} totalPages={66} />
+      <Pagination currentPage={35} totalPages={67} />
       {/* SITE STATS — auto-updated by gen_pages.py. DO NOT edit manually. */}
       <div style={{ textAlign: 'center', marginTop: '18px', paddingBottom: '16px', fontFamily: "'Roboto Slab', serif", fontSize: '13px', color: '#777' }}>
         Last updated: <strong style={{ color: '#555' }}>April 18, 2026</strong> &nbsp;|&nbsp; Total articles: <strong style={{ color: '#555' }}>640</strong>
