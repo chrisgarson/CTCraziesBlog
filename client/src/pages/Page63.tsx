@@ -7,7 +7,7 @@ export default function Page29() {
     <div className="max-w-4xl mx-auto px-4 py-16">
       <PageHeader />
       <ArticleBlock
-        headline="Los Angeles Teachers\' Union Caught Implementing Anti-ICE \'Resistance\'"
+        headline="Democrat activists from Los Angeles Teachers' Union "working" to stymie legal ICE enforcement"
         tinyUrl="https://tinyurl.com/25r6y3vn"
         xPostUrl="https://x.com/C3Heditor/status/2023158422649319667"
         imageSrc="https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/2026-02-20_095258_011fbaca.jpg"

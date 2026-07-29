@@ -91,7 +91,7 @@ export default function Page31() {
         tags={["California", "Illinois"]}
       />
       <ArticleBlock
-        headline="Abigail Spanberger, Who Campaigned on \'Affordability,\' Signs Opening Salvo of Bills Proposing Constitutional Amendments on Abortion, Redistricting"
+        headline=""Moderate" Democrat VA Governor Spanberger Signs Bills for Abortion & Redistricting Amendments"
         tinyUrl="https://tinyurl.com/4acua8z5"
         xPostUrl="https://x.com/C3Heditor/status/2020245649586016603"
         imageSrc="https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/2026-02-19_102758_b7a1cf36.jpg"

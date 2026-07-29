@@ -49,7 +49,7 @@ export default function Page16() {
         tags={["Homeland Security", "CBP-DHS-ICE"]}
       />
       <ArticleBlock
-        headline="Nepo-Baby Nazi-Tattooed Dem Senate Candidate Decries \'Anti-Semitism,\' Claims \'Anti-Trans\' Agenda Cooked Up By \'Billionaires\'"
+        headline="Nazi-Tattooed Democrat U.S. Senate Hopeful Done Apologizing About Anti-Semitism & Blacks "don't tip" Remarks"
         tinyUrl="https://tinyurl.com/yeu9exjr"
         xPostUrl="https://x.com/C3Heditor/status/2036884964336095614"
         imageSrc="https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/2026-03-25_141741_a4cca37e.jpg"

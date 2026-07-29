@@ -112,7 +112,7 @@ export default function Page14() {
         tags={["Business Climate", "Taxation", "Illinois"]}
       />
       <ArticleBlock
-        headline="From Rolling Stone to NYT: Editor Accused of Shielding Friend in Child Porn Raid Story Lands Opinion Gig"
+        headline=""Journalist" Who Buried a Story About Friend's Child Porn Perversion Lands a Cushy NY Times Democrat Op-Ed/Propaganda Position"
         tinyUrl="https://tinyurl.com/yu7p5j8u"
         xPostUrl="https://x.com/C3Heditor/status/2037204725586632995"
         imageSrc="https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/2026-03-26_112803_9ee1c2a0.jpg"

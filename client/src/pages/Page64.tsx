@@ -42,7 +42,7 @@ export default function Page30() {
         tags={["Federal Workforce", "Unions"]}
       />
       <ArticleBlock
-        headline="\'Not true\': Chicago Mayor Johnson\'s ICE order has his own prosecutors up in arms"
+        headline="Chicago's top prosecutor is calling out Democrat Mayor Johnson's anti-ICE executive order as a "wholly inappropriate" disaster"
         tinyUrl="https://tinyurl.com/yc2z87cu"
         xPostUrl="https://x.com/C3Heditor/status/2021702344946167827"
         imageSrc="https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/2026-02-19_144631_165ebe56.jpg"
