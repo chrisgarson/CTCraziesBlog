@@ -7280,7 +7280,7 @@ const articles = [
     "batchDate": "Apr 11, 2026"
   },
   {
-    "headline": "Democrats' "Justice": Only Six Months For a Somali Fraudster Who Stole $500K From Minnesota's Child Food Program",
+    "headline": "Democrats' \"Justice\": Only Six Months For a Somali Fraudster Who Stole $500K From Minnesota's Child Food Program",
     "tinyUrl": "https://tinyurl.com/3x2pt3ju",
     "xPostUrl": "https://x.com/C3Heditor/status/2043071682982605297",
     "imageUrl": "https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/2026-04-11_160130_d4db0300.jpg",
@@ -8009,7 +8009,7 @@ const articles = [
     "batchDate": "Mar 31, 2026"
   },
   {
-    "headline": "Muslim-Democrat U.S. Senate Candidate Wanted To Defund Police, Compared Cops To "slave catchers"",
+    "headline": "Muslim-Democrat U.S. Senate Candidate Wanted To Defund Police, Compared Cops To \"slave catchers\"",
     "tinyUrl": "https://tinyurl.com/2ffd9zr8",
     "xPostUrl": "https://x.com/C3Heditor/status/2039050127118065953",
     "imageUrl": "https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/2026-03-31_134114_b03cc4ff.jpg",
@@ -8621,7 +8621,7 @@ const articles = [
     "batchDate": "Mar 26, 2026"
   },
   {
-    "headline": ""Journalist" Who Buried a Story About Friend's Child Porn Perversion Lands a Cushy NY Times Democrat Op-Ed/Propaganda Position",
+    "headline": "\"Journalist\" Who Buried a Story About Friend's Child Porn Perversion Lands a Cushy NY Times Democrat Op-Ed/Propaganda Position",
     "tinyUrl": "https://tinyurl.com/yu7p5j8u",
     "xPostUrl": "https://x.com/C3Heditor/status/2037204725586632995",
     "imageUrl": "https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/2026-03-26_112803_9ee1c2a0.jpg",
@@ -8900,7 +8900,7 @@ const articles = [
     "batchDate": "Mar 26, 2026"
   },
   {
-    "headline": "Nazi-Tattooed Democrat U.S. Senate Hopeful Done Apologizing About Anti-Semitism & Blacks "don't tip" Remarks",
+    "headline": "Nazi-Tattooed Democrat U.S. Senate Hopeful Done Apologizing About Anti-Semitism & Blacks \"don't tip\" Remarks",
     "tinyUrl": "https://tinyurl.com/yeu9exjr",
     "xPostUrl": "https://x.com/C3Heditor/status/2036884964336095614",
     "imageUrl": "https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/2026-03-25_141741_a4cca37e.jpg",
@@ -10772,7 +10772,7 @@ const articles = [
     "batchDate": "Feb 21, 2026"
   },
   {
-    "headline": "Even The WH Press Corps Laughs At Partisan CBS "Journalist's" TDS",
+    "headline": "Even The WH Press Corps Laughs At Partisan CBS \"Journalist's\" TDS",
     "tinyUrl": "https://tinyurl.com/55xzkcbp",
     "xPostUrl": "https://x.com/C3Heditor/status/2025527251110932493",
     "imageUrl": "https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/2026-02-22_050525_3500af21.jpg",
@@ -11186,7 +11186,7 @@ const articles = [
     "batchDate": "Feb 21, 2026"
   },
   {
-    "headline": "Democrat activists from Los Angeles Teachers' Union "working" to stymie legal ICE enforcement",
+    "headline": "Democrat activists from Los Angeles Teachers' Union \"working\" to stymie legal ICE enforcement",
     "tinyUrl": "https://tinyurl.com/25r6y3vn",
     "xPostUrl": "https://x.com/C3Heditor/status/2023158422649319667",
     "imageUrl": "https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/2026-02-20_095258_011fbaca.jpg",
@@ -11411,7 +11411,7 @@ const articles = [
     "batchDate": "Feb 21, 2026"
   },
   {
-    "headline": "Chicago's top prosecutor is calling out Democrat Mayor Johnson's anti-ICE executive order as a "wholly inappropriate" disaster",
+    "headline": "Chicago's top prosecutor is calling out Democrat Mayor Johnson's anti-ICE executive order as a \"wholly inappropriate\" disaster",
     "tinyUrl": "https://tinyurl.com/yc2z87cu",
     "xPostUrl": "https://x.com/C3Heditor/status/2021702344946167827",
     "imageUrl": "https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/2026-02-19_144631_165ebe56.jpg",
@@ -11654,7 +11654,7 @@ const articles = [
     "batchDate": "Feb 21, 2026"
   },
   {
-    "headline": ""Moderate" Democrat VA Governor Spanberger Signs Bills for Abortion & Redistricting Amendments",
+    "headline": "\"Moderate\" Democrat VA Governor Spanberger Signs Bills for Abortion & Redistricting Amendments",
     "tinyUrl": "https://tinyurl.com/4acua8z5",
     "xPostUrl": "https://x.com/C3Heditor/status/2020245649586016603",
     "imageUrl": "https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/2026-02-19_102758_b7a1cf36.jpg",
