@@ -12130,8 +12130,8 @@ export default function Search() {
     if (hasOperator) return fuseResults;
     return fuseResults.filter(item =>
       words.every(w => {
-        // Match: at start/end of string, after a space or hyphen, before a space or hyphen
-        const re = new RegExp(`(?:^|[\\s\\-])${w.replace(/[.*+?^${}()|[\]\\]/g, '\\$&')}(?:[\\s\\-]|$)`, 'i');
+        // Match: at start/end of string, after a space or hyphen, before a space, hyphen, or punctuation
+        const re = new RegExp(`(?:^|[\\s\\-])${w.replace(/[.*+?^${}()|[\]\\]/g, '\\$&')}(?:[\\s\\-,.'"!?;:()]|$)`, 'i');
         return re.test(item.headline);
       })
     );
