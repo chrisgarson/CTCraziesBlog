@@ -147,7 +147,7 @@ export default function Page2() {
         tags={["New York", "Christianity", "Judiciary-Judicial"]}
       />
       </div>
-      <Pagination currentPage={2} totalPages={66} />
+      <Pagination currentPage={2} totalPages={67} />
     </div>
   );
 }

@@ -146,7 +146,7 @@ export default function Page12() {
         imageSrc="https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/2026-03-29_152230_71985d11.jpg"
         tags={["Culture War", "Biden Administration"]}
       />
-      <Pagination currentPage={46} totalPages={66} />
+      <Pagination currentPage={46} totalPages={67} />
     </div>
   );
 }

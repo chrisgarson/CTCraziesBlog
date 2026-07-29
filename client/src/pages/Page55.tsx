@@ -146,7 +146,7 @@ export default function Page21() {
         imageSrc="https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/post221_clean_2e316f26.jpg"
         tags={["Gavin Newsom", "COVID-19", "Healthcare Policy"]}
       />
-      <Pagination currentPage={55} totalPages={66} />
+      <Pagination currentPage={55} totalPages={67} />
     </div>
   );
 }

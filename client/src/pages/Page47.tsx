@@ -146,7 +146,7 @@ export default function Page13() {
         imageSrc="https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/2026-03-29_045025_bdfe6f22.jpg"
         tags={["Election Fraud", "Homeless"]}
       />
-      <Pagination currentPage={47} totalPages={66} />
+      <Pagination currentPage={47} totalPages={67} />
     </div>
   );
 }

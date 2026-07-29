@@ -146,7 +146,7 @@ export default function Page7() {
         imageSrc="https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/2026-04-10_111524_6cc43dd1.jpg"
         tags={["CBP-DHS-ICE", "Immigration", "Healthcare Policy"]}
       />
-      <Pagination currentPage={41} totalPages={66} />
+      <Pagination currentPage={41} totalPages={67} />
     </div>
   );
 }

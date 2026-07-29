@@ -146,7 +146,7 @@ export default function Page25() {
         imageSrc="https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/post141_clean_7a7d815c.jpg"
         tags={["Assassination", "Politics"]}
       />
-      <Pagination currentPage={59} totalPages={66} />
+      <Pagination currentPage={59} totalPages={67} />
     </div>
   );
 }

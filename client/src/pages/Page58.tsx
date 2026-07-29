@@ -146,7 +146,7 @@ export default function Page24() {
         imageSrc="https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/post161_clean_fb2c426c.jpg"
         tags={["Fareed Zakaria", "New York", "Los Angeles"]}
       />
-      <Pagination currentPage={58} totalPages={66} />
+      <Pagination currentPage={58} totalPages={67} />
     </div>
   );
 }

@@ -146,7 +146,7 @@ export default function Page11() {
         imageSrc="https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/2026-03-30_162331_772a7f09.jpg"
         tags={["Education Policy", "Culture War", "Pay Raise", "California"]}
       />
-      <Pagination currentPage={45} totalPages={66} />
+      <Pagination currentPage={45} totalPages={67} />
     </div>
   );
 }

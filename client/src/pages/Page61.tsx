@@ -146,7 +146,7 @@ export default function Page27() {
         imageSrc="https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/post101_clean_4889be0e.jpg"
         tags={["JB Pritzker", "Epstein", "JB Pritzker"]}
       />
-      <Pagination currentPage={61} totalPages={66} />
+      <Pagination currentPage={61} totalPages={67} />
     </div>
   );
 }

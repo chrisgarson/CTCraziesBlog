@@ -147,7 +147,7 @@ export default function Home() {
         tags={["California", "Corruption-Fraud", "Non-Profit", "2026 Elections"]}
       />
       </div>
-      <Pagination currentPage={20} totalPages={66} />
+      <Pagination currentPage={20} totalPages={67} />
       {/* SITE STATS — auto-updated by gen_home.py. DO NOT edit manually. */}
       <p className="text-sm text-gray-500 mt-2" style={{fontFamily: 'Roboto Slab, serif'}}>
         Last updated: <strong style={{ color: '#555' }}>May 29, 2026</strong> &nbsp;|&nbsp; Total articles: <strong style={{ color: '#555' }}>940</strong>

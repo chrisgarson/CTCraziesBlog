@@ -146,7 +146,7 @@ export default function Page19() {
         imageSrc="https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/post261_clean_880f6a8a.jpg"
         tags={["Chicago", "Illinois", "Politics"]}
       />
-      <Pagination currentPage={53} totalPages={66} />
+      <Pagination currentPage={53} totalPages={67} />
     </div>
   );
 }
