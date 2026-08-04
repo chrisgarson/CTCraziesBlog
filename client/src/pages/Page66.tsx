@@ -146,7 +146,7 @@ export default function Page46() {
         imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-02-19_105951_7183d36f.jpg"
         tags={["Virginia", "Judiciary-Judicial", "Left-Wing"]}
       />
-      <Pagination currentPage={66} totalPages={67} />
+      <Pagination currentPage={66} totalPages={68} />
     </div>
   );
 }

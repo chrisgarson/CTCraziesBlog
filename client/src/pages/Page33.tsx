@@ -147,7 +147,7 @@ export default function Home() {
         tags={["John Fetterman", "Israel", "Graham Platner"]}
       />
 
-      <Pagination currentPage={33} totalPages={67} />
+      <Pagination currentPage={33} totalPages={68} />
 
       <div id="site-stats" className="mt-4 text-center text-xs text-gray-400">
         Last updated: <strong style={{ color: "#555" }}>April 21, 2026</strong> &nbsp;|&nbsp;

@@ -148,7 +148,7 @@ export default function Home() {
         tags={["Maryland", "Business Climate", "North Carolina"]}
       />
       </div>
-      <Pagination currentPage={31} totalPages={67} />
+      <Pagination currentPage={31} totalPages={68} />
       {/* SITE STATS — auto-updated by gen_pages.py. DO NOT edit manually. */}
       <p className="text-sm text-gray-500 mt-2" style={{fontFamily: 'Roboto Slab, serif'}}>
         Last updated: <strong style={{ color: '#555' }}>April 27, 2026</strong> &nbsp;|&nbsp; Total articles: <strong style={{ color: '#555' }}>720</strong>

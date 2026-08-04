@@ -146,7 +146,7 @@ export default function Page4() {
         imageSrc="https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/2026-04-14_082016_f433a087.jpg"
         tags={["Christianity", "2026 Elections"]}
       />
-      <Pagination currentPage={38} totalPages={67} />
+      <Pagination currentPage={38} totalPages={68} />
       {/* SITE STATS — auto-updated by gen_pages.py on each batch run. DO NOT edit manually. */}
       <div style={{ textAlign: 'center', marginTop: '18px', paddingBottom: '16px', fontFamily: "'Roboto Slab', serif", fontSize: '13px', color: '#777' }}>
         Last updated: <strong style={{ color: '#555' }}>April 14, 2026</strong> &nbsp;|&nbsp; Total articles: <strong style={{ color: '#555' }}>580</strong>

@@ -147,7 +147,7 @@ export default function Page2() {
         tags={["James Talarico", "Texas", "Left-Wing"]}
       />
       </div>
-      <Pagination currentPage={3} totalPages={67} />
+      <Pagination currentPage={3} totalPages={68} />
     </div>
   );
 }

@@ -146,7 +146,7 @@ export default function Page5() {
         imageSrc="https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/2026-04-13_150843_8da544af.jpg"
         tags={["Racial Issues", "Politics", "Culture War", "US Politics"]}
       />
-      <Pagination currentPage={39} totalPages={67} />
+      <Pagination currentPage={39} totalPages={68} />
     </div>
   );
 }

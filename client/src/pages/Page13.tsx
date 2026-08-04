@@ -147,7 +147,7 @@ export default function Page2() {
         tags={["California", "Fareed Zakaria", "Media Bias"]}
       />
       </div>
-      <Pagination currentPage={13} totalPages={67} />
+      <Pagination currentPage={13} totalPages={68} />
       {/* SITE STATS — auto-updated by batch_process.py. DO NOT edit manually. */}
       <p className="text-sm text-gray-500 mt-2" style={{fontFamily: 'Roboto Slab, serif'}}>
         Last updated: <strong style={{ color: '#555' }}>June 16, 2026</strong> &nbsp;|&nbsp; Total articles: <strong style={{ color: '#555' }}>1080</strong>

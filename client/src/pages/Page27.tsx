@@ -148,7 +148,7 @@ export default function Home() {
         tags={["Zohran Mamdani", "New York", "Government", "Left-Wing"]}
       />
       </div>
-      <Pagination currentPage={27} totalPages={67} />
+      <Pagination currentPage={27} totalPages={68} />
       {/* SITE STATS — auto-updated by gen_pages.py. DO NOT edit manually. */}
       <p className="text-sm text-gray-500 mt-2" style={{fontFamily: 'Roboto Slab, serif'}}>
         Last updated: <strong style={{ color: '#555' }}>May 06, 2026</strong> &nbsp;|&nbsp; Total articles: <strong style={{ color: '#555' }}>800</strong>

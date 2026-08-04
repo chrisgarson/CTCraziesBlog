@@ -146,7 +146,7 @@ export default function Page8() {
         imageSrc="https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/2026-04-03_073727_31f69c47.jpg"
         tags={["California", "Corruption-Fraud", "Taxation", "Election Fraud"]}
       />
-      <Pagination currentPage={42} totalPages={67} />
+      <Pagination currentPage={42} totalPages={68} />
     </div>
   );
 }

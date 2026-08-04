@@ -145,7 +145,7 @@ export default function Page2() {
         imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/EXkTiGqUqjcOVrgt.jpg"
         tags={["Violent Crime", "California", "Sexual Misconduct"]}
       />
-      <Pagination currentPage={36} totalPages={67} />
+      <Pagination currentPage={36} totalPages={68} />
     </div>
   );
 }

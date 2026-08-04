@@ -147,7 +147,7 @@ export default function Page2() {
         tags={["Media Bias", "Sexual Misconduct"]}
       />
       </div>
-      <Pagination currentPage={8} totalPages={67} />
+      <Pagination currentPage={8} totalPages={68} />
       {/* SITE STATS — auto-updated by batch_process.py. DO NOT edit manually. */}
       <p className="text-sm text-gray-500 mt-2" style={{fontFamily: 'Roboto Slab, serif'}}>
         Last updated: <strong style={{ color: '#555' }}>July 10, 2026</strong> &nbsp;|&nbsp; Total articles: <strong style={{ color: '#555' }}>1180</strong>
