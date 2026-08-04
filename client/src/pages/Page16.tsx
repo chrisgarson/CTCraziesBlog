@@ -147,7 +147,7 @@ export default function Page2() {
         tags={["Chicago", "Brandon Johnson", "Violent Crime", "Politics"]}
       />
       </div>
-      <Pagination currentPage={16} totalPages={67} />
+      <Pagination currentPage={16} totalPages={68} />
       {/* SITE STATS — auto-updated by batch_process.py. DO NOT edit manually. */}
       <p className="text-sm text-gray-500 mt-2" style={{fontFamily: 'Roboto Slab, serif'}}>
         Last updated: <strong style={{ color: '#555' }}>June 5, 2026</strong> &nbsp;|&nbsp; Total articles: <strong style={{ color: '#555' }}>1020</strong>

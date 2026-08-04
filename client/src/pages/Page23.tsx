@@ -147,7 +147,7 @@ export default function Home() {
         tags={["Election Fraud", "Chicago", "2026 Elections"]}
       />
       </div>
-      <Pagination currentPage={23} totalPages={67} />
+      <Pagination currentPage={23} totalPages={68} />
       {/* SITE STATS — auto-updated by gen_home.py. DO NOT edit manually. */}
       <p className="text-sm text-gray-500 mt-2" style={{fontFamily: 'Roboto Slab, serif'}}>
         Last updated: <strong style={{ color: '#555' }}>May 26, 2026</strong> &nbsp;|&nbsp; Total articles: <strong style={{ color: '#555' }}>880</strong>

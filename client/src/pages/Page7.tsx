@@ -147,7 +147,7 @@ export default function Page2() {
         tags={["Wisconsin", "Violence"]}
       />
       </div>
-      <Pagination currentPage={7} totalPages={67} />
+      <Pagination currentPage={7} totalPages={68} />
       {/* SITE STATS — auto-updated by batch_process.py. DO NOT edit manually. */}
       <p className="text-sm text-gray-500 mt-2" style={{fontFamily: 'Roboto Slab, serif'}}>
         Last updated: <strong style={{ color: '#555' }}>July 11, 2026</strong> &nbsp;|&nbsp; Total articles: <strong style={{ color: '#555' }}>1200</strong>

@@ -147,7 +147,7 @@ export default function Home() {
         tags={["Racial Issues", "Left-Wing", "Culture War"]}
       />
       </div>
-      <Pagination currentPage={21} totalPages={67} />
+      <Pagination currentPage={21} totalPages={68} />
       {/* SITE STATS — auto-updated by gen_home.py. DO NOT edit manually. */}
       <p className="text-sm text-gray-500 mt-2" style={{fontFamily: 'Roboto Slab, serif'}}>
         Last updated: <strong style={{ color: '#555' }}>May 28, 2026</strong> &nbsp;|&nbsp; Total articles: <strong style={{ color: '#555' }}>920</strong>

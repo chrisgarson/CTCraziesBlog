@@ -146,7 +146,7 @@ export default function Page18() {
         imageSrc="https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/post281_clean_268cec9a.jpg"
         tags={["JB Pritzker", "CBP-DHS-ICE", "Violent Crime", "Immigration"]}
       />
-      <Pagination currentPage={52} totalPages={67} />
+      <Pagination currentPage={52} totalPages={68} />
     </div>
   );
 }

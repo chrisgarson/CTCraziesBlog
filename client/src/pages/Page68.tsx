@@ -1,11 +1,10 @@
-import ArticleBlock from '../components/ArticleBlock';
 import PageHeader from '../components/PageHeader';
+import ArticleBlock from '../components/ArticleBlock';
 import Pagination from '../components/Pagination';
-export default function Home() {
+export default function Page68() {
   return (
-    <div className="max-w-4xl mx-auto px-4 py-8">
+    <div className="max-w-4xl mx-auto px-4 py-16">
       <PageHeader />
-      <div className="space-y-12">
       <ArticleBlock
         headline="Mov'n On Up!: Kamala Harris, Black-American Females' Pride &amp; Joy, Wants to Live With The White Folk"
         tinyUrl="https://pjmedia.com/athena-thorne/2026/07/31/shocker-kamala-harriss-new-8-million-mansion-is-in-a-snow-white-neighborhood-n4955647"
@@ -146,12 +145,7 @@ export default function Home() {
         imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-08-04_142340.jpg"
         tags={["Xavier Becerra", "California", "Immigration"]}
       />
-      </div>
-      <Pagination currentPage={1} totalPages={68} />
-      {/* SITE STATS — auto-updated by batch_process.py. DO NOT edit manually. */}
-      <p className="text-sm text-gray-500 mt-2" style={{fontFamily: 'Roboto Slab, serif'}}>
-        Last updated: <strong style={{ color: '#555' }}>2026-08-05</strong> &nbsp;|&nbsp; Total articles: <strong style={{ color: '#555' }}>1360</strong>
-      </p>
+      <Pagination currentPage={68} totalPages={68} />
     </div>
   );
 }
