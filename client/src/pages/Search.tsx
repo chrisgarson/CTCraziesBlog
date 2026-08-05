@@ -12294,7 +12294,7 @@ const articles = [
   },
   {
     "headline": "Spain's Migrant Invasion Is Brutal Reminder of Democrats' Illegal Alien Out of Control Border Fiasco Under Border Czar Kamala Harris",
-    "tinyUrl": "https://nalert.blogspot.com/2026/08/spains-migrant-invasion-is-brutal.html",
+    "tinyUrl": "https://www.zerohedge.com/political/spains-border-invasion-optics-disaster-socialist-and-dsas-nation-killing-open-borders",
     "xPostUrl": "https://x.com/C3Heditor/status/2084733659551322372",
     "imageUrl": "https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-08-04_152359.jpg",
     "tags": ["Immigration", "Left-Wing"],
@@ -12303,7 +12303,7 @@ const articles = [
   },
   {
     "headline": "Disney's Claim That 'The View' Is a Legit News Show Is Exposed  As Flat-Out Lie by Video Montage",
-    "tinyUrl": "https://www.dailywire.com/news/leftist-violence-proves-politics-deadly-double-standard",
+    "tinyUrl": "https://www.thegatewaypundit.com/2026/07/fcc-chair-brendan-carr-exposes-view-posting-video/",
     "xPostUrl": "https://x.com/C3Heditor/status/2084732657431445668",
     "imageUrl": "https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-08-04_150640.jpg",
     "tags": ["Media", "Left-Wing"],
@@ -12312,7 +12312,7 @@ const articles = [
   },
   {
     "headline": "Public Now Aware of Double-Standard That Democrats Live By When It Comes To Their Activists' Violence & Hate",
-    "tinyUrl": "https://www.dailywire.com/news/leftist-violence-proves-politics-deadly-double-standard",
+    "tinyUrl": "https://www.thegatewaypundit.com/2026/07/fcc-chair-brendan-carr-exposes-view-posting-video/",
     "xPostUrl": "https://x.com/C3Heditor/status/2084732188772450776",
     "imageUrl": "https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-08-04_150508.jpg",
     "tags": ["Left-Wing", "Culture War"],
