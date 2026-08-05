@@ -12312,7 +12312,7 @@ const articles = [
   },
   {
     "headline": "Public Now Aware of Double-Standard That Democrats Live By When It Comes To Their Activists' Violence & Hate",
-    "tinyUrl": "https://www.thegatewaypundit.com/2026/07/fcc-chair-brendan-carr-exposes-view-posting-video/",
+    "tinyUrl": "https://www.dailywire.com/news/leftist-violence-proves-politics-deadly-double-standard",
     "xPostUrl": "https://x.com/C3Heditor/status/2084732188772450776",
     "imageUrl": "https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-08-04_150508.jpg",
     "tags": ["Left-Wing", "Culture War"],
