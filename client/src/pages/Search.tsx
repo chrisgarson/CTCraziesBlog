@@ -9,7 +9,7 @@ const articles = [
     "xPostUrl": "https://x.com/C3Heditor/status/2082155004517896596",
     "imageUrl": "https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-07-28_122402.jpg",
     "tags": ["James Talarico", "Texas", "Islam-Muslim", "Pandering"],
-    "page": 1,
+    "page": 5,
     "batchDate": "2026-07-28"
   },
   {
@@ -18,7 +18,7 @@ const articles = [
     "xPostUrl": "https://x.com/C3Heditor/status/2082152767242584354",
     "imageUrl": "https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-07-28_121512.jpg",
     "tags": ["Blue States", "Politics", "Government", "DNC"],
-    "page": 1,
+    "page": 5,
     "batchDate": "2026-07-28"
   },
   {
@@ -27,7 +27,7 @@ const articles = [
     "xPostUrl": "https://x.com/C3Heditor/status/2082151813856284964",
     "imageUrl": "https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-07-28_121129.jpg",
     "tags": ["Ken Martin", "DNC", "Politics"],
-    "page": 1,
+    "page": 5,
     "batchDate": "2026-07-28"
   },
   {
@@ -36,7 +36,7 @@ const articles = [
     "xPostUrl": "https://x.com/C3Heditor/status/2082151146689384489",
     "imageUrl": "https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-07-28_120847.jpg",
     "tags": ["U.S. Congress", "Corruption-Fraud", "Politics"],
-    "page": 1,
+    "page": 5,
     "batchDate": "2026-07-28"
   },
   {
@@ -45,7 +45,7 @@ const articles = [
     "xPostUrl": "https://x.com/C3Heditor/status/2082150544467014010",
     "imageUrl": "https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-07-28_120619.jpg",
     "tags": ["Sylvia Luke", "Hawaii", "Corruption-Fraud"],
-    "page": 1,
+    "page": 5,
     "batchDate": "2026-07-28"
   },
   {
@@ -54,7 +54,7 @@ const articles = [
     "xPostUrl": "https://x.com/C3Heditor/status/2082128345823588489",
     "imageUrl": "https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-07-28_103806.jpg",
     "tags": ["Corruption-Fraud", "ActBlue", "Left-Wing"],
-    "page": 1,
+    "page": 5,
     "batchDate": "2026-07-28"
   },
   {
@@ -63,7 +63,7 @@ const articles = [
     "xPostUrl": "https://x.com/C3Heditor/status/2082126804035248519",
     "imageUrl": "https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-07-28_103210.jpg",
     "tags": ["Communism-Socialism", "Polling", "Left-Wing"],
-    "page": 1,
+    "page": 5,
     "batchDate": "2026-07-28"
   },
   {
@@ -72,7 +72,7 @@ const articles = [
     "xPostUrl": "https://x.com/C3Heditor/status/2082126219626119207",
     "imageUrl": "https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-07-28_102737.jpg",
     "tags": ["Immigration", "Polling", "CBP-DHS-ICE", "Virtue Signaling"],
-    "page": 1,
+    "page": 5,
     "batchDate": "2026-07-28"
   },
   {
@@ -81,7 +81,7 @@ const articles = [
     "xPostUrl": "https://x.com/C3Heditor/status/2082124187871645892",
     "imageUrl": "https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-07-28_102142.jpg",
     "tags": ["Massachusetts", "Healthcare Policy", "Politics"],
-    "page": 1,
+    "page": 5,
     "batchDate": "2026-07-28"
   },
   {
@@ -90,7 +90,7 @@ const articles = [
     "xPostUrl": "https://x.com/C3Heditor/status/2082123175546978565",
     "imageUrl": "https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-07-28_101747.jpg",
     "tags": ["Seth Moulton", "Left-Wing", "Politics", "Massachusetts"],
-    "page": 1,
+    "page": 5,
     "batchDate": "2026-07-28"
   },
   {
@@ -99,7 +99,7 @@ const articles = [
     "xPostUrl": "https://x.com/C3Heditor/status/2082122439757029715",
     "imageUrl": "https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-07-28_101446.jpg",
     "tags": ["Colorado", "Left-Wing", "Politics"],
-    "page": 1,
+    "page": 5,
     "batchDate": "2026-07-28"
   },
   {
@@ -108,7 +108,7 @@ const articles = [
     "xPostUrl": "https://x.com/C3Heditor/status/2082119050272919826",
     "imageUrl": "https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-07-28_100139.jpg",
     "tags": ["James Carville", "Economic Policy", "Left-Wing", "Election Fraud"],
-    "page": 1,
+    "page": 5,
     "batchDate": "2026-07-28"
   },
   {
@@ -117,7 +117,7 @@ const articles = [
     "xPostUrl": "https://x.com/C3Heditor/status/2082118520830144910",
     "imageUrl": "https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-07-28_100220.jpg",
     "tags": ["Milat Kiros", "Colorado", "CBP-DHS-ICE", "Immigration"],
-    "page": 1,
+    "page": 5,
     "batchDate": "2026-07-28"
   },
   {
@@ -126,7 +126,7 @@ const articles = [
     "xPostUrl": "https://x.com/C3Heditor/status/2082079497600323652",
     "imageUrl": "https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-07-28_072417.jpg",
     "tags": ["Racial Issues", "Left-Wing", "Culture War"],
-    "page": 1,
+    "page": 5,
     "batchDate": "2026-07-28"
   },
   {
@@ -135,7 +135,7 @@ const articles = [
     "xPostUrl": "https://x.com/C3Heditor/status/2082077609983185188",
     "imageUrl": "https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-07-28_071633.jpg",
     "tags": ["Enrique Sanchez", "Rhode Island Politics", "CBP-DHS-ICE", "Immigration"],
-    "page": 1,
+    "page": 5,
     "batchDate": "2026-07-28"
   },
   {
@@ -144,7 +144,7 @@ const articles = [
     "xPostUrl": "https://x.com/C3Heditor/status/2082073343482589231",
     "imageUrl": "https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-07-28_065932.jpg",
     "tags": ["Jon Ossoff", "Georgia", "Politics"],
-    "page": 1,
+    "page": 5,
     "batchDate": "2026-07-28"
   },
   {
@@ -153,7 +153,7 @@ const articles = [
     "xPostUrl": "https://x.com/C3Heditor/status/2082072829676138550",
     "imageUrl": "https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-07-28_065731.jpg",
     "tags": ["JoAnna Mendoza", "Arizona", "Left-Wing"],
-    "page": 1,
+    "page": 5,
     "batchDate": "2026-07-28"
   },
   {
@@ -162,7 +162,7 @@ const articles = [
     "xPostUrl": "https://x.com/C3Heditor/status/2082072214841532555",
     "imageUrl": "https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-07-28_065500.jpg",
     "tags": ["New Jersey", "Gun Control", "Politics"],
-    "page": 1,
+    "page": 5,
     "batchDate": "2026-07-28"
   },
   {
@@ -171,7 +171,7 @@ const articles = [
     "xPostUrl": "https://x.com/C3Heditor/status/2082071568901914884",
     "imageUrl": "https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-07-28_065225.jpg",
     "tags": ["Governor Tim Walz", "Assassination", "Violence", "Minnesota"],
-    "page": 1,
+    "page": 5,
     "batchDate": "2026-07-28"
   },
   {
@@ -180,7 +180,7 @@ const articles = [
     "xPostUrl": "https://x.com/C3Heditor/status/2082067900936917052",
     "imageUrl": "https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-07-28_063759.jpg",
     "tags": ["Stacey Plaskett", "Epstein", "Virgin Islands", "Corruption-Fraud"],
-    "page": 69,
+    "page": 5,
     "batchDate": "2026-07-28"
   },
   {
