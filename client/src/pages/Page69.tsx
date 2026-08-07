@@ -1,11 +1,10 @@
-import ArticleBlock from '../components/ArticleBlock';
 import PageHeader from '../components/PageHeader';
+import ArticleBlock from '../components/ArticleBlock';
 import Pagination from '../components/Pagination';
-export default function Home() {
+export default function Page69() {
   return (
-    <div className="max-w-4xl mx-auto px-4 py-8">
+    <div className="max-w-4xl mx-auto px-4 py-16">
       <PageHeader />
-      <div className="space-y-12">
       <ArticleBlock
         headline="Note to Democrats: His TDS Impeachment Focus Did Not Prevent Michigan's Loyal Democrat Shri Thanedar From Suffering Huge Primary Loss"
         tinyUrl="https://www.theblaze.com/news/maniacal-trump-hater-loses-democratic-primary-bigly"
@@ -146,12 +145,7 @@ export default function Home() {
         imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-08-07_134332.jpg"
         tags={["Kirill Basin", "Hawaii", "Violence", "Left-Wing"]}
       />
-      </div>
-      <Pagination currentPage={1} totalPages={70} />
-      {/* SITE STATS */}
-      <p className="text-sm text-gray-500 mt-2" style={{fontFamily: 'Roboto Slab, serif'}}>
-        Last updated: <strong style={{ color: '#555' }}>2026-08-07</strong> &nbsp;|&nbsp; Total articles: <strong style={{ color: '#555' }}>1400</strong>
-      </p>
+      <Pagination currentPage={69} totalPages={70} />
     </div>
   );
 }

@@ -145,7 +145,7 @@ export default function Page67() {
         imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-07-29_145958.jpg"
         tags={["Sarah Trone Garriott", "Iowa", "Islam-Muslim", "Left-Wing"]}
       />
-      <Pagination currentPage={67} totalPages={68} />
+      <Pagination currentPage={67} totalPages={70} />
     </div>
   );
 }

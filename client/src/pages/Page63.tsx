@@ -146,7 +146,7 @@ export default function Page29() {
         imageSrc="https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/post61_clean_e6725158.jpg"
         tags={["James Talarico", "Christianity", "Culture War", "LGBTQ"]}
       />
-      <Pagination currentPage={63} totalPages={68} />
+      <Pagination currentPage={63} totalPages={70} />
     </div>
   );
 }

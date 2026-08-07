@@ -147,7 +147,7 @@ export default function Home() {
         tags={["Alexandria Ocasio-Cortez", "Taxation"]}
       />
       </div>
-      <Pagination currentPage={26} totalPages={68} />
+      <Pagination currentPage={26} totalPages={70} />
       {/* SITE STATS — auto-updated by gen_pages.py. DO NOT edit manually. */}
       <p className="text-sm text-gray-500 mt-2" style={{fontFamily: 'Roboto Slab, serif'}}>
         Last updated: <strong style={{ color: '#555' }}>May 08, 2026</strong> &nbsp;|&nbsp; Total articles: <strong style={{ color: '#555' }}>820</strong>

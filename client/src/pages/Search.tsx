@@ -12445,6 +12445,366 @@ const articles = [
     "page": 68,
     "batchDate": "2026-08-05"
   },
+  {
+    "headline": "Note to Democrats: His TDS Impeachment Focus Did Not Prevent Michigan's Loyal Democrat Shri Thanedar From Suffering Huge Primary Loss",
+    "tinyUrl": "https://www.theblaze.com/news/maniacal-trump-hater-loses-democratic-primary-bigly",
+    "xPostUrl": "https://x.com/C3Heditor/status/2085818591044137030",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-08-07_150157.jpg",
+    "tags": ["Shri Thanedar", "Michigan", "2026 Elections", "Trump-Derangement"],
+    "page": 69,
+    "batchDate": "2026-08-07"
+  },
+  {
+    "headline": "Get The Lowdown On Wisconsin's Strange Democrat-Communist Gubernatorial Candidate, Francesca Hong",
+    "tinyUrl": "https://rairfoundation.com/wi-dsaer-francesca-hong-has-very-bad-week/",
+    "xPostUrl": "https://x.com/C3Heditor/status/2085817616665391585",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-08-07_150243.jpg",
+    "tags": ["Francesca Hong", "Wisconsin", "Communism-Socialism", "2026 Elections"],
+    "page": 69,
+    "batchDate": "2026-08-07"
+  },
+  {
+    "headline": "You Thought Epstein Was Dead? Epstein Dollars Fund Alaska Democrat Mary Peltola's Senate Campaign",
+    "tinyUrl": "https://townhall.com/news/amy-curtis/2026/08/07/mary-peltola-donations-n2680868",
+    "xPostUrl": "https://x.com/C3Heditor/status/2085816949041152290",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-08-07_145525.jpg",
+    "tags": ["Mary Peltola", "Epstein", "2026 Elections"],
+    "page": 69,
+    "batchDate": "2026-08-07"
+  },
+  {
+    "headline": "Even an Obama Appointed Judge Understands That The NY Democrats' Law Prohibiting Federal Officers From Wearing Masks Was Illegal",
+    "tinyUrl": "https://www.thegatewaypundit.com/2026/08/judge-blocks-new-yorks-law-prohibiting-federal-officers/",
+    "xPostUrl": "https://x.com/C3Heditor/status/2085812692955144572",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-08-07_143833.jpg",
+    "tags": ["Left-Wing", "Judiciary-Judicial"],
+    "page": 69,
+    "batchDate": "2026-08-07"
+  },
+  {
+    "headline": "Democrats Don't Like Our Republic's Governance of Checks & Balances - 50% Want To Replace Office of President & Supreme Court",
+    "tinyUrl": "https://www.newsbusters.org/blogs/cnsnews/craig-bannister/2026/08/05/half-democrat-voters-support-dsas-plan-replace-presidency",
+    "xPostUrl": "https://x.com/C3Heditor/status/2085811989570314478",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-08-07_143552.jpg",
+    "tags": ["Left-Wing", "Communism-Socialism"],
+    "page": 69,
+    "batchDate": "2026-08-07"
+  },
+  {
+    "headline": "Democrat Party Has Become Cornucopia of Jew-Hate In America",
+    "tinyUrl": "https://www.spiked-online.com/2026/08/05/the-democrats-are-a-menace-to-americas-jews/",
+    "xPostUrl": "https://x.com/C3Heditor/status/2085810666405781948",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-08-07_143033.jpg",
+    "tags": ["Left-Wing", "Hate", "Israel"],
+    "page": 69,
+    "batchDate": "2026-08-07"
+  },
+  {
+    "headline": "Prioritizing Muslims For State Jobs Has Become The Self-Loathing Focus of Massachusetts Democrats",
+    "tinyUrl": "https://www.breitbart.com/politics/2026/08/05/massachusetts-democrats-pushing-commission-prioritize-hiring-muslims-state-jobs/",
+    "xPostUrl": "https://x.com/C3Heditor/status/2085810063231344813",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-08-07_142801.jpg",
+    "tags": ["Islam-Muslim", "Left-Wing"],
+    "page": 69,
+    "batchDate": "2026-08-07"
+  },
+  {
+    "headline": "Combining Bigotry & Virtue Signaling: Top U.S. Senate Democrat, Sheldon Whitehouse, Belongs To a Racist Country Club But Attacks DHS Over 'White Supremacy'",
+    "tinyUrl": "https://townhall.com/news/amy-curtis/2026/08/02/sheldon-whitehouse-dhs-used-white-supremacist-materials-n2680512",
+    "xPostUrl": "https://x.com/C3Heditor/status/2085808703941361758",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-08-07_142240.jpg",
+    "tags": ["Sheldon Whitehouse", "Racial Issues", "Hypocrisy", "Virtue-Signaling"],
+    "page": 69,
+    "batchDate": "2026-08-07"
+  },
+  {
+    "headline": "Michigan's Black Communities Are Reminded of Democrat Bigotry As Muslim-Dem Senate Candidate Abdul El-Sayed Exposes His Own Wife As a Bigot",
+    "tinyUrl": "https://twitchy.com/justmindy/2026/07/17/el-sayed-says-his-wife-discriminates-against-black-people-n2430333",
+    "xPostUrl": "https://x.com/C3Heditor/status/2085808053446737951",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-08-07_142007.jpg",
+    "tags": ["Abdul El-Sayed", "Michigan", "Racial Issues"],
+    "page": 69,
+    "batchDate": "2026-08-07"
+  },
+  {
+    "headline": "It's Getting Ugly For The Party as Democrats' The Biggest Donors Have Gone On a $$$ Strike",
+    "tinyUrl": "https://www.wsj.com/politics/elections/democrat-fundraising-midterm-elections-57f3d73c",
+    "xPostUrl": "https://x.com/C3Heditor/status/2085807128774652371",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-08-07_141614.jpg",
+    "tags": ["2026 Elections"],
+    "page": 69,
+    "batchDate": "2026-08-07"
+  },
+  {
+    "headline": "'California Dreamin', Not: State Democrats Are Going Ahead With The 5% Wealth Tax (Starting with Billionaires)",
+    "tinyUrl": "https://www.zerohedge.com/political/they-are-united-california-democrats-move-forward-5-billionaire-tax",
+    "xPostUrl": "https://x.com/C3Heditor/status/2085805459970093060",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-08-07_140945.jpg",
+    "tags": ["California", "Left-Wing", "Taxation"],
+    "page": 69,
+    "batchDate": "2026-08-07"
+  },
+  {
+    "headline": "Democrats Are Addicted To Taxing More & More: 2028 White House Hopeful, Pete Buttigieg, Fantasizes About Finding Newer Ways to Tax People",
+    "tinyUrl": "https://www.thegatewaypundit.com/2026/08/watch-pete-buttigieg-fantasize-about-finding-newer-ways/",
+    "xPostUrl": "https://x.com/C3Heditor/status/2085804841222201393",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-08-07_140715.jpg",
+    "tags": ["Pete Buttigieg", "Left-Wing", "Taxation"],
+    "page": 69,
+    "batchDate": "2026-08-07"
+  },
+  {
+    "headline": "Extreme TDS Democrat, Senator Tim Kaine, Mourns The Loss of Narco-Terrorists From Trump's Actions Against Cartel Drug Boats",
+    "tinyUrl": "https://redstate.com/terichristoph/2026/08/03/democrat-senator-mourns-murder-victims-of-trumps-narcoterrorist-strikes-n2205131",
+    "xPostUrl": "https://x.com/C3Heditor/status/2085804182590644497",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-08-07_140433.jpg",
+    "tags": ["Tim Kaine", "Terrorism", "Trump-Derangement"],
+    "page": 69,
+    "batchDate": "2026-08-07"
+  },
+  {
+    "headline": "Major Democrat Strategist James Carville Being Blunt: If Marxist Hasan Piker Becomes 'Force' in Democrat Party 'I'm Out of Here'",
+    "tinyUrl": "https://www.breitbart.com/politics/2026/08/03/watch-james-carville-if-marxist-hasan-piker-becomes-force-in-democrat-party-im-out-of-here/",
+    "xPostUrl": "https://x.com/C3Heditor/status/2085803440723153305",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-08-07_140139.jpg",
+    "tags": ["James Carville", "Communism-Socialism", "Hasan Piker"],
+    "page": 69,
+    "batchDate": "2026-08-07"
+  },
+  {
+    "headline": "Democrat-Marxists Abduhl El-Sayed & Francesca Hong Refuse To Denounce Their Muslim Supporter Hasan Piker Who Stated 'America Deserved 9/11'",
+    "tinyUrl": "https://twitchy.com/grateful-calvin/2026/08/06/hasan-piker-tries-to-backpedal-on-his-america-deserved-911-stance-and-twitter-aint-havin-it-n2431006",
+    "xPostUrl": "https://x.com/C3Heditor/status/2085802885133008926",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-08-07_135941.jpg",
+    "tags": ["Abdul El-Sayed", "Francesca Hong", "Islam-Muslim", "Hasan Piker"],
+    "page": 69,
+    "batchDate": "2026-08-07"
+  },
+  {
+    "headline": "Democrat Gubernatorial Hopeful David Jolly Wants To 'Apologize' to the World for 'Culture Wars' Because Florida Halted Transgender Children Mutilation",
+    "tinyUrl": "https://www.breitbart.com/politics/2026/08/03/fl-governors-race-democrat-candidate-david-jolly-wants-to-apologize-to-the-world-for-culture-wars/",
+    "xPostUrl": "https://x.com/C3Heditor/status/2085802107421040806",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-08-07_135617.jpg",
+    "tags": ["David Jolly", "Florida", "LGBTQ"],
+    "page": 69,
+    "batchDate": "2026-08-07"
+  },
+  {
+    "headline": "Crime Rises Under NYC Democrat Muslim-Marxist Mayor Zohran Mamdani With Half Committed Against Jews",
+    "tinyUrl": "https://www.thegatewaypundit.com/2026/08/nypd-reports-hate-crimes-rise-under-mamdani-more/",
+    "xPostUrl": "https://x.com/C3Heditor/status/2085801449359810806",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-08-07_135358.jpg",
+    "tags": ["Zohran Mamdani", "NYC", "Crime", "Communism-Socialism"],
+    "page": 69,
+    "batchDate": "2026-08-07"
+  },
+  {
+    "headline": "Texas Democrat-Socialist, James Talarico, Thinks The Bible Tells Our Government To Expand Unaffordable Obamacare To All",
+    "tinyUrl": "https://redstate.com/ben-smith/2026/08/05/james-talarico-uses-the-bible-to-sell-an-obamacare-expansion-n2205202",
+    "xPostUrl": "https://x.com/C3Heditor/status/2085800685501637029",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-08-07_135039.jpg",
+    "tags": ["James Talarico", "Texas", "Healthcare Policy", "Communism-Socialism"],
+    "page": 69,
+    "batchDate": "2026-08-07"
+  },
+  {
+    "headline": "Democrats' Hate & Violence Is A Feature, Not A Bug: Per Wisconsin Governor Candidate, \"I'd say it's about time we '86' Trump\"",
+    "tinyUrl": "https://nalert.blogspot.com/2026/08/wisconsin-democrat-francesca-hong-id.html",
+    "xPostUrl": "https://x.com/C3Heditor/status/2085799821814686050",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-08-07_134453.jpg",
+    "tags": ["Francesca Hong", "Wisconsin", "Left-Wing", "Violence"],
+    "page": 69,
+    "batchDate": "2026-08-07"
+  },
+  {
+    "headline": "FAFO Karma Is Fist Delivered To Violent Democrat Candidate, Kirill Basin, On Hawaii Beach",
+    "tinyUrl": "https://modernity.news/2026/08/04/watch-soy-boy-democrat-fcks-around-and-finds-out/",
+    "xPostUrl": "https://x.com/C3Heditor/status/2085798457109811515",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-08-07_134332.jpg",
+    "tags": ["Kirill Basin", "Hawaii", "Violence", "Left-Wing"],
+    "page": 69,
+    "batchDate": "2026-08-07"
+  },
+  {
+    "headline": "\"They're Anti-American!\": Leading House Democrat Pulls No Punches Regarding Surging Influence of Communist-Marxist Members",
+    "tinyUrl": "https://slaynews.com/top-house-democrat-blasts-partys-surging-socialist-wing-anti-american/",
+    "xPostUrl": "https://x.com/C3Heditor/status/2085489437849346204",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-08-06_171353.jpg",
+    "tags": ["Communism-Socialism", "Left-Wing"],
+    "page": 70,
+    "batchDate": "2026-08-07"
+  },
+  {
+    "headline": "Democrat Wannabe U.S. President, Pete Buttigieg, Panders To Party Radicals By Claiming He Wants Electoral College Abolished & SCOTUS Packed",
+    "tinyUrl": "https://www.thegatewaypundit.com/2026/08/pete-buttigieg-wants-abolish-electoral-college-pack-scotus/",
+    "xPostUrl": "https://x.com/C3Heditor/status/2085488924189770024",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-08-06_171155.jpg",
+    "tags": ["Pete Buttigieg", "Left-Wing", "Court Packing", "Electoral College"],
+    "page": 70,
+    "batchDate": "2026-08-07"
+  },
+  {
+    "headline": "North Carolina Former Governor Roy Cooper Duped By Vietnamese As State's $1.2 Billion EV 'Green' Investment Flushed Down Proverbial Toilet",
+    "tinyUrl": "https://www.breitbart.com/politics/2026/08/03/democrat-roy-cooper-billion-dollar-electric-vehicle-deal-crumbles/",
+    "xPostUrl": "https://x.com/C3Heditor/status/2085488382197555244",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-08-06_170943.jpg",
+    "tags": ["Roy Cooper", "Incompetence"],
+    "page": 70,
+    "batchDate": "2026-08-07"
+  },
+  {
+    "headline": "Democrats' Gobsmacking Vote Against Health Care Price Transparency For Patients",
+    "tinyUrl": "https://www.dailysignal.com/2026/08/03/dems-healthcare-price-transparency/",
+    "xPostUrl": "https://x.com/C3Heditor/status/2085487132101992611",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-08-06_170347.jpg",
+    "tags": ["Healthcare Policy", "Left-Wing"],
+    "page": 70,
+    "batchDate": "2026-08-07"
+  },
+  {
+    "headline": "Wisconsin's Gubernatorial Democrat Candidate Francesca Hong Admits She Doesn't Like 'Old White People'",
+    "tinyUrl": "https://www.breitbart.com/politics/2026/08/03/wisconsin-francesca-hong-left-restaurant-too-many-old-white-people/",
+    "xPostUrl": "https://x.com/C3Heditor/status/2085485174595125741",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-08-06_165715.jpg",
+    "tags": ["Francesca Hong", "Wisconsin", "Racial Issues"],
+    "page": 70,
+    "batchDate": "2026-08-07"
+  },
+  {
+    "headline": "Eliminating Prisons Is a Party Goal As Texas U.S. Senate Candidate, Democrat-Socialist James Talarico, Confirms In Speech",
+    "tinyUrl": "https://nalert.blogspot.com/2026/07/james-talarico-wants-to-get-rid-of.html",
+    "xPostUrl": "https://x.com/C3Heditor/status/2085484412574056607",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-08-06_165204.jpg",
+    "tags": ["James Talarico", "Texas", "Communism-Socialism"],
+    "page": 70,
+    "batchDate": "2026-08-07"
+  },
+  {
+    "headline": "Why Democrats Love Mail-In Voting: Examination Discovers 26,000 Absentee Ballots Unlawfully Counted In Detroit's 2020 Election",
+    "tinyUrl": "https://www.thegatewaypundit.com/2026/07/we-finally-have-evidence-after-examining-155000-absentee/",
+    "xPostUrl": "https://x.com/C3Heditor/status/2085483261581561973",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-08-06_164931.jpg",
+    "tags": ["Election Fraud", "Michigan"],
+    "page": 70,
+    "batchDate": "2026-08-07"
+  },
+  {
+    "headline": "Election Non-Integrity Is Objective As California Democrats Attempt To Sabotage Voter ID Initiative",
+    "tinyUrl": "https://www.zerohedge.com/political/california-democrats-attempt-sabotage-voter-id-initiative",
+    "xPostUrl": "https://x.com/C3Heditor/status/2085482745262743641",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-08-06_164720.jpg",
+    "tags": ["California", "Election Fraud", "Left-Wing"],
+    "page": 70,
+    "batchDate": "2026-08-07"
+  },
+  {
+    "headline": "Democrat-Socialists Actually Believe America & Its Leaders Are More Evil Than China's Mass Murdering Mao Zedong Who Killed At Least 30 Million",
+    "tinyUrl": "https://www.dailysignal.com/2026/07/22/democratic-socialists-america-worse/",
+    "xPostUrl": "https://x.com/C3Heditor/status/2085482159716860079",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-08-06_164504.jpg",
+    "tags": ["China", "Communism-Socialism"],
+    "page": 70,
+    "batchDate": "2026-08-07"
+  },
+  {
+    "headline": "Lying Is A Feature, Not A Bug For Democrats: Pennsylvania U.S. House Hopeful, Paige Cognetti, Promised No Corporate Contributions But Her Campaign Includes Money From Boeing, JPMorgan Chase, & UnitedHealthcare",
+    "tinyUrl": "https://www.dailysignal.com/2026/08/04/candidate-allegedly-laundered-corporate-money/",
+    "xPostUrl": "https://x.com/C3Heditor/status/2085481605435425073",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-08-06_164259.jpg",
+    "tags": ["Paige Cognetti", "Pennsylvania", "2026 Elections", "Lies"],
+    "page": 70,
+    "batchDate": "2026-08-07"
+  },
+  {
+    "headline": "WORST ... DAD ... EVER! Pandering Democrat Seth Moulton Throws His Daughters Under the Bus to Bow To The Transgender Mob",
+    "tinyUrl": "https://twitchy.com/grateful-calvin/2026/08/04/seth-moulton-throws-his-daughters-under-the-bus-to-bow-to-the-trans-mob-n2430915",
+    "xPostUrl": "https://x.com/C3Heditor/status/2085480754222358876",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-08-06_163941.jpg",
+    "tags": ["Seth Moulton", "LGBTQ", "Culture War"],
+    "page": 70,
+    "batchDate": "2026-08-07"
+  },
+  {
+    "headline": "WNBA's Seattle Democrat-Liberal Team Co-Owner Suspended For Hate-Cursing Teen Girl Fans of Star Player Sophie Cunningham",
+    "tinyUrl": "https://www.theblaze.com/news/wnba-keaton-fined-suspended-cunningham",
+    "xPostUrl": "https://x.com/C3Heditor/status/2085479828841513396",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-08-06_163553.jpg",
+    "tags": ["Sophie Cunningham", "Culture War"],
+    "page": 70,
+    "batchDate": "2026-08-07"
+  },
+  {
+    "headline": "Michigan Democrat-Communist Senate Candidate, Abdul El-Sayed, Wants Driver's Licenses Issued To Illegal Aliens",
+    "tinyUrl": "https://www.theblaze.com/news/el-sayed-drivers-licenses-illegals",
+    "xPostUrl": "https://x.com/C3Heditor/status/2085479409197224321",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-08-06_163405.jpg",
+    "tags": ["Abdul El-Sayed", "Michigan", "Immigration", "Communism-Socialism"],
+    "page": 70,
+    "batchDate": "2026-08-07"
+  },
+  {
+    "headline": "Democrat Ohio Candidate For U.S. Senate, Sherrod Brown, Has Long History of Pushing Policies Supporting The Open Border Illegal Alien Invasion",
+    "tinyUrl": "https://townhall.com/news/mattvespa/2026/07/30/the-new-ad-torches-sherrod-browns-addiction-to-open-border-mayhem-n2680377",
+    "xPostUrl": "https://x.com/C3Heditor/status/2085478968879194388",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-08-06_163229.jpg",
+    "tags": ["Sherrod Brown", "Ohio", "Immigration", "Left-Wing"],
+    "page": 70,
+    "batchDate": "2026-08-07"
+  },
+  {
+    "headline": "Issuing False Illegal Alien Asylum Claims Is a Felony Crime Even In Democrat New York As Immigration Lawyer Hit With Massive Fine",
+    "tinyUrl": "https://redstate.com/wardclark/2026/07/30/new-ny-immigration-lawyer-hit-with-470k-fine-for-fake-asylum-claims-n2204970",
+    "xPostUrl": "https://x.com/C3Heditor/status/2085478467345252430",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-08-06_163024.jpg",
+    "tags": ["Immigration", "Crime", "Corruption-Fraud"],
+    "page": 70,
+    "batchDate": "2026-08-07"
+  },
+  {
+    "headline": "Padding The Family Fortune: Nebraska Senate Hopeful, Dan Osborn, With Deep Ties To Democrats Pays His Family Members Over $350K From Campaign",
+    "tinyUrl": "https://nypost.com/2026/02/19/us-news/senate-hopeful-with-deep-dem-ties-has-paid-family-over-350k-from-his-campaign-coffers/",
+    "xPostUrl": "https://x.com/C3Heditor/status/2085477645035139273",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-08-06_162822.jpg",
+    "tags": ["Dan Osborn", "Nebraska", "Corruption-Fraud", "2026 Elections"],
+    "page": 70,
+    "batchDate": "2026-08-07"
+  },
+  {
+    "headline": "Democrat-Wokeism Is Alive & Well As Lefties Have Absolute Meltdown Over Plan to Nuke 'DEI Bike Lanes'",
+    "tinyUrl": "https://redstate.com/terichristoph/2026/07/30/the-left-is-melting-down-over-dei-bike-lanes-and-its-pretty-hilarious-n2204974",
+    "xPostUrl": "https://x.com/C3Heditor/status/2085476983501107466",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-08-06_162455.jpg",
+    "tags": ["Left-Wing", "Culture War"],
+    "page": 70,
+    "batchDate": "2026-08-07"
+  },
+  {
+    "headline": "Mass Self-Immolation Is Being Witnessed As NBC Nightly News Proves Democrat-Socialism's Unpopularity Among Voters",
+    "tinyUrl": "https://www.newsbusters.org/blogs/nb/jorge-bonilla/2026/08/05/what-nbc-nightly-news-shows-socialisms-unpopularity-among-voters",
+    "xPostUrl": "https://x.com/C3Heditor/status/2085476536975552653",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-08-06_162247.jpg",
+    "tags": ["Media", "Communism-Socialism"],
+    "page": 70,
+    "batchDate": "2026-08-07"
+  },
+  {
+    "headline": "Bill Maher Show Audience Gasps As He Quotes Democrat Politicians Now Openly Embracing Communism",
+    "tinyUrl": "https://modernity.news/2026/08/01/bill-mahers-audience-gasps-as-he-quotes-democrats-openly-embracing-communism/",
+    "xPostUrl": "https://x.com/C3Heditor/status/2085476073894994345",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-08-06_162054.jpg",
+    "tags": ["Bill Maher", "Communism-Socialism", "Polling"],
+    "page": 70,
+    "batchDate": "2026-08-07"
+  },
+  {
+    "headline": "Pollsters Again Prove Their Incompetence As They Claimed Muslim-Marxist Abdul El-Sayed Would Crush Democrat Haley Stevens In Michigan Primary",
+    "tinyUrl": "https://dailycaller.com/2026/08/05/p",
+    "xPostUrl": "https://x.com/C3Heditor/status/2085475412189090273",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-08-06_161842.jpg",
+    "tags": ["Abdul El-Sayed", "Haley Stevens", "Michigan", "Polling"],
+    "page": 70,
+    "batchDate": "2026-08-07"
+  },
 ];
 
 const fuseOptions = {

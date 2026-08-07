@@ -148,7 +148,7 @@ export default function Home() {
         tags={["DOJ", "Christianity"]}
       />
       </div>
-      <Pagination currentPage={29} totalPages={68} />
+      <Pagination currentPage={29} totalPages={70} />
       {/* SITE STATS — auto-updated by gen_pages.py. DO NOT edit manually. */}
       <p className="text-sm text-gray-500 mt-2" style={{fontFamily: 'Roboto Slab, serif'}}>
         Last updated: <strong style={{ color: '#555' }}>May 02, 2026</strong> &nbsp;|&nbsp; Total articles: <strong style={{ color: '#555' }}>760</strong>

@@ -147,7 +147,7 @@ export default function Page2() {
         tags={["Ilhan Omar", "CBP-DHS-ICE", "National Security"]}
       />
       </div>
-      <Pagination currentPage={4} totalPages={68} />
+      <Pagination currentPage={4} totalPages={70} />
       {/* SITE STATS — auto-updated by batch_process.py. DO NOT edit manually. */}
       <p className="text-sm text-gray-500 mt-2" style={{fontFamily: 'Roboto Slab, serif'}}>
         Last updated: <strong style={{ color: '#555' }}>July 22, 2026</strong> &nbsp;|&nbsp; Total articles: <strong style={{ color: '#555' }}>1260</strong>

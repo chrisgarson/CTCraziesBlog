@@ -147,7 +147,7 @@ export default function Page2() {
         tags={["California", "Corruption-Fraud", "U.S. Congress", "Politics"]}
       />
       </div>
-      <Pagination currentPage={18} totalPages={68} />
+      <Pagination currentPage={18} totalPages={70} />
     </div>
   );
 }

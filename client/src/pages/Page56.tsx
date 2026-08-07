@@ -146,7 +146,7 @@ export default function Page22() {
         imageSrc="https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/post201_clean_5aa0f3e9.jpg"
         tags={["Corruption-Fraud", "Immigration", "Corruption-Fraud"]}
       />
-      <Pagination currentPage={56} totalPages={68} />
+      <Pagination currentPage={56} totalPages={70} />
     </div>
   );
 }
