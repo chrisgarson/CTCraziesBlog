@@ -147,7 +147,7 @@ export default function Home() {
         tags={["Violent Crime", "Criminal Justice", "Left-Wing"]}
       />
       </div>
-      <Pagination currentPage={22} totalPages={68} />
+      <Pagination currentPage={22} totalPages={70} />
     </div>
   );
 }

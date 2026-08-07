@@ -146,7 +146,7 @@ export default function Page9() {
         imageSrc="https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/2026-04-02_163556_ae1f39f2.jpg"
         tags={["Violent Crime", "Immigration", "California"]}
       />
-      <Pagination currentPage={43} totalPages={68} />
+      <Pagination currentPage={43} totalPages={70} />
     </div>
   );
 }

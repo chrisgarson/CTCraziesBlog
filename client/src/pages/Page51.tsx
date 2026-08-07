@@ -146,7 +146,7 @@ export default function Page17() {
         imageSrc="https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/2026-03-24_164338_0efb57c9.jpg"
         tags={["Mark Kelly", "Iran", "Media Bias"]}
       />
-      <Pagination currentPage={51} totalPages={68} />
+      <Pagination currentPage={51} totalPages={70} />
     </div>
   );
 }

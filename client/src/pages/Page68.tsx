@@ -145,7 +145,7 @@ export default function Page68() {
         imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-08-04_142340.jpg"
         tags={["Xavier Becerra", "California", "Immigration"]}
       />
-      <Pagination currentPage={68} totalPages={68} />
+      <Pagination currentPage={68} totalPages={70} />
     </div>
   );
 }

@@ -146,7 +146,7 @@ export default function Page20() {
         imageSrc="https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/post241_clean_b86ea5cb.jpg"
         tags={["Immigration", "Corruption-Fraud", "Election Fraud"]}
       />
-      <Pagination currentPage={54} totalPages={68} />
+      <Pagination currentPage={54} totalPages={70} />
     </div>
   );
 }

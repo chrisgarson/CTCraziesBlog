@@ -146,7 +146,7 @@ export default function Page10() {
         imageSrc="https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/2026-03-31_143035_9b179bf1.jpg"
         tags={["Sheila Cherfilus-McCormick", "U.S. Congress", "2026 Elections", "Corruption-Fraud"]}
       />
-      <Pagination currentPage={44} totalPages={68} />
+      <Pagination currentPage={44} totalPages={70} />
     </div>
   );
 }

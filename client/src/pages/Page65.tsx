@@ -146,7 +146,7 @@ export default function Page31() {
         imageSrc="https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/post21_clean_632bdf7d.jpg"
         tags={["Ilhan Omar", "Corruption-Fraud", "California"]}
       />
-      <Pagination currentPage={65} totalPages={68} />
+      <Pagination currentPage={65} totalPages={70} />
     </div>
   );
 }
