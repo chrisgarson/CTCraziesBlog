@@ -1,157 +1,152 @@
-import ArticleBlock from '../components/ArticleBlock';
 import PageHeader from '../components/PageHeader';
+import ArticleBlock from '../components/ArticleBlock';
 import Pagination from '../components/Pagination';
-export default function Home() {
+
+export default function Page16() {
   return (
-    <div className="max-w-4xl mx-auto px-4 py-8">
+    <div className="max-w-4xl mx-auto px-4 py-16">
       <PageHeader />
-      <div className="space-y-12">
       <ArticleBlock
-        headline="Inside the Democrat Big Tent: Nazi Tattoos, Fake Doctors, And Now an Al-Qaida Linked Ally"
-        tinyUrl="https://tinyurl.com/mr2ddr8x"
-        xPostUrl="https://x.com/C3Heditor/status/2060090787921121306"
-        imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-05-28_150726_51b8b897.jpg"
-        tags={["Terrorism", "Maine", "2026 Elections"]}
+        headline="NYC Democrat Mayor Mamdani Pushes to Slash Estate Tax Exemption From $7M to $750K in Major Tax Hike"
+        tinyUrl="https://tinyurl.com/y4rbrsca"
+        xPostUrl="https://x.com/C3Heditor/status/2036921171321532503"
+        imageSrc="https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/2026-03-25_164140_c522a729.jpg"
+        tags={["Zohran Mamdani", "New York", "Taxation"]}
       />
       <ArticleBlock
-        headline="California Democrats Fight to Shield Immigrant Truckers From English Proficiency Test Required for Commercial Drivers"
-        tinyUrl="https://tinyurl.com/yuu7jejx"
-        xPostUrl="https://x.com/C3Heditor/status/2060089932203344336"
-        imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-05-28_150526_7aba8861.jpg"
-        tags={["California", "Immigration", "Culture War"]}
+        headline="Democrats During Biden&#39;s Term Released At Least 729 Illegal Iranians Into The U.S.— how many are terrorists?"
+        tinyUrl="https://tinyurl.com/mstuyzsn"
+        xPostUrl="https://x.com/C3Heditor/status/2036920314240684119"
+        imageSrc="https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/2026-03-25_163740_620754c5.jpg"
+        tags={["Biden Administration", "Immigration", "CBP-DHS-ICE"]}
       />
       <ArticleBlock
-        headline="Federal Guilty Plea Now Confirms Los Angeles Voter Fraud That the Democrats Have Long Claimed Never Happens"
-        tinyUrl="https://tinyurl.com/32au6ex2"
-        xPostUrl="https://x.com/C3Heditor/status/2060088946700075128"
-        imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-05-28_150318_5416a9c2.jpg"
-        tags={["Election Fraud", "Criminal Justice", "California"]}
+        headline="Two Illegals Who Entered on Democraty Biden&#39;s Open Invite Arrested After a Florida Machete Attack"
+        tinyUrl="https://tinyurl.com/ym434vvu"
+        xPostUrl="https://x.com/C3Heditor/status/2036916320302780513"
+        imageSrc="https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/2026-03-25_162721_cff7b58a.jpg"
+        tags={["Immigration", "Florida", "Law Enforcement"]}
       />
       <ArticleBlock
-        headline="Double Ballot Fraud Exposed by California Lawmaker as Democrat Gov. Newsom Scrambles to Secure an Insecure Election Process"
-        tinyUrl="https://tinyurl.com/3fr5c39r"
-        xPostUrl="https://x.com/C3Heditor/status/2060088076827492617"
-        imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-05-28_150102_c965ea38.jpg"
-        tags={["California", "Election Fraud"]}
+        headline="Equity Hypocrisy: Obama&#39;s Chicago Center Recruits 100 Unpaid Volunteers While His Democrat Crony Collects a $740K Salary"
+        tinyUrl="https://tinyurl.com/9fxwfcau"
+        xPostUrl="https://x.com/C3Heditor/status/2036915142928027969"
+        imageSrc="https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/2026-03-25_161710_797cae1d.jpg"
+        tags={["Obama Presidential Center", "Valerie Jarrett"]}
       />
       <ArticleBlock
-        headline="Election Top-2 Primary Rules That Crushed Republicans Are Now Suddenly &#39;Unfair&#39; When Democrats Face Them In California"
-        tinyUrl="https://tinyurl.com/2t67erep"
-        xPostUrl="https://x.com/C3Heditor/status/2060087141688082621"
-        imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-05-28_145309_308a8de1.jpg"
-        tags={["California", "Election Fraud", "2024 Election"]}
+        headline="Democrat Economic Stupidity Beyond Comprehension: Governor Told Wealthy To Leave and Now Begs For Their Return"
+        tinyUrl="https://tinyurl.com/mupttvnc"
+        xPostUrl="https://x.com/C3Heditor/status/2036887009046737405"
+        imageSrc="https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/2026-03-25_142528_b79a9ea9.jpg"
+        tags={["Kathy Hochul", "New York", "Taxation", "Florida"]}
       />
       <ArticleBlock
-        headline="Wildly False Claim by Texas U.S. Senate Candidate James Talarico: Climate Change Is Killing Thousands of Texans &amp; Americans"
-        tinyUrl="https://tinyurl.com/2fs45p28"
-        xPostUrl="https://x.com/C3Heditor/status/2060086290753228889"
-        imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-05-28_144826_53c57631.jpg"
-        tags={["Texas", "Climate Change", "2026 Elections"]}
+        headline="Fear and Misery Are the Only Things the Democrat Party Has Left to Offer American Voters"
+        tinyUrl="https://tinyurl.com/yxkf77tw"
+        xPostUrl="https://x.com/C3Heditor/status/2036885768069697551"
+        imageSrc="https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/2026-03-25_142213_08962deb.jpg"
+        tags={["Homeland Security", "CBP-DHS-ICE"]}
       />
       <ArticleBlock
-        headline="Oregon&#39;s Woke Democrat Economics: Rock-Bottom Sale of Portland&#39;s Flagship Office Tower Shows a City In The Tank"
-        tinyUrl="https://tinyurl.com/9tzpmm36"
-        xPostUrl="https://x.com/C3Heditor/status/2060085355613864013"
-        imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-05-28_144617_49132db4.jpg"
-        tags={["Oregon", "Left-Wing", "Culture War", "Government"]}
+        headline="Nazi-Tattooed Democrat U.S. Senate Hopeful Done Apologizing About Anti-Semitism & Blacks &quot;don't tip&quot; Remarks"
+        tinyUrl="https://tinyurl.com/yeu9exjr"
+        xPostUrl="https://x.com/C3Heditor/status/2036884964336095614"
+        imageSrc="https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/2026-03-25_141741_a4cca37e.jpg"
+        tags={["Graham Platner", "Maine", "Israel"]}
       />
       <ArticleBlock
-        headline="Murder Charges Now Likely for Registered Democrat Who Viciously Beat Elder Owner of Famous &#39;Trump House&#39; in Escondido, California"
-        tinyUrl="https://tinyurl.com/mr3phrwb"
-        xPostUrl="https://x.com/C3Heditor/status/2060084420474499137"
-        imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-05-28_144156_b637c30a.jpg"
-        tags={["Violent Crime", "California", "Criminal Justice"]}
+        headline="Rapist Who Got His Stepdaughter Pregnant Could Walk Free Under Democrat Gov. Newsom&#39;s New Law"
+        tinyUrl="https://tinyurl.com/zmfmx6zr"
+        xPostUrl="https://x.com/C3Heditor/status/2036879876037189632"
+        imageSrc="https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/2026-03-25_135751_561db0ee.jpg"
+        tags={["Gavin Newsom", "Violent Crime"]}
       />
       <ArticleBlock
-        headline="Connecticut Democrats Push A Homeschool Crackdown That Attacks School Choice &amp; Parental Rights"
-        tinyUrl="https://tinyurl.com/2zy269f4"
-        xPostUrl="https://x.com/C3Heditor/status/2060083485335134261"
-        imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-05-28_143925_b13fee5c.jpg"
-        tags={["Connecticut", "Education Policy", "Culture War"]}
+        headline="U.S. House Drops a Report Documenting How Democrat-Run American Colleges Have Become Antisemitic Hotbeds"
+        tinyUrl="https://tinyurl.com/4sw54t4m"
+        xPostUrl="https://x.com/C3Heditor/status/2036878957501440335"
+        imageSrc="https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/2026-03-25_135322_88d85182.jpg"
+        tags={["Censorship", "Education Policy", "Israel"]}
       />
       <ArticleBlock
-        headline="Democrat Rep. Ro Khanna Wants To Pack SCOTUS With Four More Justices Just Like Progressive-Left Ketanji Brown"
-        tinyUrl="https://tinyurl.com/c54d7f42"
-        xPostUrl="https://x.com/C3Heditor/status/2060082550195769385"
-        imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-05-28_142928_51e1efe5.jpg"
-        tags={["Judiciary-Judicial", "Left-Wing", "Corruption-Fraud"]}
+        headline="Democrat Partisan-Judge Frees a 4-Time-Deported MS-13 Gang Member With a Documented Rape History"
+        tinyUrl="https://tinyurl.com/vzmurw8c"
+        xPostUrl="https://x.com/C3Heditor/status/2036877354601992250"
+        imageSrc="https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/2026-03-25_134657_7ed73425.jpg"
+        tags={["Violent Crime", "CBP-DHS-ICE", "Judiciary-Judicial"]}
       />
       <ArticleBlock
-        headline="Colorado Ranching Area&#39;s 8th Congressional District&#39;s Democrat Candidate Is a Vegan With Deep Anti-Meat Convictions"
-        tinyUrl="https://tinyurl.com/ytef72zt"
-        xPostUrl="https://x.com/C3Heditor/status/2060080027195015420"
-        imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-05-28_142609_aaf49e69.jpg"
-        tags={["Colorado", "Climate Change", "Left-Wing"]}
+        headline="Stuck-On-Stupid: Democrat AZ Governor Works to Undermine a Conservative &amp; Successful, PETA-Pleasing Conservation Win"
+        tinyUrl="https://tinyurl.com/yu9u45cn"
+        xPostUrl="https://x.com/C3Heditor/status/2036846215875137991"
+        imageSrc="https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/2026-03-25_114322_1a8f166a.jpg"
+        tags={["Arizona", "Politics"]}
       />
       <ArticleBlock
-        headline="Democrat Election Denial Continues: Insists Trump Lost 2024 Swing States Due To Elon&#39;s Malware"
-        tinyUrl="https://tinyurl.com/s92zsex6"
-        xPostUrl="https://x.com/C3Heditor/status/2060079347017347401"
-        imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-05-28_142223_67790c17.jpg"
-        tags={["2024 Election", "Election Fraud", "Left-Wing"]}
+        headline="Minnesota Democrats Pass Harsh Gun Laws After Silencing the State&#39;s Largest Gun Rights Group"
+        tinyUrl="https://tinyurl.com/4w34nv94"
+        xPostUrl="https://x.com/C3Heditor/status/2036844792278061400"
+        imageSrc="https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/2026-03-25_113736_320c4523.jpg"
+        tags={["Gun Control", "Culture War", "Minnesota"]}
       />
       <ArticleBlock
-        headline="Mounting Scandals Prompt Democrats to Abandon Maine Senate Hopeful, Nazi-Associated Graham Platner"
-        tinyUrl="https://tinyurl.com/yc5hypmm"
-        xPostUrl="https://x.com/C3Heditor/status/2060078360072450105"
-        imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-05-28_141928_4a320661.jpg"
-        tags={["Maine", "2026 Elections", "Corruption-Fraud"]}
+        headline="Result of Democrats&#39; Immigration Policies: Texas Bar Shooter&#39;s Home Harbored a Full Iran Shrine With Regime Flags &amp; Leader Photos"
+        tinyUrl="https://tinyurl.com/628es7cn"
+        xPostUrl="https://x.com/C3Heditor/status/2036842656542712313"
+        imageSrc="https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/2026-03-25_112944_03980320.jpg"
+        tags={["Violent Crime", "Iran", "Immigration", "Terrorism"]}
       />
       <ArticleBlock
-        headline="House Probe Reveals Leftist Law Firm Defending China-Based Singham Network of Democrat Protestors Has Deep Marxist Ties"
-        tinyUrl="https://tinyurl.com/5yyekudd"
-        xPostUrl="https://x.com/C3Heditor/status/2060076497767927959"
-        imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-05-28_141450_7398b328.jpg"
-        tags={["Left-Wing", "China Policy", "Corruption-Fraud"]}
+        headline="Hidden Camera Footage Blows the Lid Off a Deliberate California Democrat Election Fraud Operation"
+        tinyUrl="https://tinyurl.com/4d2xx5tu"
+        xPostUrl="https://x.com/C3Heditor/status/2036841871352254522"
+        imageSrc="https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/2026-03-25_112602_7f9d616b.jpg"
+        tags={["Election Fraud", "California"]}
       />
       <ArticleBlock
-        headline="A Closer Look Back at the Long &amp; Damning Record of Democrats&#39; Blatant Lies"
-        tinyUrl="https://tinyurl.com/2s445ye5"
-        xPostUrl="https://x.com/C3Heditor/status/2060075165992484905"
-        imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-05-28_140704_38a8c6b9.jpg"
-        tags={["Left-Wing", "Corruption-Fraud", "Racial Issues"]}
+        headline="Democrat Senate Hopeful Peddled Left-Wing Politics on Sixth Graders While a School Teacher"
+        tinyUrl="https://tinyurl.com/8xa59be2"
+        xPostUrl="https://x.com/C3Heditor/status/2036840957161718199"
+        imageSrc="https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/2026-03-25_112337_310e1af2.jpg"
+        tags={["James Talarico", "Texas", "Education Policy", "Culture War"]}
       />
       <ArticleBlock
-        headline="Gov. Hochul &amp; State Democrats Hand NYC Taxpayers a Large $151M Bill by Rolling Back Public-Sector Pension Reforms"
-        tinyUrl="https://tinyurl.com/5ft7v7uy"
-        xPostUrl="https://x.com/C3Heditor/status/2060074244747202795"
-        imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-05-28_140320_a319b0dd.jpg"
-        tags={["New York", "Government"]}
+        headline="VA Democrat Concedes His Party&#39;s Election Rigging Plan for Virginians Is Wrong — Yet Backs It"
+        tinyUrl="https://tinyurl.com/yfbjh7fh"
+        xPostUrl="https://x.com/C3Heditor/status/2036839826041782517"
+        imageSrc="https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/2026-03-25_111821_d1a12857.jpg"
+        tags={["Virginia", "Election Fraud", "Politics"]}
       />
       <ArticleBlock
-        headline="Xavier Becerra, Democrat Candidate for California Governor, Pushes Free Healthcare for Illegal Aliens While Boasting About Jobs They Take"
-        tinyUrl="https://tinyurl.com/4efw2wj9"
-        xPostUrl="https://x.com/C3Heditor/status/2060073406419144734"
-        imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-05-28_135944_dca1db4a.jpg"
-        tags={["California", "Immigration", "Healthcare Policy"]}
+        headline="Even In Democrat One-Party California Children Have Free Speech Rights To Say &#39;All Lives Matter&#39;"
+        tinyUrl="https://tinyurl.com/4uxw4tsm"
+        xPostUrl="https://x.com/C3Heditor/status/2036838338858999992"
+        imageSrc="https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/2026-03-25_111208_ccccfd14.jpg"
+        tags={["California", "Censorship", "Culture War"]}
       />
       <ArticleBlock
-        headline="AOC&#39;s Choice of Democrat Candidate Worked With Al-Qaeda &amp; Defended World Trade Center Blind Sheikh Bomber"
-        tinyUrl="https://tinyurl.com/bdz5yrwe"
-        xPostUrl="https://x.com/C3Heditor/status/2060072480157388930"
-        imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-05-28_135600_8fbcd6f3.jpg"
-        tags={["Terrorism", "Corruption-Fraud", "Foreign Policy"]}
+        headline="Americans Favor an Age Cap for Lawmakers as Democrats Quietly Seethe Over Maxine Waters Running at 87"
+        tinyUrl="https://tinyurl.com/y7at77mn"
+        xPostUrl="https://x.com/C3Heditor/status/2036837472642986351"
+        imageSrc="https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/2026-03-25_110846_e1d37834.jpg"
+        tags={["Maxine Waters", "Patriotism"]}
       />
       <ArticleBlock
-        headline="Hakeem Jeffries Reveals Democrats&#39; Goal On Trump Voters: &#39;Our Mission Is To Break Them&#39;"
-        tinyUrl="https://tinyurl.com/34yrshcp"
-        xPostUrl="https://x.com/C3Heditor/status/2060071849245942156"
-        imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-05-28_134717_3283a43b.jpg"
-        tags={["Republican Party", "2024 Election", "Racial Issues"]}
+        headline="Another Democrat Illegal Alien: Tren de Aragua&#39;s Leader &#39;El Turko&#39; Nabbed in LA on Murder &amp; Kidnapping Charges"
+        tinyUrl="https://tinyurl.com/3xxj5j5v"
+        xPostUrl="https://x.com/C3Heditor/status/2036804509826257374"
+        imageSrc="https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/2026-03-25_085737_fb4d6209.jpg"
+        tags={["Immigration", "Los Angeles", "Violent Crime"]}
       />
       <ArticleBlock
-        headline="Hasan Kwame Jeffries, Brother of Top Democrat Hakeem Jeffries, Advocates Violence Against Whites"
-        tinyUrl="https://tinyurl.com/3vsf8vse"
-        xPostUrl="https://x.com/C3Heditor/status/2060010202892480843"
-        imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-05-28_094913_242b156e.jpg"
-        tags={["Racial Issues", "Left-Wing", "Culture War"]}
+        headline="Democrat Incompetence or Purposeful? Los Angeles Exposed for Running a Massive Hospice Fraud Scheme"
+        tinyUrl="https://tinyurl.com/r5znwpm2"
+        xPostUrl="https://x.com/C3Heditor/status/2036803605467185303"
+        imageSrc="https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/2026-03-25_085401_1bfba604.jpg"
+        tags={["Los Angeles", "Corruption-Fraud", "Government"]}
       />
-      </div>
       <Pagination currentPage={21} totalPages={70} />
-      {/* SITE STATS — auto-updated by gen_home.py. DO NOT edit manually. */}
-      <p className="text-sm text-gray-500 mt-2" style={{fontFamily: 'Roboto Slab, serif'}}>
-        Last updated: <strong style={{ color: '#555' }}>May 28, 2026</strong> &nbsp;|&nbsp; Total articles: <strong style={{ color: '#555' }}>920</strong>
-      </p>
     </div>
   );
 }

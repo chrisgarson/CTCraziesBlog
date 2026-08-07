@@ -1,152 +1,158 @@
-import PageHeader from '../components/PageHeader';
 import ArticleBlock from '../components/ArticleBlock';
+import PageHeader from '../components/PageHeader';
 import Pagination from '../components/Pagination';
 
-export default function Page9() {
+export default function Home() {
   return (
-    <div className="max-w-4xl mx-auto px-4 py-16">
+    <div className="max-w-4xl mx-auto px-4 py-8">
       <PageHeader />
+      <div className="space-y-12">
       <ArticleBlock
-        headline="Guatemalan Illigal Aliens Handed 25-year Prison Terms For Kidnapping And Killing A New York Man"
-        tinyUrl="https://tinyurl.com/5f9bjnsv"
-        xPostUrl="https://x.com/C3Heditor/status/2040045257300095213"
-        imageSrc="https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/2026-04-03_073501_fe844af8.jpg"
-        tags={["Immigration", "Violent Crime", "Kidnapping"]}
+        headline="Caught On Camera: A Not-So-Bright Democrat Senate Candidate Bashes Her Own State In Leaked Remarks"
+        tinyUrl="https://tinyurl.com/ymbyhjeu"
+        xPostUrl="https://x.com/C3Heditor/status/2051062982558241039"
+        imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/HBUodSWMFhtTJJLx.jpg"
+        tags={["Mallory McMorrow", "Michigan", "Alternative & Social Media", "Censorship"]}
       />
       <ArticleBlock
-        headline="Democrats Deploy Celebrities to Fight Voter ID — Claim Women Are Too Dumb to Obtain One"
-        tinyUrl="https://tinyurl.com/y3vaacet"
-        xPostUrl="https://x.com/C3Heditor/status/2040044433316385067"
-        imageSrc="https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/2026-04-03_073148_82e01c19.jpg"
-        tags={["Election Fraud", "LGBTQ"]}
+        headline="In Democrat NYC Deli Worker Murdered Outside His Store -- Had Warned About Rising Violence A Year Prior"
+        tinyUrl="https://tinyurl.com/sf9he4zd"
+        xPostUrl="https://x.com/C3Heditor/status/2051062382701563947"
+        imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/sVCEpWWVoAJDOaFN.jpg"
+        tags={["Abdul Saleh", "Violent Crime"]}
       />
       <ArticleBlock
-        headline="Virginia Democrats Pass Bill Requiring Schools to Teach January 6 As A Violent Insurrection, Except That&#39;s Disinformation"
-        tinyUrl="https://tinyurl.com/324amdb9"
-        xPostUrl="https://x.com/C3Heditor/status/2040043569415675974"
-        imageSrc="https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/2026-04-03_072830_51e317ad.jpg"
-        tags={["Virginia", "January 6 Protest", "Education Policy"]}
+        headline="Pennsylvania Democrat Running For U.S. Senate Arrested For Threatening Trump"
+        tinyUrl="https://tinyurl.com/8zxcmec5"
+        xPostUrl="https://x.com/C3Heditor/status/2051059729628086624"
+        imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/MraqETrlOwslvpBR.jpg"
+        tags={["Pennsylvania", "2026 Elections"]}
       />
       <ArticleBlock
-        headline="NYC Democrat Mayor&#39;s New Top Priority: $250,000 Anti-Catcalling Campaign Rolls Out On NYC Subways, Ferries And Construction Sites"
-        tinyUrl="https://tinyurl.com/3fpzh86a"
-        xPostUrl="https://x.com/C3Heditor/status/2040042162952237454"
-        imageSrc="https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/2026-04-03_072514_51687ace.jpg"
-        tags={["Zohran Mamdani", "Sexual Misconduct"]}
+        headline="Exposing Democrat SPLC Fraud And Money Laundering: Charges May Be Just The Tip Of The Iceberg, Analysts Warn"
+        tinyUrl="https://tinyurl.com/uwt7cm76"
+        xPostUrl="https://x.com/C3Heditor/status/2051059192295727310"
+        imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/TIOLMROmSXrohIBK.jpg"
+        tags={["SPLC", "Corruption-Fraud", "Virginia"]}
       />
       <ArticleBlock
-        headline="Top 4 News Apps Quietly Bury California Health Care Fraud Tied To Leading Democrats"
-        tinyUrl="https://tinyurl.com/5cfa6tbr"
-        xPostUrl="https://x.com/C3Heditor/status/2040041433680232703"
-        imageSrc="https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/2026-04-03_071948_0c4b607d.jpg"
-        tags={["Corruption-Fraud", "Gavin Newsom", "Kamala Harris", "Corruption-Fraud"]}
+        headline="Democrat Stacey Abrams Rushes To Defend The Disgraced KKK Funders, The Southern Poverty Law Center"
+        tinyUrl="https://tinyurl.com/4dh6v3xr"
+        xPostUrl="https://x.com/C3Heditor/status/2051058624659640530"
+        imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/hyjxAVYBcHmXqTbS.jpg"
+        tags={["Stacey Abrams", "SPLC", "Corruption-Fraud"]}
       />
       <ArticleBlock
-        headline="State Democrat Party Leader Taken Into Custody For Beating A Disabled Veteran At &#39;No Kings&#39; Protest"
-        tinyUrl="https://tinyurl.com/4wyp32e9"
-        xPostUrl="https://x.com/C3Heditor/status/2040039948280082820"
-        imageSrc="https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/2026-04-03_071410_98289663.jpg"
-        tags={["Left-Wing", "Violence"]}
+        headline="Host Stunned: Can&#39;t Believe Joy Reid Makes Absurd Claim That Democrats Never Play Politics"
+        tinyUrl="https://tinyurl.com/etv898cb"
+        xPostUrl="https://x.com/C3Heditor/status/2051057877989617847"
+        imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/ijiyWcjBJufrkRwO.jpg"
+        tags={["Joy Reid", "Media Bias"]}
       />
       <ArticleBlock
-        headline="Justice Department Takes Minnesota&#39;s Democrat Administration To Court Over Girls&#39; Transgender Sports Eligibility Rules"
-        tinyUrl="https://tinyurl.com/5n6mjedh"
-        xPostUrl="https://x.com/C3Heditor/status/2040038634414363044"
-        imageSrc="https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/2026-04-03_070852_4d5656a9.jpg"
-        tags={["Justice Department", "Minnesota", "LGBTQ", "Culture War"]}
+        headline="Man-Burner Suspect With Over 100 Arrests Represents Repeat Crime Problem in America&#39;s Democrat Urban Areas"
+        tinyUrl="https://tinyurl.com/yc7dh7p9"
+        xPostUrl="https://x.com/C3Heditor/status/2051056520079527948"
+        imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/AibQbKpjMYJWeAjT.jpg"
+        tags={["Judiciary-Judicial", "New York", "Violent Crime"]}
       />
       <ArticleBlock
-        headline="Democrat-Partisan Florida Judge Who Freed Pedophile Now Faces Removal After A Child Was Murdered"
-        tinyUrl="https://tinyurl.com/4f9djz7j"
-        xPostUrl="https://x.com/C3Heditor/status/2040037574979305784"
-        imageSrc="https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/2026-04-03_070431_8fa0680f.jpg"
-        tags={["Judiciary-Judicial", "Violent Crime", "Pedophile Release"]}
+        headline="Birthright Citizenship Debate Shines Light On The Vast Chinese Birth Tourism Industry Protected By Democrats"
+        tinyUrl="https://tinyurl.com/3wda6sby"
+        xPostUrl="https://x.com/C3Heditor/status/2051055790459392204"
+        imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/gsNDNVBWAkAfPUcF.jpg"
+        tags={["Immigration", "Business Climate"]}
       />
       <ArticleBlock
-        headline="Not A Single Minnesota House Democrat Voted In Support of Age Verification Requirements for Online Porn"
-        tinyUrl="https://tinyurl.com/yc6hwtv5"
-        xPostUrl="https://x.com/C3Heditor/status/2040036917153038672"
-        imageSrc="https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/2026-04-03_070157_9846fc89.jpg"
-        tags={["Minnesota", "2026 Elections"]}
+        headline="Because SCOTUS Disagrees With Skin-Color Favoritism, Democrat House Minority Leader Hakeem Jeffries Calls Them Illegitimate"
+        tinyUrl="https://tinyurl.com/3pevrjfk"
+        xPostUrl="https://x.com/C3Heditor/status/2051055136336711808"
+        imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/fLomDEVCslrCUAqU.jpg"
+        tags={["Hakeem Jeffries", "Judiciary-Judicial", "Election Fraud", "2026 Elections"]}
       />
       <ArticleBlock
-        headline="Colorado Democrat-Run School District Handed 61 Girls&#39; Sports Slots to Boys, Feds Determine"
-        tinyUrl="https://tinyurl.com/ysundbzr"
-        xPostUrl="https://x.com/C3Heditor/status/2040035582437368062"
-        imageSrc="https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/2026-04-03_065836_786486bf.jpg"
-        tags={["Education Policy", "LGBTQ", "Culture War"]}
+        headline="CNN Pollster Finds That Democrats&#39; Hate-Trump &amp; Hate-America Rhetoric Is Is Not Playing Well With Black Voters"
+        tinyUrl="https://tinyurl.com/44vju2ny"
+        xPostUrl="https://x.com/C3Heditor/status/2051052621054558230"
+        imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/saquRktlLqMMwYbi.jpg"
+        tags={["Media Bias", "Racial Issues", "Election Fraud"]}
       />
       <ArticleBlock
-        headline="Democrat Senator Calls Out Fellow Democrats for Staying Silent When Protesters Wish Death on US Soldiers"
-        tinyUrl="https://tinyurl.com/3n7edmsw"
-        xPostUrl="https://x.com/C3Heditor/status/2040034841194852386"
-        imageSrc="https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/2026-04-03_065401_dd95ee43.jpg"
-        tags={["John Fetterman", "Foreign Policy"]}
+        headline="Gov. Gavin Newsom&#39;s Broken 911 System Is A Half-Billion-Dollar Democrat Joke Paid For By Taxpayers"
+        tinyUrl="https://tinyurl.com/2zbdr9ve"
+        xPostUrl="https://x.com/C3Heditor/status/2051050551362629708"
+        imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/gAnfPueLUpEcvnrW.jpg"
+        tags={["Gavin Newsom", "911 System", "California"]}
       />
       <ArticleBlock
-        headline="Huh? Iowa Democrat Reframes Male Athletes in Women&#39;s Sports as Proof of White Male Panic"
-        tinyUrl="https://tinyurl.com/2s3tjtux"
-        xPostUrl="https://x.com/C3Heditor/status/2040034084970229941"
-        imageSrc="https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/2026-04-03_065057_445f76fc.jpg"
-        tags={["Iowa", "Culture War"]}
+        headline="Minnesota Fraud: FBI &amp; Homeland Security Raid &#39;Quality Learing Center&#39; And 20 Other Democrat Favored Somali Businesses"
+        tinyUrl="https://tinyurl.com/3bt4jdkh"
+        xPostUrl="https://x.com/C3Heditor/status/2051049922229629253"
+        imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/NeIzasyWiHbecyFI.jpg"
+        tags={["Minnesota", "FBI", "Homeland Security", "Islam-Muslim"]}
       />
       <ArticleBlock
-        headline="Sixteen Years of Democrats&#39; Obamacare - Drug Prices (also premiums &amp; deductibles) Still Sky-High"
-        tinyUrl="https://tinyurl.com/mpear48a"
-        xPostUrl="https://x.com/C3Heditor/status/2040032834778272087"
-        imageSrc="https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/2026-04-03_064632_8047e716.jpg"
-        tags={["Healthcare Policy", "Affordable Care Act"]}
+        headline="Kimmel &amp; His Ilk Keep Dehumanizing Conservatives — Yet The Left Wonders Why Violence Grows"
+        tinyUrl="https://tinyurl.com/4n2hzdpx"
+        xPostUrl="https://x.com/C3Heditor/status/2051047021855866996"
+        imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/nihPJnjQrhooCfQl.jpg"
+        tags={["Jimmy Kimmel", "Assassination"]}
       />
       <ArticleBlock
-        headline="Election Fraud Is Real: Petition Cheaters In California Tapped Into Voter Database To Get Real Names For Forged Signatures"
-        tinyUrl="https://tinyurl.com/rsts7ccb"
-        xPostUrl="https://x.com/C3Heditor/status/2039824702235955465"
-        imageSrc="https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/2026-04-02_165845_f1621e85.jpg"
-        tags={["Election Fraud", "Alternative & Social Media"]}
+        headline="Political Violence Is Being Fanned By The Same Democrat Propaganda Media That Helped Kill Charlie Kirk"
+        tinyUrl="https://tinyurl.com/7dbwsemw"
+        xPostUrl="https://x.com/C3Heditor/status/2051045040672125153"
+        imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/mXKPVronDXvVbdkk.jpg"
+        tags={["Left-Wing", "Assassination"]}
       />
       <ArticleBlock
-        headline="Voting Official Caught Stealing Election Access Tool Prior To Democrat&#39;s Mar-a-Lago Win"
-        tinyUrl="https://tinyurl.com/pxpxvz2w"
-        xPostUrl="https://x.com/C3Heditor/status/2039823157465411888"
-        imageSrc="https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/2026-04-02_165235_7271edd2.jpg"
-        tags={["Election Fraud", "Mar-a-Lago"]}
+        headline="Democrat Oregon Releases Newlyweds&#39; Illegal Alien Killer Who Was Recklessly Driving With A CDL License"
+        tinyUrl="https://tinyurl.com/22zhh4kj"
+        xPostUrl="https://x.com/C3Heditor/status/2051044256136024499"
+        imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/fvrqokLYfIYniErJ.jpg"
+        tags={["Immigration", "CBP-DHS-ICE"]}
       />
       <ArticleBlock
-        headline="Chevron Puts Gov. Newsom on Notice: The Democrats&#39; Climate Alarmism Threatens 500,000 California Jobs"
-        tinyUrl="https://tinyurl.com/2h26bdu9"
-        xPostUrl="https://x.com/C3Heditor/status/2039822194692251938"
-        imageSrc="https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/2026-04-02_164849_6d9a4bd5.jpg"
-        tags={["Gavin Newsom", "Chevron", "California"]}
+        headline="Legacy FakeNews Media Pivots To False Narrative After WHCD Shooter&#39;s Democrat Identity Surfaces"
+        tinyUrl="https://tinyurl.com/28az8rfc"
+        xPostUrl="https://x.com/C3Heditor/status/2051042131045761123"
+        imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/ogwdiYLWIEuSkeGf.jpg"
+        tags={["Assassination", "Media Bias", "Twitchy Politics"]}
       />
       <ArticleBlock
-        headline="Random San Francisco Stabbing Reveals The Democrats&#39; Woke Policy That Critics Say Shields the Attackers"
-        tinyUrl="https://tinyurl.com/bmy7s939"
-        xPostUrl="https://x.com/C3Heditor/status/2039821196552781842"
-        imageSrc="https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/2026-04-02_164511_546c5b3c.jpg"
-        tags={["San Francisco", "Law Enforcement"]}
+        headline="Dead Voters Could Represent A Sizable Voting Bloc For Democrats In This Key Battleground State"
+        tinyUrl="https://tinyurl.com/yxmk68nr"
+        xPostUrl="https://x.com/C3Heditor/status/2051040599113883719"
+        imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/AbPSakTPlVjdrObG.jpg"
+        tags={["North Carolina", "Election Fraud", "Systematic Alien Verification"]}
       />
       <ArticleBlock
-        headline="White House Slams Mainstream Media Blackout On Murder Of Chicago Loyola Student Sheridan Gorman By Venezuelan Illegal Alien"
-        tinyUrl="https://tinyurl.com/59enynu8"
-        xPostUrl="https://x.com/C3Heditor/status/2039820511698420222"
-        imageSrc="https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/2026-04-02_164200_842b80d3.jpg"
-        tags={["Violent Crime", "Immigration"]}
+        headline="Family Trio of Activists Indicted For Viciously Assaulting Conservative Journalist"
+        tinyUrl="https://tinyurl.com/yc6uh24m"
+        xPostUrl="https://x.com/C3Heditor/status/2051039167656718480"
+        imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/HcgTggDGNUCJQKmU.jpg"
+        tags={["Federal Indictment", "CBP-DHS-ICE"]}
       />
       <ArticleBlock
-        headline="Convicted Democrat-Liberal Architect Of &#39;Feeding Our Future&#39; Corruption Scam Receives A Disgracefully Light Plea Deal"
-        tinyUrl="https://tinyurl.com/43sx5fv8"
-        xPostUrl="https://x.com/C3Heditor/status/2039819863410065682"
-        imageSrc="https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/2026-04-02_163924_bfe0858d.jpg"
-        tags={["Feeding Our Future", "Judiciary-Judicial"]}
+        headline="In Democrat Controlled Chicago, Judge Freed Robbery Suspect On Condition of Wearing Ankle Monitor — He Then Murdered A City Cop"
+        tinyUrl="https://tinyurl.com/3tamdh4f"
+        xPostUrl="https://x.com/C3Heditor/status/2051038080937635908"
+        imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/rCuaomZSRkObKFXu.jpg"
+        tags={["Violent Crime", "Judiciary-Judicial", "Retail Crime"]}
       />
       <ArticleBlock
-        headline="Democrats Did This: Human Hunting Murder Spree Across California And Nevada Blamed On MS-13, Per Prosecutors"
-        tinyUrl="https://tinyurl.com/bp6curr9"
-        xPostUrl="https://x.com/C3Heditor/status/2039819011479761297"
-        imageSrc="https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/2026-04-02_163556_ae1f39f2.jpg"
-        tags={["Violent Crime", "Immigration", "California"]}
+        headline="EPA Chief Shrieked At By Purple-Haired Democrat Rep Who Told Him To Drink Weed Killer At A House Hearing"
+        tinyUrl="https://tinyurl.com/yc2fjsdk"
+        xPostUrl="https://x.com/C3Heditor/status/2051036887301661122"
+        imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/HrDZpkAubYifdszQ.jpg"
+        tags={["Violent Crime", "Energy Policy"]}
       />
+      </div>
       <Pagination currentPage={43} totalPages={70} />
+      {/* SITE STATS — auto-updated by gen_pages.py. DO NOT edit manually. */}
+      <p className="text-sm text-gray-500 mt-2" style={{fontFamily: 'Roboto Slab, serif'}}>
+        Last updated: <strong style={{ color: '#555' }}>May 03, 2026</strong> &nbsp;|&nbsp; Total articles: <strong style={{ color: '#555' }}>780</strong>
+      </p>
     </div>
   );
 }
