@@ -444,4 +444,4 @@
 ## Authoritative NUM-to-Page Order Correction (August 11, 2026)
 - [x] Validate every current article against the user-provided NUM, headline, and WebPage mapping
 - [x] Correct page files, Search.tsx, and both tag-index.json copies to the authoritative mapping
-- [ ] Build, deploy, and verify descending NUM order and matching page links
+- [x] Build, deploy, and verify descending NUM order and matching page links
