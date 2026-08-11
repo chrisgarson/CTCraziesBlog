@@ -36,8 +36,8 @@ export default function TagResults() {
         if (!r.ok) throw new Error('Failed to load tag index');
         return r.json();
       })
-      .then((data: Record<string, any[]>) => {
-        // tag-index.json is an object: { "TagName": [article, ...], ... }
+      .then((data: Record<string, any>) => {
+        // tag-index.json is an object: { "TagName": { type, articles: [...] }, ... }
         // Find the matching key case-insensitively
         const matchingKey = Object.keys(data).find(
           (k) => k.toLowerCase() === tagName.toLowerCase()
