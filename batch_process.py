@@ -838,6 +838,10 @@ def main():
         print(f'  Draft: {output_json}')
         sys.exit(0)
 
+    print("RETIRED PUBLICATION SCRIPT: batch_process.py must not be used to modify or publish CTCrazies.")
+    print("Use safe_batch.py to prepare, validate, and apply a batch, then verify_safe_site.py before publishing.")
+    sys.exit(2)
+
     dry_run = '--dry-run' in sys.argv
     args = [a for a in sys.argv[1:] if not a.startswith('--')]
 

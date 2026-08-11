@@ -274,26 +274,6 @@ def rebuild_tag_index(file_articles, search_articles, total_pages):
 # ─────────────────────────────────────────────
 
 if __name__ == '__main__':
-    print("=" * 60)
-    print("SEARCH INDEX & TAG DATABASE VALIDATION")
-    print("=" * 60)
-
-    errors, file_articles, search_articles, total_pages = run_validation()
-
-    print("\n" + "=" * 60)
-    if errors:
-        print(f"VALIDATION FAILED — {len(errors)} error(s) found:")
-        for e in errors:
-            print(e)
-        print("\nDO NOT PUBLISH until all errors are resolved.")
-        print("=" * 60)
-        sys.exit(1)
-    else:
-        print("VALIDATION PASSED — all checks OK")
-        if REBUILD_MODE:
-            total_arts, unique_tags = rebuild_tag_index(file_articles, search_articles, total_pages)
-            print(f"\nTag-index rebuilt: {total_arts} articles, {unique_tags} unique tags")
-        else:
-            print("\nRun with --rebuild to also rebuild tag-index.json from scratch.")
-        print("=" * 60)
-        sys.exit(0)
+    print("RETIRED SCRIPT: rebuild_search.py can destroy the typed tag-index schema.")
+    print("Use safe_batch.py and verify_safe_site.py instead.")
+    sys.exit(2)

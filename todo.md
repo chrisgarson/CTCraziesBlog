@@ -452,10 +452,18 @@
 - [x] Build, deploy, and verify Pages 5 and 69
 
 ## Descending NUM Order Safeguard Audit (August 11, 2026)
-- [ ] Audit batch page-generation logic for paths that can break descending NUM order
-- [ ] Audit Search and tag-index rebuild logic for stale or incorrect page-link assignments
-- [ ] Define the required pre-deployment ordering validations and failure conditions
-- [ ] Implement approved permanent safeguards before the next batch
+- [x] Audit batch page-generation logic for paths that can break descending NUM order
+- [x] Audit Search and tag-index rebuild logic for stale or incorrect page-link assignments
+- [x] Define the required pre-deployment ordering validations and failure conditions
+- [x] Implement approved permanent safeguards before the next batch
+
+## Unified Safe Batch Publication System (August 11, 2026)
+- [x] Create the canonical repository-tracked article ledger from the current 1,400 articles
+- [x] Build a 20/40+/N-page batch processor for the current CTC Info workbook layout
+- [x] Generate pages, Search.tsx, and both typed tag indexes from the canonical ledger
+- [x] Add publication-blocking integrity tests for descending NUM order and page-link consistency
+- [x] Retire the superseded processing scripts and document the supported workflow
+- [x] Test the workflow against the current site and supplied workbook sample
 
 ## New Batch XLSX Layout Assessment (August 11, 2026)
 - [x] Inspect the new spreadsheet layout and map each required processing field

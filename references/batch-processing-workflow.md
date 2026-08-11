@@ -1,6 +1,8 @@
 # Batch Processing Workflow for CTCrazies.com
 
-**MANDATORY:** Read this entire document at the start of every new article batch and every rebuild before taking any action.
+> **SUPERSEDED FOR PUBLICATION:** This document remains as historical context and a rules reference only. The sole supported publication procedure is [`safe-batch-publication-workflow.md`](./safe-batch-publication-workflow.md). Do not run its former manual or legacy-script steps.
+
+**MANDATORY:** Read the safe publication workflow at the start of every new article batch and every rebuild before taking any action.
 
 ---
 

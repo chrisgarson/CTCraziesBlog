@@ -362,46 +362,6 @@ def run_validation(total_pages):
 # ════════════════════════════════════════════════════════════════════════════════
 
 if __name__ == '__main__':
-    print(f'Reading Excel: {EXCEL_PATH}')
-    articles = read_excel(EXCEL_PATH)
-    print(f'  {len(articles)} articles loaded (NUMs {articles[-1]["num"]}–{articles[0]["num"]})')
-
-    # Step 0: Pre-flight — verify CDN_MAP and article count before touching files
-    print('\nRunning pre-flight checks...')
-    preflight_check(articles)
-
-    # Step 2: Shift existing pages
-    print(f'\nShifting existing pages down by {NEW_PAGES}...')
-    shift_pages(NEW_PAGES)
-
-    # Step 3: Generate new pages
-    pages_data = [articles[i:i+20] for i in range(0, len(articles), 20)]
-
-    print(f'\nGenerating {NEW_PAGES} new page(s)...')
-    # Use a temporary total_pages estimate for generation (will be confirmed below)
-    temp_total = len([f for f in os.listdir(PAGES_DIR) if re.match(r'^Page\d+\.tsx$', f)]) + NEW_PAGES
-    for i, page_articles in enumerate(pages_data):
-        is_home    = (i == 0)
-        page_label = 'Home' if is_home else f'Page{i + 1}'
-        make_page(page_articles, page_label, temp_total, is_home=is_home)
-
-    # Step 3b: Re-count ALL page files on disk now that Home.tsx has been written.
-    # This is the authoritative total — it cannot be wrong because it reads reality.
-    total_pages = len([
-        f for f in os.listdir(PAGES_DIR)
-        if f == 'Home.tsx' or re.match(r'^Page\d+\.tsx$', f)
-    ])
-    print(f'  Confirmed total pages on disk: {total_pages}')
-
-    # Step 4: Patch totalPages across all pages (using confirmed total)
-    print(f'\nPatching totalPages across all pages...')
-    patch_total_pages(total_pages)
-
-    # Step 5: Rewrite App.tsx
-    print(f'\nUpdating App.tsx routes...')
-    update_app_tsx(total_pages)
-
-    print(f'\nBatch complete. Total pages: {total_pages}, Total articles: {total_pages * 20}')
-
-    # Step 6: Validate and rebuild search index
-    run_validation(total_pages)
+    print("RETIRED SCRIPT: gen_pages_template.py uses superseded workbook and index logic.")
+    print("Use safe_batch.py and verify_safe_site.py instead.")
+    sys.exit(2)
