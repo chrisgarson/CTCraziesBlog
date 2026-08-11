@@ -61,7 +61,7 @@ export default function Home() {
         tinyUrl="https://tinyurl.com/yc5cx9cw"
         xPostUrl="https://x.com/C3Heditor/status/2052040184200335453"
         imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/NaYMpBvEdEazljdM.jpg"
-        tags={["The View", "Left-Wing", "Assassination"]}
+        tags={["The View", "Left-Wing", "Trump-Derangement"]}
       />
       <ArticleBlock
         headline="911 Emergency Call System Is Close To Collapse Due To Incompetent Govt In Democrat Los Angeles"
@@ -103,7 +103,7 @@ export default function Home() {
         tinyUrl="https://tinyurl.com/yxzbvsm5"
         xPostUrl="https://x.com/C3Heditor/status/2051781765757284535"
         imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/zBUzImUJQaNJpGLr.jpg"
-        tags={["Corruption-Fraud", "Food Stamps"]}
+        tags={["Corruption-Fraud"]}
       />
       <ArticleBlock
         headline="Left-Wing Bias Isn&#39;t Just Apple News — It&#39;s Rampant On Most Major Democrat Propaganda Tech Sites"
@@ -117,7 +117,7 @@ export default function Home() {
         tinyUrl="https://tinyurl.com/53ph6yf5"
         xPostUrl="https://x.com/C3Heditor/status/2051779883240464693"
         imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/ATsGwdIRYBwjSCue.jpg"
-        tags={["Assassination", "Politics"]}
+        tags={["Trump-Derangement", "Politics"]}
       />
       <ArticleBlock
         headline="Rich Author Brags About Shoplifting From Whole Foods — And Reveals Typical Hypocrisy"
@@ -131,14 +131,14 @@ export default function Home() {
         tinyUrl="https://tinyurl.com/2s3bk88r"
         xPostUrl="https://x.com/C3Heditor/status/2051777293597413441"
         imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/tLBjVdDGufkVfLyk.jpg"
-        tags={["Left-Wing", "Politics", "Assassination"]}
+        tags={["Left-Wing", "Politics", "Trump-Derangement"]}
       />
       <ArticleBlock
         headline="Demanding Trump Lower The Temperature, Muslim Activist Begs For Trump To Die In Foul Rant"
         tinyUrl="https://tinyurl.com/muzbpehh"
         xPostUrl="https://x.com/C3Heditor/status/2051776070014091282"
         imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/qwqvNvtTjkAMloRM.jpg"
-        tags={["Wajahat Ali", "Twitchy Politics", "Politics", "Media Bias"]}
+        tags={["Wajahat Ali", "Politics", "Media Bias"]}
       />
       <ArticleBlock
         headline="Begging NY State For A Budget Bailout, Democrat Mayor Mamdani Feels The Cold Grip of Collectivism Squeezing"

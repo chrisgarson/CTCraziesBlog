@@ -25,7 +25,7 @@ export default function Page25() {
         tinyUrl="https://tinyurl.com/3rnabfbf"
         xPostUrl="https://x.com/C3Heditor/status/2026055966454636793"
         imageSrc="https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/post158_clean_d5c05d96.jpg"
-        tags={["Team USA Hockey", "Monica Torres", "Milan-Cortina Games", "Left-Wing"]}
+        tags={["Culture War", "Monica Torres", "Left-Wing"]}
       />
       <ArticleBlock
         headline="Not a Single One: Democrat Congressional Hopeful Refuses to Deport Any Illegal"
@@ -144,7 +144,7 @@ export default function Page25() {
         tinyUrl="https://tinyurl.com/fxa3cxyy"
         xPostUrl="https://x.com/C3Heditor/status/2026294095946092876"
         imageSrc="https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/post141_clean_7a7d815c.jpg"
-        tags={["Assassination", "Politics"]}
+        tags={["Trump-Derangement", "Politics"]}
       />
       <Pagination currentPage={13} totalPages={70} />
     </div>

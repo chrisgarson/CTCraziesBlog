@@ -102,7 +102,7 @@ export default function Page2() {
         tinyUrl="https://tinyurl.com/ymakc29b"
         xPostUrl="https://x.com/C3Heditor/status/2069882548335903198"
         imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-06-24_153811.jpg"
-        tags={["Left-Wing", "Vandalism", "DOJ"]}
+        tags={["Left-Wing", "Crime", "DOJ"]}
       />
       <ArticleBlock
         headline="More Controversy Hits Maine Democrat Senate Hopeful, Graham Platner, Over His Ugly, Graphic, Reddit Posts"

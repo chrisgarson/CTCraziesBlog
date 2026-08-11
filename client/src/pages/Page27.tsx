@@ -11,7 +11,7 @@ export default function Page11() {
         tinyUrl="https://tinyurl.com/yvky7uka"
         xPostUrl="https://x.com/C3Heditor/status/2039059874424717750"
         imageSrc="https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/2026-03-31_141945_28c7cc15.jpg"
-        tags={["Eric Swalwell", "U.S. Congress", "U.S. Congress"]}
+        tags={["Eric Swalwell", "U.S. Congress"]}
       />
       <ArticleBlock
         headline="Top Democrat Accidentally Reveals Exactly What Her Party Fears Most About SAVE Act - Stopping Dems&#39; Voter Fraud"
@@ -60,7 +60,7 @@ export default function Page11() {
         tinyUrl="https://tinyurl.com/2ffd9zr8"
         xPostUrl="https://x.com/C3Heditor/status/2039050127118065953"
         imageSrc="https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/2026-03-31_134114_b03cc4ff.jpg"
-        tags={["Abdul El-Sayed", "Michigan", "Police Defunding"]}
+        tags={["Abdul El-Sayed", "Michigan", "Law Enforcement"]}
       />
       <ArticleBlock
         headline="Even Liberal Media Outlets Are Calling Democrats Out for Their Reckless Wasteful Spending"
@@ -102,7 +102,7 @@ export default function Page11() {
         tinyUrl="https://tinyurl.com/4pht9b89"
         xPostUrl="https://x.com/C3Heditor/status/2038736752815260098"
         imageSrc="https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/2026-03-30_165703_e0c4a56b.jpg"
-        tags={["Election Fraud", "China Policy"]}
+        tags={["Election Fraud", "China"]}
       />
       <ArticleBlock
         headline="186 U.S. U.S. House Voted to Protect Foreigners Who Defraud the United States"
@@ -123,7 +123,7 @@ export default function Page11() {
         tinyUrl="https://tinyurl.com/3nju2fze"
         xPostUrl="https://x.com/C3Heditor/status/2038730878617051207"
         imageSrc="https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/2026-03-30_163307_4f223724.jpg"
-        tags={["NYC", "Pay Raise", "Government"]}
+        tags={["NYC", "Ethics-Morals", "Government"]}
       />
       <ArticleBlock
         headline="California Gov. Newsom Concedes on Kimmel That Democrat-Run California Is Severely Overregulated"
@@ -144,7 +144,7 @@ export default function Page11() {
         tinyUrl="https://tinyurl.com/4xjf35dw"
         xPostUrl="https://x.com/C3Heditor/status/2038728466019840070"
         imageSrc="https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/2026-03-30_162331_772a7f09.jpg"
-        tags={["Education Policy", "Culture War", "Pay Raise", "California"]}
+        tags={["Education Policy", "Culture War", "Ethics-Morals", "California"]}
       />
       <Pagination currentPage={27} totalPages={70} />
     </div>

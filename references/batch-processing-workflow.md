@@ -15,7 +15,7 @@ Specifically:
 - ...continuing in descending order...
 - **Page 70 (current last page):** Oldest 20 articles — NUM 20–1
 
-When a new batch of 20 articles is added, a **new page is appended at the end** (e.g., Page 71), and the **Home page is updated** with the new articles. The new articles get the highest NUMs and appear on the Home page. The previous Home page articles move to Page 2, the previous Page 2 moves to Page 3, and so on — but this is accomplished by updating the Home page content and creating a new last page, NOT by renaming all existing page files.
+When a new batch is added, **all existing article pages shift toward higher page numbers** so that the previous Home articles become Page 2, the previous Page 2 articles become Page 3, and so on through the previous oldest page, which becomes the new last page. The new batch becomes the Home page. This shift is mandatory; appending a separate new batch page without shifting existing content breaks descending NUM order.
 
 ---
 
@@ -87,12 +87,13 @@ If Column D is missing/truncated, use Column H (Source URL) as fallback.
 - Wait for approval/corrections before proceeding
 - For 40-article batches, the site owner may provide a separate tags XLSX
 
-### Step 4 — Create new page file(s)
-- For a 20-article batch: create one new page file (e.g., `Page71.tsx`)
-- For a 40-article batch: create two new page files (e.g., `Page71.tsx` and `Page72.tsx`)
-- Articles in **descending NUM order** (highest NUM first = most recent at top of page)
-- Use `imageSrc` prop (not `imageUrl`) for ArticleBlock
-- Set `currentPage={N}` and `totalPages={N}` correctly
+### Step 4 — Shift all existing pages before creating the new Home page
+- For a **20-article batch**, shift every existing page by one: Home (Page 1) → Page 2, Page 2 → Page 3, and so on through the current last page, which becomes the new last page.
+- For a **40-article batch**, shift every existing page by two: Home (Page 1) → Page 3, Page 2 → Page 4, and so on through the current last page, which becomes two pages later.
+- Rename page files **from the highest page number downward** to avoid overwriting their contents.
+- Update each shifted file's `currentPage={N}` and `totalPages={N}` values to match its new visitor-facing page number.
+- Update `App.tsx` imports and routes so every shifted page file is registered at its matching `/pageN` route.
+- The new Home.tsx is created in Step 5 from the incoming batch. It is always `currentPage={1}`.
 
 ### Step 5 — Update Home.tsx
 - Replace all 20 article entries with the new batch articles
@@ -102,7 +103,7 @@ If Column D is missing/truncated, use Column H (Source URL) as fallback.
 - Update the total article count
 
 ### Step 6 — Update App.tsx
-- Add import and route for each new page file
+- Update imports and routes for every shifted page file
 - Route format: `<Route path="/pageN" component={PageN} />`
 
 ### Step 7 — Update totalPages on all existing pages
@@ -113,7 +114,7 @@ If Column D is missing/truncated, use Column H (Source URL) as fallback.
 - Append all new articles to the articles array in Search.tsx
 - Set `"page": 1` for all new articles (they are on the home page)
 - Use the JSON format: `{ "headline": "...", "tinyUrl": "...", "xPostUrl": "...", "imageUrl": "...", "tags": [...], "page": 1, "batchDate": "..." }`
-- **Do NOT modify existing article page numbers** — they are correct from previous processing
+- Increment every existing article's page number by the number of inserted 20-article pages (one for a 20-article batch; two for a 40-article batch) so search and tag results remain aligned with the shifted page files.
 
 ### Step 9 — Rebuild tag-index.json
 - Run `python3 /home/ubuntu/rebuild_tag_index_v2.py`
@@ -143,7 +144,7 @@ If Column D is missing/truncated, use Column H (Source URL) as fallback.
 ## Critical Rules
 
 1. **Descending NUM order always.** Highest NUM = newest = top of home page. Lowest NUM = oldest = bottom of last page.
-2. **New articles go on the home page.** A new page file is created for the new batch, and the home page is updated. Existing page files are NOT renamed or renumbered.
+2. **New articles go on the home page and all existing content shifts to higher page numbers.** Existing page files must be renamed/renumbered to reflect their new visitor-facing position; never append a batch independently at the end.
 3. **Use Column B headlines verbatim.** No modifications, no paraphrasing, no shortening.
 4. **Both tag-index.json copies must be updated.** `client/src/data/` AND `client/public/` — always both.
 5. **Deploy via Cloudflare wrangler only.** Never use Manus checkpoint or publish system.

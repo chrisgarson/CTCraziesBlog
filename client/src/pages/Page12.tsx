@@ -60,7 +60,7 @@ export default function Page26() {
         tinyUrl="https://tinyurl.com/wxvukshb"
         xPostUrl="https://x.com/C3Heditor/status/2025587842043257022"
         imageSrc="https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/post133_clean_3c0b770f.jpg"
-        tags={["Los Angeles", "Utility Bills"]}
+        tags={["Los Angeles", "Affordability"]}
       />
       <ArticleBlock
         headline="Democrat Incompetence Squanders Millions: Vermont&#39;s Electric Bus Fleet Too Unreliable In Cold Weather"
@@ -116,14 +116,14 @@ export default function Page26() {
         tinyUrl="https://tinyurl.com/9sru4vbn"
         xPostUrl="https://x.com/C3Heditor/status/2025525459685884057"
         imageSrc="https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/post125_clean_9cdcf7ec.jpg"
-        tags={["Minnesota", "Feeding Our Future"]}
+        tags={["Minnesota", "Corruption-Fraud"]}
       />
       <ArticleBlock
         headline="DEI Racial Quotas at DC Water Led to 200+ Million Gallons of Raw Sewage Flooding"
         tinyUrl="https://tinyurl.com/ym3vvp6d"
         xPostUrl="https://x.com/C3Heditor/status/2025607568899379555"
         imageSrc="https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/post124_clean_c436dd13.jpg"
-        tags={["Sewage Spill", "Culture War"]}
+        tags={["Incompetence", "Culture War"]}
       />
       <ArticleBlock
         headline="Yet Another Blue State Loses a Major Company to a More Business-Friendly Red State"

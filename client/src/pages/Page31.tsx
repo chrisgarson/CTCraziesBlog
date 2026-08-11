@@ -53,14 +53,14 @@ export default function Page7() {
         tinyUrl="https://tinyurl.com/3x2pt3ju"
         xPostUrl="https://x.com/C3Heditor/status/2043071682982605297"
         imageSrc="https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/2026-04-11_160130_d4db0300.jpg"
-        tags={["Feeding Our Future", "Minnesota", "Corruption-Fraud"]}
+        tags={["Corruption-Fraud", "Minnesota"]}
       />
       <ArticleBlock
         headline="Los Angeles Is Being Driven Into The Ground By Newsom &amp; His California Democrats"
         tinyUrl="https://tinyurl.com/yrxjsdma"
         xPostUrl="https://x.com/C3Heditor/status/2043070598948012202"
         imageSrc="https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/2026-04-11_155656_dccc71bc.jpg"
-        tags={["Gavin Newsom", "California", "Los Angeles", "Population Decline"]}
+        tags={["Gavin Newsom", "California", "Los Angeles", "Taxation"]}
       />
       <ArticleBlock
         headline="Laundromat Kidnapping: Ecuadorian Illegal Snatches 4-Year-Old But Walks Free On Monitor, Because of NY&#39;s Democrat Policies"
@@ -81,7 +81,7 @@ export default function Page7() {
         tinyUrl="https://tinyurl.com/mr2yw8xd"
         xPostUrl="https://x.com/C3Heditor/status/2043065671655792657"
         imageSrc="https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/2026-04-11_153710_695ce597.jpg"
-        tags={["Homeless", "Urban Decay", "Drug Crime"]}
+        tags={["Homeless", "Incompetence", "Drug Crime"]}
       />
       <ArticleBlock
         headline="Ohio Passes a Kids Indecent Exposure Bill — Every Single Democrat Voted Against It"
@@ -130,7 +130,7 @@ export default function Page7() {
         tinyUrl="https://tinyurl.com/77vb5hfz"
         xPostUrl="https://x.com/C3Heditor/status/2043058128904708170"
         imageSrc="https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/2026-04-11_150719_aab50993.jpg"
-        tags={["Immigration", "Violent Crime", "Hammer Attack", "CBP-DHS-ICE"]}
+        tags={["Immigration", "Violent Crime", "CBP-DHS-ICE"]}
       />
       <ArticleBlock
         headline="Taxpayers Shell Out $19M For A NY PR Firm To Rebrand Democrat Gov. Newsom&#39;s California Fiasco"

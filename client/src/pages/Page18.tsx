@@ -123,14 +123,14 @@ export default function Page20() {
         tinyUrl="https://tinyurl.com/4f7xwxsd"
         xPostUrl="https://x.com/C3Heditor/status/2035836332279209991"
         imageSrc="https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/post244_clean_2a6073fb.jpg"
-        tags={["Uber", "California", "Taxation"]}
+        tags={["Taxation", "California"]}
       />
       <ArticleBlock
         headline="Democats New-Wave Economist: Jemele Hill&#39;s Wild Claim That Blue Collar Jobs Are a Secret Plot to Keep Poor People Down"
         tinyUrl="https://tinyurl.com/248sbd6j"
         xPostUrl="https://x.com/C3Heditor/status/2035835698264084849"
         imageSrc="https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/post243_clean_95dbe376.jpg"
-        tags={["Jemele Hill", "Blue Collar Jobs", "Economic Policy"]}
+        tags={["Jemele Hill", "Business Climate", "Economic Policy"]}
       />
       <ArticleBlock
         headline="A Prominent White Liberal Democrat&#39;s New Dream Is to Escape America for Super-White Switzerland"

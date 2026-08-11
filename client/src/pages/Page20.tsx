@@ -95,7 +95,7 @@ export default function Page18() {
         tinyUrl="https://tinyurl.com/ytbrpkmk"
         xPostUrl="https://x.com/C3Heditor/status/2036425662999794035"
         imageSrc="https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/post288_clean_068c4060.jpg"
-        tags={["CBP-DHS-ICE", "Chuck Schumer", "Travel Delays"]}
+        tags={["CBP-DHS-ICE", "Chuck Schumer", "Politics"]}
       />
       <ArticleBlock
         headline="Nobody Believes Democrat Gov. Newsom&#39;s Outlandish Lie That CA Taxes Are Lower Than Those In TX &amp; FL"
@@ -109,7 +109,7 @@ export default function Page18() {
         tinyUrl="https://tinyurl.com/5eakkczt"
         xPostUrl="https://x.com/C3Heditor/status/2036423377712230751"
         imageSrc="https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/post286_clean_557d41ff.jpg"
-        tags={["James Talarico", "Texas", "Veganism", "Climate Change"]}
+        tags={["James Talarico", "Texas", "Culture War", "Climate Change"]}
       />
       <ArticleBlock
         headline="Prelude To Seizure: Democrats Claim a Foiled Terror Plot Proves Americans Shouldn&#39;t Be Allowed to Own Guns"
@@ -137,7 +137,7 @@ export default function Page18() {
         tinyUrl="https://tinyurl.com/3y48ry9a"
         xPostUrl="https://x.com/C3Heditor/status/2036413816108368205"
         imageSrc="https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/post282_clean_0f522051.jpg"
-        tags={["Energy Policy", "China Policy", "Taxation"]}
+        tags={["Energy Policy", "China", "Taxation"]}
       />
       <ArticleBlock
         headline="Illinois Democrat Governor Jets to MN to Mourn ICE Victims but Won&#39;t Speak on Chicago&#39;s Illegal Alien Murder"

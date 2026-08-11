@@ -17,7 +17,7 @@ export default function Page2() {
         tinyUrl="https://www.thegatewaypundit.com/2026/08/pete-buttigieg-wants-abolish-electoral-college-pack-scotus/"
         xPostUrl="https://x.com/C3Heditor/status/2085488924189770024"
         imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-08-06_171155.jpg"
-        tags={["Pete Buttigieg", "Left-Wing", "Court Packing", "Electoral College"]}
+        tags={["Pete Buttigieg", "Left-Wing", "Judiciary-Judicial", "Politics"]}
       />
       <ArticleBlock
         headline="North Carolina Former Governor Roy Cooper Duped By Vietnamese As State's $1.2 Billion EV 'Green' Investment Flushed Down Proverbial Toilet"
@@ -129,7 +129,7 @@ export default function Page2() {
         tinyUrl="https://www.newsbusters.org/blogs/nb/jorge-bonilla/2026/08/05/what-nbc-nightly-news-shows-socialisms-unpopularity-among-voters"
         xPostUrl="https://x.com/C3Heditor/status/2085476536975552653"
         imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-08-06_162247.jpg"
-        tags={["Media", "Communism-Socialism"]}
+        tags={["Journalism", "Communism-Socialism"]}
       />
       <ArticleBlock
         headline="Bill Maher Show Audience Gasps As He Quotes Democrat Politicians Now Openly Embracing Communism"

@@ -66,7 +66,7 @@ export default function Home() {
         tinyUrl="https://tinyurl.com/dcffb8sp"
         xPostUrl="https://x.com/C3Heditor/status/2045520994308161954"
         imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/cGLlzqJdrBOQZQZp.jpg"
-        tags={["Abigail Spanberger", "Electoral College", "Virginia"]}
+        tags={["Abigail Spanberger", "Politics", "Virginia"]}
       />
       <ArticleBlock
         headline="Putting The Country First Is Not On Their Agenda: Trump Impeachment After The Midterm Elections Predicted By Top Democrat"

@@ -60,7 +60,7 @@ export default function Page6() {
         tinyUrl="https://tinyurl.com/7hzymksc"
         xPostUrl="https://x.com/C3Heditor/status/2043429866347909269"
         imageSrc="https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/2026-04-12_154415_46c31a97.jpg"
-        tags={["California", "Los Angeles County", "Population Decline", "Affordability"]}
+        tags={["California", "Los Angeles County", "Taxation", "Affordability"]}
       />
       <ArticleBlock
         headline="Political Debanking of Democrat Opposition Triggers FTC Warning For Visa, Mastercard, Paypal &amp; Stripe"
@@ -81,14 +81,14 @@ export default function Page6() {
         tinyUrl="https://tinyurl.com/yc4k8wbh"
         xPostUrl="https://x.com/C3Heditor/status/2043427514815545654"
         imageSrc="https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/2026-04-12_153508_857f309b.jpg"
-        tags={["Assassination", "Politics"]}
+        tags={["Trump-Derangement", "Politics"]}
       />
       <ArticleBlock
         headline="Utility Bills On Long Island Spike 20%, Leaving Residents Feeling The Financial Strain of Democrat Energy Policies"
         tinyUrl="https://tinyurl.com/fd5nurrb"
         xPostUrl="https://x.com/C3Heditor/status/2043426627841908853"
         imageSrc="https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/2026-04-12_153124_3a5f4ca2.jpg"
-        tags={["Long Island", "Utility Bills", "Energy Policy", "Affordability"]}
+        tags={["Long Island", "Affordability", "Energy Policy"]}
       />
       <ArticleBlock
         headline="Long After Covid, Taxpayers Are Still Fleeing Democrat Blue States In Massive Numbers"

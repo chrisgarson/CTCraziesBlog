@@ -74,14 +74,14 @@ export default function Home() {
         tinyUrl="https://tinyurl.com/433h94t9"
         xPostUrl="https://x.com/C3Heditor/status/2046700919543177495"
         imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/IlLOpmUJqIWTJZKD.jpg"
-        tags={["Uber", "Taxation"]}
+        tags={["Taxation"]}
       />
             <ArticleBlock
         headline="Minnesota Democrat Prosecutor Issues Felony Charges Against Non-Violent ICE Agent, But No Charges Against Anti-ICE Violent Protestors"
         tinyUrl="https://tinyurl.com/ymrjajsy"
         xPostUrl="https://x.com/C3Heditor/status/2046700109358842244"
         imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/APjyUGEnJWmPmkIx.jpg"
-        tags={["CBP-DHS-ICE", "Felony Charges", "Minneapolis"]}
+        tags={["CBP-DHS-ICE", "Violent Crime", "Minneapolis"]}
       />
             <ArticleBlock
         headline="Democrat-Partisan Justice Sotomayor Apologizes for Unprovoked “inappropriate” Remarks About Justice Kavanaugh"
@@ -95,7 +95,7 @@ export default function Home() {
         tinyUrl="https://tinyurl.com/4p6jx4se"
         xPostUrl="https://x.com/C3Heditor/status/2046698818779967877"
         imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/GalqgcVhbJGmWUUv.jpg"
-        tags={["Pew Research Center", "Immigration"]}
+        tags={["Polling", "Immigration"]}
       />
             <ArticleBlock
         headline="Democrat Mayor&#39;s Wage Mandate Is Crushing Los Angeles Hotels, New Report Finds"

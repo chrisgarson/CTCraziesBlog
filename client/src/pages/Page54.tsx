@@ -60,7 +60,7 @@ export default function Page2() {
         tinyUrl="https://tinyurl.com/3ahj94tw"
         xPostUrl="https://x.com/C3Heditor/status/2061533643776893058"
         imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-06-01_144213_9d05ca3f.jpg"
-        tags={["Tennessee Politics", "Corruption-Fraud", "2026 Elections", "Politics"]}
+        tags={["Politics", "Corruption-Fraud", "2026 Elections"]}
       />
       <ArticleBlock
         headline="Wisconsin Democrat Governor Candidate Francesca Hong Plans to Stream On Podcast With Hasan Piker Who Said &quot;We deserved what happened on 9/11&quot;"

@@ -74,7 +74,7 @@ export default function Page22() {
         tinyUrl="https://tinyurl.com/362hhuwj"
         xPostUrl="https://x.com/C3Heditor/status/2028590904332746955"
         imageSrc="https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/post211_clean_45624606.jpg"
-        tags={["Unions", "Turning Point USA", "Culture War"]}
+        tags={["Unions", "Politics", "Culture War"]}
       />
       <ArticleBlock
         headline="Democrat-Psyop&#39;s Commentary Seen as Supporting Muslim Brotherhood Agenda"
@@ -95,7 +95,7 @@ export default function Page22() {
         tinyUrl="https://tinyurl.com/3pcj2x9j"
         xPostUrl="https://x.com/C3Heditor/status/2028595282871521553"
         imageSrc="https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/post208_clean_5eaded41.jpg"
-        tags={["State of the Union", "Violent Crime", "Gas Prices"]}
+        tags={["State of the Union", "Violent Crime", "Affordability"]}
       />
       <ArticleBlock
         headline="Corruption by Demcorat: Nonprofit Boss Caught with Trunk Full of Jewelry Faces Felony Fraud Charges"
@@ -123,7 +123,7 @@ export default function Page22() {
         tinyUrl="https://tinyurl.com/4628snd6"
         xPostUrl="https://x.com/C3Heditor/status/2028598756719960117"
         imageSrc="https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/post204_clean_2e5fd90f.jpg"
-        tags={["Immigration", "Truck Driver Safety", "CBP-DHS-ICE"]}
+        tags={["Immigration", "Transportation Policy", "CBP-DHS-ICE"]}
       />
       <ArticleBlock
         headline="Blue State Democrat-Fascism: Chicago Educator Terminated for Two-Word Pro-ICE Social Media Post, Files Lawsuit"
@@ -144,7 +144,7 @@ export default function Page22() {
         tinyUrl="https://tinyurl.com/jfzsrpu2"
         xPostUrl="https://x.com/C3Heditor/status/2028601013876187527"
         imageSrc="https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/post201_clean_5aa0f3e9.jpg"
-        tags={["Corruption-Fraud", "Immigration", "Corruption-Fraud"]}
+        tags={["Corruption-Fraud", "Immigration"]}
       />
       <Pagination currentPage={16} totalPages={70} />
     </div>

@@ -12,7 +12,7 @@ export default function Home() {
         tinyUrl="https://tinyurl.com/5bfbzce7"
         xPostUrl="https://x.com/C3Heditor/status/2048866523692081583"
         imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/kVcsMThomMkIcSFG.jpg"
-        tags={["Assassination", "Violent Crime", "Media Bias"]}
+        tags={["Trump-Derangement", "Violent Crime", "Media Bias"]}
       />
       <ArticleBlock
         headline="Attempt To Incite Violence By The Democrat Deranged: America Under Trump Compared To Nazi-Occupied France By Major Publication"
@@ -26,7 +26,7 @@ export default function Home() {
         tinyUrl="https://tinyurl.com/47afw97z"
         xPostUrl="https://x.com/C3Heditor/status/2048862126463479875"
         imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/bVcQklAyFYEdWCSO.jpg"
-        tags={["SPLC", "Assassination"]}
+        tags={["SPLC", "Trump-Derangement"]}
       />
       <ArticleBlock
         headline="Anti-ICE Rioters Walk Free Despite Violence Against Police, Prompting Furious Cops To Turn On Vermont Lefty Democrat DA"
@@ -54,7 +54,7 @@ export default function Home() {
         tinyUrl="https://tinyurl.com/3f9jev85"
         xPostUrl="https://x.com/C3Heditor/status/2048857906787873188"
         imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/MRcKIAUqxUabhZhL.jpg"
-        tags={["Assassination", "Wisconsin"]}
+        tags={["Trump-Derangement", "Wisconsin"]}
       />
       <ArticleBlock
         headline="Democrat Approval Ratings Hit Rock Bottom As 2026 Midterm Discontent Surges"
@@ -96,7 +96,7 @@ export default function Home() {
         tinyUrl="https://tinyurl.com/2z9cbz4b"
         xPostUrl="https://x.com/C3Heditor/status/2048845826831630835"
         imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/TsBybqeMuyuHmAOd.jpg"
-        tags={["SPLC", "Criminal Investigation", "DOJ"]}
+        tags={["SPLC", "Investigation", "DOJ"]}
       />
       <ArticleBlock
         headline="Top House Democrat Slips Up, Provides Insight On His Party&#39;s&#39; Plan To Weaponize Government"

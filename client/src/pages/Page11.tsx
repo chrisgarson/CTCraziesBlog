@@ -88,7 +88,7 @@ export default function Page27() {
         tinyUrl="https://tinyurl.com/t8j429va"
         xPostUrl="https://x.com/C3Heditor/status/2024123534037942706"
         imageSrc="https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/post109_clean_0cdc59b1.jpg"
-        tags={["Whoopi Goldberg", "Epstein", "The View", "Epstein"]}
+        tags={["Whoopi Goldberg", "Epstein", "The View"]}
       />
       <ArticleBlock
         headline="Democrat &#39;Success&#39; By Gov. Newsom: California has led the nation during his tenure in homelessness, unemployment, poverty, illiteracy, gas prices, electricity costs, debt, and outmigration"
@@ -102,7 +102,7 @@ export default function Page27() {
         tinyUrl="https://tinyurl.com/cmrwcz3p"
         xPostUrl="https://x.com/C3Heditor/status/2023956800924438632"
         imageSrc="https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/post107_clean_d80da96c.jpg"
-        tags={["Elissa Slotkin", "Munich Security Conference", "2026 Elections"]}
+        tags={["Elissa Slotkin", "National Security", "2026 Elections"]}
       />
       <ArticleBlock
         headline="Redomestication: Moving from a sh*thole Blue state to a state that supports business"
@@ -144,7 +144,7 @@ export default function Page27() {
         tinyUrl="https://tinyurl.com/4pvj66cn"
         xPostUrl="https://x.com/C3Heditor/status/2023891283803357590"
         imageSrc="https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/post101_clean_4889be0e.jpg"
-        tags={["JB Pritzker", "Epstein", "JB Pritzker"]}
+        tags={["JB Pritzker", "Epstein"]}
       />
       <Pagination currentPage={11} totalPages={70} />
     </div>

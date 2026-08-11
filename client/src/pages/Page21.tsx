@@ -46,7 +46,7 @@ export default function Page17() {
         tinyUrl="https://tinyurl.com/2v6dfzuk"
         xPostUrl="https://x.com/C3Heditor/status/2036790125154210033"
         imageSrc="https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/2026-03-25_080025_6c90bb27.jpg"
-        tags={["Blue-Collar Workers", "Immigration"]}
+        tags={["Business Climate", "Immigration"]}
       />
       <ArticleBlock
         headline="After Israel Takes Him Out, NYT&#39;s Democrat Propagandist Nicholas Kristof Mourns Iranian Butcher as a Peace Partner"

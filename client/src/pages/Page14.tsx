@@ -11,7 +11,7 @@ export default function Page24() {
         tinyUrl="https://tinyurl.com/y2n6y856"
         xPostUrl="https://x.com/C3Heditor/status/2026424418251985298"
         imageSrc="https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/post180_clean_1afb8d81.jpg"
-        tags={["Alexi Giannoulias", "Illinois", "Trucking Industry"]}
+        tags={["Alexi Giannoulias", "Illinois", "Immigration"]}
       />
       <ArticleBlock
         headline="Legacy Media Shields Illinois Billionaire Democrat Family From Scrutiny- Pritzker Scandals Censored"
@@ -46,7 +46,7 @@ export default function Page24() {
         tinyUrl="https://tinyurl.com/38743amb"
         xPostUrl="https://x.com/C3Heditor/status/2026419137229021417"
         imageSrc="https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/post175_clean_9296da34.jpg"
-        tags={["Team USA Hockey", "Monica Torres", "Milan-Cortina Games", "Politics"]}
+        tags={["Culture War", "Monica Torres", "Politics"]}
       />
       <ArticleBlock
         headline="Taxpayers Burdened with $200M+ Bill From The Obama Democrat Administration&#39;s Controversial &#39;Gift&#39;"
@@ -137,7 +137,7 @@ export default function Page24() {
         tinyUrl="https://tinyurl.com/yc3eacw9"
         xPostUrl="https://x.com/C3Heditor/status/2026398005608227076"
         imageSrc="https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/post162_clean_6d9c52d3.jpg"
-        tags={["Mar-a-Lago", "Assassination"]}
+        tags={["Trump-Derangement"]}
       />
       <ArticleBlock
         headline="Blue Cities&#39; Chaos Triggers CNN: Host says Democrats cannot be trusted to run cities like NYC and LA"

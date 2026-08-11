@@ -25,14 +25,14 @@ export default function Page13() {
         tinyUrl="https://tinyurl.com/ym2sf594"
         xPostUrl="https://x.com/C3Heditor/status/2038346580416225683"
         imageSrc="https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/2026-03-29_150317_7b349572.jpg"
-        tags={["Chevron", "Gavin Newsom", "California"]}
+        tags={["Energy Policy", "Gavin Newsom", "California"]}
       />
       <ArticleBlock
         headline="Democrat Economics At Work: Bay Area Drivers Pay $150 Per Fill-Up as Northern California Tops the State&#39;s Gas Prices"
         tinyUrl="https://tinyurl.com/mpbh5v6j"
         xPostUrl="https://x.com/C3Heditor/status/2038344728341537131"
         imageSrc="https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/2026-03-29_145740_b50d94ef.jpg"
-        tags={["California", "Gas Prices", "CBP-DHS-ICE"]}
+        tags={["California", "Affordability", "CBP-DHS-ICE"]}
       />
       <ArticleBlock
         headline="Seattle&#39;s Woke-Democrat Mayor Kills New Police Cameras to Protect Illegal Immigrants From Detection"
@@ -46,7 +46,7 @@ export default function Page13() {
         tinyUrl="https://tinyurl.com/ytujmu6m"
         xPostUrl="https://x.com/C3Heditor/status/2038342373017571351"
         imageSrc="https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/2026-03-29_144818_49f5be06.jpg"
-        tags={["War On Poverty", "Business Climate", "Poverty Rates"]}
+        tags={["Affordability", "Business Climate"]}
       />
       <ArticleBlock
         headline="Napa Valley Residents Furious At After Incompetent Democrat Officials Declaring Their Foul Brown Tap Water Safe"
@@ -123,14 +123,14 @@ export default function Page13() {
         tinyUrl="https://tinyurl.com/ujeexhj4"
         xPostUrl="https://x.com/C3Heditor/status/2038194323259347296"
         imageSrc="https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/2026-03-29_050402_ec1d418d.jpg"
-        tags={["Daniel Lurie", "San Francisco", "Police Report"]}
+        tags={["Daniel Lurie", "San Francisco", "Law Enforcement"]}
       />
       <ArticleBlock
         headline="When Pressed, Bernie Sanders Cannot Name a Single Benefit of the Democrats&#39; DHS Shutdown"
         tinyUrl="https://tinyurl.com/3vnrthxp"
         xPostUrl="https://x.com/C3Heditor/status/2038193652694909273"
         imageSrc="https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/2026-03-29_045725_01172b20.jpg"
-        tags={["Bernie Sanders", "CBP-DHS-ICE", "Travel Delays", "Kaitlan Collins"]}
+        tags={["Bernie Sanders", "CBP-DHS-ICE", "Politics", "Kaitlan Collins"]}
       />
       <ArticleBlock
         headline="Gov. Spanberger Embraces Full Damage Control as Democrats&#39; Redistricting Rig-The-Vote Efforts Blow Up Badly"

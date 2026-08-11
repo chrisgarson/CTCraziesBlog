@@ -102,7 +102,7 @@ export default function Home() {
         tinyUrl="https://tinyurl.com/5yyekudd"
         xPostUrl="https://x.com/C3Heditor/status/2060076497767927959"
         imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-05-28_141450_7398b328.jpg"
-        tags={["Left-Wing", "China Policy", "Corruption-Fraud"]}
+        tags={["Left-Wing", "China", "Corruption-Fraud"]}
       />
       <ArticleBlock
         headline="A Closer Look Back at the Long &amp; Damning Record of Democrats&#39; Blatant Lies"
@@ -137,7 +137,7 @@ export default function Home() {
         tinyUrl="https://tinyurl.com/34yrshcp"
         xPostUrl="https://x.com/C3Heditor/status/2060071849245942156"
         imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-05-28_134717_3283a43b.jpg"
-        tags={["Republican Party", "2024 Election", "Racial Issues"]}
+        tags={["Politics", "2024 Election", "Racial Issues"]}
       />
       <ArticleBlock
         headline="Hasan Kwame Jeffries, Brother of Top Democrat Hakeem Jeffries, Advocates Violence Against Whites"

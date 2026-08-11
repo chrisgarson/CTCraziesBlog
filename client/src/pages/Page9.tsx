@@ -53,7 +53,7 @@ export default function Page29() {
         tinyUrl="https://tinyurl.com/3wxm33bs"
         xPostUrl="https://x.com/C3Heditor/status/2022082882303611227"
         imageSrc="https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/post74_clean_4f36dcfd.jpg"
-        tags={["Gavin Newsom", "FCC", "911 System"]}
+        tags={["Gavin Newsom", "FCC", "Incompetence"]}
       />
       <ArticleBlock
         headline="Governor Incompetence of Minnesota wants all U.S. citizens to pay for destruction from Democrat&#39;s Anti-Ice mobs"
@@ -74,7 +74,7 @@ export default function Page29() {
         tinyUrl="https://tinyurl.com/bdt748f3"
         xPostUrl="https://x.com/C3Heditor/status/2022075822451150879"
         imageSrc="https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/post71_clean_3ea7e46d.jpg"
-        tags={["Left-Wing", "China Policy", "Foreign Policy"]}
+        tags={["Left-Wing", "China", "Foreign Policy"]}
       />
       <ArticleBlock
         headline="The &#39;warmth&#39; of collectivism - not so much: Freezing homeless people in Democrat run NYC didn&rsquo;t get help in 96% of 311 calls made"
@@ -109,7 +109,7 @@ export default function Page29() {
         tinyUrl="https://tinyurl.com/4x5d8fre"
         xPostUrl="https://x.com/C3Heditor/status/2022066957139554789"
         imageSrc="https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/post66_clean_de71bedb.jpg"
-        tags={["Homeland Security", "Government", "Immigration", "Senate Funding Bill"]}
+        tags={["Homeland Security", "Government", "Immigration", "Politics"]}
       />
       <ArticleBlock
         headline="How Do American-Hating Democrats Get Elected?"

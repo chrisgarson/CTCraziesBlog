@@ -11,7 +11,7 @@ export default function Home() {
         tinyUrl="https://tinyurl.com/yx7sbmwz"
         xPostUrl="https://x.com/C3Heditor/status/2059377828441837711"
         imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-05-26_155555_847aa48a.jpg"
-        tags={["Culture War", "Republican Party", "Education Policy"]}
+        tags={["Culture War", "Politics", "Education Policy"]}
       />
       <ArticleBlock
         headline="Uh-Oh: Hakeem Jeffries Claims The Democrats&#39; Ghosts-of-the-Confederacy Are Still Haunting America Today"
@@ -109,7 +109,7 @@ export default function Home() {
         tinyUrl="https://tinyurl.com/48ufmyw2"
         xPostUrl="https://x.com/C3Heditor/status/2059357536348733930"
         imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-05-26_143740_059bf2b4.jpg"
-        tags={["Wisconsin", "Taxation", "Republican Party"]}
+        tags={["Wisconsin", "Taxation", "Politics"]}
       />
       <ArticleBlock
         headline="With Midterms Approaching, Google News Is Actively Pushing Propaganda For Democrats"

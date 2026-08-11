@@ -25,7 +25,7 @@ export default function Page12() {
         tinyUrl="https://tinyurl.com/mr42xxbv"
         xPostUrl="https://x.com/C3Heditor/status/2038369822296195372"
         imageSrc="https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/2026-03-29_163725_68a04fbd.jpg"
-        tags={["Maryland", "Menstrual Products"]}
+        tags={["Maryland", "Culture War"]}
       />
       <ArticleBlock
         headline="Stockholm Syndrome: Trans Activists Using Democrats as Political Hostage-Warriors"
@@ -81,7 +81,7 @@ export default function Page12() {
         tinyUrl="https://tinyurl.com/mv5kcybc"
         xPostUrl="https://x.com/C3Heditor/status/2038359437631463576"
         imageSrc="https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/2026-03-29_155640_fb5c2004.jpg"
-        tags={["Gavin Newsom", "California", "Politics", "Non-Profit"]}
+        tags={["Gavin Newsom", "California", "Politics", "Corruption-Fraud"]}
       />
       <ArticleBlock
         headline="Obama&#39;s Democrat Partisan Judge Blocks Trump Deportation Reforms — Critics Are Calling It Judicial Sabotage"
@@ -109,7 +109,7 @@ export default function Page12() {
         tinyUrl="https://tinyurl.com/2p3ch78j"
         xPostUrl="https://x.com/C3Heditor/status/2038355855188324370"
         imageSrc="https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/2026-03-29_154211_d56fadd5.jpg"
-        tags={["Los Angeles", "Los Angeles"]}
+        tags={["Los Angeles"]}
       />
       <ArticleBlock
         headline="Democrat Utopia: Elderly Veteran Shoved Onto NYC Subway Tracks — Illegal Alien Charged"

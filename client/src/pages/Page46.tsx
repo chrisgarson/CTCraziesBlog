@@ -81,7 +81,7 @@ export default function Home() {
         tinyUrl="https://tinyurl.com/24a3s4r5"
         xPostUrl="https://x.com/C3Heditor/status/2052848966564221331"
         imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-05-08_153222_dd3ecc2b.jpg"
-        tags={["CBP-DHS-ICE", "Immigration", "Vehicle Attack"]}
+        tags={["CBP-DHS-ICE", "Immigration", "Terrorism"]}
       />
       <ArticleBlock
         headline="Just another Day In Violent Democrat Urban Areas: 14-Year-Old Boy Shot While Sitting In A Parked Car In Targeted NYC Attack"

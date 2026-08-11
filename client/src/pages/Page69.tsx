@@ -39,7 +39,7 @@ export default function Page2() {
         tinyUrl="https://tinyurl.com/bp6wf99y"
         xPostUrl="https://x.com/C3Heditor/status/2080726153904668799"
         imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-07-24_134648.jpg"
-        tags={["Economic Policy", "Politics", "Conservative Politics"]}
+        tags={["Economic Policy", "Politics"]}
       />
       <ArticleBlock
         headline="Democrats' Favorite Legal Thug 'Blew Through Constitutional Stop Signs' by Obtaining Texts of 40 GOP Lawmakers"
@@ -53,7 +53,7 @@ export default function Page2() {
         tinyUrl="https://tinyurl.com/mrzb4msb"
         xPostUrl="https://x.com/C3Heditor/status/2080724827598700914"
         imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-07-24_134103.jpg"
-        tags={["DOJ", "Weaponization", "Criminal Investigation"]}
+        tags={["DOJ", "Weaponization", "Investigation"]}
       />
       <ArticleBlock
         headline="Democrat-Antifa Soldier Is Charged With Attacking NYC Federal Building"
@@ -67,14 +67,14 @@ export default function Page2() {
         tinyUrl="https://tinyurl.com/bdfah88h"
         xPostUrl="https://x.com/C3Heditor/status/2080413650880213043"
         imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-07-23_170435.jpg"
-        tags={["Culture War", "LGBTQ", "Conservative Politics"]}
+        tags={["Culture War", "LGBTQ", "Politics"]}
       />
       <ArticleBlock
         headline="Hate and Violence Threats by Democrat Activists Towards Trump Administration Officials Reach Unprecedented Levels, per Secret Service Director"
         tinyUrl="https://tinyurl.com/x699k9ev"
         xPostUrl="https://x.com/C3Heditor/status/2080412533664452934"
         imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-07-23_170007.jpg"
-        tags={["Assassination", "National Security", "Violence"]}
+        tags={["Trump-Derangement", "National Security", "Violence"]}
       />
       <ArticleBlock
         headline="Democrat Governor of New Jersey, Mikie Sherrill, Admits Her State Has Thousands of Illegal Voters on Its Rolls"

@@ -11,7 +11,7 @@ export default function Page10() {
         tinyUrl="https://tinyurl.com/2chpazpu"
         xPostUrl="https://x.com/C3Heditor/status/2039082745360757131"
         imageSrc="https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/2026-03-31_155020_ef8ad353.jpg"
-        tags={["Minnesota", "Corruption-Fraud", "Corruption-Fraud", "Tim Walz"]}
+        tags={["Minnesota", "Corruption-Fraud", "Tim Walz"]}
       />
       <ArticleBlock
         headline="Govt Incompetence: Two Years Later, No Key Bridge Rebuild As Maryland Democrats Focus On Tampons In Men&#39;s Bathrooms"
@@ -130,7 +130,7 @@ export default function Page10() {
         tinyUrl="https://tinyurl.com/ypjsa6ae"
         xPostUrl="https://x.com/C3Heditor/status/2039064324887523820"
         imageSrc="https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/2026-03-31_143714_717fab4a.jpg"
-        tags={["Election Fraud", "Pew Research Center"]}
+        tags={["Election Fraud", "Polling"]}
       />
       <ArticleBlock
         headline="Indiana Democrat-Partisan Judge Invents a Religious Right to Abortion and Uses It to Block the State Ban"

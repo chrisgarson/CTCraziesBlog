@@ -435,3 +435,8 @@
 - [x] Ensure gen_pages_template.py uses PageHeader component on Home page (not inline header)
 - [x] Ensure gen_pages_template.py uses correct CDN_BASE URL (files.manuscdn.com)
 - [x] Ensure gen_pages_template.py uses flexible column header matching for Excel files
+
+## Topic Tag Cleanup — Part B (August 11, 2026)
+- [x] Review and validate the user-provided 61-topic-tag cleanup mapping before implementation
+- [x] Apply the approved topic-tag consolidations to both tag-index.json copies and article data
+- [ ] Rebuild, deploy, and verify the reduced topic-tag index

@@ -46,7 +46,7 @@ export default function Home() {
         tinyUrl="https://tinyurl.com/yxuy9pv3"
         xPostUrl="https://x.com/C3Heditor/status/2060790254857007592"
         imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-05-30_132853_1e8f2351.jpg"
-        tags={["Left-Wing", "Terrorism", "Turning Point USA"]}
+        tags={["Left-Wing", "Terrorism", "Politics"]}
       />
       <ArticleBlock
         headline="MSNOW Democrat Propagandist Embarrasses Herself By Revealing Complete Ignorance of Where American Rights Emanate From: “endowed by their Creator”"

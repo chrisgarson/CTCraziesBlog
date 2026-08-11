@@ -82,7 +82,7 @@ export default function Home() {
         tinyUrl="https://tinyurl.com/5dwj7jh6"
         xPostUrl="https://x.com/C3Heditor/status/2048732997269295244"
         imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/oNRjfMUShHBSqTxe.jpg"
-        tags={["Bill de Blasio", "Left-Wing", "China Policy"]}
+        tags={["Bill de Blasio", "Left-Wing", "China"]}
       />
       <ArticleBlock
         headline="Even After Rape Claims, Democrat Swalwell Kept Raking In Cash While Grabbing Control of $4Mil"

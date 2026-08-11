@@ -11,7 +11,7 @@ export default function Page28() {
         tinyUrl="https://tinyurl.com/2m9cmjkp"
         xPostUrl="https://x.com/C3Heditor/status/2023890174850256927"
         imageSrc="https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/post100_clean_117d5ce3.jpg"
-        tags={["Zohran Mamdani", "Taxation", "New York", "Rent Increases"]}
+        tags={["Zohran Mamdani", "Taxation", "New York", "Affordability"]}
       />
       <ArticleBlock
         headline="Another American's death due to Democrats' protecting illegal aliens"
@@ -39,7 +39,7 @@ export default function Page28() {
         tinyUrl="https://tinyurl.com/ypv6pjf9"
         xPostUrl="https://x.com/C3Heditor/status/2023885702367461398"
         imageSrc="https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/post96_clean_c13ad169.jpg"
-        tags={["Alexandria Ocasio-Cortez", "Munich Security Conference", "Epstein"]}
+        tags={["Alexandria Ocasio-Cortez", "National Security", "Epstein"]}
       />
       <ArticleBlock
         headline="Fed agents find 3,360 missing kids in Minneapolis that Democrat politicians didn't care about"
@@ -74,7 +74,7 @@ export default function Page28() {
         tinyUrl="https://tinyurl.com/s3cun7yt"
         xPostUrl="https://x.com/C3Heditor/status/2023525686204657880"
         imageSrc="https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/post91_clean_28583aa3.jpg"
-        tags={["Super Bowl", "California"]}
+        tags={["Taxation", "California"]}
       />
       <ArticleBlock
         headline="Democrat Senator: Fetterman says Dems treat voters like children"
@@ -102,7 +102,7 @@ export default function Page28() {
         tinyUrl="https://tinyurl.com/yeymssxs"
         xPostUrl="https://x.com/C3Heditor/status/2023517845989323083"
         imageSrc="https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/post87_clean_99975ce7.jpg"
-        tags={["Sewage Spill", "Maryland", "Economic Policy"]}
+        tags={["Incompetence", "Maryland", "Economic Policy"]}
       />
       <ArticleBlock
         headline="Students Threaten Press at Anti-ICE Walkout: ‘If I Had A Gun, I’d Pew-Pew Your Motherf*cking A*S!’"
@@ -137,7 +137,7 @@ export default function Page28() {
         tinyUrl="https://tinyurl.com/mwn2c5zw"
         xPostUrl="https://x.com/C3Heditor/status/2023164321820201100"
         imageSrc="https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/post82_clean_b3f5886a.jpg"
-        tags={["Corruption-Fraud", "New York", "Kathy Hochul", "Corruption-Fraud"]}
+        tags={["Corruption-Fraud", "New York", "Kathy Hochul"]}
       />
       <ArticleBlock
         headline="Thank you, Democrats: California's 'Eat The Rich' policies produce a reverse Gold-Rush"

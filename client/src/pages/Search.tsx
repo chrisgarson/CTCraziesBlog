@@ -170,7 +170,7 @@ const articles = [
     "tinyUrl": "https://tinyurl.com/kpc3nzke",
     "xPostUrl": "https://x.com/C3Heditor/status/2082071568901914884",
     "imageUrl": "https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-07-28_065225.jpg",
-    "tags": ["Governor Tim Walz", "Assassination", "Violence", "Minnesota"],
+    "tags": ["Governor Tim Walz", "Trump-Derangement", "Violence", "Minnesota"],
     "page": 5,
     "batchDate": "2026-07-28"
   },
@@ -233,7 +233,7 @@ const articles = [
     "tinyUrl": "https://tinyurl.com/bp6wf99y",
     "xPostUrl": "https://x.com/C3Heditor/status/2080726153904668799",
     "imageUrl": "https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-07-24_134648.jpg",
-    "tags": ["Economic Policy", "Politics", "Conservative Politics"],
+    "tags": ["Economic Policy", "Politics"],
     "page": 69,
     "batchDate": "July 24, 2026"
   },
@@ -251,7 +251,7 @@ const articles = [
     "tinyUrl": "https://tinyurl.com/mrzb4msb",
     "xPostUrl": "https://x.com/C3Heditor/status/2080724827598700914",
     "imageUrl": "https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-07-24_134103.jpg",
-    "tags": ["DOJ", "Weaponization", "Criminal Investigation"],
+    "tags": ["DOJ", "Weaponization", "Investigation"],
     "page": 69,
     "batchDate": "July 24, 2026"
   },
@@ -269,7 +269,7 @@ const articles = [
     "tinyUrl": "https://tinyurl.com/bdfah88h",
     "xPostUrl": "https://x.com/C3Heditor/status/2080413650880213043",
     "imageUrl": "https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-07-23_170435.jpg",
-    "tags": ["Culture War", "LGBTQ", "Conservative Politics"],
+    "tags": ["Culture War", "LGBTQ", "Politics"],
     "page": 69,
     "batchDate": "July 24, 2026"
   },
@@ -278,7 +278,7 @@ const articles = [
     "tinyUrl": "https://tinyurl.com/x699k9ev",
     "xPostUrl": "https://x.com/C3Heditor/status/2080412533664452934",
     "imageUrl": "https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-07-23_170007.jpg",
-    "tags": ["Assassination", "National Security", "Violence"],
+    "tags": ["Trump-Derangement", "National Security", "Violence"],
     "page": 69,
     "batchDate": "July 24, 2026"
   },
@@ -1304,7 +1304,7 @@ const articles = [
     "tinyUrl": "https://tinyurl.com/kyd5bekt",
     "xPostUrl": "https://x.com/C3Heditor/status/2075588722507108512",
     "imageUrl": "https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-07-10_093201.jpg",
-    "tags": ["California", "Gas Prices", "Economic Policy"],
+    "tags": ["California", "Affordability", "Economic Policy"],
     "page": 64,
     "batchDate": "July 10, 2026"
   },
@@ -1745,7 +1745,7 @@ const articles = [
     "tinyUrl": "https://tinyurl.com/ymakc29b",
     "xPostUrl": "https://x.com/C3Heditor/status/2069882548335903198",
     "imageUrl": "https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-06-24_153811.jpg",
-    "tags": ["Left-Wing", "Vandalism", "DOJ"],
+    "tags": ["Left-Wing", "Crime", "DOJ"],
     "page": 62,
     "batchDate": "June 24, 2026"
   },
@@ -2006,7 +2006,7 @@ const articles = [
     "tinyUrl": "https://tinyurl.com/y2v9z6hn",
     "xPostUrl": "https://x.com/C3Heditor/status/2068813325161361731",
     "imageUrl": "https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-06-21_164900.jpg",
-    "tags": ["Wes Moore", "Maryland", "Criminal Investigation"],
+    "tags": ["Wes Moore", "Maryland", "Investigation"],
     "page": 60,
     "batchDate": "June 21, 2026"
   },
@@ -2015,7 +2015,7 @@ const articles = [
     "tinyUrl": "https://tinyurl.com/ykjvryte",
     "xPostUrl": "https://x.com/C3Heditor/status/2068812197665354122",
     "imageUrl": "https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-06-21_164428.jpg",
-    "tags": ["Connecticut", "Election Fraud", "Criminal Investigation"],
+    "tags": ["Connecticut", "Election Fraud", "Investigation"],
     "page": 60,
     "batchDate": "June 21, 2026"
   },
@@ -2042,7 +2042,7 @@ const articles = [
     "tinyUrl": "https://tinyurl.com/5489eu8c",
     "xPostUrl": "https://x.com/C3Heditor/status/2068809693967856029",
     "imageUrl": "https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-06-21_163430.jpg",
-    "tags": ["LGBTQ", "Felony Charges", "Sexual Misconduct"],
+    "tags": ["LGBTQ", "Violent Crime", "Sexual Misconduct"],
     "page": 60,
     "batchDate": "June 21, 2026"
   },
@@ -2798,7 +2798,7 @@ const articles = [
     "tinyUrl": "https://tinyurl.com/58jmjydj",
     "xPostUrl": "https://x.com/C3Heditor/status/2062922306565915043",
     "imageUrl": "https://static-assets.manus.space/manus-storage/2026-06-05_104300_bc8ec037.jpg",
-    "tags": ["Culture War", "Menstrual Products", "Left-Wing"],
+    "tags": ["Culture War", "Left-Wing"],
     "page": 56,
     "batchDate": "June 5, 2026"
   },
@@ -2978,7 +2978,7 @@ const articles = [
     "tinyUrl": "https://tinyurl.com/3b3cues6",
     "xPostUrl": "https://x.com/C3Heditor/status/2062278629309001799",
     "imageUrl": "https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-06-03_160227_d77197cf.jpg",
-    "tags": ["California", "Urban Decay", "Soft-On-Crime", "Government"],
+    "tags": ["California", "Incompetence", "Soft-On-Crime", "Government"],
     "page": 55,
     "batchDate": "June 3, 2026"
   },
@@ -3131,7 +3131,7 @@ const articles = [
     "tinyUrl": "https://tinyurl.com/3ahj94tw",
     "xPostUrl": "https://x.com/C3Heditor/status/2061533643776893058",
     "imageUrl": "https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-06-01_144213_9d05ca3f.jpg",
-    "tags": ["Tennessee Politics", "Corruption-Fraud", "2026 Elections", "Politics"],
+    "tags": ["Politics", "Corruption-Fraud", "2026 Elections"],
     "page": 54,
     "batchDate": "June 1, 2026"
   },
@@ -3293,7 +3293,7 @@ const articles = [
     "tinyUrl": "https://tinyurl.com/yxuy9pv3",
     "xPostUrl": "https://x.com/C3Heditor/status/2060790254857007592",
     "imageUrl": "https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-05-30_132853_1e8f2351.jpg",
-    "tags": ["Left-Wing", "Terrorism", "Turning Point USA"],
+    "tags": ["Left-Wing", "Terrorism", "Politics"],
     "page": 53,
     "batchDate": "May 30, 2026"
   },
@@ -3428,7 +3428,7 @@ const articles = [
     "tinyUrl": "https://tinyurl.com/yc8bnavb",
     "xPostUrl": "https://x.com/C3Heditor/status/2060387501592695250",
     "imageUrl": "https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-05-29_104817_9ab7b074.jpg",
-    "tags": ["California", "Corruption-Fraud", "Non-Profit", "2026 Elections"],
+    "tags": ["California", "Corruption-Fraud", "2026 Elections"],
     "page": 52,
     "batchDate": "May 29, 2026"
   },
@@ -3500,7 +3500,7 @@ const articles = [
     "tinyUrl": "https://tinyurl.com/3us3k2nd",
     "xPostUrl": "https://x.com/C3Heditor/status/2060399419795620034",
     "imageUrl": "https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-05-29_113509_2cca7561.jpg",
-    "tags": ["New York", "Corruption-Fraud", "Corruption-Fraud", "Corruption-Fraud"],
+    "tags": ["New York", "Corruption-Fraud"],
     "page": 52,
     "batchDate": "May 29, 2026"
   },
@@ -3599,7 +3599,7 @@ const articles = [
     "tinyUrl": "https://tinyurl.com/mubjxxpm",
     "xPostUrl": "https://x.com/C3Heditor/status/2060429979029012840",
     "imageUrl": "https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-05-29_133452_923210b8.jpg",
-    "tags": ["Texas", "Veganism", "2026 Elections"],
+    "tags": ["Texas", "Culture War", "2026 Elections"],
     "page": 52,
     "batchDate": "May 29, 2026"
   },
@@ -3990,7 +3990,7 @@ const articles = [
     "tinyUrl": "https://tinyurl.com/yx7sbmwz",
     "xPostUrl": "https://x.com/C3Heditor/status/2059377828441837711",
     "imageUrl": "https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-05-26_155555_847aa48a.jpg",
-    "tags": ["Culture War", "Republican Party", "Education Policy"],
+    "tags": ["Culture War", "Politics", "Education Policy"],
     "page": 49,
     "batchDate": "May 26, 2026"
   },
@@ -4116,7 +4116,7 @@ const articles = [
     "tinyUrl": "https://tinyurl.com/48ufmyw2",
     "xPostUrl": "https://x.com/C3Heditor/status/2059357536348733930",
     "imageUrl": "https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-05-26_143740_059bf2b4.jpg",
-    "tags": ["Wisconsin", "Taxation", "Republican Party"],
+    "tags": ["Wisconsin", "Taxation", "Politics"],
     "page": 49,
     "batchDate": "May 26, 2026"
   },
@@ -4224,7 +4224,7 @@ const articles = [
     "tinyUrl": "https://tinyurl.com/4pukwd32",
     "xPostUrl": "https://x.com/C3Heditor/status/2056470525627494784",
     "imageUrl": "https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-05-18_152309_77ba4777.jpg",
-    "tags": ["Kamala Harris", "Judiciary-Judicial", "Electoral College", "WashingtonDC"],
+    "tags": ["Kamala Harris", "Judiciary-Judicial", "Politics", "WashingtonDC"],
     "page": 48,
     "batchDate": "May 18, 2026"
   },
@@ -4278,7 +4278,7 @@ const articles = [
     "tinyUrl": "https://tinyurl.com/2s3jyy7e",
     "xPostUrl": "https://x.com/C3Heditor/status/2056460326959567255",
     "imageUrl": "https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-05-18_144248_84bb781e.jpg",
-    "tags": ["Racial Issues", "Conservative Politics"],
+    "tags": ["Racial Issues", "Politics"],
     "page": 48,
     "batchDate": "May 18, 2026"
   },
@@ -4287,7 +4287,7 @@ const articles = [
     "tinyUrl": "https://tinyurl.com/mrbsxe7h",
     "xPostUrl": "https://x.com/C3Heditor/status/2056459703824355458",
     "imageUrl": "https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-05-18_144013_7d935a35.jpg",
-    "tags": ["Los Angeles", "Government", "Urban Decay"],
+    "tags": ["Los Angeles", "Government", "Incompetence"],
     "page": 48,
     "batchDate": "May 18, 2026"
   },
@@ -4449,7 +4449,7 @@ const articles = [
     "tinyUrl": "https://tinyurl.com/3evwp7y5",
     "xPostUrl": "https://x.com/C3Heditor/status/2053206767086059833",
     "imageUrl": "https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-05-09_151421_cd16e717.jpg",
-    "tags": ["Justin Pearson", "Tennessee Politics"],
+    "tags": ["Justin Pearson", "Politics"],
     "page": 47,
     "batchDate": "May 09, 2026"
   },
@@ -4521,7 +4521,7 @@ const articles = [
     "tinyUrl": "https://tinyurl.com/57ctpthf",
     "xPostUrl": "https://x.com/C3Heditor/status/2053196588516798616",
     "imageUrl": "https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-05-09_143342_e32c6106.jpg",
-    "tags": ["Kathy Griffin", "Turning Point USA"],
+    "tags": ["Kathy Griffin", "Politics"],
     "page": 47,
     "batchDate": "May 09, 2026"
   },
@@ -4620,7 +4620,7 @@ const articles = [
     "tinyUrl": "https://tinyurl.com/24a3s4r5",
     "xPostUrl": "https://x.com/C3Heditor/status/2052848966564221331",
     "imageUrl": "https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-05-08_153222_dd3ecc2b.jpg",
-    "tags": ["CBP-DHS-ICE", "Immigration", "Vehicle Attack"],
+    "tags": ["CBP-DHS-ICE", "Immigration", "Terrorism"],
     "page": 46,
     "batchDate": "May 08, 2026"
   },
@@ -4773,7 +4773,7 @@ const articles = [
     "tinyUrl": "https://tinyurl.com/yc5cx9cw",
     "xPostUrl": "https://x.com/C3Heditor/status/2052040184200335453",
     "imageUrl": "https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/NaYMpBvEdEazljdM.jpg",
-    "tags": ["The View", "Left-Wing", "Assassination"],
+    "tags": ["The View", "Left-Wing", "Trump-Derangement"],
     "page": 45,
     "batchDate": "May 06, 2026"
   },
@@ -4827,7 +4827,7 @@ const articles = [
     "tinyUrl": "https://tinyurl.com/yxzbvsm5",
     "xPostUrl": "https://x.com/C3Heditor/status/2051781765757284535",
     "imageUrl": "https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/zBUzImUJQaNJpGLr.jpg",
-    "tags": ["Corruption-Fraud", "Food Stamps"],
+    "tags": ["Corruption-Fraud"],
     "page": 45,
     "batchDate": "May 06, 2026"
   },
@@ -4845,7 +4845,7 @@ const articles = [
     "tinyUrl": "https://tinyurl.com/53ph6yf5",
     "xPostUrl": "https://x.com/C3Heditor/status/2051779883240464693",
     "imageUrl": "https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/ATsGwdIRYBwjSCue.jpg",
-    "tags": ["Assassination", "Politics"],
+    "tags": ["Trump-Derangement", "Politics"],
     "page": 45,
     "batchDate": "May 06, 2026"
   },
@@ -4863,7 +4863,7 @@ const articles = [
     "tinyUrl": "https://tinyurl.com/2s3bk88r",
     "xPostUrl": "https://x.com/C3Heditor/status/2051777293597413441",
     "imageUrl": "https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/tLBjVdDGufkVfLyk.jpg",
-    "tags": ["Left-Wing", "Politics", "Assassination"],
+    "tags": ["Left-Wing", "Politics", "Trump-Derangement"],
     "page": 45,
     "batchDate": "May 06, 2026"
   },
@@ -4872,7 +4872,7 @@ const articles = [
     "tinyUrl": "https://tinyurl.com/muzbpehh",
     "xPostUrl": "https://x.com/C3Heditor/status/2051776070014091282",
     "imageUrl": "https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/qwqvNvtTjkAMloRM.jpg",
-    "tags": ["Wajahat Ali", "Twitchy Politics", "Politics", "Media Bias"],
+    "tags": ["Wajahat Ali", "Politics", "Media Bias"],
     "page": 45,
     "batchDate": "May 06, 2026"
   },
@@ -4980,7 +4980,7 @@ const articles = [
     "tinyUrl": "https://tinyurl.com/2zbdr9ve",
     "xPostUrl": "https://x.com/C3Heditor/status/2051050551362629708",
     "imageUrl": "https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/gAnfPueLUpEcvnrW.jpg",
-    "tags": ["Gavin Newsom", "911 System", "California"],
+    "tags": ["Gavin Newsom", "Incompetence", "California"],
     "page": 44,
     "batchDate": "May 03, 2026"
   },
@@ -4998,7 +4998,7 @@ const articles = [
     "tinyUrl": "https://tinyurl.com/4n2hzdpx",
     "xPostUrl": "https://x.com/C3Heditor/status/2051047021855866996",
     "imageUrl": "https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/nihPJnjQrhooCfQl.jpg",
-    "tags": ["Jimmy Kimmel", "Assassination"],
+    "tags": ["Jimmy Kimmel", "Trump-Derangement"],
     "page": 44,
     "batchDate": "May 03, 2026"
   },
@@ -5007,7 +5007,7 @@ const articles = [
     "tinyUrl": "https://tinyurl.com/7dbwsemw",
     "xPostUrl": "https://x.com/C3Heditor/status/2051045040672125153",
     "imageUrl": "https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/mXKPVronDXvVbdkk.jpg",
-    "tags": ["Left-Wing", "Assassination"],
+    "tags": ["Left-Wing", "Trump-Derangement"],
     "page": 44,
     "batchDate": "May 03, 2026"
   },
@@ -5025,7 +5025,7 @@ const articles = [
     "tinyUrl": "https://tinyurl.com/28az8rfc",
     "xPostUrl": "https://x.com/C3Heditor/status/2051042131045761123",
     "imageUrl": "https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/ogwdiYLWIEuSkeGf.jpg",
-    "tags": ["Assassination", "Media Bias", "Twitchy Politics"],
+    "tags": ["Trump-Derangement", "Media Bias", "Politics"],
     "page": 44,
     "batchDate": "May 03, 2026"
   },
@@ -5034,7 +5034,7 @@ const articles = [
     "tinyUrl": "https://tinyurl.com/yxmk68nr",
     "xPostUrl": "https://x.com/C3Heditor/status/2051040599113883719",
     "imageUrl": "https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/AbPSakTPlVjdrObG.jpg",
-    "tags": ["North Carolina", "Election Fraud", "Systematic Alien Verification"],
+    "tags": ["North Carolina", "Election Fraud", "Immigration"],
     "page": 44,
     "batchDate": "May 03, 2026"
   },
@@ -5043,7 +5043,7 @@ const articles = [
     "tinyUrl": "https://tinyurl.com/yc6uh24m",
     "xPostUrl": "https://x.com/C3Heditor/status/2051039167656718480",
     "imageUrl": "https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/HcgTggDGNUCJQKmU.jpg",
-    "tags": ["Federal Indictment", "CBP-DHS-ICE"],
+    "tags": ["Hate", "CBP-DHS-ICE"],
     "page": 44,
     "batchDate": "May 03, 2026"
   },
@@ -5088,7 +5088,7 @@ const articles = [
     "tinyUrl": "https://tinyurl.com/2hfnx4d3",
     "xPostUrl": "https://x.com/C3Heditor/status/2050616616379957265",
     "imageUrl": "https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/zlKjtBHMLEmYPwdY.jpg",
-    "tags": ["Politics", "Assassination"],
+    "tags": ["Politics", "Trump-Derangement"],
     "page": 43,
     "batchDate": "May 02, 2026"
   },
@@ -5133,7 +5133,7 @@ const articles = [
     "tinyUrl": "https://tinyurl.com/9w8ucpk5",
     "xPostUrl": "https://x.com/C3Heditor/status/2050542156272808168",
     "imageUrl": "https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/SlHyHIclGwNjpjQQ.jpg",
-    "tags": ["Election Fraud", "Judiciary-Judicial", "Judiciary-Judicial", "2026 Elections"],
+    "tags": ["Election Fraud", "Judiciary-Judicial", "2026 Elections"],
     "page": 43,
     "batchDate": "May 02, 2026"
   },
@@ -5142,7 +5142,7 @@ const articles = [
     "tinyUrl": "https://tinyurl.com/txa2rkrj",
     "xPostUrl": "https://x.com/C3Heditor/status/2050539613706699082",
     "imageUrl": "https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/ovkIDvxLFJwRENfK.jpg",
-    "tags": ["Culture War", "PPP Loans", "Twitchy Politics", "Biden Administration"],
+    "tags": ["Culture War", "Corruption-Fraud", "Politics", "Biden Administration"],
     "page": 43,
     "batchDate": "May 02, 2026"
   },
@@ -5250,7 +5250,7 @@ const articles = [
     "tinyUrl": "https://tinyurl.com/5bfbzce7",
     "xPostUrl": "https://x.com/C3Heditor/status/2048866523692081583",
     "imageUrl": "https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/kVcsMThomMkIcSFG.jpg",
-    "tags": ["Assassination", "Violent Crime", "Media Bias"],
+    "tags": ["Trump-Derangement", "Violent Crime", "Media Bias"],
     "page": 42,
     "batchDate": "Apr 27, 2026"
   },
@@ -5268,7 +5268,7 @@ const articles = [
     "tinyUrl": "https://tinyurl.com/47afw97z",
     "xPostUrl": "https://x.com/C3Heditor/status/2048862126463479875",
     "imageUrl": "https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/bVcQklAyFYEdWCSO.jpg",
-    "tags": ["SPLC", "Assassination"],
+    "tags": ["SPLC", "Trump-Derangement"],
     "page": 42,
     "batchDate": "Apr 27, 2026"
   },
@@ -5304,7 +5304,7 @@ const articles = [
     "tinyUrl": "https://tinyurl.com/3f9jev85",
     "xPostUrl": "https://x.com/C3Heditor/status/2048857906787873188",
     "imageUrl": "https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/MRcKIAUqxUabhZhL.jpg",
-    "tags": ["Assassination", "Wisconsin"],
+    "tags": ["Trump-Derangement", "Wisconsin"],
     "page": 42,
     "batchDate": "Apr 27, 2026"
   },
@@ -5358,7 +5358,7 @@ const articles = [
     "tinyUrl": "https://tinyurl.com/2z9cbz4b",
     "xPostUrl": "https://x.com/C3Heditor/status/2048845826831630835",
     "imageUrl": "https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/TsBybqeMuyuHmAOd.jpg",
-    "tags": ["SPLC", "Criminal Investigation", "DOJ"],
+    "tags": ["SPLC", "Investigation", "DOJ"],
     "page": 42,
     "batchDate": "Apr 27, 2026"
   },
@@ -5520,7 +5520,7 @@ const articles = [
     "tinyUrl": "https://tinyurl.com/5dwj7jh6",
     "xPostUrl": "https://x.com/C3Heditor/status/2048732997269295244",
     "imageUrl": "https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/oNRjfMUShHBSqTxe.jpg",
-    "tags": ["Bill de Blasio", "Left-Wing", "China Policy"],
+    "tags": ["Bill de Blasio", "Left-Wing", "China"],
     "page": 41,
     "batchDate": "Apr 27, 2026"
   },
@@ -5691,7 +5691,7 @@ const articles = [
     "tinyUrl": "https://tinyurl.com/4czwbepu",
     "xPostUrl": "https://x.com/C3Heditor/status/2048446384462831941",
     "imageUrl": "https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/jJiFiCJXHsqgWZSr.jpg",
-    "tags": ["Graham Platner", "Maine", "China Policy", "Climate Change"],
+    "tags": ["Graham Platner", "Maine", "China", "Climate Change"],
     "page": 40,
     "batchDate": "Apr 26, 2026"
   },
@@ -5700,7 +5700,7 @@ const articles = [
     "tinyUrl": "https://tinyurl.com/bdz64zsb",
     "xPostUrl": "https://x.com/C3Heditor/status/2048445137756320026",
     "imageUrl": "https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/UJoNlvJVyMBmPdZY.jpg",
-    "tags": ["Chuck Schumer", "CBP-DHS-ICE", "Senate Funding Bill"],
+    "tags": ["Chuck Schumer", "CBP-DHS-ICE", "Politics"],
     "page": 40,
     "batchDate": "Apr 26, 2026"
   },
@@ -5709,7 +5709,7 @@ const articles = [
     "tinyUrl": "https://tinyurl.com/57pmwkst",
     "xPostUrl": "https://x.com/C3Heditor/status/2048444264191820164",
     "imageUrl": "https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/FARtIZPOrDZjPfVF.jpg",
-    "tags": ["Eric Swalwell", "Manhattan D.A.", "Sexual Misconduct"],
+    "tags": ["Eric Swalwell", "Ethics-Morals", "Sexual Misconduct"],
     "page": 40,
     "batchDate": "Apr 26, 2026"
   },
@@ -5718,7 +5718,7 @@ const articles = [
     "tinyUrl": "https://tinyurl.com/mry69ukt",
     "xPostUrl": "https://x.com/C3Heditor/status/2048442373311504710",
     "imageUrl": "https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/qFIUBJBPrpTPiSAj.jpg",
-    "tags": ["SPLC", "Christianity", "Federal Indictment"],
+    "tags": ["SPLC", "Christianity", "Hate"],
     "page": 40,
     "batchDate": "Apr 26, 2026"
   },
@@ -5754,7 +5754,7 @@ const articles = [
     "tinyUrl": "https://tinyurl.com/nhzz8dp9",
     "xPostUrl": "https://x.com/C3Heditor/status/2048355310847348798",
     "imageUrl": "https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/SnzjbpZEqnbQhhjb.jpg",
-    "tags": ["Assassination", "Media Bias", "Violence"],
+    "tags": ["Trump-Derangement", "Media Bias", "Violence"],
     "page": 40,
     "batchDate": "Apr 26, 2026"
   },
@@ -5763,7 +5763,7 @@ const articles = [
     "tinyUrl": "https://tinyurl.com/44sve2ej",
     "xPostUrl": "https://x.com/C3Heditor/status/2048351956335231006",
     "imageUrl": "https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/zfpITrQpxfpbTfZI.jpg",
-    "tags": ["Assassination", "Journalism", "Censorship"],
+    "tags": ["Trump-Derangement", "Journalism", "Censorship"],
     "page": 40,
     "batchDate": "Apr 26, 2026"
   },
@@ -5871,7 +5871,7 @@ const articles = [
     "tinyUrl": "https://tinyurl.com/433h94t9",
     "xPostUrl": "https://x.com/C3Heditor/status/2046700919543177495",
     "imageUrl": "https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/IlLOpmUJqIWTJZKD.jpg",
-    "tags": ["Uber", "Taxation"],
+    "tags": ["Taxation"],
     "page": 39,
     "batchDate": "Apr 21, 2026"
   },
@@ -5880,7 +5880,7 @@ const articles = [
     "tinyUrl": "https://tinyurl.com/ymrjajsy",
     "xPostUrl": "https://x.com/C3Heditor/status/2046700109358842244",
     "imageUrl": "https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/APjyUGEnJWmPmkIx.jpg",
-    "tags": ["CBP-DHS-ICE", "Felony Charges", "Minneapolis"],
+    "tags": ["CBP-DHS-ICE", "Violent Crime", "Minneapolis"],
     "page": 39,
     "batchDate": "Apr 21, 2026"
   },
@@ -5898,7 +5898,7 @@ const articles = [
     "tinyUrl": "https://tinyurl.com/4p6jx4se",
     "xPostUrl": "https://x.com/C3Heditor/status/2046698818779967877",
     "imageUrl": "https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/GalqgcVhbJGmWUUv.jpg",
-    "tags": ["Pew Research Center", "Immigration"],
+    "tags": ["Polling", "Immigration"],
     "page": 39,
     "batchDate": "Apr 21, 2026"
   },
@@ -6042,7 +6042,7 @@ const articles = [
     "tinyUrl": "https://tinyurl.com/4d4keh5r",
     "xPostUrl": "https://x.com/C3Heditor/status/2046322379627069635",
     "imageUrl": "https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/tUNfiKkDOuOBCUYC.jpg",
-    "tags": ["Washington", "Drug Crime", "Non-Profit"],
+    "tags": ["Washington", "Drug Crime", "Corruption-Fraud"],
     "page": 38,
     "batchDate": "Apr 20, 2026"
   },
@@ -6096,7 +6096,7 @@ const articles = [
     "tinyUrl": "https://tinyurl.com/4xprddya",
     "xPostUrl": "https://x.com/C3Heditor/status/2046310557557440651",
     "imageUrl": "https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/fiNHZjQtWbINVbUR.jpg",
-    "tags": ["Los Angeles", "Homeless", "Los Angeles"],
+    "tags": ["Los Angeles", "Homeless"],
     "page": 38,
     "batchDate": "Apr 20, 2026"
   },
@@ -6222,7 +6222,7 @@ const articles = [
     "tinyUrl": "https://tinyurl.com/dcffb8sp",
     "xPostUrl": "https://x.com/C3Heditor/status/2045520994308161954",
     "imageUrl": "https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/cGLlzqJdrBOQZQZp.jpg",
-    "tags": ["Abigail Spanberger", "Electoral College", "Virginia"],
+    "tags": ["Abigail Spanberger", "Politics", "Virginia"],
     "page": 37,
     "batchDate": "Apr 18, 2026"
   },
@@ -6627,7 +6627,7 @@ const articles = [
     "tinyUrl": "https://tinyurl.com/48m9t32d",
     "xPostUrl": "https://x.com/C3Heditor/status/2044784828239782165",
     "imageUrl": "https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/2026-04-16_092706_070d03a7.jpg",
-    "tags": ["Chicago", "Police Shooting", "Left-Wing", "Virtue Signaling"],
+    "tags": ["Chicago", "Law Enforcement", "Left-Wing", "Virtue Signaling"],
     "page": 35,
     "batchDate": "Apr 16, 2026"
   },
@@ -6780,7 +6780,7 @@ const articles = [
     "tinyUrl": "https://tinyurl.com/4vw64mf8",
     "xPostUrl": "https://x.com/C3Heditor/status/2044126108589687197",
     "imageUrl": "https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/2026-04-14_135056_7c71f0cd.jpg",
-    "tags": ["Amy Acton", "Ohio", "Police Report"],
+    "tags": ["Amy Acton", "Ohio", "Law Enforcement"],
     "page": 34,
     "batchDate": "Apr 14, 2026"
   },
@@ -6960,7 +6960,7 @@ const articles = [
     "tinyUrl": "https://tinyurl.com/5n73tkpb",
     "xPostUrl": "https://x.com/C3Heditor/status/2043791506939531510",
     "imageUrl": "https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/2026-04-13_154128_92b12142.jpg",
-    "tags": ["Gavin Newsom", "California", "Corruption-Fraud", "Corruption-Fraud"],
+    "tags": ["Gavin Newsom", "California", "Corruption-Fraud"],
     "page": 33,
     "batchDate": "Apr 14, 2026"
   },
@@ -6996,7 +6996,7 @@ const articles = [
     "tinyUrl": "https://tinyurl.com/7uxfmsep",
     "xPostUrl": "https://x.com/C3Heditor/status/2043787717125832847",
     "imageUrl": "https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/2026-04-13_152637_2473b134.jpg",
-    "tags": ["Gas Prices", "Energy Policy", "Business Climate"],
+    "tags": ["Affordability", "Energy Policy", "Business Climate"],
     "page": 33,
     "batchDate": "Apr 14, 2026"
   },
@@ -7032,7 +7032,7 @@ const articles = [
     "tinyUrl": "https://tinyurl.com/yavcyatf",
     "xPostUrl": "https://x.com/C3Heditor/status/2043784765225009387",
     "imageUrl": "https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/2026-04-13_151436_7ee7fab6.jpg",
-    "tags": ["Eric Swalwell", "Sexual Misconduct", "Manhattan D.A.", "Investigation"],
+    "tags": ["Eric Swalwell", "Sexual Misconduct", "Ethics-Morals", "Investigation"],
     "page": 33,
     "batchDate": "Apr 14, 2026"
   },
@@ -7041,7 +7041,7 @@ const articles = [
     "tinyUrl": "https://tinyurl.com/6u6pezwu",
     "xPostUrl": "https://x.com/C3Heditor/status/2043783226368413894",
     "imageUrl": "https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/2026-04-13_150843_8da544af.jpg",
-    "tags": ["Racial Issues", "Politics", "Culture War", "US Politics"],
+    "tags": ["Racial Issues", "Politics", "Culture War"],
     "page": 33,
     "batchDate": "Apr 14, 2026"
   },
@@ -7113,7 +7113,7 @@ const articles = [
     "tinyUrl": "https://tinyurl.com/7hzymksc",
     "xPostUrl": "https://x.com/C3Heditor/status/2043429866347909269",
     "imageUrl": "https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/2026-04-12_154415_46c31a97.jpg",
-    "tags": ["California", "Los Angeles County", "Population Decline", "Affordability"],
+    "tags": ["California", "Los Angeles County", "Taxation", "Affordability"],
     "page": 32,
     "batchDate": "Apr 12, 2026"
   },
@@ -7140,7 +7140,7 @@ const articles = [
     "tinyUrl": "https://tinyurl.com/yc4k8wbh",
     "xPostUrl": "https://x.com/C3Heditor/status/2043427514815545654",
     "imageUrl": "https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/2026-04-12_153508_857f309b.jpg",
-    "tags": ["Assassination", "Politics"],
+    "tags": ["Trump-Derangement", "Politics"],
     "page": 32,
     "batchDate": "Apr 12, 2026"
   },
@@ -7149,7 +7149,7 @@ const articles = [
     "tinyUrl": "https://tinyurl.com/fd5nurrb",
     "xPostUrl": "https://x.com/C3Heditor/status/2043426627841908853",
     "imageUrl": "https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/2026-04-12_153124_3a5f4ca2.jpg",
-    "tags": ["Long Island", "Utility Bills", "Energy Policy", "Affordability"],
+    "tags": ["Long Island", "Affordability", "Energy Policy"],
     "page": 32,
     "batchDate": "Apr 12, 2026"
   },
@@ -7284,7 +7284,7 @@ const articles = [
     "tinyUrl": "https://tinyurl.com/3x2pt3ju",
     "xPostUrl": "https://x.com/C3Heditor/status/2043071682982605297",
     "imageUrl": "https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/2026-04-11_160130_d4db0300.jpg",
-    "tags": ["Feeding Our Future", "Minnesota", "Corruption-Fraud"],
+    "tags": ["Corruption-Fraud", "Minnesota"],
     "page": 31,
     "batchDate": "Apr 11, 2026"
   },
@@ -7293,7 +7293,7 @@ const articles = [
     "tinyUrl": "https://tinyurl.com/yrxjsdma",
     "xPostUrl": "https://x.com/C3Heditor/status/2043070598948012202",
     "imageUrl": "https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/2026-04-11_155656_dccc71bc.jpg",
-    "tags": ["Gavin Newsom", "California", "Los Angeles", "Population Decline"],
+    "tags": ["Gavin Newsom", "California", "Los Angeles", "Taxation"],
     "page": 31,
     "batchDate": "Apr 11, 2026"
   },
@@ -7320,7 +7320,7 @@ const articles = [
     "tinyUrl": "https://tinyurl.com/mr2yw8xd",
     "xPostUrl": "https://x.com/C3Heditor/status/2043065671655792657",
     "imageUrl": "https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/2026-04-11_153710_695ce597.jpg",
-    "tags": ["Homeless", "Urban Decay", "Drug Crime"],
+    "tags": ["Homeless", "Incompetence", "Drug Crime"],
     "page": 31,
     "batchDate": "Apr 11, 2026"
   },
@@ -7383,7 +7383,7 @@ const articles = [
     "tinyUrl": "https://tinyurl.com/77vb5hfz",
     "xPostUrl": "https://x.com/C3Heditor/status/2043058128904708170",
     "imageUrl": "https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/2026-04-11_150719_aab50993.jpg",
-    "tags": ["Immigration", "Violent Crime", "Hammer Attack", "CBP-DHS-ICE"],
+    "tags": ["Immigration", "Violent Crime", "CBP-DHS-ICE"],
     "page": 31,
     "batchDate": "Apr 11, 2026"
   },
@@ -7419,7 +7419,7 @@ const articles = [
     "tinyUrl": "https://tinyurl.com/yjnhe8x5",
     "xPostUrl": "https://x.com/C3Heditor/status/2040062151809810807",
     "imageUrl": "https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/2026-04-03_084409_add4ebfa.jpg",
-    "tags": ["Gavin Newsom", "California", "Munich Security Conference"],
+    "tags": ["Gavin Newsom", "California", "National Security"],
     "page": 30,
     "batchDate": "Apr 03, 2026"
   },
@@ -7482,7 +7482,7 @@ const articles = [
     "tinyUrl": "https://tinyurl.com/yb8e3p2u",
     "xPostUrl": "https://x.com/C3Heditor/status/2040053733007020196",
     "imageUrl": "https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/2026-04-03_080845_7f89a281.jpg",
-    "tags": ["Elderly Victim", "Stabbing Attack", "Homeless"],
+    "tags": ["Corruption-Fraud", "Violent Crime", "Homeless"],
     "page": 30,
     "batchDate": "Apr 03, 2026"
   },
@@ -7500,7 +7500,7 @@ const articles = [
     "tinyUrl": "https://tinyurl.com/5exuau77",
     "xPostUrl": "https://x.com/C3Heditor/status/2040051928797778240",
     "imageUrl": "https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/2026-04-03_080132_7922de2d.jpg",
-    "tags": ["Foreign Policy", "Taxation", "USAID"],
+    "tags": ["Foreign Policy", "Taxation", "Corruption-Fraud"],
     "page": 30,
     "batchDate": "Apr 03, 2026"
   },
@@ -7590,7 +7590,7 @@ const articles = [
     "tinyUrl": "https://tinyurl.com/5f9bjnsv",
     "xPostUrl": "https://x.com/C3Heditor/status/2040045257300095213",
     "imageUrl": "https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/2026-04-03_073501_fe844af8.jpg",
-    "tags": ["Immigration", "Violent Crime", "Kidnapping"],
+    "tags": ["Immigration", "Violent Crime"],
     "page": 29,
     "batchDate": "Apr 03, 2026"
   },
@@ -7626,7 +7626,7 @@ const articles = [
     "tinyUrl": "https://tinyurl.com/5cfa6tbr",
     "xPostUrl": "https://x.com/C3Heditor/status/2040041433680232703",
     "imageUrl": "https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/2026-04-03_071948_0c4b607d.jpg",
-    "tags": ["Corruption-Fraud", "Gavin Newsom", "Kamala Harris", "Corruption-Fraud"],
+    "tags": ["Corruption-Fraud", "Gavin Newsom", "Kamala Harris"],
     "page": 29,
     "batchDate": "Apr 03, 2026"
   },
@@ -7653,7 +7653,7 @@ const articles = [
     "tinyUrl": "https://tinyurl.com/4f9djz7j",
     "xPostUrl": "https://x.com/C3Heditor/status/2040037574979305784",
     "imageUrl": "https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/2026-04-03_070431_8fa0680f.jpg",
-    "tags": ["Judiciary-Judicial", "Violent Crime", "Pedophile Release"],
+    "tags": ["Judiciary-Judicial", "Violent Crime"],
     "page": 29,
     "batchDate": "Apr 03, 2026"
   },
@@ -7698,7 +7698,7 @@ const articles = [
     "tinyUrl": "https://tinyurl.com/mpear48a",
     "xPostUrl": "https://x.com/C3Heditor/status/2040032834778272087",
     "imageUrl": "https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/2026-04-03_064632_8047e716.jpg",
-    "tags": ["Healthcare Policy", "Affordable Care Act"],
+    "tags": ["Healthcare Policy"],
     "page": 29,
     "batchDate": "Apr 03, 2026"
   },
@@ -7716,7 +7716,7 @@ const articles = [
     "tinyUrl": "https://tinyurl.com/pxpxvz2w",
     "xPostUrl": "https://x.com/C3Heditor/status/2039823157465411888",
     "imageUrl": "https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/2026-04-02_165235_7271edd2.jpg",
-    "tags": ["Election Fraud", "Mar-a-Lago"],
+    "tags": ["Election Fraud", "Trump-Derangement"],
     "page": 29,
     "batchDate": "Apr 03, 2026"
   },
@@ -7725,7 +7725,7 @@ const articles = [
     "tinyUrl": "https://tinyurl.com/2h26bdu9",
     "xPostUrl": "https://x.com/C3Heditor/status/2039822194692251938",
     "imageUrl": "https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/2026-04-02_164849_6d9a4bd5.jpg",
-    "tags": ["Gavin Newsom", "Chevron", "California"],
+    "tags": ["Gavin Newsom", "Energy Policy", "California"],
     "page": 29,
     "batchDate": "Apr 03, 2026"
   },
@@ -7752,7 +7752,7 @@ const articles = [
     "tinyUrl": "https://tinyurl.com/43sx5fv8",
     "xPostUrl": "https://x.com/C3Heditor/status/2039819863410065682",
     "imageUrl": "https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/2026-04-02_163924_bfe0858d.jpg",
-    "tags": ["Feeding Our Future", "Judiciary-Judicial"],
+    "tags": ["Corruption-Fraud", "Judiciary-Judicial"],
     "page": 29,
     "batchDate": "Apr 03, 2026"
   },
@@ -7770,7 +7770,7 @@ const articles = [
     "tinyUrl": "https://tinyurl.com/2chpazpu",
     "xPostUrl": "https://x.com/C3Heditor/status/2039082745360757131",
     "imageUrl": "https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/2026-03-31_155020_ef8ad353.jpg",
-    "tags": ["Minnesota", "Corruption-Fraud", "Corruption-Fraud", "Tim Walz"],
+    "tags": ["Minnesota", "Corruption-Fraud", "Tim Walz"],
     "page": 28,
     "batchDate": "Mar 31, 2026"
   },
@@ -7923,7 +7923,7 @@ const articles = [
     "tinyUrl": "https://tinyurl.com/ypjsa6ae",
     "xPostUrl": "https://x.com/C3Heditor/status/2039064324887523820",
     "imageUrl": "https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/2026-03-31_143714_717fab4a.jpg",
-    "tags": ["Election Fraud", "Pew Research Center"],
+    "tags": ["Election Fraud", "Polling"],
     "page": 28,
     "batchDate": "Mar 31, 2026"
   },
@@ -7950,7 +7950,7 @@ const articles = [
     "tinyUrl": "https://tinyurl.com/yvky7uka",
     "xPostUrl": "https://x.com/C3Heditor/status/2039059874424717750",
     "imageUrl": "https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/2026-03-31_141945_28c7cc15.jpg",
-    "tags": ["Eric Swalwell", "U.S. Congress", "U.S. Congress"],
+    "tags": ["Eric Swalwell", "U.S. Congress"],
     "page": 27,
     "batchDate": "Mar 31, 2026"
   },
@@ -8013,7 +8013,7 @@ const articles = [
     "tinyUrl": "https://tinyurl.com/2ffd9zr8",
     "xPostUrl": "https://x.com/C3Heditor/status/2039050127118065953",
     "imageUrl": "https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/2026-03-31_134114_b03cc4ff.jpg",
-    "tags": ["Abdul El-Sayed", "Michigan", "Police Defunding"],
+    "tags": ["Abdul El-Sayed", "Michigan", "Law Enforcement"],
     "page": 27,
     "batchDate": "Mar 31, 2026"
   },
@@ -8067,7 +8067,7 @@ const articles = [
     "tinyUrl": "https://tinyurl.com/4pht9b89",
     "xPostUrl": "https://x.com/C3Heditor/status/2038736752815260098",
     "imageUrl": "https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/2026-03-30_165703_e0c4a56b.jpg",
-    "tags": ["Election Fraud", "China Policy"],
+    "tags": ["Election Fraud", "China"],
     "page": 27,
     "batchDate": "Mar 31, 2026"
   },
@@ -8094,7 +8094,7 @@ const articles = [
     "tinyUrl": "https://tinyurl.com/3nju2fze",
     "xPostUrl": "https://x.com/C3Heditor/status/2038730878617051207",
     "imageUrl": "https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/2026-03-30_163307_4f223724.jpg",
-    "tags": ["NYC", "Pay Raise", "Government"],
+    "tags": ["NYC", "Ethics-Morals", "Government"],
     "page": 27,
     "batchDate": "Mar 31, 2026"
   },
@@ -8121,7 +8121,7 @@ const articles = [
     "tinyUrl": "https://tinyurl.com/4xjf35dw",
     "xPostUrl": "https://x.com/C3Heditor/status/2038728466019840070",
     "imageUrl": "https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/2026-03-30_162331_772a7f09.jpg",
-    "tags": ["Education Policy", "Culture War", "Pay Raise", "California"],
+    "tags": ["Education Policy", "Culture War", "Ethics-Morals", "California"],
     "page": 27,
     "batchDate": "Mar 31, 2026"
   },
@@ -8148,7 +8148,7 @@ const articles = [
     "tinyUrl": "https://tinyurl.com/mr42xxbv",
     "xPostUrl": "https://x.com/C3Heditor/status/2038369822296195372",
     "imageUrl": "https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/2026-03-29_163725_68a04fbd.jpg",
-    "tags": ["Maryland", "Menstrual Products"],
+    "tags": ["Maryland", "Culture War"],
     "page": 26,
     "batchDate": "Mar 29, 2026"
   },
@@ -8220,7 +8220,7 @@ const articles = [
     "tinyUrl": "https://tinyurl.com/mv5kcybc",
     "xPostUrl": "https://x.com/C3Heditor/status/2038359437631463576",
     "imageUrl": "https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/2026-03-29_155640_fb5c2004.jpg",
-    "tags": ["Gavin Newsom", "California", "Politics", "Non-Profit"],
+    "tags": ["Gavin Newsom", "California", "Politics", "Corruption-Fraud"],
     "page": 26,
     "batchDate": "Mar 29, 2026"
   },
@@ -8256,7 +8256,7 @@ const articles = [
     "tinyUrl": "https://tinyurl.com/2p3ch78j",
     "xPostUrl": "https://x.com/C3Heditor/status/2038355855188324370",
     "imageUrl": "https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/2026-03-29_154211_d56fadd5.jpg",
-    "tags": ["Los Angeles", "Los Angeles"],
+    "tags": ["Los Angeles"],
     "page": 26,
     "batchDate": "Mar 29, 2026"
   },
@@ -8328,7 +8328,7 @@ const articles = [
     "tinyUrl": "https://tinyurl.com/ym2sf594",
     "xPostUrl": "https://x.com/C3Heditor/status/2038346580416225683",
     "imageUrl": "https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/2026-03-29_150317_7b349572.jpg",
-    "tags": ["Chevron", "Gavin Newsom", "California"],
+    "tags": ["Energy Policy", "Gavin Newsom", "California"],
     "page": 25,
     "batchDate": "Mar 29, 2026"
   },
@@ -8337,7 +8337,7 @@ const articles = [
     "tinyUrl": "https://tinyurl.com/mpbh5v6j",
     "xPostUrl": "https://x.com/C3Heditor/status/2038344728341537131",
     "imageUrl": "https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/2026-03-29_145740_b50d94ef.jpg",
-    "tags": ["California", "Gas Prices", "CBP-DHS-ICE"],
+    "tags": ["California", "Affordability", "CBP-DHS-ICE"],
     "page": 25,
     "batchDate": "Mar 29, 2026"
   },
@@ -8355,7 +8355,7 @@ const articles = [
     "tinyUrl": "https://tinyurl.com/ytujmu6m",
     "xPostUrl": "https://x.com/C3Heditor/status/2038342373017571351",
     "imageUrl": "https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/2026-03-29_144818_49f5be06.jpg",
-    "tags": ["War On Poverty", "Business Climate", "Poverty Rates"],
+    "tags": ["Affordability", "Business Climate"],
     "page": 25,
     "batchDate": "Mar 29, 2026"
   },
@@ -8454,7 +8454,7 @@ const articles = [
     "tinyUrl": "https://tinyurl.com/ujeexhj4",
     "xPostUrl": "https://x.com/C3Heditor/status/2038194323259347296",
     "imageUrl": "https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/2026-03-29_050402_ec1d418d.jpg",
-    "tags": ["Daniel Lurie", "San Francisco", "Police Report"],
+    "tags": ["Daniel Lurie", "San Francisco", "Law Enforcement"],
     "page": 25,
     "batchDate": "Mar 29, 2026"
   },
@@ -8463,7 +8463,7 @@ const articles = [
     "tinyUrl": "https://tinyurl.com/3vnrthxp",
     "xPostUrl": "https://x.com/C3Heditor/status/2038193652694909273",
     "imageUrl": "https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/2026-03-29_045725_01172b20.jpg",
-    "tags": ["Bernie Sanders", "CBP-DHS-ICE", "Travel Delays", "Kaitlan Collins"],
+    "tags": ["Bernie Sanders", "CBP-DHS-ICE", "Politics", "Kaitlan Collins"],
     "page": 25,
     "batchDate": "Mar 29, 2026"
   },
@@ -8499,7 +8499,7 @@ const articles = [
     "tinyUrl": "https://tinyurl.com/c785yddm",
     "xPostUrl": "https://x.com/C3Heditor/status/2037270352242348277",
     "imageUrl": "https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/2026-03-26_154925_c33769fe.jpg",
-    "tags": ["Politics", "Conservative Politics"],
+    "tags": ["Politics"],
     "page": 24,
     "batchDate": "Mar 26, 2026"
   },
@@ -8535,7 +8535,7 @@ const articles = [
     "tinyUrl": "https://tinyurl.com/29vyr7d5",
     "xPostUrl": "https://x.com/C3Heditor/status/2037259221050269923",
     "imageUrl": "https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/2026-03-26_150415_db515b8f.jpg",
-    "tags": ["China Policy", "Censorship", "Education Policy"],
+    "tags": ["China", "Censorship", "Education Policy"],
     "page": 24,
     "batchDate": "Mar 26, 2026"
   },
@@ -8580,7 +8580,7 @@ const articles = [
     "tinyUrl": "https://tinyurl.com/3s8xyptj",
     "xPostUrl": "https://x.com/C3Heditor/status/2037210537151410672",
     "imageUrl": "https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/2026-03-26_115142_62684e9e.jpg",
-    "tags": ["Karine Jean-Pierre", "WashingtonDC", "Urban Decay"],
+    "tags": ["Karine Jean-Pierre", "WashingtonDC", "Incompetence"],
     "page": 24,
     "batchDate": "Mar 26, 2026"
   },
@@ -8598,7 +8598,7 @@ const articles = [
     "tinyUrl": "https://tinyurl.com/2wx2269v",
     "xPostUrl": "https://x.com/C3Heditor/status/2037208984667529239",
     "imageUrl": "https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/2026-03-26_114457_8d31a138.jpg",
-    "tags": ["Left-Wing", "CBP-DHS-ICE", "Police Shooting", "Texas"],
+    "tags": ["Left-Wing", "CBP-DHS-ICE", "Law Enforcement", "Texas"],
     "page": 24,
     "batchDate": "Mar 26, 2026"
   },
@@ -9075,7 +9075,7 @@ const articles = [
     "tinyUrl": "https://tinyurl.com/2v6dfzuk",
     "xPostUrl": "https://x.com/C3Heditor/status/2036790125154210033",
     "imageUrl": "https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/2026-03-25_080025_6c90bb27.jpg",
-    "tags": ["Blue-Collar Workers", "Immigration"],
+    "tags": ["Business Climate", "Immigration"],
     "page": 21,
     "batchDate": "Mar 26, 2026"
   },
@@ -9318,7 +9318,7 @@ const articles = [
     "tinyUrl": "https://tinyurl.com/ytbrpkmk",
     "xPostUrl": "https://x.com/C3Heditor/status/2036425662999794035",
     "imageUrl": "https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/post288_clean_068c4060.jpg",
-    "tags": ["CBP-DHS-ICE", "Chuck Schumer", "Travel Delays"],
+    "tags": ["CBP-DHS-ICE", "Chuck Schumer", "Politics"],
     "page": 20,
     "batchDate": "Feb 21, 2026"
   },
@@ -9336,7 +9336,7 @@ const articles = [
     "tinyUrl": "https://tinyurl.com/5eakkczt",
     "xPostUrl": "https://x.com/C3Heditor/status/2036423377712230751",
     "imageUrl": "https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/post286_clean_557d41ff.jpg",
-    "tags": ["James Talarico", "Texas", "Veganism", "Climate Change"],
+    "tags": ["James Talarico", "Texas", "Culture War", "Climate Change"],
     "page": 20,
     "batchDate": "Feb 21, 2026"
   },
@@ -9372,7 +9372,7 @@ const articles = [
     "tinyUrl": "https://tinyurl.com/3y48ry9a",
     "xPostUrl": "https://x.com/C3Heditor/status/2036413816108368205",
     "imageUrl": "https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/post282_clean_0f522051.jpg",
-    "tags": ["Energy Policy", "China Policy", "Taxation"],
+    "tags": ["Energy Policy", "China", "Taxation"],
     "page": 20,
     "batchDate": "Feb 21, 2026"
   },
@@ -9426,7 +9426,7 @@ const articles = [
     "tinyUrl": "http://tinyurl.com/mrt6fa9a #FtrDLS",
     "xPostUrl": "https://x.com/C3Heditor/status/2030753395527618644",
     "imageUrl": "https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/post276_clean_9dde097e.jpg",
-    "tags": ["Joe Biden", "Presidential Remarks", "Racial Issues"],
+    "tags": ["Joe Biden", "Politics", "Racial Issues"],
     "page": 19,
     "batchDate": "Feb 21, 2026"
   },
@@ -9444,7 +9444,7 @@ const articles = [
     "tinyUrl": "https://tinyurl.com/4u3zc2d3",
     "xPostUrl": "https://x.com/C3Heditor/status/2036087042082230700",
     "imageUrl": "https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/post274_clean_77c3b807.jpg",
-    "tags": ["Las Vegas", "Housing", "Vagrancy Crisis", "Urban Decay"],
+    "tags": ["Las Vegas", "Housing", "Homeless", "Incompetence"],
     "page": 19,
     "batchDate": "Feb 21, 2026"
   },
@@ -9714,7 +9714,7 @@ const articles = [
     "tinyUrl": "https://tinyurl.com/4f7xwxsd",
     "xPostUrl": "https://x.com/C3Heditor/status/2035836332279209991",
     "imageUrl": "https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/post244_clean_2a6073fb.jpg",
-    "tags": ["Uber", "California", "Taxation"],
+    "tags": ["Taxation", "California"],
     "page": 18,
     "batchDate": "Feb 21, 2026"
   },
@@ -9723,7 +9723,7 @@ const articles = [
     "tinyUrl": "https://tinyurl.com/248sbd6j",
     "xPostUrl": "https://x.com/C3Heditor/status/2035835698264084849",
     "imageUrl": "https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/post243_clean_95dbe376.jpg",
-    "tags": ["Jemele Hill", "Blue Collar Jobs", "Economic Policy"],
+    "tags": ["Jemele Hill", "Business Climate", "Economic Policy"],
     "page": 18,
     "batchDate": "Feb 21, 2026"
   },
@@ -9750,7 +9750,7 @@ const articles = [
     "tinyUrl": "https://tinyurl.com/5b7sk5f3",
     "xPostUrl": "https://x.com/C3Heditor/status/2028603510476947704",
     "imageUrl": "https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/post240_clean_7746a7b3.jpg",
-    "tags": ["Federal Workforce", "Politics"],
+    "tags": ["Economic Policy", "Politics"],
     "page": 17,
     "batchDate": "Feb 21, 2026"
   },
@@ -9768,7 +9768,7 @@ const articles = [
     "tinyUrl": "https://tinyurl.com/3jnscpaa",
     "xPostUrl": "https://x.com/C3Heditor/status/2028223356944719912",
     "imageUrl": "https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/post238_clean_6a76f79b.jpg",
-    "tags": ["Los Angeles", "Urban Decay"],
+    "tags": ["Los Angeles", "Incompetence"],
     "page": 17,
     "batchDate": "Feb 21, 2026"
   },
@@ -9831,7 +9831,7 @@ const articles = [
     "tinyUrl": "https://tinyurl.com/49pebjx3",
     "xPostUrl": "https://x.com/C3Heditor/status/2028229048061595702",
     "imageUrl": "https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/post231_clean_ea3a9360.jpg",
-    "tags": ["Vandalism", "Law Enforcement"],
+    "tags": ["Crime", "Law Enforcement"],
     "page": 17,
     "batchDate": "Feb 21, 2026"
   },
@@ -9876,7 +9876,7 @@ const articles = [
     "tinyUrl": "https://tinyurl.com/3vw47xhx",
     "xPostUrl": "https://x.com/C3Heditor/status/2028235890493940022",
     "imageUrl": "https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/post226_clean_2f1d5314.jpg",
-    "tags": ["Corruption-Fraud", "Pennsylvania", "Corruption-Fraud"],
+    "tags": ["Corruption-Fraud", "Pennsylvania"],
     "page": 17,
     "batchDate": "Feb 21, 2026"
   },
@@ -10011,7 +10011,7 @@ const articles = [
     "tinyUrl": "https://tinyurl.com/362hhuwj",
     "xPostUrl": "https://x.com/C3Heditor/status/2028590904332746955",
     "imageUrl": "https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/post211_clean_45624606.jpg",
-    "tags": ["Unions", "Turning Point USA", "Culture War"],
+    "tags": ["Unions", "Politics", "Culture War"],
     "page": 16,
     "batchDate": "Feb 21, 2026"
   },
@@ -10038,7 +10038,7 @@ const articles = [
     "tinyUrl": "https://tinyurl.com/3pcj2x9j",
     "xPostUrl": "https://x.com/C3Heditor/status/2028595282871521553",
     "imageUrl": "https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/post208_clean_5eaded41.jpg",
-    "tags": ["State of the Union", "Violent Crime", "Gas Prices"],
+    "tags": ["State of the Union", "Violent Crime", "Affordability"],
     "page": 16,
     "batchDate": "Feb 21, 2026"
   },
@@ -10074,7 +10074,7 @@ const articles = [
     "tinyUrl": "https://tinyurl.com/4628snd6",
     "xPostUrl": "https://x.com/C3Heditor/status/2028598756719960117",
     "imageUrl": "https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/post204_clean_2e5fd90f.jpg",
-    "tags": ["Immigration", "Truck Driver Safety", "CBP-DHS-ICE"],
+    "tags": ["Immigration", "Transportation Policy", "CBP-DHS-ICE"],
     "page": 16,
     "batchDate": "Feb 21, 2026"
   },
@@ -10101,7 +10101,7 @@ const articles = [
     "tinyUrl": "https://tinyurl.com/jfzsrpu2",
     "xPostUrl": "https://x.com/C3Heditor/status/2028601013876187527",
     "imageUrl": "https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/post201_clean_5aa0f3e9.jpg",
-    "tags": ["Corruption-Fraud", "Immigration", "Corruption-Fraud"],
+    "tags": ["Corruption-Fraud", "Immigration"],
     "page": 16,
     "batchDate": "Feb 21, 2026"
   },
@@ -10155,7 +10155,7 @@ const articles = [
     "tinyUrl": "https://tinyurl.com/bdh8pz7k",
     "xPostUrl": "https://x.com/C3Heditor/status/2027157369310900324",
     "imageUrl": "https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/post195_clean_e780ec6c.jpg",
-    "tags": ["State of the Union", "Presidential Remarks", "Politics"],
+    "tags": ["State of the Union", "Politics"],
     "page": 15,
     "batchDate": "Feb 21, 2026"
   },
@@ -10182,7 +10182,7 @@ const articles = [
     "tinyUrl": "https://tinyurl.com/4ypwuh77",
     "xPostUrl": "https://x.com/C3Heditor/status/2027153398005457386",
     "imageUrl": "https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/post192_clean_3ab8f875.jpg",
-    "tags": ["Tim Walz", "Corruption-Fraud", "Feeding Our Future", "U.S. Congress"],
+    "tags": ["Tim Walz", "Corruption-Fraud", "U.S. Congress"],
     "page": 15,
     "batchDate": "Feb 21, 2026"
   },
@@ -10290,7 +10290,7 @@ const articles = [
     "tinyUrl": "https://tinyurl.com/y2n6y856",
     "xPostUrl": "https://x.com/C3Heditor/status/2026424418251985298",
     "imageUrl": "https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/post180_clean_1afb8d81.jpg",
-    "tags": ["Alexi Giannoulias", "Illinois", "Trucking Industry"],
+    "tags": ["Alexi Giannoulias", "Illinois", "Immigration"],
     "page": 14,
     "batchDate": "Feb 21, 2026"
   },
@@ -10335,7 +10335,7 @@ const articles = [
     "tinyUrl": "https://tinyurl.com/38743amb",
     "xPostUrl": "https://x.com/C3Heditor/status/2026419137229021417",
     "imageUrl": "https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/post175_clean_9296da34.jpg",
-    "tags": ["Team USA Hockey", "Monica Torres", "Milan-Cortina Games", "Politics"],
+    "tags": ["Culture War", "Monica Torres", "Politics"],
     "page": 14,
     "batchDate": "Feb 21, 2026"
   },
@@ -10452,7 +10452,7 @@ const articles = [
     "tinyUrl": "https://tinyurl.com/yc3eacw9",
     "xPostUrl": "https://x.com/C3Heditor/status/2026398005608227076",
     "imageUrl": "https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/post162_clean_6d9c52d3.jpg",
-    "tags": ["Mar-a-Lago", "Assassination"],
+    "tags": ["Trump-Derangement"],
     "page": 14,
     "batchDate": "Feb 21, 2026"
   },
@@ -10488,7 +10488,7 @@ const articles = [
     "tinyUrl": "https://tinyurl.com/3rnabfbf",
     "xPostUrl": "https://x.com/C3Heditor/status/2026055966454636793",
     "imageUrl": "https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/post158_clean_d5c05d96.jpg",
-    "tags": ["Team USA Hockey", "Monica Torres", "Milan-Cortina Games", "Left-Wing"],
+    "tags": ["Culture War", "Monica Torres", "Left-Wing"],
     "page": 13,
     "batchDate": "Feb 21, 2026"
   },
@@ -10641,7 +10641,7 @@ const articles = [
     "tinyUrl": "https://tinyurl.com/fxa3cxyy",
     "xPostUrl": "https://x.com/C3Heditor/status/2026294095946092876",
     "imageUrl": "https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/post141_clean_7a7d815c.jpg",
-    "tags": ["Assassination", "Politics"],
+    "tags": ["Trump-Derangement", "Politics"],
     "page": 13,
     "batchDate": "Feb 21, 2026"
   },
@@ -10713,7 +10713,7 @@ const articles = [
     "tinyUrl": "https://tinyurl.com/wxvukshb",
     "xPostUrl": "https://x.com/C3Heditor/status/2025587842043257022",
     "imageUrl": "https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/post133_clean_3c0b770f.jpg",
-    "tags": ["Los Angeles", "Utility Bills"],
+    "tags": ["Los Angeles", "Affordability"],
     "page": 12,
     "batchDate": "Feb 21, 2026"
   },
@@ -10785,7 +10785,7 @@ const articles = [
     "tinyUrl": "https://tinyurl.com/9sru4vbn",
     "xPostUrl": "https://x.com/C3Heditor/status/2025525459685884057",
     "imageUrl": "https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/post125_clean_9cdcf7ec.jpg",
-    "tags": ["Minnesota", "Feeding Our Future"],
+    "tags": ["Minnesota", "Corruption-Fraud"],
     "page": 12,
     "batchDate": "Feb 21, 2026"
   },
@@ -10794,7 +10794,7 @@ const articles = [
     "tinyUrl": "https://tinyurl.com/ym3vvp6d",
     "xPostUrl": "https://x.com/C3Heditor/status/2025607568899379555",
     "imageUrl": "https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/post124_clean_c436dd13.jpg",
-    "tags": ["Sewage Spill", "Culture War"],
+    "tags": ["Incompetence", "Culture War"],
     "page": 12,
     "batchDate": "Feb 21, 2026"
   },
@@ -10929,7 +10929,7 @@ const articles = [
     "tinyUrl": "https://tinyurl.com/t8j429va",
     "xPostUrl": "https://x.com/C3Heditor/status/2024123534037942706",
     "imageUrl": "https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/post109_clean_0cdc59b1.jpg",
-    "tags": ["Whoopi Goldberg", "Epstein", "The View", "Epstein"],
+    "tags": ["Whoopi Goldberg", "Epstein", "The View"],
     "page": 11,
     "batchDate": "Feb 21, 2026"
   },
@@ -10947,7 +10947,7 @@ const articles = [
     "tinyUrl": "https://tinyurl.com/cmrwcz3p",
     "xPostUrl": "https://x.com/C3Heditor/status/2023956800924438632",
     "imageUrl": "https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/post107_clean_d80da96c.jpg",
-    "tags": ["Elissa Slotkin", "Munich Security Conference", "2026 Elections"],
+    "tags": ["Elissa Slotkin", "National Security", "2026 Elections"],
     "page": 11,
     "batchDate": "Feb 21, 2026"
   },
@@ -11001,7 +11001,7 @@ const articles = [
     "tinyUrl": "https://tinyurl.com/4pvj66cn",
     "xPostUrl": "https://x.com/C3Heditor/status/2023891283803357590",
     "imageUrl": "https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/post101_clean_4889be0e.jpg",
-    "tags": ["JB Pritzker", "Epstein", "JB Pritzker"],
+    "tags": ["JB Pritzker", "Epstein"],
     "page": 11,
     "batchDate": "Feb 21, 2026"
   },
@@ -11010,7 +11010,7 @@ const articles = [
     "tinyUrl": "https://tinyurl.com/2m9cmjkp",
     "xPostUrl": "https://x.com/C3Heditor/status/2023890174850256927",
     "imageUrl": "https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/post100_clean_117d5ce3.jpg",
-    "tags": ["Zohran Mamdani", "Taxation", "New York", "Rent Increases"],
+    "tags": ["Zohran Mamdani", "Taxation", "New York", "Affordability"],
     "page": 10,
     "batchDate": "Feb 21, 2026"
   },
@@ -11046,7 +11046,7 @@ const articles = [
     "tinyUrl": "https://tinyurl.com/ypv6pjf9",
     "xPostUrl": "https://x.com/C3Heditor/status/2023885702367461398",
     "imageUrl": "https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/post96_clean_c13ad169.jpg",
-    "tags": ["Alexandria Ocasio-Cortez", "Munich Security Conference", "Epstein"],
+    "tags": ["Alexandria Ocasio-Cortez", "National Security", "Epstein"],
     "page": 10,
     "batchDate": "Feb 21, 2026"
   },
@@ -11091,7 +11091,7 @@ const articles = [
     "tinyUrl": "https://tinyurl.com/s3cun7yt",
     "xPostUrl": "https://x.com/C3Heditor/status/2023525686204657880",
     "imageUrl": "https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/post91_clean_28583aa3.jpg",
-    "tags": ["Super Bowl", "California"],
+    "tags": ["Taxation", "California"],
     "page": 10,
     "batchDate": "Feb 21, 2026"
   },
@@ -11127,7 +11127,7 @@ const articles = [
     "tinyUrl": "https://tinyurl.com/yeymssxs",
     "xPostUrl": "https://x.com/C3Heditor/status/2023517845989323083",
     "imageUrl": "https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/post87_clean_99975ce7.jpg",
-    "tags": ["Sewage Spill", "Maryland", "Economic Policy"],
+    "tags": ["Incompetence", "Maryland", "Economic Policy"],
     "page": 10,
     "batchDate": "Feb 21, 2026"
   },
@@ -11172,7 +11172,7 @@ const articles = [
     "tinyUrl": "https://tinyurl.com/mwn2c5zw",
     "xPostUrl": "https://x.com/C3Heditor/status/2023164321820201100",
     "imageUrl": "https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/post82_clean_b3f5886a.jpg",
-    "tags": ["Corruption-Fraud", "New York", "Kathy Hochul", "Corruption-Fraud"],
+    "tags": ["Corruption-Fraud", "New York", "Kathy Hochul"],
     "page": 10,
     "batchDate": "Feb 21, 2026"
   },
@@ -11244,7 +11244,7 @@ const articles = [
     "tinyUrl": "https://tinyurl.com/3wxm33bs",
     "xPostUrl": "https://x.com/C3Heditor/status/2022082882303611227",
     "imageUrl": "https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/post74_clean_4f36dcfd.jpg",
-    "tags": ["Gavin Newsom", "FCC", "911 System"],
+    "tags": ["Gavin Newsom", "FCC", "Incompetence"],
     "page": 9,
     "batchDate": "Feb 20, 2026"
   },
@@ -11271,7 +11271,7 @@ const articles = [
     "tinyUrl": "https://tinyurl.com/bdt748f3",
     "xPostUrl": "https://x.com/C3Heditor/status/2022075822451150879",
     "imageUrl": "https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/post71_clean_3ea7e46d.jpg",
-    "tags": ["Left-Wing", "China Policy", "Foreign Policy"],
+    "tags": ["Left-Wing", "China", "Foreign Policy"],
     "page": 9,
     "batchDate": "Feb 20, 2026"
   },
@@ -11316,7 +11316,7 @@ const articles = [
     "tinyUrl": "https://tinyurl.com/4x5d8fre",
     "xPostUrl": "https://x.com/C3Heditor/status/2022066957139554789",
     "imageUrl": "https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/post66_clean_de71bedb.jpg",
-    "tags": ["Homeland Security", "Government", "Immigration", "Senate Funding Bill"],
+    "tags": ["Homeland Security", "Government", "Immigration", "Politics"],
     "page": 9,
     "batchDate": "Feb 20, 2026"
   },
@@ -11406,7 +11406,7 @@ const articles = [
     "tinyUrl": "https://tinyurl.com/y8fkjkcn",
     "xPostUrl": "https://x.com/C3Heditor/status/2021704657530179835",
     "imageUrl": "https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/post56_clean_965656da.jpg",
-    "tags": ["Federal Workforce", "Unions"],
+    "tags": ["Economic Policy", "Unions"],
     "page": 8,
     "batchDate": "Feb 21, 2026"
   },
@@ -11532,7 +11532,7 @@ const articles = [
     "tinyUrl": "https://tinyurl.com/26r3beck",
     "xPostUrl": "https://x.com/C3Heditor/status/2021355009481507057",
     "imageUrl": "https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/post42_clean_bc31d15d.jpg",
-    "tags": ["Judiciary-Judicial", "Kidnapping", "Criminal Justice", "Left-Wing"],
+    "tags": ["Judiciary-Judicial", "Violent Crime", "Criminal Justice", "Left-Wing"],
     "page": 8,
     "batchDate": "Feb 21, 2026"
   },
@@ -11541,7 +11541,7 @@ const articles = [
     "tinyUrl": "https://tinyurl.com/yepvusba",
     "xPostUrl": "https://x.com/C3Heditor/status/2021287717129064832",
     "imageUrl": "https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/post41_clean_12481740.jpg",
-    "tags": ["California", "Super Bowl", "Washington"],
+    "tags": ["California", "Taxation", "Washington"],
     "page": 8,
     "batchDate": "Feb 21, 2026"
   },
@@ -12027,7 +12027,7 @@ const articles = [
     "tinyUrl": "https://tinyurl.com/5yyekudd",
     "xPostUrl": "https://x.com/C3Heditor/status/2060076497767927959",
     "imageUrl": "https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-05-28_141450_7398b328.jpg",
-    "tags": ["Left-Wing", "China Policy", "Corruption-Fraud"],
+    "tags": ["Left-Wing", "China", "Corruption-Fraud"],
     "page": 51,
     "batchDate": "May 28, 2026"
   },
@@ -12072,7 +12072,7 @@ const articles = [
     "tinyUrl": "https://tinyurl.com/34yrshcp",
     "xPostUrl": "https://x.com/C3Heditor/status/2060071849245942156",
     "imageUrl": "https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-05-28_134717_3283a43b.jpg",
-    "tags": ["Republican Party", "2024 Election", "Racial Issues"],
+    "tags": ["Politics", "2024 Election", "Racial Issues"],
     "page": 51,
     "batchDate": "May 28, 2026"
   },
@@ -12306,7 +12306,7 @@ const articles = [
     "tinyUrl": "https://www.thegatewaypundit.com/2026/07/fcc-chair-brendan-carr-exposes-view-posting-video/",
     "xPostUrl": "https://x.com/C3Heditor/status/2084732657431445668",
     "imageUrl": "https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-08-04_150640.jpg",
-    "tags": ["Media", "Left-Wing"],
+    "tags": ["Journalism", "Left-Wing"],
     "page": 3,
     "batchDate": "2026-08-05"
   },
@@ -12639,7 +12639,7 @@ const articles = [
     "tinyUrl": "https://www.thegatewaypundit.com/2026/08/pete-buttigieg-wants-abolish-electoral-college-pack-scotus/",
     "xPostUrl": "https://x.com/C3Heditor/status/2085488924189770024",
     "imageUrl": "https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-08-06_171155.jpg",
-    "tags": ["Pete Buttigieg", "Left-Wing", "Court Packing", "Electoral College"],
+    "tags": ["Pete Buttigieg", "Left-Wing", "Judiciary-Judicial", "Politics"],
     "page": 2,
     "batchDate": "2026-08-07"
   },
@@ -12783,7 +12783,7 @@ const articles = [
     "tinyUrl": "https://www.newsbusters.org/blogs/nb/jorge-bonilla/2026/08/05/what-nbc-nightly-news-shows-socialisms-unpopularity-among-voters",
     "xPostUrl": "https://x.com/C3Heditor/status/2085476536975552653",
     "imageUrl": "https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-08-06_162247.jpg",
-    "tags": ["Media", "Communism-Socialism"],
+    "tags": ["Journalism", "Communism-Socialism"],
     "page": 2,
     "batchDate": "2026-08-07"
   },

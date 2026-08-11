@@ -39,7 +39,7 @@ export default function Page30() {
         tinyUrl="https://tinyurl.com/y8fkjkcn"
         xPostUrl="https://x.com/C3Heditor/status/2021704657530179835"
         imageSrc="https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/post56_clean_965656da.jpg"
-        tags={["Federal Workforce", "Unions"]}
+        tags={["Economic Policy", "Unions"]}
       />
       <ArticleBlock
         headline="Chicago's top prosecutor is calling out Democrat Mayor Johnson's anti-ICE executive order as a &quot;wholly inappropriate&quot; disaster"
@@ -137,14 +137,14 @@ export default function Page30() {
         tinyUrl="https://tinyurl.com/26r3beck"
         xPostUrl="https://x.com/C3Heditor/status/2021355009481507057"
         imageSrc="https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/post42_clean_bc31d15d.jpg"
-        tags={["Judiciary-Judicial", "Kidnapping", "Criminal Justice", "Left-Wing"]}
+        tags={["Judiciary-Judicial", "Violent Crime", "Criminal Justice", "Left-Wing"]}
       />
       <ArticleBlock
         headline="Democrats Love To Tax: Seattle quarterback will pay California taxes greater than his Super Bowl winnings"
         tinyUrl="https://tinyurl.com/yepvusba"
         xPostUrl="https://x.com/C3Heditor/status/2021287717129064832"
         imageSrc="https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/post41_clean_12481740.jpg"
-        tags={["California", "Super Bowl", "Washington"]}
+        tags={["California", "Taxation", "Washington"]}
       />
       <Pagination currentPage={8} totalPages={70} />
     </div>

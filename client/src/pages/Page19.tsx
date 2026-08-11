@@ -39,7 +39,7 @@ export default function Page19() {
         tinyUrl="http://tinyurl.com/mrt6fa9a #FtrDLS"
         xPostUrl="https://x.com/C3Heditor/status/2030753395527618644"
         imageSrc="https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/post276_clean_9dde097e.jpg"
-        tags={["Joe Biden", "Presidential Remarks", "Racial Issues"]}
+        tags={["Joe Biden", "Politics", "Racial Issues"]}
       />
       <ArticleBlock
         headline="Coming To Your State Soon: VA Democrats Push Sweeping Gun Control Less Than Month Into Their Legislative Term"
@@ -53,7 +53,7 @@ export default function Page19() {
         tinyUrl="https://tinyurl.com/4u3zc2d3"
         xPostUrl="https://x.com/C3Heditor/status/2036087042082230700"
         imageSrc="https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/post274_clean_77c3b807.jpg"
-        tags={["Las Vegas", "Housing", "Vagrancy Crisis", "Urban Decay"]}
+        tags={["Las Vegas", "Housing", "Homeless", "Incompetence"]}
       />
       <ArticleBlock
         headline="Chicago&#39;s Democrat-Run Teachers Union Pushes to Shut Down Their Lousy Education Facilities May 1st As A Trump Protest"

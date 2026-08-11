@@ -68,7 +68,7 @@ export default function Page2() {
         tinyUrl="https://tinyurl.com/4d4keh5r"
         xPostUrl="https://x.com/C3Heditor/status/2046322379627069635"
         imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/tUNfiKkDOuOBCUYC.jpg"
-        tags={["Washington", "Drug Crime", "Non-Profit"]}
+        tags={["Washington", "Drug Crime", "Corruption-Fraud"]}
       />
       <ArticleBlock
         headline="Failed Illegal Trucker CDL Revocations Cost Democrat New York $73 Million In Federal Highway Funding"
@@ -110,7 +110,7 @@ export default function Page2() {
         tinyUrl="https://tinyurl.com/4xprddya"
         xPostUrl="https://x.com/C3Heditor/status/2046310557557440651"
         imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/fiNHZjQtWbINVbUR.jpg"
-        tags={["Los Angeles", "Homeless", "Los Angeles"]}
+        tags={["Los Angeles", "Homeless"]}
       />
       <ArticleBlock
         headline="Anti-Trump Democrat Senator Claims Iran Won Despite Its Military Being Utterly Decimated"

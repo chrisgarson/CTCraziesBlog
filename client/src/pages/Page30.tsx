@@ -18,7 +18,7 @@ export default function Page8() {
         tinyUrl="https://tinyurl.com/yjnhe8x5"
         xPostUrl="https://x.com/C3Heditor/status/2040062151809810807"
         imageSrc="https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/2026-04-03_084409_add4ebfa.jpg"
-        tags={["Gavin Newsom", "California", "Munich Security Conference"]}
+        tags={["Gavin Newsom", "California", "National Security"]}
       />
       <ArticleBlock
         headline="Voter Rolls Denied To DHS By Democrat Blue States But Freely Shared With Leftist Organizations"
@@ -67,7 +67,7 @@ export default function Page8() {
         tinyUrl="https://tinyurl.com/yb8e3p2u"
         xPostUrl="https://x.com/C3Heditor/status/2040053733007020196"
         imageSrc="https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/2026-04-03_080845_7f89a281.jpg"
-        tags={["Elderly Victim", "Stabbing Attack", "Homeless"]}
+        tags={["Corruption-Fraud", "Violent Crime", "Homeless"]}
       />
       <ArticleBlock
         headline="Maine&#39;s Democrat U.S. Senate Hopeful - Who Railed Against &#39;Epstein Elite&#39; - Secretly Funded By A Pedophile Associate"
@@ -81,7 +81,7 @@ export default function Page8() {
         tinyUrl="https://tinyurl.com/5exuau77"
         xPostUrl="https://x.com/C3Heditor/status/2040051928797778240"
         imageSrc="https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/2026-04-03_080132_7922de2d.jpg"
-        tags={["Foreign Policy", "Taxation", "USAID"]}
+        tags={["Foreign Policy", "Taxation", "Corruption-Fraud"]}
       />
       <ArticleBlock
         headline="Updated Data Reveals Far More Residents Have Abandoned Democrat Governed California Than Initially Reported"

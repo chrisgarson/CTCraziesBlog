@@ -26,7 +26,7 @@ export default function Home() {
         tinyUrl="https://tinyurl.com/2hfnx4d3"
         xPostUrl="https://x.com/C3Heditor/status/2050616616379957265"
         imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/zlKjtBHMLEmYPwdY.jpg"
-        tags={["Politics", "Assassination"]}
+        tags={["Politics", "Trump-Derangement"]}
       />
       <ArticleBlock
         headline="Even Former Democrat, Lefty Rep. Barney Frank, Admits His Own Party&#39;s Agenda Has Gone &#39;Beyond Politically Acceptable&#39;"
@@ -61,14 +61,14 @@ export default function Home() {
         tinyUrl="https://tinyurl.com/9w8ucpk5"
         xPostUrl="https://x.com/C3Heditor/status/2050542156272808168"
         imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/SlHyHIclGwNjpjQQ.jpg"
-        tags={["Election Fraud", "Judiciary-Judicial", "Judiciary-Judicial", "2026 Elections"]}
+        tags={["Election Fraud", "Judiciary-Judicial", "2026 Elections"]}
       />
       <ArticleBlock
         headline="Exposed: Planned Parenthood Used Secret Codeword &#39;Benghazi&#39; To Hide Millions In Democrat Administration&#39;s PPP Loans"
         tinyUrl="https://tinyurl.com/txa2rkrj"
         xPostUrl="https://x.com/C3Heditor/status/2050539613706699082"
         imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/ovkIDvxLFJwRENfK.jpg"
-        tags={["Culture War", "PPP Loans", "Twitchy Politics", "Biden Administration"]}
+        tags={["Culture War", "Corruption-Fraud", "Politics", "Biden Administration"]}
       />
       <ArticleBlock
         headline="Religious Leader In NYC Allegedly Sexually Abused Ten-Year-Old Girls Inside His Mosque, Democrats Look The Other Way"

@@ -39,7 +39,7 @@ export default function Page2() {
         tinyUrl="https://tinyurl.com/kyd5bekt"
         xPostUrl="https://x.com/C3Heditor/status/2075588722507108512"
         imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-07-10_093201.jpg"
-        tags={["California", "Gas Prices", "Economic Policy"]}
+        tags={["California", "Affordability", "Economic Policy"]}
       />
       <ArticleBlock
         headline="Company That Produced the Republican President Reagan Film Was De-Banked During the Biden Democrat Administration"

@@ -82,7 +82,7 @@ export default function Home() {
         tinyUrl="https://tinyurl.com/2zbdr9ve"
         xPostUrl="https://x.com/C3Heditor/status/2051050551362629708"
         imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/gAnfPueLUpEcvnrW.jpg"
-        tags={["Gavin Newsom", "911 System", "California"]}
+        tags={["Gavin Newsom", "Incompetence", "California"]}
       />
       <ArticleBlock
         headline="Minnesota Fraud: FBI &amp; Homeland Security Raid &#39;Quality Learing Center&#39; And 20 Other Democrat Favored Somali Businesses"
@@ -96,14 +96,14 @@ export default function Home() {
         tinyUrl="https://tinyurl.com/4n2hzdpx"
         xPostUrl="https://x.com/C3Heditor/status/2051047021855866996"
         imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/nihPJnjQrhooCfQl.jpg"
-        tags={["Jimmy Kimmel", "Assassination"]}
+        tags={["Jimmy Kimmel", "Trump-Derangement"]}
       />
       <ArticleBlock
         headline="Political Violence Is Being Fanned By The Same Democrat Propaganda Media That Helped Kill Charlie Kirk"
         tinyUrl="https://tinyurl.com/7dbwsemw"
         xPostUrl="https://x.com/C3Heditor/status/2051045040672125153"
         imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/mXKPVronDXvVbdkk.jpg"
-        tags={["Left-Wing", "Assassination"]}
+        tags={["Left-Wing", "Trump-Derangement"]}
       />
       <ArticleBlock
         headline="Democrat Oregon Releases Newlyweds&#39; Illegal Alien Killer Who Was Recklessly Driving With A CDL License"
@@ -117,21 +117,21 @@ export default function Home() {
         tinyUrl="https://tinyurl.com/28az8rfc"
         xPostUrl="https://x.com/C3Heditor/status/2051042131045761123"
         imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/ogwdiYLWIEuSkeGf.jpg"
-        tags={["Assassination", "Media Bias", "Twitchy Politics"]}
+        tags={["Trump-Derangement", "Media Bias", "Politics"]}
       />
       <ArticleBlock
         headline="Dead Voters Could Represent A Sizable Voting Bloc For Democrats In This Key Battleground State"
         tinyUrl="https://tinyurl.com/yxmk68nr"
         xPostUrl="https://x.com/C3Heditor/status/2051040599113883719"
         imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/AbPSakTPlVjdrObG.jpg"
-        tags={["North Carolina", "Election Fraud", "Systematic Alien Verification"]}
+        tags={["North Carolina", "Election Fraud", "Immigration"]}
       />
       <ArticleBlock
         headline="Family Trio of Activists Indicted For Viciously Assaulting Conservative Journalist"
         tinyUrl="https://tinyurl.com/yc6uh24m"
         xPostUrl="https://x.com/C3Heditor/status/2051039167656718480"
         imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/HcgTggDGNUCJQKmU.jpg"
-        tags={["Federal Indictment", "CBP-DHS-ICE"]}
+        tags={["Hate", "CBP-DHS-ICE"]}
       />
       <ArticleBlock
         headline="In Democrat Controlled Chicago, Judge Freed Robbery Suspect On Condition of Wearing Ankle Monitor — He Then Murdered A City Cop"

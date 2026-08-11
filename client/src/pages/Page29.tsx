@@ -11,7 +11,7 @@ export default function Page9() {
         tinyUrl="https://tinyurl.com/5f9bjnsv"
         xPostUrl="https://x.com/C3Heditor/status/2040045257300095213"
         imageSrc="https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/2026-04-03_073501_fe844af8.jpg"
-        tags={["Immigration", "Violent Crime", "Kidnapping"]}
+        tags={["Immigration", "Violent Crime"]}
       />
       <ArticleBlock
         headline="Democrats Deploy Celebrities to Fight Voter ID — Claim Women Are Too Dumb to Obtain One"
@@ -39,7 +39,7 @@ export default function Page9() {
         tinyUrl="https://tinyurl.com/5cfa6tbr"
         xPostUrl="https://x.com/C3Heditor/status/2040041433680232703"
         imageSrc="https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/2026-04-03_071948_0c4b607d.jpg"
-        tags={["Corruption-Fraud", "Gavin Newsom", "Kamala Harris", "Corruption-Fraud"]}
+        tags={["Corruption-Fraud", "Gavin Newsom", "Kamala Harris"]}
       />
       <ArticleBlock
         headline="State Democrat Party Leader Taken Into Custody For Beating A Disabled Veteran At &#39;No Kings&#39; Protest"
@@ -60,7 +60,7 @@ export default function Page9() {
         tinyUrl="https://tinyurl.com/4f9djz7j"
         xPostUrl="https://x.com/C3Heditor/status/2040037574979305784"
         imageSrc="https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/2026-04-03_070431_8fa0680f.jpg"
-        tags={["Judiciary-Judicial", "Violent Crime", "Pedophile Release"]}
+        tags={["Judiciary-Judicial", "Violent Crime"]}
       />
       <ArticleBlock
         headline="Not A Single Minnesota House Democrat Voted In Support of Age Verification Requirements for Online Porn"
@@ -95,7 +95,7 @@ export default function Page9() {
         tinyUrl="https://tinyurl.com/mpear48a"
         xPostUrl="https://x.com/C3Heditor/status/2040032834778272087"
         imageSrc="https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/2026-04-03_064632_8047e716.jpg"
-        tags={["Healthcare Policy", "Affordable Care Act"]}
+        tags={["Healthcare Policy"]}
       />
       <ArticleBlock
         headline="Election Fraud Is Real: Petition Cheaters In California Tapped Into Voter Database To Get Real Names For Forged Signatures"
@@ -109,14 +109,14 @@ export default function Page9() {
         tinyUrl="https://tinyurl.com/pxpxvz2w"
         xPostUrl="https://x.com/C3Heditor/status/2039823157465411888"
         imageSrc="https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/2026-04-02_165235_7271edd2.jpg"
-        tags={["Election Fraud", "Mar-a-Lago"]}
+        tags={["Election Fraud", "Trump-Derangement"]}
       />
       <ArticleBlock
         headline="Chevron Puts Gov. Newsom on Notice: The Democrats&#39; Climate Alarmism Threatens 500,000 California Jobs"
         tinyUrl="https://tinyurl.com/2h26bdu9"
         xPostUrl="https://x.com/C3Heditor/status/2039822194692251938"
         imageSrc="https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/2026-04-02_164849_6d9a4bd5.jpg"
-        tags={["Gavin Newsom", "Chevron", "California"]}
+        tags={["Gavin Newsom", "Energy Policy", "California"]}
       />
       <ArticleBlock
         headline="Random San Francisco Stabbing Reveals The Democrats&#39; Woke Policy That Critics Say Shields the Attackers"
@@ -137,7 +137,7 @@ export default function Page9() {
         tinyUrl="https://tinyurl.com/43sx5fv8"
         xPostUrl="https://x.com/C3Heditor/status/2039819863410065682"
         imageSrc="https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/2026-04-02_163924_bfe0858d.jpg"
-        tags={["Feeding Our Future", "Judiciary-Judicial"]}
+        tags={["Corruption-Fraud", "Judiciary-Judicial"]}
       />
       <ArticleBlock
         headline="Democrats Did This: Human Hunting Murder Spree Across California And Nevada Blamed On MS-13, Per Prosecutors"

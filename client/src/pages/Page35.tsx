@@ -102,7 +102,7 @@ export default function Page3() {
         tinyUrl="https://tinyurl.com/48m9t32d"
         xPostUrl="https://x.com/C3Heditor/status/2044784828239782165"
         imageSrc="https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/2026-04-16_092706_070d03a7.jpg"
-        tags={["Chicago", "Police Shooting", "Left-Wing", "Virtue Signaling"]}
+        tags={["Chicago", "Law Enforcement", "Left-Wing", "Virtue Signaling"]}
       />
       <ArticleBlock
         headline="Wasting Taxpayer Dollars On Illegal Aliens Who Seek &#39;Free&#39; Sex Changes In Democrat-Run California"

@@ -25,14 +25,14 @@ export default function Page2() {
         tinyUrl="https://tinyurl.com/y2v9z6hn"
         xPostUrl="https://x.com/C3Heditor/status/2068813325161361731"
         imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-06-21_164900.jpg"
-        tags={["Wes Moore", "Maryland", "Criminal Investigation"]}
+        tags={["Wes Moore", "Maryland", "Investigation"]}
       />
       <ArticleBlock
         headline="In Democrat Connecticut, Signature Forgery Allegations Land a Pastor Under Arrest Ahead of Democratic Primary"
         tinyUrl="https://tinyurl.com/ykjvryte"
         xPostUrl="https://x.com/C3Heditor/status/2068812197665354122"
         imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-06-21_164428.jpg"
-        tags={["Connecticut", "Election Fraud", "Criminal Investigation"]}
+        tags={["Connecticut", "Election Fraud", "Investigation"]}
       />
       <ArticleBlock
         headline="Cross-Burning in Chicago Once Feared to Be a Racist Threat Turns Out to Be Anti-Trump Democrat's Hate-Stunt"
@@ -53,7 +53,7 @@ export default function Page2() {
         tinyUrl="https://tinyurl.com/5489eu8c"
         xPostUrl="https://x.com/C3Heditor/status/2068809693967856029"
         imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-06-21_163430.jpg"
-        tags={["LGBTQ", "Felony Charges", "Sexual Misconduct"]}
+        tags={["LGBTQ", "Violent Crime", "Sexual Misconduct"]}
       />
       <ArticleBlock
         headline="Democrat Activists Socialists' Platform Openly Calls for Abolishing the Senate, SCOTUS &amp; the Presidency"

@@ -11,7 +11,7 @@ export default function Home() {
         tinyUrl="https://tinyurl.com/mubjxxpm"
         xPostUrl="https://x.com/C3Heditor/status/2060429979029012840"
         imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-05-29_133452_923210b8.jpg"
-        tags={["Texas", "Veganism", "2026 Elections"]}
+        tags={["Texas", "Culture War", "2026 Elections"]}
       />
       <ArticleBlock
         headline="New Mexico&#39;s Democrat Governor Goes Beyond Full Stupid - Says Party Should Only Focus On Women Voters"
@@ -88,7 +88,7 @@ export default function Home() {
         tinyUrl="https://tinyurl.com/3us3k2nd"
         xPostUrl="https://x.com/C3Heditor/status/2060399419795620034"
         imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-05-29_113509_2cca7561.jpg"
-        tags={["New York", "Corruption-Fraud", "Corruption-Fraud", "Corruption-Fraud"]}
+        tags={["New York", "Corruption-Fraud"]}
       />
       <ArticleBlock
         headline="Democrat Los Angeles Mayor Karen Bass Draws Fierce Backlash For Pushing Taxpayer-Funded Free Dental Care For Meth Drug Addicts"
@@ -144,7 +144,7 @@ export default function Home() {
         tinyUrl="https://tinyurl.com/yc8bnavb"
         xPostUrl="https://x.com/C3Heditor/status/2060387501592695250"
         imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-05-29_104817_9ab7b074.jpg"
-        tags={["California", "Corruption-Fraud", "Non-Profit", "2026 Elections"]}
+        tags={["California", "Corruption-Fraud", "2026 Elections"]}
       />
       </div>
       <Pagination currentPage={52} totalPages={70} />

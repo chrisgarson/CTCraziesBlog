@@ -81,7 +81,7 @@ export default function Page4() {
         tinyUrl="https://tinyurl.com/4vw64mf8"
         xPostUrl="https://x.com/C3Heditor/status/2044126108589687197"
         imageSrc="https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/2026-04-14_135056_7c71f0cd.jpg"
-        tags={["Amy Acton", "Ohio", "Police Report"]}
+        tags={["Amy Acton", "Ohio", "Law Enforcement"]}
       />
       <ArticleBlock
         headline="Why Did Democrat Swalwell Resign &amp; Quit Gov Race? Staffer Accused Him Of Twice Raping Her"

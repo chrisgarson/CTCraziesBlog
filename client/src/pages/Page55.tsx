@@ -81,7 +81,7 @@ export default function Page2() {
         tinyUrl="https://tinyurl.com/3b3cues6"
         xPostUrl="https://x.com/C3Heditor/status/2062278629309001799"
         imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-06-03_160227_d77197cf.jpg"
-        tags={["California", "Urban Decay", "Criminal Justice", "Government"]}
+        tags={["California", "Incompetence", "Criminal Justice", "Government"]}
       />
       <ArticleBlock
         headline="Arrest After Arrest by ICE Exposes the Criminals Democrats Keep Insisting Don’t Exist"

@@ -46,7 +46,7 @@ export default function Page23() {
         tinyUrl="https://tinyurl.com/bdh8pz7k"
         xPostUrl="https://x.com/C3Heditor/status/2027157369310900324"
         imageSrc="https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/post195_clean_e780ec6c.jpg"
-        tags={["State of the Union", "Presidential Remarks", "Politics"]}
+        tags={["State of the Union", "Politics"]}
       />
       <ArticleBlock
         headline="NY Suburban Democrat-Run School District Secretly Promoted Gender Transitions for Eighth-Grade Students"
@@ -67,7 +67,7 @@ export default function Page23() {
         tinyUrl="https://tinyurl.com/4ypwuh77"
         xPostUrl="https://x.com/C3Heditor/status/2027153398005457386"
         imageSrc="https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/post192_clean_3ab8f875.jpg"
-        tags={["Tim Walz", "Corruption-Fraud", "Feeding Our Future", "U.S. Congress"]}
+        tags={["Tim Walz", "Corruption-Fraud", "U.S. Congress"]}
       />
       <ArticleBlock
         headline="Sanctioned Voter Fraud: Democrat Board of Elections Worker Caught Admitting Non-Citizens Do Register"

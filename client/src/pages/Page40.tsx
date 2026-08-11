@@ -75,28 +75,28 @@ export default function Home() {
         tinyUrl="https://tinyurl.com/4czwbepu"
         xPostUrl="https://x.com/C3Heditor/status/2048446384462831941"
         imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/jJiFiCJXHsqgWZSr.jpg"
-        tags={["Graham Platner", "Maine", "China Policy", "Climate Change"]}
+        tags={["Graham Platner", "Maine", "China", "Climate Change"]}
       />
       <ArticleBlock
         headline="Democrat Senator Blasted As &#39;Lying Scumbag&#39; After Trashing Border Patrol &amp; ICE On Senate Floor"
         tinyUrl="https://tinyurl.com/bdz64zsb"
         xPostUrl="https://x.com/C3Heditor/status/2048445137756320026"
         imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/UJoNlvJVyMBmPdZY.jpg"
-        tags={["Chuck Schumer", "CBP-DHS-ICE", "Senate Funding Bill"]}
+        tags={["Chuck Schumer", "CBP-DHS-ICE", "Politics"]}
       />
       <ArticleBlock
         headline="Democrat Swalwell Hires Private Eye To Go After Ex-Aides As Accuser Works With Manhattan D.A."
         tinyUrl="https://tinyurl.com/57pmwkst"
         xPostUrl="https://x.com/C3Heditor/status/2048444264191820164"
         imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/FARtIZPOrDZjPfVF.jpg"
-        tags={["Eric Swalwell", "Manhattan D.A.", "Sexual Misconduct"]}
+        tags={["Eric Swalwell", "Ethics-Morals", "Sexual Misconduct"]}
       />
       <ArticleBlock
         headline="Long History Of Targeting Christians Haunts Partisan-Democrat SPLCS Amid New Hate Group Funding Accusations"
         tinyUrl="https://tinyurl.com/mry69ukt"
         xPostUrl="https://x.com/C3Heditor/status/2048442373311504710"
         imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/qFIUBJBPrpTPiSAj.jpg"
-        tags={["SPLC", "Christianity", "Federal Indictment"]}
+        tags={["SPLC", "Christianity", "Hate"]}
       />
       <ArticleBlock
         headline="Trust In The Legacy News Media Pushing Democrat Propaganda Has Collapsed — More Than Half See It As Totally Worthless"
@@ -124,14 +124,14 @@ export default function Home() {
         tinyUrl="https://tinyurl.com/nhzz8dp9"
         xPostUrl="https://x.com/C3Heditor/status/2048355310847348798"
         imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/SnzjbpZEqnbQhhjb.jpg"
-        tags={["Assassination", "Media Bias", "Violence"]}
+        tags={["Trump-Derangement", "Media Bias", "Violence"]}
       />
       <ArticleBlock
         headline="Democrat Extremist Journalists: 250+ Demand Protest Against Trump at White House Correspondents’ Dinner"
         tinyUrl="https://tinyurl.com/44sve2ej"
         xPostUrl="https://x.com/C3Heditor/status/2048351956335231006"
         imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/zfpITrQpxfpbTfZI.jpg"
-        tags={["Assassination", "Journalism", "Censorship"]}
+        tags={["Trump-Derangement", "Journalism", "Censorship"]}
       />
       <ArticleBlock
         headline="Playing The Race Card Again: California&#39;s Democrat Governor Candidates Cry Racism"

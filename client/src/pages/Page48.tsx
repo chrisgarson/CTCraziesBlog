@@ -53,7 +53,7 @@ export default function Home() {
         tinyUrl="https://tinyurl.com/4pukwd32"
         xPostUrl="https://x.com/C3Heditor/status/2056470525627494784"
         imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-05-18_152309_77ba4777.jpg"
-        tags={["Kamala Harris", "Judiciary-Judicial", "Electoral College", "WashingtonDC"]}
+        tags={["Kamala Harris", "Judiciary-Judicial", "Politics", "WashingtonDC"]}
       />
       <ArticleBlock
         headline="Massachusett&#39;s Sen. Markey Promises Democrats Will Investigate Trump &amp; His Family After Midterm Wins"
@@ -95,14 +95,14 @@ export default function Home() {
         tinyUrl="https://tinyurl.com/2s3jyy7e"
         xPostUrl="https://x.com/C3Heditor/status/2056460326959567255"
         imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-05-18_144248_84bb781e.jpg"
-        tags={["Racial Issues", "Conservative Politics"]}
+        tags={["Racial Issues", "Politics"]}
       />
       <ArticleBlock
         headline="TMZ Founder: Admits Los Angeles Has Completely Fallen Apart Under The Democrats He Supported"
         tinyUrl="https://tinyurl.com/mrbsxe7h"
         xPostUrl="https://x.com/C3Heditor/status/2056459703824355458"
         imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-05-18_144013_7d935a35.jpg"
-        tags={["Los Angeles", "Government", "Urban Decay"]}
+        tags={["Los Angeles", "Government", "Incompetence"]}
       />
       <ArticleBlock
         headline="Even Liberal Media Is Waking Up To Democrats&#39; Willingness To Shred The Rule Of Law"

@@ -18,7 +18,7 @@ export default function Page14() {
         tinyUrl="https://tinyurl.com/c785yddm"
         xPostUrl="https://x.com/C3Heditor/status/2037270352242348277"
         imageSrc="https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/2026-03-26_154925_c33769fe.jpg"
-        tags={["Politics", "Conservative Politics"]}
+        tags={["Politics"]}
       />
       <ArticleBlock
         headline="Democrats Have Invited Non-Citizens Into US Elections on at Least Twenty-Two Occasions"
@@ -46,7 +46,7 @@ export default function Page14() {
         tinyUrl="https://tinyurl.com/29vyr7d5"
         xPostUrl="https://x.com/C3Heditor/status/2037259221050269923"
         imageSrc="https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/2026-03-26_150415_db515b8f.jpg"
-        tags={["China Policy", "Censorship", "Education Policy"]}
+        tags={["China", "Censorship", "Education Policy"]}
       />
       <ArticleBlock
         headline="Tax-Payer Funded NPR Bashes GOP Islamophobia While Ignoring Islamic Violence &amp; Democrat Anti-Semitism"
@@ -81,7 +81,7 @@ export default function Page14() {
         tinyUrl="https://tinyurl.com/3s8xyptj"
         xPostUrl="https://x.com/C3Heditor/status/2037210537151410672"
         imageSrc="https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/2026-03-26_115142_62684e9e.jpg"
-        tags={["Karine Jean-Pierre", "WashingtonDC", "Urban Decay"]}
+        tags={["Karine Jean-Pierre", "WashingtonDC", "Incompetence"]}
       />
       <ArticleBlock
         headline="University of Kentucky Staff Gave to Democrats Over Republicans at a Nearly 10-to-1 Rate"
@@ -95,7 +95,7 @@ export default function Page14() {
         tinyUrl="https://tinyurl.com/2wx2269v"
         xPostUrl="https://x.com/C3Heditor/status/2037208984667529239"
         imageSrc="https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/2026-03-26_114457_8d31a138.jpg"
-        tags={["Left-Wing", "CBP-DHS-ICE", "Police Shooting", "Texas"]}
+        tags={["Left-Wing", "CBP-DHS-ICE", "Law Enforcement", "Texas"]}
       />
       <ArticleBlock
         headline="NYC Council Democrats Hatch a Bozo-Plan to Micro-Manage Supermarket Self-Checkout Lines"

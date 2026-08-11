@@ -81,7 +81,7 @@ export default function Page5() {
         tinyUrl="https://tinyurl.com/5n73tkpb"
         xPostUrl="https://x.com/C3Heditor/status/2043791506939531510"
         imageSrc="https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/2026-04-13_154128_92b12142.jpg"
-        tags={["Gavin Newsom", "California", "Corruption-Fraud", "Corruption-Fraud"]}
+        tags={["Gavin Newsom", "California", "Corruption-Fraud"]}
       />
       <ArticleBlock
         headline="It&#39;s Now A Top Democrat Priority To Again Force Airline Passengers To Remove Their Shoes"
@@ -109,7 +109,7 @@ export default function Page5() {
         tinyUrl="https://tinyurl.com/7uxfmsep"
         xPostUrl="https://x.com/C3Heditor/status/2043787717125832847"
         imageSrc="https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/2026-04-13_152637_2473b134.jpg"
-        tags={["Gas Prices", "Energy Policy", "Business Climate"]}
+        tags={["Affordability", "Energy Policy", "Business Climate"]}
       />
       <ArticleBlock
         headline="Banning Christian Speech: Democrats Are Nearly As Aggressive As Canada In Censorship Push"
@@ -137,14 +137,14 @@ export default function Page5() {
         tinyUrl="https://tinyurl.com/yavcyatf"
         xPostUrl="https://x.com/C3Heditor/status/2043784765225009387"
         imageSrc="https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/2026-04-13_151436_7ee7fab6.jpg"
-        tags={["Eric Swalwell", "Sexual Misconduct", "Manhattan D.A.", "Investigation"]}
+        tags={["Eric Swalwell", "Sexual Misconduct", "Ethics-Morals", "Investigation"]}
       />
       <ArticleBlock
         headline="Relentless Racial Division Pushed By Democrats Is Taking A Serious Toll On America"
         tinyUrl="https://tinyurl.com/6u6pezwu"
         xPostUrl="https://x.com/C3Heditor/status/2043783226368413894"
         imageSrc="https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/2026-04-13_150843_8da544af.jpg"
-        tags={["Racial Issues", "Politics", "Culture War", "US Politics"]}
+        tags={["Racial Issues", "Politics", "Culture War"]}
       />
       <Pagination currentPage={33} totalPages={70} />
     </div>

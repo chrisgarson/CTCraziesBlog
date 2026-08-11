@@ -81,7 +81,7 @@ export default function Page2() {
         tinyUrl="https://tinyurl.com/58jmjydj"
         xPostUrl="https://x.com/C3Heditor/status/2062922306565915043"
         imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-06-05_104300_bc8ec037.jpg"
-        tags={["Culture War", "Menstrual Products", "Left-Wing"]}
+        tags={["Culture War", "Left-Wing"]}
       />
       <ArticleBlock
         headline="NYC Democrat-Marxist Mayor Mamdani Ignites Democrat Civil War With a Divisive Endorsement of a Hate-Filled U.S. House Rep Candidate"

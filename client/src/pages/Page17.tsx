@@ -11,7 +11,7 @@ export default function Page21() {
         tinyUrl="https://tinyurl.com/5b7sk5f3"
         xPostUrl="https://x.com/C3Heditor/status/2028603510476947704"
         imageSrc="https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/post240_clean_7746a7b3.jpg"
-        tags={["Federal Workforce", "Politics"]}
+        tags={["Economic Policy", "Politics"]}
       />
       <ArticleBlock
         headline="Three Dem Senators Keep Putting Illegal Aliens Ahead of Their Own American Citizens"
@@ -25,7 +25,7 @@ export default function Page21() {
         tinyUrl="https://tinyurl.com/3jnscpaa"
         xPostUrl="https://x.com/C3Heditor/status/2028223356944719912"
         imageSrc="https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/post238_clean_6a76f79b.jpg"
-        tags={["Los Angeles", "Urban Decay"]}
+        tags={["Los Angeles", "Incompetence"]}
       />
       <ArticleBlock
         headline="CNN Staffers Are Panicking at the Prospect of Working Under a Trump-Friendly New Owner"
@@ -74,7 +74,7 @@ export default function Page21() {
         tinyUrl="https://tinyurl.com/49pebjx3"
         xPostUrl="https://x.com/C3Heditor/status/2028229048061595702"
         imageSrc="https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/post231_clean_ea3a9360.jpg"
-        tags={["Vandalism", "Law Enforcement"]}
+        tags={["Crime", "Law Enforcement"]}
       />
       <ArticleBlock
         headline="Immigration By Democrats: ICE Detainers Filed Against Illegal Aliens Who Beat, Sodomized Victim In Home Invasion"
@@ -109,7 +109,7 @@ export default function Page21() {
         tinyUrl="https://tinyurl.com/3vw47xhx"
         xPostUrl="https://x.com/C3Heditor/status/2028235890493940022"
         imageSrc="https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/post226_clean_2f1d5314.jpg"
-        tags={["Corruption-Fraud", "Pennsylvania", "Corruption-Fraud"]}
+        tags={["Corruption-Fraud", "Pennsylvania"]}
       />
       <ArticleBlock
         headline="Unhinged Democrat Ugliness: Don Lemon&#39;s Wacky Rant Dismisses Patriotism as Tacky in Bewildering Commentary"

@@ -88,7 +88,7 @@ export default function Home() {
         tinyUrl="https://tinyurl.com/3evwp7y5"
         xPostUrl="https://x.com/C3Heditor/status/2053206767086059833"
         imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-05-09_151421_cd16e717.jpg"
-        tags={["Justin Pearson", "Tennessee Politics"]}
+        tags={["Justin Pearson", "Politics"]}
       />
       <ArticleBlock
         headline="New Evidence Expands The Full Picture of Biden&#39;s and Democrats&#39; War On Christians Was Far Worse Than Realized"
@@ -144,7 +144,7 @@ export default function Home() {
         tinyUrl="https://tinyurl.com/57ctpthf"
         xPostUrl="https://x.com/C3Heditor/status/2053196588516798616"
         imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-05-09_143342_e32c6106.jpg"
-        tags={["Kathy Griffin", "Turning Point USA"]}
+        tags={["Kathy Griffin", "Politics"]}
       />
       </div>
       <Pagination currentPage={47} totalPages={70} />
