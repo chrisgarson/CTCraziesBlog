@@ -42,7 +42,8 @@ export default function TagResults() {
         const matchingKey = Object.keys(data).find(
           (k) => k.toLowerCase() === tagName.toLowerCase()
         );
-        const matches = matchingKey ? (data[matchingKey] || []) : [];
+        const tagEntry = matchingKey ? data[matchingKey] : null;
+        const matches = tagEntry ? (Array.isArray(tagEntry) ? tagEntry : (tagEntry.articles || [])) : [];
         // Normalize: index stores imageUrl, component expects imageSrc
         const normalized: Article[] = matches.map((a: any) => ({
           headline: a.headline || '',
