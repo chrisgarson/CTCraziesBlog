@@ -439,4 +439,4 @@
 ## Topic Tag Cleanup — Part B (August 11, 2026)
 - [x] Review and validate the user-provided 61-topic-tag cleanup mapping before implementation
 - [x] Apply the approved topic-tag consolidations to both tag-index.json copies and article data
-- [ ] Rebuild, deploy, and verify the reduced topic-tag index
+- [x] Rebuild, deploy, and verify the reduced topic-tag index
