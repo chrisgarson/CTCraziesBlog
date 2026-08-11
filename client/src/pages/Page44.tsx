@@ -8,145 +8,145 @@ export default function Home() {
       <PageHeader />
       <div className="space-y-12">
       <ArticleBlock
-        headline="Caught On Camera: A Not-So-Bright Democrat Senate Candidate Bashes Her Own State In Leaked Remarks"
-        tinyUrl="https://tinyurl.com/ymbyhjeu"
-        xPostUrl="https://x.com/C3Heditor/status/2051062982558241039"
-        imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/HBUodSWMFhtTJJLx.jpg"
-        tags={["Mallory McMorrow", "Michigan", "Alternative & Social Media", "Censorship"]}
-      />
+              headline="California&#39;s $126B Democrat Rail Fiasco Earns &#39;Stonehenge&#39; Label As Gov. Newsom Aide Admits The Blunder"
+              tinyUrl="https://tinyurl.com/cct5uuv3"
+              xPostUrl="https://x.com/C3Heditor/status/2043437382720950329"
+              imageSrc="https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/2026-04-12_161417_2b185b52.jpg"
+              tags={["California", "Gavin Newsom"]}
+            />
       <ArticleBlock
-        headline="In Democrat NYC Deli Worker Murdered Outside His Store -- Had Warned About Rising Violence A Year Prior"
-        tinyUrl="https://tinyurl.com/sf9he4zd"
-        xPostUrl="https://x.com/C3Heditor/status/2051062382701563947"
-        imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/sVCEpWWVoAJDOaFN.jpg"
-        tags={["Abdul Saleh", "Violent Crime"]}
-      />
+              headline="Mar-A-Lago Raid On Trump Ordered By Democrat President&#39;s DOJ Despite FBI Objections, Records Now Confirm"
+              tinyUrl="https://tinyurl.com/482hhrkw"
+              xPostUrl="https://x.com/C3Heditor/status/2043436562084467073"
+              imageSrc="https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/2026-04-12_161054_c6fe84c4.jpg"
+              tags={["DOJ", "Politics"]}
+            />
       <ArticleBlock
-        headline="Pennsylvania Democrat Running For U.S. Senate Arrested For Threatening Trump"
-        tinyUrl="https://tinyurl.com/8zxcmec5"
-        xPostUrl="https://x.com/C3Heditor/status/2051059729628086624"
-        imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/MraqETrlOwslvpBR.jpg"
-        tags={["Pennsylvania", "2026 Elections"]}
-      />
+              headline="Democrats&#39; Own Voters Can&#39;t Stand Them, CNN Analysis Finds In A Brutal Numbers Breakdown"
+              tinyUrl="https://tinyurl.com/4jzzbkdn"
+              xPostUrl="https://x.com/C3Heditor/status/2043435863023956420"
+              imageSrc="https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/2026-04-12_160815_c428d356.jpg"
+              tags={["Media Bias", "Polling", "Harry Enten", "Business Climate"]}
+            />
       <ArticleBlock
-        headline="Exposing Democrat SPLC Fraud And Money Laundering: Charges May Be Just The Tip Of The Iceberg, Analysts Warn"
-        tinyUrl="https://tinyurl.com/uwt7cm76"
-        xPostUrl="https://x.com/C3Heditor/status/2051059192295727310"
-        imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/TIOLMROmSXrohIBK.jpg"
-        tags={["SPLC", "Corruption-Fraud", "Virginia"]}
-      />
+              headline="Humiliation: Joe Biden Is Erased From Democrats&#39; Easter Message As His Own Party Tries To Move On"
+              tinyUrl="https://tinyurl.com/4bmr5ybt"
+              xPostUrl="https://x.com/C3Heditor/status/2043434843866849405"
+              imageSrc="https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/2026-04-12_160441_1cb1f739.jpg"
+              tags={["Joe Biden", "Barack Obama", "LGBTQ"]}
+            />
       <ArticleBlock
-        headline="Democrat Stacey Abrams Rushes To Defend The Disgraced KKK Funders, The Southern Poverty Law Center"
-        tinyUrl="https://tinyurl.com/4dh6v3xr"
-        xPostUrl="https://x.com/C3Heditor/status/2051058624659640530"
-        imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/hyjxAVYBcHmXqTbS.jpg"
-        tags={["Stacey Abrams", "SPLC", "Corruption-Fraud"]}
-      />
+              headline="Back To Pro-Woke, Anti-White Governance: Virginia DEI Office Revived By Democrat Governor"
+              tinyUrl="https://tinyurl.com/fu69ue6p"
+              xPostUrl="https://x.com/C3Heditor/status/2043433965466312834"
+              imageSrc="https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/2026-04-12_160009_f671c72e.jpg"
+              tags={["Virginia", "Culture War", "Racial Issues"]}
+            />
       <ArticleBlock
-        headline="Host Stunned: Can&#39;t Believe Joy Reid Makes Absurd Claim That Democrats Never Play Politics"
-        tinyUrl="https://tinyurl.com/etv898cb"
-        xPostUrl="https://x.com/C3Heditor/status/2051057877989617847"
-        imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/ijiyWcjBJufrkRwO.jpg"
-        tags={["Joy Reid", "Media Bias"]}
-      />
+              headline="Democrats Denounced By Dem Senator For Backing Liberal Hasan Piker, Who Claimed America Deserved 9/11"
+              tinyUrl="https://tinyurl.com/28p4hm96"
+              xPostUrl="https://x.com/C3Heditor/status/2043432339150197060"
+              imageSrc="https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/2026-04-12_155443_746feedd.jpg"
+              tags={["John Fetterman", "Hasan Piker", "Politics"]}
+            />
       <ArticleBlock
-        headline="Man-Burner Suspect With Over 100 Arrests Represents Repeat Crime Problem in America&#39;s Democrat Urban Areas"
-        tinyUrl="https://tinyurl.com/yc7dh7p9"
-        xPostUrl="https://x.com/C3Heditor/status/2051056520079527948"
-        imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/AibQbKpjMYJWeAjT.jpg"
-        tags={["Judiciary-Judicial", "New York", "Violent Crime"]}
-      />
+              headline="Virtue-Signaling Democrat Sheds Crocodile Tears For Illegal Alien Criminal Who Caused Big Pileup While Fleeing ICE"
+              tinyUrl="https://tinyurl.com/3j5kkavw"
+              xPostUrl="https://x.com/C3Heditor/status/2043431496015282603"
+              imageSrc="https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/2026-04-12_155052_a416e9ec.jpg"
+              tags={["Chris Van Hollen", "CBP-DHS-ICE", "Immigration", "Virtue Signaling"]}
+            />
       <ArticleBlock
-        headline="Birthright Citizenship Debate Shines Light On The Vast Chinese Birth Tourism Industry Protected By Democrats"
-        tinyUrl="https://tinyurl.com/3wda6sby"
-        xPostUrl="https://x.com/C3Heditor/status/2051055790459392204"
-        imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/gsNDNVBWAkAfPUcF.jpg"
-        tags={["Immigration", "Business Climate"]}
-      />
+              headline="Rising Costs From Democrats&#39; Over-Regulation Drive Even More Residents Out As California&#39; Migration Wave Keeps Growing"
+              tinyUrl="https://tinyurl.com/7hzymksc"
+              xPostUrl="https://x.com/C3Heditor/status/2043429866347909269"
+              imageSrc="https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/2026-04-12_154415_46c31a97.jpg"
+              tags={["California", "Los Angeles County", "Taxation", "Affordability"]}
+            />
       <ArticleBlock
-        headline="Because SCOTUS Disagrees With Skin-Color Favoritism, Democrat House Minority Leader Hakeem Jeffries Calls Them Illegitimate"
-        tinyUrl="https://tinyurl.com/3pevrjfk"
-        xPostUrl="https://x.com/C3Heditor/status/2051055136336711808"
-        imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/fLomDEVCslrCUAqU.jpg"
-        tags={["Hakeem Jeffries", "Judiciary-Judicial", "Election Fraud", "2026 Elections"]}
-      />
+              headline="Political Debanking of Democrat Opposition Triggers FTC Warning For Visa, Mastercard, Paypal &amp; Stripe"
+              tinyUrl="https://tinyurl.com/nwss5sau"
+              xPostUrl="https://x.com/C3Heditor/status/2043429229132403004"
+              imageSrc="https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/2026-04-12_154142_1315fee5.jpg"
+              tags={["Politics", "Censorship"]}
+            />
       <ArticleBlock
-        headline="CNN Pollster Finds That Democrats&#39; Hate-Trump &amp; Hate-America Rhetoric Is Is Not Playing Well With Black Voters"
-        tinyUrl="https://tinyurl.com/44vju2ny"
-        xPostUrl="https://x.com/C3Heditor/status/2051052621054558230"
-        imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/saquRktlLqMMwYbi.jpg"
-        tags={["Media Bias", "Racial Issues", "Election Fraud"]}
-      />
+              headline="Corruption: Foreign Donation Scandal Sends Democratic Fundraiser ActBlue&#39;s Legal Team Into Crisis Mode"
+              tinyUrl="https://tinyurl.com/ynn7n2uc"
+              xPostUrl="https://x.com/C3Heditor/status/2043428401684357436"
+              imageSrc="https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/2026-04-12_153827_fd0364eb.jpg"
+              tags={["2026 Elections", "U.S. Congress"]}
+            />
       <ArticleBlock
-        headline="Gov. Gavin Newsom&#39;s Broken 911 System Is A Half-Billion-Dollar Democrat Joke Paid For By Taxpayers"
-        tinyUrl="https://tinyurl.com/2zbdr9ve"
-        xPostUrl="https://x.com/C3Heditor/status/2051050551362629708"
-        imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/gAnfPueLUpEcvnrW.jpg"
-        tags={["Gavin Newsom", "Incompetence", "California"]}
-      />
+              headline="Trump Assassination Joke Draws Roaring Applause From The SNL&#39;s Democrat Studio Audience"
+              tinyUrl="https://tinyurl.com/yc4k8wbh"
+              xPostUrl="https://x.com/C3Heditor/status/2043427514815545654"
+              imageSrc="https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/2026-04-12_153508_857f309b.jpg"
+              tags={["Trump-Derangement", "Politics"]}
+            />
       <ArticleBlock
-        headline="Minnesota Fraud: FBI &amp; Homeland Security Raid &#39;Quality Learing Center&#39; And 20 Other Democrat Favored Somali Businesses"
-        tinyUrl="https://tinyurl.com/3bt4jdkh"
-        xPostUrl="https://x.com/C3Heditor/status/2051049922229629253"
-        imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/NeIzasyWiHbecyFI.jpg"
-        tags={["Minnesota", "FBI", "Homeland Security", "Islam-Muslim"]}
-      />
+              headline="Utility Bills On Long Island Spike 20%, Leaving Residents Feeling The Financial Strain of Democrat Energy Policies"
+              tinyUrl="https://tinyurl.com/fd5nurrb"
+              xPostUrl="https://x.com/C3Heditor/status/2043426627841908853"
+              imageSrc="https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/2026-04-12_153124_3a5f4ca2.jpg"
+              tags={["Long Island", "Affordability", "Energy Policy"]}
+            />
       <ArticleBlock
-        headline="Kimmel &amp; His Ilk Keep Dehumanizing Conservatives — Yet The Left Wonders Why Violence Grows"
-        tinyUrl="https://tinyurl.com/4n2hzdpx"
-        xPostUrl="https://x.com/C3Heditor/status/2051047021855866996"
-        imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/nihPJnjQrhooCfQl.jpg"
-        tags={["Jimmy Kimmel", "Trump-Derangement"]}
-      />
+              headline="Long After Covid, Taxpayers Are Still Fleeing Democrat Blue States In Massive Numbers"
+              tinyUrl="https://tinyurl.com/49se3b8w"
+              xPostUrl="https://x.com/C3Heditor/status/2043425964013559825"
+              imageSrc="https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/2026-04-12_152858_b8414d1a.jpg"
+              tags={["Blue States", "Business Climate", "COVID-19"]}
+            />
       <ArticleBlock
-        headline="Political Violence Is Being Fanned By The Same Democrat Propaganda Media That Helped Kill Charlie Kirk"
-        tinyUrl="https://tinyurl.com/7dbwsemw"
-        xPostUrl="https://x.com/C3Heditor/status/2051045040672125153"
-        imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/mXKPVronDXvVbdkk.jpg"
-        tags={["Left-Wing", "Trump-Derangement"]}
-      />
+              headline="Democrat Mayor Calls Mural Honoring Stabbing Victim Iryna Zarutska &#39;divisive,&#39; Calls For A Halt"
+              tinyUrl="https://tinyurl.com/st8xmpfn"
+              xPostUrl="https://x.com/C3Heditor/status/2043424582472815033"
+              imageSrc="https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/2026-04-12_152340_3cc102ec.jpg"
+              tags={["Iryna Zarutska", "Violent Crime"]}
+            />
       <ArticleBlock
-        headline="Democrat Oregon Releases Newlyweds&#39; Illegal Alien Killer Who Was Recklessly Driving With A CDL License"
-        tinyUrl="https://tinyurl.com/22zhh4kj"
-        xPostUrl="https://x.com/C3Heditor/status/2051044256136024499"
-        imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/fvrqokLYfIYniErJ.jpg"
-        tags={["Immigration", "CBP-DHS-ICE"]}
-      />
+              headline="ABC Anchor Fact-Checks Democrat Live, Dismantling His False DHS Shutdown Narrative On Air"
+              tinyUrl="https://tinyurl.com/yf492kud"
+              xPostUrl="https://x.com/C3Heditor/status/2043423812071403633"
+              imageSrc="https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/2026-04-12_152013_e58514fa.jpg"
+              tags={["CBP-DHS-ICE", "Politics"]}
+            />
       <ArticleBlock
-        headline="Legacy FakeNews Media Pivots To False Narrative After WHCD Shooter&#39;s Democrat Identity Surfaces"
-        tinyUrl="https://tinyurl.com/28az8rfc"
-        xPostUrl="https://x.com/C3Heditor/status/2051042131045761123"
-        imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/ogwdiYLWIEuSkeGf.jpg"
-        tags={["Trump-Derangement", "Media Bias", "Politics"]}
-      />
+              headline="High Gas Prices In Democrat California Are A Homegrown Crisis, Not Trump&#39;s Fault, Data Shows"
+              tinyUrl="https://tinyurl.com/4hsbtzar"
+              xPostUrl="https://x.com/C3Heditor/status/2043415978877296869"
+              imageSrc="https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/2026-04-12_144926_6c74baaa.jpg"
+              tags={["California", "Gavin Newsom", "Energy Policy", "Taxation"]}
+            />
       <ArticleBlock
-        headline="Dead Voters Could Represent A Sizable Voting Bloc For Democrats In This Key Battleground State"
-        tinyUrl="https://tinyurl.com/yxmk68nr"
-        xPostUrl="https://x.com/C3Heditor/status/2051040599113883719"
-        imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/AbPSakTPlVjdrObG.jpg"
-        tags={["North Carolina", "Election Fraud", "Immigration"]}
-      />
+              headline="Scrutiny Mounts As Corruption Questions Swirl Around Democrat AOC&#39;s Use Of Her Campaign War Chest"
+              tinyUrl="https://tinyurl.com/yvdja986"
+              xPostUrl="https://x.com/C3Heditor/status/2043415210598232486"
+              imageSrc="https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/2026-04-12_144612_bdac4176.jpg"
+              tags={["Alexandria Ocasio-Cortez", "2026 Elections", "New York"]}
+            />
       <ArticleBlock
-        headline="Family Trio of Activists Indicted For Viciously Assaulting Conservative Journalist"
-        tinyUrl="https://tinyurl.com/yc6uh24m"
-        xPostUrl="https://x.com/C3Heditor/status/2051039167656718480"
-        imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/HcgTggDGNUCJQKmU.jpg"
-        tags={["Hate", "CBP-DHS-ICE"]}
-      />
+              headline="Democrat Manhattan D.A. Alvin Bragg Strikes A Pathetic Plea Deal For A &#39;Trans&#39; Illegal Alien Who Raped A 14-year-old Boy"
+              tinyUrl="https://tinyurl.com/kmtpeyt8"
+              xPostUrl="https://x.com/C3Heditor/status/2043414539530637490"
+              imageSrc="https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/2026-04-12_144325_ae1a70dc.jpg"
+              tags={["Judiciary-Judicial", "Sexual Misconduct"]}
+            />
       <ArticleBlock
-        headline="In Democrat Controlled Chicago, Judge Freed Robbery Suspect On Condition of Wearing Ankle Monitor — He Then Murdered A City Cop"
-        tinyUrl="https://tinyurl.com/3tamdh4f"
-        xPostUrl="https://x.com/C3Heditor/status/2051038080937635908"
-        imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/rCuaomZSRkObKFXu.jpg"
-        tags={["Violent Crime", "Judiciary-Judicial", "Retail Crime"]}
-      />
+              headline="Georgia Democrat Sen. Jon Ossoff Backed By Hasan Piker, Who Openly Endorses Terrorist Groups"
+              tinyUrl="https://tinyurl.com/2b78naez"
+              xPostUrl="https://x.com/C3Heditor/status/2043413618876666148"
+              imageSrc="https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/2026-04-12_143944_c78b407e.jpg"
+              tags={["Jon Ossoff", "Hasan Piker", "Georgia", "2026 Elections"]}
+            />
       <ArticleBlock
-        headline="EPA Chief Shrieked At By Purple-Haired Democrat Rep Who Told Him To Drink Weed Killer At A House Hearing"
-        tinyUrl="https://tinyurl.com/yc2fjsdk"
-        xPostUrl="https://x.com/C3Heditor/status/2051036887301661122"
-        imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/HrDZpkAubYifdszQ.jpg"
-        tags={["Violent Crime", "Energy Policy"]}
-      />
+              headline="Democrats&#39; Idiotic Policies: Illegal Immigrant Costs Blow Colorado&#39;s Budget By A Jaw-Dropping 611%"
+              tinyUrl="https://tinyurl.com/bdfbda43"
+              xPostUrl="https://x.com/C3Heditor/status/2043412312497811521"
+              imageSrc="https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/2026-04-12_143427_01750263.jpg"
+              tags={["Government", "Immigration"]}
+            />
       </div>
       <Pagination currentPage={44} totalPages={70} />
       {/* SITE STATS — auto-updated by gen_pages.py. DO NOT edit manually. */}

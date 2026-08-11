@@ -7,145 +7,145 @@ export default function Home() {
       <PageHeader />
       <div className="space-y-12">
       <ArticleBlock
-        headline="Now Democrats Want To Abolish The Virginia State Government Entirely After Losing In Court"
-        tinyUrl="https://tinyurl.com/3jdj6d3x"
-        xPostUrl="https://x.com/C3Heditor/status/2056476424626679964"
-        imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-05-18_154633_8fceee6f.jpg"
-        tags={["Virginia", "Judiciary-Judicial", "2026 Elections"]}
-      />
+              headline="Minnesota Democrat Governance Failure: Audit Identifies consistent Failures That Allowed Somali Fraud"
+              tinyUrl="https://tinyurl.com/2chpazpu"
+              xPostUrl="https://x.com/C3Heditor/status/2039082745360757131"
+              imageSrc="https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/2026-03-31_155020_ef8ad353.jpg"
+              tags={["Minnesota", "Corruption-Fraud", "Tim Walz"]}
+            />
       <ArticleBlock
-        headline="Democrat Partisan Judicial System Hates Law &amp; Order: Out-of-Control Judges Lead To Out-of-Control Crime"
-        tinyUrl="https://tinyurl.com/bdfd53rc"
-        xPostUrl="https://x.com/C3Heditor/status/2056476173845045697"
-        imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-05-18_154537_02e2e0ba.jpg"
-        tags={["Judiciary-Judicial", "Criminal Justice", "California"]}
-      />
+              headline="Govt Incompetence: Two Years Later, No Key Bridge Rebuild As Maryland Democrats Focus On Tampons In Men&#39;s Bathrooms"
+              tinyUrl="https://tinyurl.com/7uubwxpk"
+              xPostUrl="https://x.com/C3Heditor/status/2039081331708326342"
+              imageSrc="https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/2026-03-31_154315_44361632.jpg"
+              tags={["Maryland", "Corruption-Fraud"]}
+            />
       <ArticleBlock
-        headline="They&#39;re Actually Serious: Top Democrat Leaders Dismiss Islamic Terror On U.S. Soil As Nothing But A Conspiracy Theory"
-        tinyUrl="https://tinyurl.com/4udkwhmx"
-        xPostUrl="https://x.com/C3Heditor/status/2056475287995461979"
-        imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-05-18_154214_1618b1a2.jpg"
-        tags={["National Security", "Islam-Muslim"]}
-      />
+              headline="Corrupt Democrat Lawmaker Sentenced for Fabricating Support Letters &amp; Probed for Bullying"
+              tinyUrl="https://tinyurl.com/4uk9rdzh"
+              xPostUrl="https://x.com/C3Heditor/status/2039079834844909822"
+              imageSrc="https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/2026-03-31_153908_0fe413c2.jpg"
+              tags={["Corruption-Fraud", "FBI"]}
+            />
       <ArticleBlock
-        headline="It&#39;s Another Democrat Liar: Michigan&#39;s U.S. Senate Hopeful Abdul El-Sayed Claims He&#39;s A Physician But Has No Medical License"
-        tinyUrl="https://tinyurl.com/msarz7nt"
-        xPostUrl="https://x.com/C3Heditor/status/2056474697420657017"
-        imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-05-18_153948_afc67beb.jpg"
-        tags={["Michigan", "2026 Elections", "Healthcare Policy"]}
-      />
+              headline="Mississippi Education Miracle That Democrats Can&#39;t Stand Due To Blue State Education Fails"
+              tinyUrl="https://tinyurl.com/mw69jf26"
+              xPostUrl="https://x.com/C3Heditor/status/2039078983187280225"
+              imageSrc="https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/2026-03-31_153523_ecc83ffc.jpg"
+              tags={["Education Policy", "Culture War"]}
+            />
       <ArticleBlock
-        headline="SCOTUS Kills Virginia&#39;s Wildly Illegitimate Gerrymander Redistricting Plan Causing Gov. Spanberger To Rage On &#39;X&#39;"
-        tinyUrl="https://tinyurl.com/59xmh38y"
-        xPostUrl="https://x.com/C3Heditor/status/2056472510342869337"
-        imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-05-18_153108_cf9d8710.jpg"
-        tags={["Virginia", "2026 Elections", "Judiciary-Judicial", "Abigail Spanberger"]}
-      />
+              headline="Democrat-Socialist Sen. Bernie Sanders Unable Name Even One Benefit of the DHS Chaos He Supports"
+              tinyUrl="https://tinyurl.com/ycxcwbfw"
+              xPostUrl="https://x.com/C3Heditor/status/2039078410480214436"
+              imageSrc="https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/2026-03-31_153300_a4607f81.jpg"
+              tags={["Bernie Sanders", "CBP-DHS-ICE", "Kaitlan Collins"]}
+            />
       <ArticleBlock
-        headline="Ambulance Chasing Trial Lawyer PACs Fund Democrats&#39; Redistricting Power Grab With Millions In Dark Money"
-        tinyUrl="https://tinyurl.com/ms8v6ca4"
-        xPostUrl="https://x.com/C3Heditor/status/2056471328572551392"
-        imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-05-18_152621_0cfb17fa.jpg"
-        tags={["2026 Elections", "Corruption-Fraud"]}
-      />
+              headline="Michigan Voter Rolls Are Full of Dead Registrants — and Democrat Officials Refusing To Audit"
+              tinyUrl="https://tinyurl.com/yu8tcr8z"
+              xPostUrl="https://x.com/C3Heditor/status/2039077081145909607"
+              imageSrc="https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/2026-03-31_152755_8ac8280d.jpg"
+              tags={["Election Fraud", "Jocelyn Benson"]}
+            />
       <ArticleBlock
-        headline="Kamala Harris Lays Out The Simple Democrat Anti-Democracy Agenda: Pack The Courts, Add D.C. As A State &amp; Kill The Electoral College"
-        tinyUrl="https://tinyurl.com/4pukwd32"
-        xPostUrl="https://x.com/C3Heditor/status/2056470525627494784"
-        imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-05-18_152309_77ba4777.jpg"
-        tags={["Kamala Harris", "Judiciary-Judicial", "Politics", "WashingtonDC"]}
-      />
+              headline="Democrats Raced to Cancel Their Past Hero Cesar Chavez From Everything — Because of Jeffrey Epstein"
+              tinyUrl="https://tinyurl.com/yscm4rcw"
+              xPostUrl="https://x.com/C3Heditor/status/2039076054673858667"
+              imageSrc="https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/2026-03-31_152342_dd799679.jpg"
+              tags={["Cesar Chavez", "Epstein", "Gavin Newsom", "California"]}
+            />
       <ArticleBlock
-        headline="Massachusett&#39;s Sen. Markey Promises Democrats Will Investigate Trump &amp; His Family After Midterm Wins"
-        tinyUrl="https://tinyurl.com/29f3eyjx"
-        xPostUrl="https://x.com/C3Heditor/status/2056469820724384057"
-        imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-05-18_152024_31e750fa.jpg"
-        tags={["2026 Elections", "Politics"]}
-      />
+              headline="Justice Dept Seeks Citizenship Revocation of Former Democrat Mayor Over Fraud Charges"
+              tinyUrl="https://tinyurl.com/3nv425k3"
+              xPostUrl="https://x.com/C3Heditor/status/2039075370813579523"
+              imageSrc="https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/2026-03-31_152100_15f7335e.jpg"
+              tags={["Justice Department", "CBP-DHS-ICE"]}
+            />
       <ArticleBlock
-        headline="Oregon Voters Not Happy Over Democrats&#39; New Gas Tax Piled On Top of Rising Gas Prices"
-        tinyUrl="https://tinyurl.com/4dy66a5f"
-        xPostUrl="https://x.com/C3Heditor/status/2056469119449334017"
-        imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-05-18_151742_f32eeed4.jpg"
-        tags={["Oregon", "Taxation"]}
-      />
+              headline="Democrats Threaten Any Business That Backed Trump With Breakup and Retaliation Campaigns"
+              tinyUrl="https://tinyurl.com/k4rhpr88"
+              xPostUrl="https://x.com/C3Heditor/status/2039074364788769250"
+              imageSrc="https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/2026-03-31_151658_626df9bc.jpg"
+              tags={["Business Climate", "Politics"]}
+            />
       <ArticleBlock
-        headline="Panicked Democrats Plot Sweeping California Voting Rule Changes To Block All-GOP Governor Primary"
-        tinyUrl="https://tinyurl.com/42bzzf7b"
-        xPostUrl="https://x.com/C3Heditor/status/2056467080115900427"
-        imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-05-18_151015_b92f0009.jpg"
-        tags={["California", "Election Fraud", "2026 Elections"]}
-      />
+              headline="Never Forget: Democrats Withhold Applause as Trump Honors American Olympic Hockey Champions"
+              tinyUrl="https://tinyurl.com/bdcmss8y"
+              xPostUrl="https://x.com/C3Heditor/status/2039073582156836886"
+              imageSrc="https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/2026-03-31_151402_b85fea9e.jpg"
+              tags={["State of the Union", "Patriotism", "Politics"]}
+            />
       <ArticleBlock
-        headline="U.S. House Beg Sec of State Rubio To Treat Narco Criminals &amp; Terrorists With More Kindness And Respect"
-        tinyUrl="https://tinyurl.com/4t5yuz8f"
-        xPostUrl="https://x.com/C3Heditor/status/2056461793439215807"
-        imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-05-18_144843_738a8fbe.jpg"
-        tags={["Foreign Policy", "National Security", "Drug Crime", "U.S. Congress"]}
-      />
+              headline="Federal DOJ Enters Anti-White Discrimination Suit Against LA&#39;s Largest, Democrat-Run School District"
+              tinyUrl="https://tinyurl.com/bp9cd6fb"
+              xPostUrl="https://x.com/C3Heditor/status/2039070244665200826"
+              imageSrc="https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/2026-03-31_150055_36cd400c.jpg"
+              tags={["DOJ", "Los Angeles", "Racial Issues"]}
+            />
       <ArticleBlock
-        headline="Climate Change Scam Quietly Fades Away As Americans Refuse To Buy The Democrat Lies Any Longer"
-        tinyUrl="https://tinyurl.com/42yc5y5m"
-        xPostUrl="https://x.com/C3Heditor/status/2056461222120439820"
-        imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-05-18_144608_eb3d3c13.jpg"
-        tags={["Climate Change", "Politics"]}
-      />
+              headline="ESPN Star Tells Democrats Their Real Goal Is Allowing Illegal Aliens to Vote"
+              tinyUrl="https://tinyurl.com/5crv6paw"
+              xPostUrl="https://x.com/C3Heditor/status/2039069452780621921"
+              imageSrc="https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/2026-03-31_145728_0032d4e0.jpg"
+              tags={["Stephen A. Smith", "Election Fraud", "Immigration"]}
+            />
       <ArticleBlock
-        headline="Black Congressman In A White-Majority District Publicly Torches Democrat Party Over Their Absurd &#39;Jim Crow&#39; Rhetoric"
-        tinyUrl="https://tinyurl.com/2s3jyy7e"
-        xPostUrl="https://x.com/C3Heditor/status/2056460326959567255"
-        imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-05-18_144248_84bb781e.jpg"
-        tags={["Racial Issues", "Politics"]}
-      />
+              headline="U.S. U.S. House Block a Bill That Would Deport Illegal Aliens Who Attack Police Animals"
+              tinyUrl="https://tinyurl.com/5x8b6smk"
+              xPostUrl="https://x.com/C3Heditor/status/2039068823567949837"
+              imageSrc="https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/2026-03-31_145455_cbcfe479.jpg"
+              tags={["Election Fraud", "Law Enforcement", "CBP-DHS-ICE"]}
+            />
       <ArticleBlock
-        headline="TMZ Founder: Admits Los Angeles Has Completely Fallen Apart Under The Democrats He Supported"
-        tinyUrl="https://tinyurl.com/mrbsxe7h"
-        xPostUrl="https://x.com/C3Heditor/status/2056459703824355458"
-        imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-05-18_144013_7d935a35.jpg"
-        tags={["Los Angeles", "Government", "Incompetence"]}
-      />
+              headline="Radical Michigan Imam Who Shouted &#39;Death to America&#39; Linked To Top Democrats"
+              tinyUrl="https://tinyurl.com/jsuc5ak4"
+              xPostUrl="https://x.com/C3Heditor/status/2039068170837729301"
+              imageSrc="https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/2026-03-31_145243_4fe3e1cf.jpg"
+              tags={["Michigan", "Iran"]}
+            />
       <ArticleBlock
-        headline="Even Liberal Media Is Waking Up To Democrats&#39; Willingness To Shred The Rule Of Law"
-        tinyUrl="https://tinyurl.com/hv4wwzvu"
-        xPostUrl="https://x.com/C3Heditor/status/2056459126738391434"
-        imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-05-18_143750_ea3d5832.jpg"
-        tags={["Media Bias", "Virginia"]}
-      />
+              headline="Democrat Perks: Silicon Valley Water Boss &amp; NAACP Leader Pockets $500K Exit Deal Days Before a Sex Attack Report Drops"
+              tinyUrl="https://tinyurl.com/yhrec8hr"
+              xPostUrl="https://x.com/C3Heditor/status/2039067163294597287"
+              imageSrc="https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/2026-03-31_144824_92cadc68.jpg"
+              tags={["Sexual Misconduct", "Silicon Valley", "Violent Crime"]}
+            />
       <ArticleBlock
-        headline="Aiding Communist Dictators: Michigan&#39;s Democrat Rep. Jayapal Admits Helping Cuba Dodge The U.S. Oil Blockade"
-        tinyUrl="https://tinyurl.com/rc5cj9tf"
-        xPostUrl="https://x.com/C3Heditor/status/2056458637095338179"
-        imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-05-18_143546_b527e933.jpg"
-        tags={["Pramila Jayapal", "Foreign Policy"]}
-      />
+              headline="Democrat Senator Sounds Alarm: His Own Party Is Still Sick With Trump Derangement Syndrome"
+              tinyUrl="https://tinyurl.com/s5m6txkh"
+              xPostUrl="https://x.com/C3Heditor/status/2039066364724253040"
+              imageSrc="https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/2026-03-31_144513_c839d5cf.jpg"
+              tags={["John Fetterman", "U.S. Congress", "Foreign Policy"]}
+            />
       <ArticleBlock
-        headline="It&#39;s The Same &#39;Old&#39; Strategy Playbook: Democrats Roll Out Their &#39;New&#39; Strategy Of Blaming Trump For Everything"
-        tinyUrl="https://tinyurl.com/4ny4tx3d"
-        xPostUrl="https://x.com/C3Heditor/status/2056457437952274530"
-        imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-05-18_143111_f658c21f.jpg"
-        tags={["Media Bias", "2024 Election"]}
-      />
+              headline="Chicago Dem Blasts Gov. Pritzker and His Party — Reveals Why Democrats Block Trump on Immigration"
+              tinyUrl="https://tinyurl.com/bdd3tb6x"
+              xPostUrl="https://x.com/C3Heditor/status/2039065503004516452"
+              imageSrc="https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/2026-03-31_144152_ce04b155.jpg"
+              tags={["Chicago", "JB Pritzker", "Immigration"]}
+            />
       <ArticleBlock
-        headline="Brooklyn Is Now Ground Zero For The AntiSemite Intifada Under New York City&#39;s Democrat Marxist Mayor Mamdani"
-        tinyUrl="https://tinyurl.com/3ks9cvef"
-        xPostUrl="https://x.com/C3Heditor/status/2056456725927211386"
-        imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-05-18_142813_7cf14bce.jpg"
-        tags={["Israel", "New York", "Left-Wing"]}
-      />
+              headline="Massive Polling Support for Voter ID Nationwide Delivers Devastating Blow For Democrats"
+              tinyUrl="https://tinyurl.com/ypjsa6ae"
+              xPostUrl="https://x.com/C3Heditor/status/2039064324887523820"
+              imageSrc="https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/2026-03-31_143714_717fab4a.jpg"
+              tags={["Election Fraud", "Polling"]}
+            />
       <ArticleBlock
-        headline="Zilch Democrats Showed Up To The Critical COVID Investigation Hearing"
-        tinyUrl="https://tinyurl.com/mwu6ebsx"
-        xPostUrl="https://x.com/C3Heditor/status/2056456158085525946"
-        imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-05-18_142603_8db8046a.jpg"
-        tags={["COVID-19", "Dr. Anthony Fauci", "Homeland Security"]}
-      />
+              headline="Indiana Democrat-Partisan Judge Invents a Religious Right to Abortion and Uses It to Block the State Ban"
+              tinyUrl="https://tinyurl.com/msmv4zty"
+              xPostUrl="https://x.com/C3Heditor/status/2039063260901847255"
+              imageSrc="https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/2026-03-31_143255_d8e37da2.jpg"
+              tags={["Culture War", "Judiciary-Judicial"]}
+            />
       <ArticleBlock
-        headline="Evidence Surfaces: FDA Memo Proves The Democrat Biden Administration Covered Up Pediatric COVID Vaccine Deaths"
-        tinyUrl="https://tinyurl.com/4nu5rf3y"
-        xPostUrl="https://x.com/C3Heditor/status/2056454876066992150"
-        imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-05-18_142159_7dfc4913.jpg"
-        tags={["COVID-19", "Biden Administration"]}
-      />
+              headline="U.S. House Democrat Cherfilus-McCormick Found Guilty of 25 Ethics Violations — Expulsion Has Yet to Be Decided"
+              tinyUrl="https://tinyurl.com/2tnv5sb4"
+              xPostUrl="https://x.com/C3Heditor/status/2039061905223094275"
+              imageSrc="https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/2026-03-31_143035_9b179bf1.jpg"
+              tags={["Sheila Cherfilus-McCormick", "U.S. Congress", "2026 Elections", "Corruption-Fraud"]}
+            />
       </div>
       <Pagination currentPage={48} totalPages={70} />
       {/* SITE STATS — auto-updated by gen_pages.py. DO NOT edit manually. */}

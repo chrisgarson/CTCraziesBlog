@@ -7,145 +7,145 @@ export default function Page15() {
     <div className="max-w-4xl mx-auto px-4 py-16">
       <PageHeader />
       <ArticleBlock
-        headline="Whistleblower: Lack of Govt Oversight Turned Democrat Governed Minnesota Into a Fraud Paradise"
-        tinyUrl="https://tinyurl.com/ymtd8vnh"
-        xPostUrl="https://x.com/C3Heditor/status/2037173763578515583"
-        imageSrc="https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/2026-03-26_092459_7d104b92.jpg"
-        tags={["Minnesota", "Corruption-Fraud"]}
-      />
+              headline="&#39;Islam Is Part of the Fabric of America&#39; Claim Is Direct Result of Democrats&#39; Illegal Mass Immigration"
+              tinyUrl="https://tinyurl.com/ym5akc6h"
+              xPostUrl="https://x.com/C3Heditor/status/2060796629569937705"
+              imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-05-30_135335_2e1c5646.jpg"
+              tags={["Immigration", "Islam-Muslim"]}
+            />
       <ArticleBlock
-        headline="In Democrat-Run Arizona, Mexican Illegal Alien Teen Kills A Beloved Grandma But only Gets a Slap-on-the-Wrist Sentence"
-        tinyUrl="https://tinyurl.com/3ku8t2mv"
-        xPostUrl="https://x.com/C3Heditor/status/2037172642579407134"
-        imageSrc="https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/2026-03-26_092018_7d416753.jpg"
-        tags={["Violent Crime", "Immigration", "Judiciary-Judicial"]}
-      />
+              headline="Swatting Attack Violence by Democrat Activists on Conservative SCOTUS Justice Amy Coney Barrett"
+              tinyUrl="https://tinyurl.com/yhkbs2y5"
+              xPostUrl="https://x.com/C3Heditor/status/2060795023512244314"
+              imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-05-30_134712_1725b39e.jpg"
+              tags={["Judiciary-Judicial", "Left-Wing", "Violent Crime"]}
+            />
       <ArticleBlock
-        headline="Democrat Gov. Newsom Tries To Blame Trump for High CA Energy Costs — It Doesn&#39;t Go Well"
-        tinyUrl="https://tinyurl.com/4mcesyeh"
-        xPostUrl="https://x.com/C3Heditor/status/2037170480126300246"
-        imageSrc="https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/2026-03-26_091136_a3fb686e.jpg"
-        tags={["Gavin Newsom", "California", "Energy Policy"]}
-      />
+              headline="Analysts Warn Democrat Gov. Newsom Is Leaving California Dangerously Unprepared For Economic Collapse"
+              tinyUrl="https://tinyurl.com/3zsujmj3"
+              xPostUrl="https://x.com/C3Heditor/status/2060794118473765354"
+              imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-05-30_134338_1d75349d.jpg"
+              tags={["California", "Gavin Newsom", "Government"]}
+            />
       <ArticleBlock
-        headline="Pacific Northwest Progressives Are Quietly Waging a War Against Democratic Norms"
-        tinyUrl="https://tinyurl.com/m2ypenaa"
-        xPostUrl="https://x.com/C3Heditor/status/2037169140364947712"
-        imageSrc="https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/2026-03-26_090743_f3094450.jpg"
-        tags={["Washington", "Taxation"]}
-      />
+              headline="Clinton-Appointed Judge Blocks Trump&#39;s $1.8B Fund for Victims of Wrongful DOJ&#39;s Democrat Prosecution"
+              tinyUrl="https://tinyurl.com/3ufh2jhv"
+              xPostUrl="https://x.com/C3Heditor/status/2060793328241700905"
+              imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-05-30_134033_e4e33bd6.jpg"
+              tags={["Judiciary-Judicial", "Weaponization", "Biden Administration"]}
+            />
       <ArticleBlock
-        headline="Another Vulgar Democrat: Candidate who ran &lsquo;F*ck Trump&rsquo; ad wins senate primary"
-        tinyUrl="https://tinyurl.com/3ttw6s29"
-        xPostUrl="https://x.com/C3Heditor/status/2037168195635667289"
-        imageSrc="https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/2026-03-26_090244_edbf9749.jpg"
-        tags={["Illinois", "JB Pritzker", "2026 Elections"]}
-      />
+              headline="Left-Wing Politico Concedes That the Democrats&#39; Plan of 100% Tax Confiscation of Any Wealth Over $1B Is Doomed"
+              tinyUrl="https://tinyurl.com/mutsh9e2"
+              xPostUrl="https://x.com/C3Heditor/status/2060792092251566168"
+              imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-05-30_133538_662252ca.jpg"
+              tags={["Taxation", "Government"]}
+            />
       <ArticleBlock
-        headline="Mamdani&#39;s Democrat Policies Force a Beloved NYC Preschool to Jack Up Its Annual Tuition to $36,000"
-        tinyUrl="https://tinyurl.com/22yhmj9c"
-        xPostUrl="https://x.com/C3Heditor/status/2037165751396618481"
-        imageSrc="https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/2026-03-26_085254_0b9c1fef.jpg"
-        tags={["Zohran Mamdani", "New York", "Culture War"]}
-      />
+              headline="Charges Filed Against Radical Democrat Activist&#39;s Terrorist Threats Targeting TPUSA &amp; Erika Kirk"
+              tinyUrl="https://tinyurl.com/yxuy9pv3"
+              xPostUrl="https://x.com/C3Heditor/status/2060790254857007592"
+              imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-05-30_132853_1e8f2351.jpg"
+              tags={["Left-Wing", "Terrorism", "Politics"]}
+            />
       <ArticleBlock
-        headline="Democrats Already Plotting Investigations of Companies &amp; Law Firms That Aided Trump"
-        tinyUrl="https://tinyurl.com/2upb258j"
-        xPostUrl="https://x.com/C3Heditor/status/2037164740586164495"
-        imageSrc="https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/2026-03-26_084907_9d1f060f.jpg"
-        tags={["U.S. Congress", "Adam Schiff", "Sheldon Whitehouse"]}
-      />
+              headline="MSNOW Democrat Propagandist Embarrasses Herself By Revealing Complete Ignorance of Where American Rights Emanate From: “endowed by their Creator”"
+              tinyUrl="https://tinyurl.com/4bvar7z4"
+              xPostUrl="https://x.com/C3Heditor/status/2060788856702566686"
+              imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-05-30_132245_fcab9c76.jpg"
+              tags={["Media Bias", "U.S. Constitution"]}
+            />
       <ArticleBlock
-        headline="What A Surprise! Obama Delivered a Race-Baiting Eulogy at the Funeral of a Lifelong Democrat Race Hustler"
-        tinyUrl="https://tinyurl.com/3xkzc2r5"
-        xPostUrl="https://x.com/C3Heditor/status/2037163390678810794"
-        imageSrc="https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/2026-03-26_084519_5e8f5166.jpg"
-        tags={["Barack Obama", "Racial Issues"]}
-      />
+              headline="New York&#39;s Democrat Ban On Non-Lethal Weapons Is Unconstitutional &amp; Directly Undermines the Supreme Court"
+              tinyUrl="https://tinyurl.com/mjufd43a"
+              xPostUrl="https://x.com/C3Heditor/status/2060788145424150923"
+              imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-05-30_132006_ca22e0d3.jpg"
+              tags={["New York", "Culture War", "Gun Control", "Judiciary-Judicial"]}
+            />
       <ArticleBlock
-        headline="Another Case of Democrat Ugliness: Candidate for Congress Makes a Disgusting Sex Remark Targeting Melania Trump"
-        tinyUrl="https://tinyurl.com/3524cxz2"
-        xPostUrl="https://x.com/C3Heditor/status/2037162482456809805"
-        imageSrc="https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/2026-03-26_084009_b3c1acdf.jpg"
-        tags={["2026 Elections", "Sexual Misconduct"]}
-      />
+              headline="Texans Blowback Causes Democrat Vegan James Talarico to Mislead About His Dislike of Beef"
+              tinyUrl="https://tinyurl.com/bdfadt5n"
+              xPostUrl="https://x.com/C3Heditor/status/2060786890727358635"
+              imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-05-30_130048_0cd6678e.jpg"
+              tags={["James Talarico", "Texas", "2026 Elections"]}
+            />
       <ArticleBlock
-        headline="Democrat Culture: Trans Woman in a Blues Brothers Costume Allegedly Murders a Millionaire Developer in LA"
-        tinyUrl="https://tinyurl.com/y2s4dwsy"
-        xPostUrl="https://x.com/C3Heditor/status/2037149461219049747"
-        imageSrc="https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/2026-03-26_074813_4da62b7e.jpg"
-        tags={["Violent Crime", "LGBTQ"]}
-      />
+              headline="Anti-White Racism Remarks Targeting a White Employee Lands Democrat Racist Black Judge a Suspension"
+              tinyUrl="https://tinyurl.com/4htjtyej"
+              xPostUrl="https://x.com/C3Heditor/status/2060781201489531311"
+              imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-05-30_125233_fc6f46c1.jpg"
+              tags={["Racial Issues", "Judiciary-Judicial", "Culture War"]}
+            />
       <ArticleBlock
-        headline="California Democrat Introduces a Bill to Officially Add Two New Muslim State Holidays"
-        tinyUrl="https://tinyurl.com/54cszwxk"
-        xPostUrl="https://x.com/C3Heditor/status/2037148154655637630"
-        imageSrc="https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/2026-03-26_074308_da8329e2.jpg"
-        tags={["California", "Islam-Muslim"]}
-      />
+              headline="Prominent California Democrat Candidate Accused of Exposing Herself To Employee Then Paying Her Off With $350K"
+              tinyUrl="https://tinyurl.com/3awj7v34"
+              xPostUrl="https://x.com/C3Heditor/status/2060761176225591307"
+              imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-05-30_113244_45eb4d40.jpg"
+              tags={["California", "Politics", "Taxation", "Sexual Misconduct"]}
+            />
       <ArticleBlock
-        headline="Leave It To A Muslim Democrat To Ruin a Christian Celebration: On St. Patrick&#39;s Day Mayor Mamdani Invokes Palestinian &#39;Genocide&#39;"
-        tinyUrl="https://tinyurl.com/mpvuanxc"
-        xPostUrl="https://x.com/C3Heditor/status/2037147188510253112"
-        imageSrc="https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/2026-03-26_073952_01f8a941.jpg"
-        tags={["Zohran Mamdani", "Foreign Policy", "New York"]}
-      />
+              headline="Democrat-Marxist Mayor NYC Mamdani Backs NY Candidate Who Called President Biden a &#39;Rapist&#39; &amp; &#39;War Criminal&#39;"
+              tinyUrl="https://tinyurl.com/yvunemwn"
+              xPostUrl="https://x.com/C3Heditor/status/2060759907570266193"
+              imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-05-30_112744_37e0c6e6.jpg"
+              tags={["Zohran Mamdani", "New York", "2026 Elections", "Joe Biden"]}
+            />
       <ArticleBlock
-        headline="LA&#39;s Taxpayer-Funded Homeless Hotel Blasted as a Democrat Boondoggle With $625K Rooms"
-        tinyUrl="https://tinyurl.com/ypzhdkhh"
-        xPostUrl="https://x.com/C3Heditor/status/2037145345239445682"
-        imageSrc="https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/2026-03-26_073149_74d9090b.jpg"
-        tags={["Los Angeles", "Housing"]}
-      />
+              headline="Biden Family Refusal to Disappear From Public Eye Leaves Democrats Quietly Seething With Fury"
+              tinyUrl="https://tinyurl.com/23rv2vtj"
+              xPostUrl="https://x.com/C3Heditor/status/2060759022593032657"
+              imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-05-30_112413_9f1fc221.jpg"
+              tags={["Joe Biden", "Biden Administration", "Politics"]}
+            />
       <ArticleBlock
-        headline="Gettyburg&#39;s #1 LGBTQ Promoter/Democrat Mayor Arrested and Charged With Child Sex Crimes"
-        tinyUrl="https://tinyurl.com/2s3z9vvd"
-        xPostUrl="https://x.com/C3Heditor/status/2037161576013213745"
-        imageSrc="https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/2026-03-26_083646_57d7a1a8.jpg"
-        tags={["Chad-Alan Carr", "Gettysburg Mayor", "Sexual Misconduct"]}
-      />
+              headline="Scandalous Sexual Affair Between Black Female Judge Appointed by Democrat Obama With Local Official in Her Court Chambers"
+              tinyUrl="https://tinyurl.com/ycanw2ak"
+              xPostUrl="https://x.com/C3Heditor/status/2060758515036123544"
+              imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-05-30_112203_e98e3459.jpg"
+              tags={["Judiciary-Judicial", "Sexual Misconduct", "Politics"]}
+            />
       <ArticleBlock
-        headline="Result of Voting For Democrats: VA Dems Push Sweeping Gun Bans To Strip Citizens of Right To Self-Defense"
-        tinyUrl="https://tinyurl.com/598jntme"
-        xPostUrl="https://x.com/C3Heditor/status/2037142591754457361"
-        imageSrc="https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/2026-03-26_072105_062eee7d.jpg"
-        tags={["Virginia", "Culture War", "Abigail Spanberger", "Gun Control"]}
-      />
+              headline="Exposed: Democrat Biden Administration Fleeced Taxpayers to Fund Terror-Linked NGOs"
+              tinyUrl="https://tinyurl.com/2ph2nubn"
+              xPostUrl="https://x.com/C3Heditor/status/2060757294443348379"
+              imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-05-30_111730_c4c4f4b7.jpg"
+              tags={["Biden Administration", "Terrorism", "Taxation", "Corruption-Fraud"]}
+            />
       <ArticleBlock
-        headline="FakeNews 24/7/365: MS NOW Gets Caught Mislabeling a Lifelong Segregationist Democrat as a Republican"
-        tinyUrl="https://tinyurl.com/mr4dk9df"
-        xPostUrl="https://x.com/C3Heditor/status/2037141569845756204"
-        imageSrc="https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/2026-03-26_071711_9b26c09c.jpg"
-        tags={["Media Bias", "Ali Velshi"]}
-      />
+              headline="Soft-On-Crime In Democrat-Controlled Seattle As Another Violent Criminal Walks Free"
+              tinyUrl="https://tinyurl.com/4dns9byt"
+              xPostUrl="https://x.com/C3Heditor/status/2060756753512358278"
+              imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-05-30_111515_1770996a.jpg"
+              tags={["Criminal Justice", "Violent Crime", "Washington"]}
+            />
       <ArticleBlock
-        headline="Democrats-In-Action: Biden Judge Boots Top NJ Prosecutor From Child Porn Hearing in Tantrum Over Trump Picks"
-        tinyUrl="https://tinyurl.com/yrkwst2h"
-        xPostUrl="https://x.com/C3Heditor/status/2037140920240398440"
-        imageSrc="https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/2026-03-26_071417_2627bb66.jpg"
-        tags={["Law Enforcement", "Culture War", "Judiciary-Judicial"]}
-      />
+              headline="Know Your Place, Woman: Hijab-Clad Democrat AOC Gets Talked Over &amp; Ignored by Muslim Men at NYC Address"
+              tinyUrl="https://tinyurl.com/5cwe9zv3"
+              xPostUrl="https://x.com/C3Heditor/status/2060756068372759023"
+              imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-05-30_111229_c1312495.jpg"
+              tags={["Alexandria Ocasio-Cortez", "Islam-Muslim", "New York"]}
+            />
       <ArticleBlock
-        headline="Half A Century Later the Democrats&#39; Giant Spool of Red Tape Delays Finally Unravels For Nuke Energy"
-        tinyUrl="https://tinyurl.com/3brhaae2"
-        xPostUrl="https://x.com/C3Heditor/status/2036926898324869401"
-        imageSrc="https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/2026-03-25_170408_d4698020.jpg"
-        tags={["Energy Policy", "U.S. Congress"]}
-      />
+              headline="MSM Bites Dog Story: CNN Host Slams Democrats for Years of Hiding Biden&#39;s Worsening Cognitive Decline"
+              tinyUrl="https://tinyurl.com/ycxkuhvr"
+              xPostUrl="https://x.com/C3Heditor/status/2060755090877690182"
+              imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-05-30_110833_45351329.jpg"
+              tags={["Joe Biden", "Media Bias", "Biden Administration"]}
+            />
       <ArticleBlock
-        headline="Woke Women Are Twerking on ICE Agents to Defend Gang Members — Welcome to Democrats&#39; Clown World 2026"
-        tinyUrl="https://tinyurl.com/23z9fs8a"
-        xPostUrl="https://x.com/C3Heditor/status/2036924522293514725"
-        imageSrc="https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/2026-03-25_165653_cfdc3191.jpg"
-        tags={["CBP-DHS-ICE", "Violent Crime", "Left-Wing", "Immigration"]}
-      />
+              headline="Democrats Fear It will Become Common Knowledge for Donors Outside of Texas That Candidate James Talarico Is Considered One Creepy Weirdo by Texans"
+              tinyUrl="https://tinyurl.com/3ekybpn5"
+              xPostUrl="https://x.com/C3Heditor/status/2060752788183715998"
+              imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-05-30_105925_49936f0b.jpg"
+              tags={["James Talarico", "Texas", "2026 Elections"]}
+            />
       <ArticleBlock
-        headline="California Democrat Celebrity Gobsmacked When Told His Own State Bans Voter ID Requirements"
-        tinyUrl="https://tinyurl.com/mr3jxc2r"
-        xPostUrl="https://x.com/C3Heditor/status/2036923115373056272"
-        imageSrc="https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/2026-03-25_164914_75e7b364.jpg"
-        tags={["Election Fraud", "Stephen A. Smith"]}
-      />
+              headline="North Carolina Court Rules Democrat State Board Broke the Constitution by Allowing Election Fraud"
+              tinyUrl="https://tinyurl.com/5bwv25f8"
+              xPostUrl="https://x.com/C3Heditor/status/2060751885972230552"
+              imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-05-30_105611_871b33bc.jpg"
+              tags={["North Carolina", "Election Fraud"]}
+            />
       <Pagination currentPage={23} totalPages={70} />
     </div>
   );

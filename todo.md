@@ -440,3 +440,8 @@
 - [x] Review and validate the user-provided 61-topic-tag cleanup mapping before implementation
 - [x] Apply the approved topic-tag consolidations to both tag-index.json copies and article data
 - [x] Rebuild, deploy, and verify the reduced topic-tag index
+
+## Authoritative NUM-to-Page Order Correction (August 11, 2026)
+- [x] Validate every current article against the user-provided NUM, headline, and WebPage mapping
+- [x] Correct page files, Search.tsx, and both tag-index.json copies to the authoritative mapping
+- [ ] Build, deploy, and verify descending NUM order and matching page links

@@ -7,145 +7,145 @@ export default function Page27() {
     <div className="max-w-4xl mx-auto px-4 py-16">
       <PageHeader />
       <ArticleBlock
-        headline="Democrat Gov. Newsom&#39;s Own Policy Choices Are the Root Cause of California&#39;s Endless Budget Deficits"
-        tinyUrl="https://tinyurl.com/58npub4t"
-        xPostUrl="https://x.com/C3Heditor/status/2024951216225042725"
-        imageSrc="https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/post120_clean_c331416e.jpg"
-        tags={["Gavin Newsom", "California", "Government"]}
-      />
+              headline="Pennsylvania's Governor Josh Shapiro Warns That Democrats Are Spiraling Toward Socialist Chaos"
+              tinyUrl="https://tinyurl.com/u4v76emz"
+              xPostUrl="https://x.com/C3Heditor/status/2076030577770188917"
+              imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-07-11_144744.jpg"
+              tags={["Josh Shapiro", "Pennsylvania", "Communism-Socialism"]}
+            />
       <ArticleBlock
-        headline="What Is Driving Democrats Into an Unrelenting State of Radical Political Overdrive?"
-        tinyUrl="https://tinyurl.com/2vdwa6wu"
-        xPostUrl="https://x.com/C3Heditor/status/2024950147998707766"
-        imageSrc="https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/post119_clean_cda5cb0f.jpg"
-        tags={["Left-Wing", "Politics", "Culture War", "Bernie Sanders"]}
-      />
+              headline="Illinois Loses Hardware Giant HQ, True Value, To Indiana Citing Failures by Democrats' Governance"
+              tinyUrl="https://tinyurl.com/bdfvv78h"
+              xPostUrl="https://x.com/C3Heditor/status/2076030018170307024"
+              imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-07-11_144555.jpg"
+              tags={["Illinois", "Economic Policy"]}
+            />
       <ArticleBlock
-        headline="More Demcorat Legal Action Taken Against the Trump Administration for Probing Child Sex-Change Groups"
-        tinyUrl="https://tinyurl.com/jptmtp4u"
-        xPostUrl="https://x.com/C3Heditor/status/2024949259083133438"
-        imageSrc="https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/post118_clean_5994e7e0.jpg"
-        tags={["Healthcare Policy", "LGBTQ"]}
-      />
+              headline="Most Democrats Say They Would Rather Be Living in a Different Country, New Survey Finds"
+              tinyUrl="https://tinyurl.com/5n9bb252"
+              xPostUrl="https://x.com/C3Heditor/status/2076029185319989732"
+              imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-07-11_144223.jpg"
+              tags={["Polling", "Politics"]}
+            />
       <ArticleBlock
-        headline="Seattle&#39;s Democrat-Socialist woke mayor provides another bumbling confirmation that is embarrassing for females"
-        tinyUrl="https://tinyurl.com/y3hvp5hd"
-        xPostUrl="https://x.com/C3Heditor/status/2024255470869844268"
-        imageSrc="https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/post117_clean_11f3dfc7.jpg"
-        tags={["Washington", "Drug Crime"]}
-      />
+              headline="Trump Accounts' Are Tax-Free Opportunity To Build Wealth for a Child But Democrats Urge Families to Reject the Enormous Benefit of These Accounts"
+              tinyUrl="https://tinyurl.com/yzmeffxb"
+              xPostUrl="https://x.com/C3Heditor/status/2076028708020707638"
+              imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-07-11_144021.jpg"
+              tags={["Economic Policy", "Taxation", "Politics"]}
+            />
       <ArticleBlock
-        headline="Ooh-Boy. The leading FakeNews site lets loose the truth about the legal jihad against Trump"
-        tinyUrl="https://tinyurl.com/4cyufc7k"
-        xPostUrl="https://x.com/C3Heditor/status/2024254102398480802"
-        imageSrc="https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/post116_clean_dfb0d56c.jpg"
-        tags={["Judiciary-Judicial", "Jeffrey Toobin"]}
-      />
+              headline="Leading Democrats Cut Wealth-Tax Threshold, Exposing More Citizens to Dems' Phony 'Billionaire Tax' Scheme"
+              tinyUrl="https://tinyurl.com/43hvfru9"
+              xPostUrl="https://x.com/C3Heditor/status/2076028073066082357"
+              imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-07-11_143538.jpg"
+              tags={["Economic Policy", "Communism-Socialism"]}
+            />
       <ArticleBlock
-        headline="Democrat-run cities in California are a true clown show of bad policies &amp; incompetence"
-        tinyUrl="https://tinyurl.com/55b4ufhy"
-        xPostUrl="https://x.com/C3Heditor/status/2024252153192149304"
-        imageSrc="https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/post115_clean_8855a469.jpg"
-        tags={["Retail Crime", "California"]}
-      />
+              headline="Arrested Alien Voted in Two Separate Elections and Democrats Still Claim This Does Not Happen"
+              tinyUrl="https://tinyurl.com/ktpss6t3"
+              xPostUrl="https://x.com/C3Heditor/status/2076027233987068167"
+              imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-07-11_143432.jpg"
+              tags={["Immigration", "Election Fraud"]}
+            />
       <ArticleBlock
-        headline="Democrats in trouble? CNN&#39;s main election analyst shares the bad news"
-        tinyUrl="https://tinyurl.com/y3sn4pad"
-        xPostUrl="https://x.com/C3Heditor/status/2024249348435869706"
-        imageSrc="https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/post114_clean_77f86d09.jpg"
-        tags={["Harry Enten", "2026 Elections", "Media Bias"]}
-      />
+              headline="State Records Reveal Pennsylvania's House Democrat Nominee, Bob Brooks, Ran a Business That Lacked Mandatory Workers' Comp"
+              tinyUrl="https://tinyurl.com/bderfbsv"
+              xPostUrl="https://x.com/C3Heditor/status/2076026758470439068"
+              imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-07-11_143244.jpg"
+              tags={["Bob Brooks", "Pennsylvania", "2026 Elections"]}
+            />
       <ArticleBlock
-        headline="California&#39;s one-party mismanagement opens door for Republican governor candidates"
-        tinyUrl="https://tinyurl.com/7u4vrjy4"
-        xPostUrl="https://x.com/C3Heditor/status/2024248362640289868"
-        imageSrc="https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/post113_clean_859b60a1.jpg"
-        tags={["California", "Election Fraud"]}
-      />
+              headline="Bernie Sanders-Backed Democrat Mayor Admits Guilt in Mississippi Corruption Case"
+              tinyUrl="https://tinyurl.com/8da5wvnh"
+              xPostUrl="https://x.com/C3Heditor/status/2076026259256045852"
+              imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-07-11_143038.jpg"
+              tags={["Bernie Sanders", "Mississippi", "Corruption-Fraud"]}
+            />
       <ArticleBlock
-        headline="Transgender mass shooting in Rhode Island confirms need for law enforcement to take this continuing risk seriosly"
-        tinyUrl="https://tinyurl.com/55z3u57j"
-        xPostUrl="https://x.com/C3Heditor/status/2024247091283763485"
-        imageSrc="https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/post112_clean_e5e8114c.jpg"
-        tags={["Violent Crime", "Robert Dorgan"]}
-      />
+              headline="Pointing the Finger: After Graham Platner's Implosion, Democrats Criticize Looney-Socialist Bernie Sanders for Backing Radicals"
+              tinyUrl="https://tinyurl.com/3recu2ct"
+              xPostUrl="https://x.com/C3Heditor/status/2076025446718636116"
+              imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-07-11_142719.jpg"
+              tags={["Graham Platner", "Bernie Sanders", "Communism-Socialism"]}
+            />
       <ArticleBlock
-        headline="Mentally ill should be incarcerated: Yet another judicial fail as homeless person slashes teenager&#39;s neck"
-        tinyUrl="https://tinyurl.com/2evzsfej"
-        xPostUrl="https://x.com/C3Heditor/status/2024245580877213848"
-        imageSrc="https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/post111_clean_5e9d67c9.jpg"
-        tags={["Violent Crime", "Judiciary-Judicial"]}
-      />
+              headline="Wisconsin Democrat Governor Hopeful, Francesca Hong, Wants Taxpayer-Funded Gender Mutilation Treatments"
+              tinyUrl="https://tinyurl.com/yc2yx2ct"
+              xPostUrl="https://x.com/C3Heditor/status/2076024756067865035"
+              imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-07-11_142510.jpg"
+              tags={["Francesca Hong", "Wisconsin", "LGBTQ", "2026 Elections"]}
+            />
       <ArticleBlock
-        headline="Democrats created this NYC crisis: Homelessness Crisis That Mamdani Is Ill-Equipped To Fix"
-        tinyUrl="https://tinyurl.com/2h2k998p"
-        xPostUrl="https://x.com/C3Heditor/status/2024243503530742116"
-        imageSrc="https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/post110_clean_5fe69707.jpg"
-        tags={["Zohran Mamdani", "New York", "Homeless", "Immigration"]}
-      />
+              headline="New York City's Communist Mayor Zohran Mamdani's America-Bashing Speech Is Praised by Democrat Congressman Ro Khanna"
+              tinyUrl="https://tinyurl.com/3dm9nsxp"
+              xPostUrl="https://x.com/C3Heditor/status/2075987123404955973"
+              imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-07-11_061521.jpg"
+              tags={["Zohran Mamdani", "Ro Khanna", "New York", "Communism-Socialism"]}
+            />
       <ArticleBlock
-        headline="Self-Righteous Hypocrisy of Hollywood Liberal: Downplays Revelation &#39;The View&#39; Host Was Involved With Epstein"
-        tinyUrl="https://tinyurl.com/t8j429va"
-        xPostUrl="https://x.com/C3Heditor/status/2024123534037942706"
-        imageSrc="https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/post109_clean_0cdc59b1.jpg"
-        tags={["Whoopi Goldberg", "Epstein", "The View"]}
-      />
+              headline="Democrat Representative, Adelita Grijalva, Wants the Recent U.S. 250th Celebration Investigated by Congress for Christianity Connections"
+              tinyUrl="https://tinyurl.com/a3z88wbu"
+              xPostUrl="https://x.com/C3Heditor/status/2075985733756518489"
+              imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-07-11_114948.jpg"
+              tags={["Adelita Grijalva", "Culture War", "Patriotism"]}
+            />
       <ArticleBlock
-        headline="Democrat &#39;Success&#39; By Gov. Newsom: California has led the nation during his tenure in homelessness, unemployment, poverty, illiteracy, gas prices, electricity costs, debt, and outmigration"
-        tinyUrl="https://tinyurl.com/msb3fhp2"
-        xPostUrl="https://x.com/C3Heditor/status/2024097899160760573"
-        imageSrc="https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/post108_clean_07334314.jpg"
-        tags={["Gavin Newsom", "California", "Homeless", "Kamala Harris"]}
-      />
+              headline="Self-Proclaimed &quot;Moderate&quot; Democrat, Josh Turek, Voted to Keep Race-Based, Woke Anti-Male, Anti-White DEI Programs in Iowa's Schools"
+              tinyUrl="https://tinyurl.com/ntb3t48n"
+              xPostUrl="https://x.com/C3Heditor/status/2075984641119436892"
+              imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-07-11_114522.jpg"
+              tags={["Josh Turek", "Iowa", "Racial Issues", "2026 Elections"]}
+            />
       <ArticleBlock
-        headline="Trash-America Democrats Whine To EU Elites &amp; Globalists About Trump and MAGA"
-        tinyUrl="https://tinyurl.com/cmrwcz3p"
-        xPostUrl="https://x.com/C3Heditor/status/2023956800924438632"
-        imageSrc="https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/post107_clean_d80da96c.jpg"
-        tags={["Elissa Slotkin", "National Security", "2026 Elections"]}
-      />
+              headline="Radical Democrat Abdul El-Sayed's Campaign for Senate Is Rocked by a 'Defund the Police' Scandal"
+              tinyUrl="https://tinyurl.com/ybr48prm"
+              xPostUrl="https://x.com/C3Heditor/status/2075981482204574191"
+              imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-07-11_113246.jpg"
+              tags={["Abdul El-Sayed", "Michigan", "Law Enforcement", "2026 Elections"]}
+            />
       <ArticleBlock
-        headline="Redomestication: Moving from a sh*thole Blue state to a state that supports business"
-        tinyUrl="https://tinyurl.com/4ddne2cb"
-        xPostUrl="https://x.com/C3Heditor/status/2023955021163897066"
-        imageSrc="https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/post106_clean_fb2f1bca.jpg"
-        tags={["Business Relocation", "Florida", "Texas", "Taxation"]}
-      />
+              headline="Ooops: House Democrat Candidate, Virginia's Elaine Luria, Brushed Off Rape Claim Against Fellow Dem Graham Platner As a Nothingburger"
+              tinyUrl="https://tinyurl.com/4k8swat7"
+              xPostUrl="https://x.com/C3Heditor/status/2075980680672989694"
+              imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-07-11_112942.jpg"
+              tags={["Elaine Luria", "Graham Platner", "Virginia", "2026 Elections"]}
+            />
       <ArticleBlock
-        headline="Democrat Consultant Share&#39;s His Thoughts: &lsquo;Pathetic And Embarrassing&rsquo;: Says &lsquo;More And More&rsquo; Democrats &lsquo;Laughing&rsquo; At AOC"
-        tinyUrl="https://tinyurl.com/5n6cefzf"
-        xPostUrl="https://x.com/C3Heditor/status/2023897328516550873"
-        imageSrc="https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/post105_clean_7547fb44.jpg"
-        tags={["Alexandria Ocasio-Cortez", "Politics"]}
-      />
+              headline="Trump's Working Families Tax Cut Legislation Was 100 Percent Unanimously Opposed by Democrats but They Are Now Trying to Claim Credit for Its Success"
+              tinyUrl="https://tinyurl.com/5bcerfs7"
+              xPostUrl="https://x.com/C3Heditor/status/2075979749071966310"
+              imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-07-11_112553.jpg"
+              tags={["Economic Policy", "U.S. Congress"]}
+            />
       <ArticleBlock
-        headline="Goldman Sachs Chooses Sanity: &#39;Debanking&#39; Democrat DEI idiocy is a growth industry"
-        tinyUrl="https://tinyurl.com/ybkaezyf"
-        xPostUrl="https://x.com/C3Heditor/status/2023896297007198718"
-        imageSrc="https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/post104_clean_ee6a2735.jpg"
-        tags={["Culture War", "Racial Issues", "Business Climate"]}
-      />
+              headline="Black &quot;English&quot; Taught in Pre-Schools?? California's Woke Democrat Activists Attempt to Make it Happen"
+              tinyUrl="https://tinyurl.com/mw8fwr"
+              xPostUrl="https://x.com/C3Heditor/status/2075978704442798350"
+              imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-07-11_112205.jpg"
+              tags={["California", "Education Policy", "Racial Issues"]}
+            />
       <ArticleBlock
-        headline="Democrats&#39; love affair with metally ill people has consequences: Dad In Dress Kills Ex-Wife, Child, Self At School Hockey Game"
-        tinyUrl="https://tinyurl.com/3tptvvpt"
-        xPostUrl="https://x.com/C3Heditor/status/2023895037050851570"
-        imageSrc="https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/post103_clean_b3e60131.jpg"
-        tags={["Rhode Island Politics", "Robert Dorgan", "Violent Crime"]}
-      />
+              headline="Texas Doctor Who Did Trans Mutilation Surgeries on Minors is Now Campaigning With Radical-Left Democrat Senate Candidate James Talarico"
+              tinyUrl="https://tinyurl.com/yk6tr269"
+              xPostUrl="https://x.com/C3Heditor/status/2075977742584037622"
+              imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-07-11_111813.jpg"
+              tags={["James Talarico", "Texas", "LGBTQ", "2026 Elections"]}
+            />
       <ArticleBlock
-        headline="Voting for Democrats is cultural suicide: Democrats&rsquo; New &lsquo;Trans Bill of Rights&rsquo; Looks to Undo Trump Policies to Protect Women&rsquo;s Spaces"
-        tinyUrl="https://tinyurl.com/yck7hvvs"
-        xPostUrl="https://x.com/C3Heditor/status/2023892413614309662"
-        imageSrc="https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/post102_clean_7288a4f0.jpg"
-        tags={["LGBTQ", "Seth Moulton"]}
-      />
+              headline="Foreign Money Is Being Used by a Democrat Voter-Registration Group to Sway U.S. Elections"
+              tinyUrl="https://tinyurl.com/3s36h5p9"
+              xPostUrl="https://x.com/C3Heditor/status/2075977187312734353"
+              imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-07-11_111354.jpg"
+              tags={["Election Fraud", "Foreign Policy"]}
+            />
       <ArticleBlock
-        headline="When will the other &#39;big&#39; loafer fall - Democrat Gov. JB Pritzker&rsquo;s Cousin Steps Down From Family Business Over Epstein Ties"
-        tinyUrl="https://tinyurl.com/4pvj66cn"
-        xPostUrl="https://x.com/C3Heditor/status/2023891283803357590"
-        imageSrc="https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/post101_clean_4889be0e.jpg"
-        tags={["JB Pritzker", "Epstein"]}
-      />
+              headline="Democrats Are Hateful and Violent: Staffer Who Made Death Threat Videos for a Wisconsin Democrat's Campaign Has Been Identified"
+              tinyUrl="https://tinyurl.com/mr2ukkxw"
+              xPostUrl="https://x.com/C3Heditor/status/2075976211222651241"
+              imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-07-11_111157.jpg"
+              tags={["Wisconsin", "Violence"]}
+            />
       <Pagination currentPage={11} totalPages={70} />
     </div>
   );
