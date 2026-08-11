@@ -1,13 +1,14 @@
 import React from 'react';
 import ArticleBlock from '../components/ArticleBlock';
 import Pagination from '../components/Pagination';
+import PageHeader from '../components/PageHeader';
 
 export default function Page5() {
   return (
-    <div className="page-container">
-      <Pagination currentPage={5} totalPages={70} />
+    <div className="max-w-4xl mx-auto px-4 py-16">
+      <PageHeader />
       <ArticleBlock
-        headline="Texas \&quot;Christian\&quot; Democrat Senate Candidate, James Talarico, Claims That Islam Mystics Influenced Him"
+        headline="Texas &quot;Christian&quot; Democrat Senate Candidate, James Talarico, Claims That Islam Mystics Influenced Him"
         tinyUrl="https://tinyurl.com/2rjm8pf4"
         xPostUrl="https://x.com/C3Heditor/status/2082155004517896596"
         imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-07-28_122402.jpg"
