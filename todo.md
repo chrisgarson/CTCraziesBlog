@@ -450,3 +450,19 @@
 - [x] Diagnose and repair the incorrect Page 5 rendering without changing article content or order
 - [x] Diagnose and repair Page 69 images that render vertically cut in half
 - [x] Build, deploy, and verify Pages 5 and 69
+
+## Descending NUM Order Safeguard Audit (August 11, 2026)
+- [ ] Audit batch page-generation logic for paths that can break descending NUM order
+- [ ] Audit Search and tag-index rebuild logic for stale or incorrect page-link assignments
+- [ ] Define the required pre-deployment ordering validations and failure conditions
+- [ ] Implement approved permanent safeguards before the next batch
+
+## New Batch XLSX Layout Assessment (August 11, 2026)
+- [x] Inspect the new spreadsheet layout and map each required processing field
+- [x] Identify and document all batch-processing changes required for the new layout
+
+## New CTC Info XLSX Processor Support (August 11, 2026)
+- [x] Update the tracked batch processor for the Row 4 header and Row 5 data layout
+- [x] Map Columns D–G to headline, Source URL, image filename, and X-post URL
+- [x] Preserve historic TinyURL values as legacy source links during rebuilds
+- [x] Validate the updated processor against the supplied sample workbook

@@ -8,7 +8,7 @@ Usage:
     articles_json : path to JSON file with 20 article objects
     source_xlsx   : (optional but strongly recommended) path to the source XLSX
                     file. When provided, every headline in the JSON is verified
-                    against column B of the XLSX row-by-row. Any mismatch blocks
+                    against Column D of the current CTC Info XLSX by NUM. Any mismatch blocks
                     the batch — this prevents hallucinated or truncated headlines
                     from reaching the site.
 
@@ -28,7 +28,7 @@ Checks performed:
   - URLs start with http
   - Headlines are not blank
   - imageName matches the basename of imagePath
-  - [XLSX cross-check] Every headline matches column B of the source XLSX exactly
+  - [XLSX cross-check] Every headline matches Column D of the source XLSX exactly
     (requires source_xlsx argument; blocks batch on any mismatch)
 
 Exit codes:
@@ -90,56 +90,45 @@ def normalize_headline(s: str) -> str:
     return s
 
 
-def load_xlsx_headlines(xlsx_path: str) -> list[str]:
+def load_xlsx_articles(xlsx_path: str) -> list[dict]:
     """
-    Read column B (X-Post Headline) from the source XLSX, skipping the header row.
-    Returns a list of headline strings in row order (top to bottom).
-    Raises ImportError if openpyxl is not installed.
+    Read the current CTC Info layout (headers Row 4, data Row 5 onward).
+    Returns the authoritative NUM/headline/source-link records.
     """
-    try:
-        import openpyxl
-    except ImportError:
-        raise ImportError("openpyxl is required for XLSX cross-check: pip install openpyxl")
-
-    wb = openpyxl.load_workbook(xlsx_path, read_only=True, data_only=True)
-    ws = wb.active
-    headlines = []
-    for row in ws.iter_rows(min_row=2, values_only=True):
-        headline = row[1] if len(row) > 1 else None  # column B = index 1
-        if headline and str(headline).strip():
-            headlines.append(str(headline).strip())
-    wb.close()
-    return headlines
+    from ctc_info_xlsx import read_ctc_info_workbook
+    articles, _ = read_ctc_info_workbook(xlsx_path)
+    return articles
 
 
 def xlsx_cross_check(articles: list, xlsx_path: str) -> list:
     """
-    Cross-check every headline in the JSON against the source XLSX column B.
-    Articles are matched positionally (article[0] ↔ xlsx row 2, etc.).
+    Cross-check every headline and source URL in JSON against the current CTC
+    Info XLSX.  Articles are matched by NUM, never by incidental row position.
     Returns a list of error strings; empty list means all headlines match.
     """
     errors = []
 
     try:
-        xlsx_headlines = load_xlsx_headlines(xlsx_path)
+        xlsx_articles = load_xlsx_articles(xlsx_path)
     except Exception as e:
         errors.append(f"XLSX cross-check: could not read '{xlsx_path}': {e}")
         return errors
 
-    if len(xlsx_headlines) != len(articles):
+    xlsx_by_num = {article['num']: article for article in xlsx_articles}
+    if len(xlsx_articles) != len(articles):
         errors.append(
-            f"XLSX cross-check: XLSX has {len(xlsx_headlines)} data rows "
+            f"XLSX cross-check: XLSX has {len(xlsx_articles)} data rows "
             f"but JSON has {len(articles)} articles — counts must match"
         )
-        # Still check as many as we can
-        check_count = min(len(xlsx_headlines), len(articles))
-    else:
-        check_count = len(articles)
 
-    for i in range(check_count):
-        json_headline_raw = str(articles[i].get('headline', '')).strip()
-        xlsx_headline_raw = xlsx_headlines[i].strip()
-        num = articles[i].get('num', f'#{i+1}')
+    for i, article in enumerate(articles):
+        num = article.get('num', f'#{i+1}')
+        xlsx_article = xlsx_by_num.get(num)
+        if not xlsx_article:
+            errors.append(f"XLSX cross-check: NUM {num} is absent from source XLSX")
+            continue
+        json_headline_raw = str(article.get('headline', ''))
+        xlsx_headline_raw = str(xlsx_article['headline'])
 
         # Normalize both sides to avoid false positives from Excel formatting
         json_norm = normalize_headline(json_headline_raw)
@@ -147,9 +136,17 @@ def xlsx_cross_check(articles: list, xlsx_path: str) -> list:
 
         if json_norm != xlsx_norm:
             errors.append(
-                f"XLSX cross-check — num {num} (row {i+2}): headline mismatch\n"
+                f"XLSX cross-check — num {num}: headline mismatch\n"
                 f"     JSON:  \"{json_headline_raw}\"\n"
                 f"     XLSX:  \"{xlsx_headline_raw}\""
+            )
+
+        json_source = str(article.get('sourceUrl') or article.get('tinyUrl') or '')
+        if json_source != str(xlsx_article['sourceUrl']):
+            errors.append(
+                f"XLSX cross-check — num {num}: Source URL mismatch\n"
+                f"     JSON:  \"{json_source}\"\n"
+                f"     XLSX:  \"{xlsx_article['sourceUrl']}\""
             )
 
     return errors
@@ -169,12 +166,17 @@ def validate(articles: list, approved_tags: set) -> tuple[list, list]:
         if len(articles) == 0:
             return errors, warnings  # Nothing else to check
 
-    required_fields = ['num', 'headline', 'tinyUrl', 'imageName', 'xPostUrl', 'imagePath', 'tags']
+    required_fields = ['num', 'headline', 'imageName', 'xPostUrl', 'imagePath', 'tags']
     seen_nums = set()
     seen_images = set()
 
     for i, art in enumerate(articles):
         idx = i + 1  # 1-based for readability
+
+        if not art.get('sourceUrl') and art.get('tinyUrl'):
+            art['sourceUrl'] = art['tinyUrl']
+        if not art.get('tinyUrl') and art.get('sourceUrl'):
+            art['tinyUrl'] = art['sourceUrl']
 
         # ── Required fields ───────────────────────────────────────────────────
         for field in required_fields:
@@ -213,7 +215,7 @@ def validate(articles: list, approved_tags: set) -> tuple[list, list]:
             seen_images.add(img_name)
 
         # ── URL format ────────────────────────────────────────────────────────
-        for url_field in ['tinyUrl', 'xPostUrl']:
+        for url_field in ['sourceUrl', 'tinyUrl', 'xPostUrl']:
             if url_field in art and art[url_field]:
                 val = str(art[url_field])
                 if not val.startswith('http'):

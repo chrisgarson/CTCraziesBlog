@@ -4,6 +4,7 @@ batch_process.py — Permanent reusable batch processor for CT Crazies website.
 
 Usage:
     python3.11 batch_process.py <batch_date> <articles_json> [--dry-run]
+    python3.11 batch_process.py --prepare-xlsx <ctc_info.xlsx> <images_dir> <draft.json>
 
 Arguments:
     batch_date        : Human-readable date string, e.g. "June 3, 2026"
@@ -14,10 +15,11 @@ Arguments:
 The articles JSON file must be an array of 20 objects in display order (top to bottom),
 each with these keys:
     num         : int   — article number (e.g. 1000)
-    headline    : str   — exact X-Post Headline from spreadsheet (Col B), verbatim
-    tinyUrl     : str   — Tiny URL (Col E)
+    headline    : str   — exact X-Post Headline from the CTC Info workbook (Col D), verbatim
+    sourceUrl   : str   — direct Source URL from the CTC Info workbook (Col E)
+    tinyUrl     : str   — compatibility alias for sourceUrl; historic records retain legacy TinyURL values
     imageName   : str   — image filename (Col F)
-    xPostUrl    : str   — X Post URL (Col H)
+    xPostUrl    : str   — X Post URL (Col G)
     imagePath   : str   — local filesystem path to the image file
     tags        : list  — list of tag strings (approved tags only)
 
@@ -54,6 +56,8 @@ Reliability features:
 import sys, os, re, json, shutil, subprocess, base64, time, tempfile, copy, datetime
 from pathlib import Path
 import requests
+
+from ctc_info_xlsx import write_tagging_draft
 
 PROJECT = os.path.dirname(os.path.abspath(__file__))
 PAGES_DIR = os.path.join(PROJECT, 'client/src/pages')
@@ -249,7 +253,7 @@ def preflight_validate(articles: list, approved_tags: set) -> list:
     Run all pre-flight checks before any files are modified.
     Returns a list of error strings. Empty list means all checks passed.
     Checks:
-      - Exactly 20 articles
+      - Exactly 20 articles for the current publish path
       - All required fields present and non-empty
       - imagePath exists on local filesystem
       - All tags are from the approved list
@@ -263,12 +267,19 @@ def preflight_validate(articles: list, approved_tags: set) -> list:
         errors.append(f"Expected 20 articles, got {len(articles)}")
         return errors  # Can't continue other checks meaningfully
 
-    required_fields = ['num', 'headline', 'tinyUrl', 'imageName', 'xPostUrl', 'imagePath', 'tags']
+    required_fields = ['num', 'headline', 'imageName', 'xPostUrl', 'imagePath', 'tags']
     seen_nums = set()
     seen_images = set()
 
     for i, art in enumerate(articles):
         idx = i + 1  # 1-based for error messages
+
+        # New CTC Info workbooks supply Source URL.  Existing page/Search code
+        # retains the property name tinyUrl, so normalize only when necessary.
+        if not art.get('sourceUrl') and art.get('tinyUrl'):
+            art['sourceUrl'] = art['tinyUrl']
+        if not art.get('tinyUrl') and art.get('sourceUrl'):
+            art['tinyUrl'] = art['sourceUrl']
 
         # Required fields
         for field in required_fields:
@@ -292,7 +303,7 @@ def preflight_validate(articles: list, approved_tags: set) -> list:
             seen_images.add(img_name)
 
         # URL format checks
-        for url_field in ['tinyUrl', 'xPostUrl']:
+        for url_field in ['sourceUrl', 'tinyUrl', 'xPostUrl']:
             if url_field in art and art[url_field]:
                 if not str(art[url_field]).startswith('http'):
                     errors.append(f"Article {idx} (num {art.get('num')}): '{url_field}' does not start with http: {art[url_field][:60]}")
@@ -811,6 +822,22 @@ def verify_live_site(batch_date: str, max_wait: int = 120) -> bool:
 # ─────────────────────────────────────────────
 
 def main():
+    if len(sys.argv) >= 2 and sys.argv[1] == '--prepare-xlsx':
+        if len(sys.argv) != 5:
+            print('Usage: python3.11 batch_process.py --prepare-xlsx <ctc_info.xlsx> <images_dir> <draft.json>')
+            sys.exit(2)
+        xlsx_path, images_dir, output_json = sys.argv[2:5]
+        try:
+            metadata = write_tagging_draft(xlsx_path, images_dir, output_json)
+        except Exception as exc:
+            print(f'CTC Info workbook preparation failed: {exc}')
+            sys.exit(1)
+        print('CTC Info workbook draft created for tag review — no site files were modified.')
+        print(f"  Header row: {metadata['headerRow']}; article data starts: Row {metadata['dataStartRow']}")
+        print(f"  Articles: {metadata['articleCount']} (NUM {metadata['maximumNum']}–{metadata['minimumNum']})")
+        print(f'  Draft: {output_json}')
+        sys.exit(0)
+
     dry_run = '--dry-run' in sys.argv
     args = [a for a in sys.argv[1:] if not a.startswith('--')]
 

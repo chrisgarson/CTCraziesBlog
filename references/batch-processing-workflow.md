@@ -45,18 +45,21 @@ Images are committed to the `article-images/` folder in the GitHub repo (force-a
 
 ---
 
-## XLSX Column Mapping (Post August 4, 2026)
+## Current CTC Info XLSX Layout
+
+The workbook layout is fixed: **Row 1 blank; Row 2 mandatory instruction note; Row 3 blank; Row 4 headers; Row 5 onward article data.** The processing code must read the Row 2 note, require Row 4 headers, and never treat Rows 1–3 as article rows.
 
 | Column | Field | Usage |
 |--------|-------|-------|
-| A | NUM | Article order reference only — determines descending order on site |
-| B | X-Post Headline | **Use verbatim, no modifications whatsoever** |
-| D | X-Post URL link | Clickable image link (tinyUrl field) |
+| A | DateCaptrd | Reference only |
+| B | Num | Reference and mandatory descending-order validation only |
+| C | WebPage# | Reference only for audits/rebuilds |
+| D | X-Post Headline | **Use verbatim, no modifications whatsoever** |
+| E | Source URL | Clickable image/source link (`sourceUrl`; stored in the legacy-compatible `tinyUrl` UI field) |
 | F | Image Name | Image filename |
-| H | X-Post URL | Headline text link (xPostUrl field) |
+| G | X-Post Url | Headline text link (xPostUrl field) |
 
-Column E (Tiny URL) is **ignored** — no longer used in new batches.
-If Column D is missing/truncated, use Column H (Source URL) as fallback.
+No future spreadsheet needs a Tiny URL column. Earlier pages may retain TinyURL-domain values as historic source links, and a rebuild must preserve those existing values unchanged.
 
 ---
 
@@ -73,7 +76,7 @@ If Column D is missing/truncated, use Column H (Source URL) as fallback.
 
 ### Step 1 — Extract and read the spreadsheet
 - Unzip the batch file
-- Read the `.xlsx` using columns B, D, F, H (see column mapping above)
+- Read the `.xlsx` using Row 4 headers and columns D, E, F, G (see column mapping above)
 - Confirm the total article count (typically 20, sometimes 40)
 - Note the highest existing NUM from the current site — new articles start from NUM+1
 
