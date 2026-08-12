@@ -477,4 +477,4 @@
 
 ## Topic Tag Rename (August 11, 2026)
 - [x] Rename the active topic tag Lies to Gaslight-Lies while preserving all existing associations
-- [ ] Rebuild, verify, and publish the renamed typed tag index
+- [x] Rebuild, verify, and publish the renamed typed tag index
