@@ -61,7 +61,7 @@ export default function Page62() {
         tinyUrl="https://tinyurl.com/bdfyf28b"
         xPostUrl="https://x.com/C3Heditor/status/2027154235922497804"
         imageSrc="https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/post193_clean_81dd2bb6.jpg"
-        tags={["Election Fraud", "Gavin Newsom", "Media Bias"]}
+        tags={["Election Fraud", "Gavin Newsom", "Journalism-MediaBias"]}
       />
       <ArticleBlock
         headline="Congressional Investigation into Somali Fraud Rings in Minnesota Gets Stonewalled by Democrat Gov. Walz"

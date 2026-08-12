@@ -12,7 +12,7 @@ export default function Page5() {
         tinyUrl="https://tinyurl.com/3mx3e2cj"
         xPostUrl="https://x.com/C3Heditor/status/2082579308053221590"
         imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-07-29_163029.jpg"
-        tags={["Communism-Socialism", "Islam-Muslim", "NYC", "Zohran Mamdani"]}
+        tags={["Communism-Socialism", "Islam-Muslims", "NYC", "Zohran Mamdani"]}
       />
       <ArticleBlock
         headline="Senator Elizabeth Warren’s Former Optimism About Democrat-Nazi Graham Platner Has Now Shifted to Democrat-Socialist Troy Jackson"
@@ -61,14 +61,14 @@ export default function Page5() {
         tinyUrl="https://tinyurl.com/yc6b9e7a"
         xPostUrl="https://x.com/C3Heditor/status/2082570964311662933"
         imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-07-29_155659.jpg"
-        tags={["Communism-Socialism", "Ilhan Omar", "Islam-Muslim"]}
+        tags={["Communism-Socialism", "Ilhan Omar", "Islam-Muslims"]}
       />
       <ArticleBlock
         headline="Abdul El-Sayed, Michigan’s Muslim-Democrat Socialist Senate Candidate, Draws Fire For ‘Ogre-on-a Pike’ Remark About Dem Senator Fetterman"
         tinyUrl="https://tinyurl.com/ews62zc5"
         xPostUrl="https://x.com/C3Heditor/status/2082570259085537429"
         imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-07-29_155415.jpg"
-        tags={["Abdul El-Sayed", "Communism-Socialism", "Islam-Muslim", "Michigan"]}
+        tags={["Abdul El-Sayed", "Communism-Socialism", "Islam-Muslims", "Michigan"]}
       />
       <ArticleBlock
         headline="A Lawsuit Was Filed by NYC Bodega Owners Over Democrat-Marxist Mayor Zohran Mamdani’s Collectivist Grocery Store Plan"
@@ -145,7 +145,7 @@ export default function Page5() {
         tinyUrl="https://tinyurl.com/2s47py9r"
         xPostUrl="https://x.com/C3Heditor/status/2082556621624865131"
         imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-07-29_145958.jpg"
-        tags={["Iowa", "Islam-Muslim", "Left-Wing", "Sarah Trone Garriott"]}
+        tags={["Iowa", "Islam-Muslims", "Left-Wing", "Sarah Trone Garriott"]}
       />
       </div>
       <Pagination currentPage={5} totalPages={71} />

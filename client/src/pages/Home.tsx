@@ -19,7 +19,7 @@ export default function Home() {
         tinyUrl="https://freebeacon.com/democrats/mamdani-backs-squatters-rights-in-video-demonizing-billionaire-jewish-slumlord/"
         xPostUrl="https://x.com/C3Heditor/status/2087576705066291677"
         imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-08-12_112805.jpg"
-        tags={["Zohran Mamdani", "NYC", "Islam-Muslim", "Israel-Jews"]}
+        tags={["Zohran Mamdani", "NYC", "Islam-Muslims", "Israel-Jews"]}
       />
       <ArticleBlock
         headline="Racist Democrat Summer Lee Wants More Black Doctors, Even If They Lack the Qualifications to Practice Medicine"
@@ -47,7 +47,7 @@ export default function Home() {
         tinyUrl="https://slaynews.com/hasan-piker-calls-democrats-refuse-back-socialist-abdul-el-sayed-punished/"
         xPostUrl="https://x.com/C3Heditor/status/2087573539553448100"
         imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-08-12_111521.jpg"
-        tags={["Hasan Piker", "Abdul El-Sayed", "Michigan", "Islam-Muslim"]}
+        tags={["Hasan Piker", "Abdul El-Sayed", "Michigan", "Islam-Muslims"]}
       />
       <ArticleBlock
         headline="Texas Democrat-Socialist, James Talarico, Involved In An Inappropriate Relationship With A Staff Member"
@@ -68,7 +68,7 @@ export default function Home() {
         tinyUrl="https://townhall.com/news/amy-curtis/2026/08/07/abdul-el-sayed-i-hate-mackinac-michigan-n2680879"
         xPostUrl="https://x.com/C3Heditor/status/2087570301542441091"
         imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-08-12_110235.jpg"
-        tags={["Abdul El-Sayed", "Michigan", "Islam-Muslim", "Communism-Socialism"]}
+        tags={["Abdul El-Sayed", "Michigan", "Islam-Muslims", "Communism-Socialism"]}
       />
       <ArticleBlock
         headline="Katie Hobbs, Arizona&#x27;s Democrat Governor, Gets Ratioed on &#x27;X&#x27; After Claiming Credit for Trump&#x27;s No Tax Rule That Democrats Voted Against "
@@ -124,7 +124,7 @@ export default function Home() {
         tinyUrl="https://www.thegatewaypundit.com/2026/08/leftist-violence-rising-since-2020-riots-looting-assassinations/"
         xPostUrl="https://x.com/C3Heditor/status/2087559510818705675"
         imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-08-12_101941.jpg"
-        tags={["Violence", "Left-Wing"]}
+        tags={["Hate-Violence", "Left-Wing"]}
       />
       <ArticleBlock
         headline="Being Illogical is a Democrat Feature, Not a Bug: Kamala Harris Lost the 2024 Popular Vote, So She Concludes the Electoral College Is Broken"
@@ -138,14 +138,14 @@ export default function Home() {
         tinyUrl="https://thenationalpulse.com/2026/07/28/illegal-alien-gangster-pleads-guilty-to-attacking-border-patrol-with-vehicle/"
         xPostUrl="https://x.com/C3Heditor/status/2087557340752924873"
         imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-08-12_101253.jpg"
-        tags={["CBP-DHS-ICE", "Immigration", "Crime", "Violence"]}
+        tags={["CBP-DHS-ICE", "Immigration", "Crime", "Hate-Violence"]}
       />
       <ArticleBlock
         headline="Maybe Democrat-Socialist Francesca Hong Lost a Close Wisconsin Primary Due to Video Footage of Her Calling for Violence Against ICE Agents"
         tinyUrl="https://nalert.blogspot.com/2026/08/watch-democrat-candidate-francesca-hong.html"
         xPostUrl="https://x.com/C3Heditor/status/2087556939106365520"
         imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-08-12_100723.jpg"
-        tags={["Francesca Hong", "Wisconsin", "2026 Elections", "Violence"]}
+        tags={["Francesca Hong", "Wisconsin", "2026 Elections", "Hate-Violence"]}
       />
       </div>
       <Pagination currentPage={1} totalPages={71} />

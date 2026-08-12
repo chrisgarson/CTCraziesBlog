@@ -96,7 +96,7 @@ export default function Page47() {
         tinyUrl="https://tinyurl.com/yfh5e3y8"
         xPostUrl="https://x.com/C3Heditor/status/2040040528910180826"
         imageSrc="https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/2026-04-03_071628_fe144786.jpg"
-        tags={["Iran", "John Fetterman", "Media Bias"]}
+        tags={["Iran", "John Fetterman", "Journalism-MediaBias"]}
       />
       <ArticleBlock
         headline="Washington State&#x27;s  Millionaire Tax Produces a Huge Surge In Luxury Home Sale Listings - Up 65 Percent Overnight"
@@ -124,7 +124,7 @@ export default function Page47() {
         tinyUrl="https://tinyurl.com/36zc86bp"
         xPostUrl="https://x.com/C3Heditor/status/2040048741990703264"
         imageSrc="https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/2026-04-03_074849_cca8adca.jpg"
-        tags={["Media Bias", "Politics"]}
+        tags={["Journalism-MediaBias", "Politics"]}
       />
       <ArticleBlock
         headline="Progressive Insurance Company Embraces Democrats&#x27; Racial Discrimination Policies &amp; Calls It Progress — Seriously"

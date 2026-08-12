@@ -54,7 +54,7 @@ export default function Page66() {
         tinyUrl="https://tinyurl.com/y3sn4pad"
         xPostUrl="https://x.com/C3Heditor/status/2024249348435869706"
         imageSrc="https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/post114_clean_77f86d09.jpg"
-        tags={["2026 Elections", "Harry Enten", "Media Bias"]}
+        tags={["2026 Elections", "Harry Enten", "Journalism-MediaBias"]}
       />
       <ArticleBlock
         headline="California&#x27;s one-party mismanagement opens door for Republican governor candidates"

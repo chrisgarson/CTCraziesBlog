@@ -33,7 +33,7 @@ export default function Page43() {
         tinyUrl="https://tinyurl.com/2p9kpbd9"
         xPostUrl="https://x.com/C3Heditor/status/2044133002490319292"
         imageSrc="https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/2026-04-14_142003_0be227d3.jpg"
-        tags={["Media Bias", "Violent Crime"]}
+        tags={["Journalism-MediaBias", "Violent Crime"]}
       />
       <ArticleBlock
         headline="Democrat Mayor Mamdani Decides To Ban NYC&#x27;s Times Square Celebrations For America&#x27;s 250th Birthday"
@@ -61,7 +61,7 @@ export default function Page43() {
         tinyUrl="https://tinyurl.com/ytu97y8y"
         xPostUrl="https://x.com/C3Heditor/status/2044129434941247739"
         imageSrc="https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/2026-04-14_140426_a417b2d6.jpg"
-        tags={["Jen Psaki", "Maryland", "Media Bias", "Wes Moore"]}
+        tags={["Jen Psaki", "Maryland", "Journalism-MediaBias", "Wes Moore"]}
       />
       <ArticleBlock
         headline="Democrat Candidate For Maine U.S. Senate Seat Blames His Nazi Tattoo On America&#x27;s Military Culture"

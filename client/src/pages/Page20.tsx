@@ -26,7 +26,7 @@ export default function Page20() {
         tinyUrl="https://tinyurl.com/8wyymaz6"
         xPostUrl="https://x.com/C3Heditor/status/2064101700181320071"
         imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-06-08_164720_ff3769e1.jpg"
-        tags={["Left-Wing", "Media Bias", "Politics"]}
+        tags={["Left-Wing", "Journalism-MediaBias", "Politics"]}
       />
       <ArticleBlock
         headline="Democrat Al Green Loses It Completely - Screams &#x27;SHUT up!&#x27; and Calls DHS Sec. Mullin a Racist"
@@ -61,7 +61,7 @@ export default function Page20() {
         tinyUrl="https://tinyurl.com/mws2hkt"
         xPostUrl="https://x.com/C3Heditor/status/2064097423513809350"
         imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-06-08_162951_3d420019.jpg"
-        tags={["Hate", "Israel-Jews", "NYC", "Zohran Mamdani"]}
+        tags={["Hate-Violence", "Israel-Jews", "NYC", "Zohran Mamdani"]}
       />
       <ArticleBlock
         headline="Democrat Consultant James Carville Finally Tells the Truth: Democrat Hypocrisy Over Maine&#x27;s U.S. Senate Candidate Graham Platner Is Very Real"
@@ -145,7 +145,7 @@ export default function Page20() {
         tinyUrl="https://tinyurl.com/4xd6mssn"
         xPostUrl="https://x.com/C3Heditor/status/2064088984863613219"
         imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-06-08_155857_955938d3.jpg"
-        tags={["California", "Election Fraud", "Mainstream Media", "Media Bias"]}
+        tags={["California", "Election Fraud", "Journalism-MediaBias"]}
       />
       </div>
       <Pagination currentPage={20} totalPages={71} />

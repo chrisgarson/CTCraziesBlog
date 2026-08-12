@@ -54,7 +54,7 @@ export default function Page53() {
         tinyUrl="https://tinyurl.com/37tc6rth"
         xPostUrl="https://x.com/C3Heditor/status/2037233814993252679"
         imageSrc="https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/2026-03-26_132424_791d40ef.jpg"
-        tags={["Islam-Muslim", "Israel-Jews", "Politics"]}
+        tags={["Islam-Muslims", "Israel-Jews", "Politics"]}
       />
       <ArticleBlock
         headline="At Democrat-Run San Jose State Graffiti Calls for Erasing Jews and Tells Students to Make Osama Proud"
@@ -117,7 +117,7 @@ export default function Page53() {
         tinyUrl="https://tinyurl.com/yu7p5j8u"
         xPostUrl="https://x.com/C3Heditor/status/2037204725586632995"
         imageSrc="https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/2026-03-26_112803_9ee1c2a0.jpg"
-        tags={["Culture War", "Media Bias", "Politics"]}
+        tags={["Culture War", "Journalism-MediaBias", "Politics"]}
       />
       <ArticleBlock
         headline="White-Priviledged, Democrat-Controlled School District Tells SCOTUS to Butt Out of Their Fight With Mom Over Her Girl&#x27;s Gender Switch"

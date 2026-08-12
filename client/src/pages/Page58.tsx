@@ -103,7 +103,7 @@ export default function Page58() {
         tinyUrl="https://tinyurl.com/mfdbp6k4"
         xPostUrl="https://x.com/C3Heditor/status/2030767065317990889"
         imageSrc="https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/post267_clean_9594fd9d.jpg"
-        tags={["New York", "NYC", "Violence"]}
+        tags={["New York", "NYC", "Hate-Violence"]}
       />
       <ArticleBlock
         headline="Minnesota Democrat Gov. Tim Walz Humiliated Over The 34,200% Autism Spending Spike He Can&#x27;t Explain"
@@ -124,14 +124,14 @@ export default function Page58() {
         tinyUrl="https://tinyurl.com/5ytzm98r"
         xPostUrl="https://x.com/C3Heditor/status/2036080760118039013"
         imageSrc="https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/post264_clean_c20718e8.jpg"
-        tags={["2026 Elections", "James Talarico", "Media Bias", "Texas"]}
+        tags={["2026 Elections", "James Talarico", "Journalism-MediaBias", "Texas"]}
       />
       <ArticleBlock
         headline="A Yogurt Shop Near Spokane Is Getting Death Threats From Activists Over Its Tribute to Charlie Kirk"
         tinyUrl="https://tinyurl.com/35m88fjj"
         xPostUrl="https://x.com/C3Heditor/status/2030768992344764883"
         imageSrc="https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/post263_clean_28e5d576.jpg"
-        tags={["Idaho", "Violence"]}
+        tags={["Idaho", "Hate-Violence"]}
       />
       <ArticleBlock
         headline="Democrat Immigration Policies: Illegal Alien Student, 18, Charged With Groping 12 Virginia Female Classmates"

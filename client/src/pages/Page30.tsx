@@ -103,7 +103,7 @@ export default function Page30() {
         tinyUrl="https://tinyurl.com/2c55a2tf"
         xPostUrl="https://x.com/C3Heditor/status/2053203297004048397"
         imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-05-09_150045_0f4e1ce2.jpg"
-        tags={["Gavin Newsom", "Islam-Muslim", "Israel-Jews"]}
+        tags={["Gavin Newsom", "Islam-Muslims", "Israel-Jews"]}
       />
       <ArticleBlock
         headline="Democrat-Marxist LA Mayor Karen Bass Torched $250,000 In Taxpayer Money Putting Up Anti-ICE Signs Across Los Angeles"

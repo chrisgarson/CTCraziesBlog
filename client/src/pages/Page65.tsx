@@ -75,7 +75,7 @@ export default function Page65() {
         tinyUrl="https://tinyurl.com/4ta3j3zm"
         xPostUrl="https://x.com/C3Heditor/status/2025536162186535348"
         imageSrc="https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/post131_clean_67e58c34.jpg"
-        tags={["Journalism", "Media Bias"]}
+        tags={["Journalism-MediaBias"]}
       />
       <ArticleBlock
         headline="Biden-Era, Racist-Based Democrat Rules for PhD Grants Officially Axed by Education Dept"
@@ -110,7 +110,7 @@ export default function Page65() {
         tinyUrl="https://tinyurl.com/55xzkcbp"
         xPostUrl="https://x.com/C3Heditor/status/2025527251110932493"
         imageSrc="https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/2026-02-22_050525_3500af21.jpg"
-        tags={["Media Bias", "Politics"]}
+        tags={["Journalism-MediaBias", "Politics"]}
       />
       <ArticleBlock
         headline="Democrat Walz&#x27;s-Era: Arrest #79 in Minnesota Fraud Ring That Drained Millions of Taxpayer Funds"

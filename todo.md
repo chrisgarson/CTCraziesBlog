@@ -485,3 +485,8 @@
 - [x] Create approved person tags, rename Milat Kiros to Melat Kiros, rename Israel to Israel-Jews, and create the approved Seattle topic tag
 - [x] Add approved batch images and apply the canonical 20-article page update
 - [x] Pass page-order, Search, tag-index, build, and live-deployment verification gates
+
+## August 12 Topic Tag Updates
+- [x] Validate all Column A source tags and Column B requested updates against the current typed tag index
+- [x] Apply the approved topic-tag updates through the canonical ledger and preserve metadata
+- [ ] Verify, deploy, and document the reduced topic-tag index

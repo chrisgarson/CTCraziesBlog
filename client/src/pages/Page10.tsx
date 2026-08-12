@@ -26,7 +26,7 @@ export default function Page10() {
         tinyUrl="https://tinyurl.com/4mswr36a"
         xPostUrl="https://x.com/C3Heditor/status/2079267182806970537"
         imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-07-20_130855.jpg"
-        tags={["Election Fraud", "Media Bias"]}
+        tags={["Election Fraud", "Journalism-MediaBias"]}
       />
       <ArticleBlock
         headline="Border Security Support Claimed by Democrat Senate Candidate James Talarico Contradicts His Own Texas Voting Record"
@@ -68,7 +68,7 @@ export default function Page10() {
         tinyUrl="https://tinyurl.com/4j9trnmy"
         xPostUrl="https://x.com/C3Heditor/status/2079259465438675265"
         imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-07-20_123811.jpg"
-        tags={["Communism-Socialism", "Media Bias"]}
+        tags={["Communism-Socialism", "Journalism-MediaBias"]}
       />
       <ArticleBlock
         headline="Ex-Clinton Aide and Longtime Democrat Warns Socialism Threatens America&#x27;s Future"
@@ -96,7 +96,7 @@ export default function Page10() {
         tinyUrl="https://tinyurl.com/5n7s7fzw"
         xPostUrl="https://x.com/C3Heditor/status/2079257893094793425"
         imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-07-20_122509.jpg"
-        tags={["Illinois", "JB Pritzker", "Media Bias"]}
+        tags={["Illinois", "JB Pritzker", "Journalism-MediaBias"]}
       />
       <ArticleBlock
         headline="The Internet Never Forgets: Dan Koh, a Massachusetts&#x27; Democrat Congressional Candidate Backed by Kamala Harris, Deletes His Pro-BLM Posts From Social Media"
@@ -117,7 +117,7 @@ export default function Page10() {
         tinyUrl="https://tinyurl.com/mrp8yvpf"
         xPostUrl="https://x.com/C3Heditor/status/2079252622440313228"
         imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-07-20_121054.jpg"
-        tags={["LGBTQ", "Violence"]}
+        tags={["LGBTQ", "Hate-Violence"]}
       />
       <ArticleBlock
         headline="ESPN&#x27;s Celeb Stephen A. Smith Has Questions About How Democrats Clinton and Obama Generated Gigantic Fortunes"

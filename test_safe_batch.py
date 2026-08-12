@@ -2,7 +2,7 @@
 
 import unittest
 
-from safe_batch import ARTICLES_PER_PAGE, apply_tag_plan, assign_pages, combine_batch, declare_tag, rename_tag, render_article, render_search, validate_batch
+from safe_batch import ARTICLES_PER_PAGE, apply_tag_plan, apply_tag_update_plan, assign_pages, combine_batch, declare_tag, rename_tag, render_article, render_search, validate_batch
 
 
 def article(num: int) -> dict:
@@ -74,6 +74,27 @@ class SafeBatchTests(unittest.TestCase):
         self.assertNotIn("Lies", ledger["tagMetadata"])
         self.assertEqual(ledger["tagMetadata"]["Gaslight-Lies"], {"type": "topic", "keywords": ["Falsehood"]})
         self.assertEqual(ledger["articles"][0]["tags"], ["Gaslight-Lies"])
+
+    def test_tag_update_plan_merges_sources_into_keywords_and_changes_person_type(self):
+        ledger = {
+            "schemaVersion": 1,
+            "articlesPerPage": ARTICLES_PER_PAGE,
+            "tagMetadata": {
+                "AOC": {"type": "topic", "keywords": []},
+                "Alexandria Ocasio-Cortez": {"type": "person", "keywords": []},
+                "Enrique Sanchez": {"type": "topic", "keywords": []},
+            },
+            "articles": assign_pages([article(num) for num in range(20, 0, -1)]),
+        }
+        ledger["articles"][0]["tags"] = ["AOC", "Enrique Sanchez"]
+        updated = apply_tag_update_plan(ledger, {
+            "typeChanges": [{"tag": "Enrique Sanchez", "type": "person"}],
+            "merges": [{"sources": ["AOC"], "target": "Alexandria Ocasio-Cortez", "type": "person"}],
+        })
+        self.assertEqual(updated["tagMetadata"]["Enrique Sanchez"]["type"], "person")
+        self.assertNotIn("AOC", updated["tagMetadata"])
+        self.assertIn("AOC", updated["tagMetadata"]["Alexandria Ocasio-Cortez"]["keywords"])
+        self.assertEqual(updated["articles"][0]["tags"], ["Alexandria Ocasio-Cortez", "Enrique Sanchez"])
 
     def test_generated_search_records_retain_num_and_rendered_quotes_are_valid_jsx(self):
         item = article(20)

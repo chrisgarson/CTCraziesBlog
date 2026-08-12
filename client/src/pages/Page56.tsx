@@ -26,7 +26,7 @@ export default function Page56() {
         tinyUrl="https://tinyurl.com/5dcvrf7r"
         xPostUrl="https://x.com/C3Heditor/status/2036793961441071583"
         imageSrc="https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/2026-03-25_081539_8688e5a5.jpg"
-        tags={["Election Fraud", "Islam-Muslim"]}
+        tags={["Election Fraud", "Islam-Muslims"]}
       />
       <ArticleBlock
         headline="GOP Rep Exposes Democrat Biden Administration&#x27;s DEI Spending That Included Making Federal Maps &#x27;More Gay&#x27;"
@@ -40,7 +40,7 @@ export default function Page56() {
         tinyUrl="https://tinyurl.com/4ramw2cc"
         xPostUrl="https://x.com/C3Heditor/status/2036791777366057358"
         imageSrc="https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/2026-03-25_080820_7142a129.jpg"
-        tags={["Hate", "Israel-Jews"]}
+        tags={["Hate-Violence", "Israel-Jews"]}
       />
       <ArticleBlock
         headline="Democrats Want To Replace Blue-Collar Americans With Low-Wage Aliens Who Are Temporary-Protected-Status Holders"
@@ -145,7 +145,7 @@ export default function Page56() {
         tinyUrl="https://tinyurl.com/bdfktbs6"
         xPostUrl="https://x.com/C3Heditor/status/2036559291315003502"
         imageSrc="https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/2026-03-24_164338_0efb57c9.jpg"
-        tags={["Iran", "Mark Kelly", "Media Bias"]}
+        tags={["Iran", "Mark Kelly", "Journalism-MediaBias"]}
       />
       </div>
       <Pagination currentPage={56} totalPages={71} />

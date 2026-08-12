@@ -33,7 +33,7 @@ export default function Page61() {
         tinyUrl="https://tinyurl.com/mup87mwn"
         xPostUrl="https://x.com/C3Heditor/status/2028584065784308067"
         imageSrc="https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/post217_clean_fbedf847.jpg"
-        tags={["Censorship", "Media Bias"]}
+        tags={["Censorship", "Journalism-MediaBias"]}
       />
       <ArticleBlock
         headline="Democrats Are Angry People: New Poll Surfaces Suggesting Link Between Transgender Identity &amp; Shootings"
@@ -82,7 +82,7 @@ export default function Page61() {
         tinyUrl="https://tinyurl.com/2mhudjtu"
         xPostUrl="https://x.com/C3Heditor/status/2028592838213009878"
         imageSrc="https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/post210_clean_4fc07e35.jpg"
-        tags={["Foreign Policy", "Islam-Muslim"]}
+        tags={["Foreign Policy", "Islam-Muslims"]}
       />
       <ArticleBlock
         headline="Tax &amp; Spend Democrat Draws Fury for a $239M Plan to Give California&#x27;s Worst Prison a Nordic Facelift"

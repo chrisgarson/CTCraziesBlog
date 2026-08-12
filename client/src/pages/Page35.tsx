@@ -12,14 +12,14 @@ export default function Page35() {
         tinyUrl="https://tinyurl.com/5bfbzce7"
         xPostUrl="https://x.com/C3Heditor/status/2048866523692081583"
         imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/kVcsMThomMkIcSFG.jpg"
-        tags={["Media Bias", "Trump-Derangement", "Violent Crime"]}
+        tags={["Journalism-MediaBias", "Trump-Derangement", "Violent Crime"]}
       />
       <ArticleBlock
         headline="Attempt To Incite Violence By The Democrat Deranged: America Under Trump Compared To Nazi-Occupied France By Major Publication"
         tinyUrl="https://tinyurl.com/3hvyww2w"
         xPostUrl="https://x.com/C3Heditor/status/2048865622923374863"
         imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/VmYUvmXKxJUFyEnl.jpg"
-        tags={["Left-Wing", "Media Bias"]}
+        tags={["Left-Wing", "Journalism-MediaBias"]}
       />
       <ArticleBlock
         headline="Declares Democrats&#x27; Anti-Conservative SPLC Directly Responsible For The Charlie Kirk Assassination Plot"
@@ -33,7 +33,7 @@ export default function Page35() {
         tinyUrl="https://tinyurl.com/ts8p78tm"
         xPostUrl="https://x.com/C3Heditor/status/2048861045758861651"
         imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/FYucxFOBxXpyKdcV.jpg"
-        tags={["CBP-DHS-ICE", "Law Enforcement", "Media Bias"]}
+        tags={["CBP-DHS-ICE", "Law Enforcement", "Journalism-MediaBias"]}
       />
       <ArticleBlock
         headline="Lured Into A Trap, Missouri Teen Gunned Down By A Democrats&#x27; Open-Border Illegal Gang Member"
@@ -68,7 +68,7 @@ export default function Page35() {
         tinyUrl="https://tinyurl.com/u9yfh2a8"
         xPostUrl="https://x.com/C3Heditor/status/2048856363187515409"
         imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/MVGkRWOYlIoIBMAT.jpg"
-        tags={["CBP-DHS-ICE", "Islam-Muslim", "North Dakota"]}
+        tags={["CBP-DHS-ICE", "Islam-Muslims", "North Dakota"]}
       />
       <ArticleBlock
         headline="Cheering Pro-Iran Propaganda, Democrat Sen. Murphy Calls Anti-U.S. Fake News &#x27;Awesome&#x27;"

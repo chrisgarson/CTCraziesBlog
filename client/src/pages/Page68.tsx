@@ -103,7 +103,7 @@ export default function Page68() {
         tinyUrl="https://tinyurl.com/9vwjhykz"
         xPostUrl="https://x.com/C3Heditor/status/2022070745397174432"
         imageSrc="https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/post67_clean_4986c3b0.jpg"
-        tags={["Harry Enten", "Media Bias", "Politics"]}
+        tags={["Harry Enten", "Journalism-MediaBias", "Politics"]}
       />
       <ArticleBlock
         headline="It Was An Absolute Failure 3 Months Ago But Democrats Think Another Shutdown Is What Americans Are Demanding"

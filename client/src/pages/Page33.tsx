@@ -47,7 +47,7 @@ export default function Page33() {
         tinyUrl="https://tinyurl.com/etv898cb"
         xPostUrl="https://x.com/C3Heditor/status/2051057877989617847"
         imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/ijiyWcjBJufrkRwO.jpg"
-        tags={["Joy Reid", "Media Bias"]}
+        tags={["Joy Reid", "Journalism-MediaBias"]}
       />
       <ArticleBlock
         headline="Man-Burner Suspect With Over 100 Arrests Represents Repeat Crime Problem in America&#x27;s Democrat Urban Areas"
@@ -75,7 +75,7 @@ export default function Page33() {
         tinyUrl="https://tinyurl.com/44vju2ny"
         xPostUrl="https://x.com/C3Heditor/status/2051052621054558230"
         imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/saquRktlLqMMwYbi.jpg"
-        tags={["Election Fraud", "Media Bias", "Racial Issues"]}
+        tags={["Election Fraud", "Journalism-MediaBias", "Racial Issues"]}
       />
       <ArticleBlock
         headline="Gov. Gavin Newsom&#x27;s Broken 911 System Is A Half-Billion-Dollar Democrat Joke Paid For By Taxpayers"
@@ -89,7 +89,7 @@ export default function Page33() {
         tinyUrl="https://tinyurl.com/3bt4jdkh"
         xPostUrl="https://x.com/C3Heditor/status/2051049922229629253"
         imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/NeIzasyWiHbecyFI.jpg"
-        tags={["FBI", "Homeland Security", "Islam-Muslim", "Minnesota"]}
+        tags={["FBI", "Homeland Security", "Islam-Muslims", "Minnesota"]}
       />
       <ArticleBlock
         headline="Kimmel &amp; His Ilk Keep Dehumanizing Conservatives — Yet The Left Wonders Why Violence Grows"
@@ -117,7 +117,7 @@ export default function Page33() {
         tinyUrl="https://tinyurl.com/28az8rfc"
         xPostUrl="https://x.com/C3Heditor/status/2051042131045761123"
         imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/ogwdiYLWIEuSkeGf.jpg"
-        tags={["Media Bias", "Politics", "Trump-Derangement"]}
+        tags={["Journalism-MediaBias", "Politics", "Trump-Derangement"]}
       />
       <ArticleBlock
         headline="Dead Voters Could Represent A Sizable Voting Bloc For Democrats In This Key Battleground State"
@@ -131,7 +131,7 @@ export default function Page33() {
         tinyUrl="https://tinyurl.com/yc6uh24m"
         xPostUrl="https://x.com/C3Heditor/status/2051039167656718480"
         imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/HcgTggDGNUCJQKmU.jpg"
-        tags={["CBP-DHS-ICE", "Hate"]}
+        tags={["CBP-DHS-ICE", "Hate-Violence"]}
       />
       <ArticleBlock
         headline="In Democrat Controlled Chicago, Judge Freed Robbery Suspect On Condition of Wearing Ankle Monitor — He Then Murdered A City Cop"

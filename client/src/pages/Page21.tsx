@@ -12,7 +12,7 @@ export default function Page21() {
         tinyUrl="https://tinyurl.com/nwwupx8f"
         xPostUrl="https://x.com/C3Heditor/status/2062934483095937075"
         imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-06-05_112850_e58fd9f8.jpg"
-        tags={["2026 Elections", "Election Fraud", "Media Bias"]}
+        tags={["2026 Elections", "Election Fraud", "Journalism-MediaBias"]}
       />
       <ArticleBlock
         headline="California&#x27;s Latest Democrat Election Farce Production Has Launched Several Federal Investigations"
@@ -54,7 +54,7 @@ export default function Page21() {
         tinyUrl="https://tinyurl.com/2v2mhc2p"
         xPostUrl="https://x.com/C3Heditor/status/2062928615541444819"
         imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-06-05_110537_b404f1e0.jpg"
-        tags={["2026 Elections", "Islam-Muslim", "New Jersey", "Terrorism"]}
+        tags={["2026 Elections", "Islam-Muslims", "New Jersey", "Terrorism"]}
       />
       <ArticleBlock
         headline="San Francisco Bay Area Residents Would Face BART Rapid Transit Tax Under New Democrats Proposal, Whether They Ride or Not"
@@ -138,7 +138,7 @@ export default function Page21() {
         tinyUrl="https://tinyurl.com/ycyea475"
         xPostUrl="https://x.com/C3Heditor/status/2062861600508313651"
         imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-06-05_063902_73eda6a4.jpg"
-        tags={["California", "Hate", "Israel-Jews", "Violent Crime"]}
+        tags={["California", "Hate-Violence", "Israel-Jews", "Violent Crime"]}
       />
       <ArticleBlock
         headline="Chicago Democrat Hispanic Alderman Slams Mayor Brandon Johnson After Teen Takeover Chaos Injures Five Cops"

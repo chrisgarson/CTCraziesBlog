@@ -47,14 +47,14 @@ export default function Page2() {
         tinyUrl="https://www.spiked-online.com/2026/08/05/the-democrats-are-a-menace-to-americas-jews/"
         xPostUrl="https://x.com/C3Heditor/status/2085810666405781948"
         imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-08-07_143033.jpg"
-        tags={["Hate", "Israel-Jews", "Left-Wing"]}
+        tags={["Hate-Violence", "Israel-Jews", "Left-Wing"]}
       />
       <ArticleBlock
         headline="Prioritizing Muslims For State Jobs Has Become The Self-Loathing Focus of Massachusetts Democrats"
         tinyUrl="https://www.breitbart.com/politics/2026/08/05/massachusetts-democrats-pushing-commission-prioritize-hiring-muslims-state-jobs/"
         xPostUrl="https://x.com/C3Heditor/status/2085810063231344813"
         imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-08-07_142801.jpg"
-        tags={["Islam-Muslim", "Left-Wing"]}
+        tags={["Islam-Muslims", "Left-Wing"]}
       />
       <ArticleBlock
         headline="Combining Bigotry &amp; Virtue Signaling: Top U.S. Senate Democrat, Sheldon Whitehouse, Belongs To a Racist Country Club But Attacks DHS Over &#x27;White Supremacy&#x27;"
@@ -110,7 +110,7 @@ export default function Page2() {
         tinyUrl="https://twitchy.com/grateful-calvin/2026/08/06/hasan-piker-tries-to-backpedal-on-his-america-deserved-911-stance-and-twitter-aint-havin-it-n2431006"
         xPostUrl="https://x.com/C3Heditor/status/2085802885133008926"
         imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-08-07_135941.jpg"
-        tags={["Abdul El-Sayed", "Francesca Hong", "Hasan Piker", "Islam-Muslim"]}
+        tags={["Abdul El-Sayed", "Francesca Hong", "Hasan Piker", "Islam-Muslims"]}
       />
       <ArticleBlock
         headline="Democrat Gubernatorial Hopeful David Jolly Wants To &#x27;Apologize&#x27; to the World for &#x27;Culture Wars&#x27; Because Florida Halted Transgender Children Mutilation"
@@ -138,14 +138,14 @@ export default function Page2() {
         tinyUrl="https://nalert.blogspot.com/2026/08/wisconsin-democrat-francesca-hong-id.html"
         xPostUrl="https://x.com/C3Heditor/status/2085799821814686050"
         imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-08-07_134453.jpg"
-        tags={["Francesca Hong", "Left-Wing", "Violence", "Wisconsin"]}
+        tags={["Francesca Hong", "Left-Wing", "Hate-Violence", "Wisconsin"]}
       />
       <ArticleBlock
         headline="FAFO Karma Is Fist Delivered To Violent Democrat Candidate, Kirill Basin, On Hawaii Beach"
         tinyUrl="https://modernity.news/2026/08/04/watch-soy-boy-democrat-fcks-around-and-finds-out/"
         xPostUrl="https://x.com/C3Heditor/status/2085798457109811515"
         imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-08-07_134332.jpg"
-        tags={["Hawaii", "Kirill Basin", "Left-Wing", "Violence"]}
+        tags={["Hawaii", "Kirill Basin", "Left-Wing", "Hate-Violence"]}
       />
       </div>
       <Pagination currentPage={2} totalPages={71} />

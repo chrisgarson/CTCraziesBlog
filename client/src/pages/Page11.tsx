@@ -54,7 +54,7 @@ export default function Page11() {
         tinyUrl="https://tinyurl.com/yb35rrmp"
         xPostUrl="https://x.com/C3Heditor/status/2076409000178892874"
         imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-07-12_155125.jpg"
-        tags={["2026 Elections", "Islam-Muslim", "James Talarico", "Texas"]}
+        tags={["2026 Elections", "Islam-Muslims", "James Talarico", "Texas"]}
       />
       <ArticleBlock
         headline="Los Angeles&#x27; Democrat Politicians, Paid $230K Yearly, Push For Only a One-Day Workweek While City Self-Destructs"
@@ -96,7 +96,7 @@ export default function Page11() {
         tinyUrl="https://tinyurl.com/dkw98885"
         xPostUrl="https://x.com/C3Heditor/status/2076405406922842154"
         imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-07-1_1530285.jpg"
-        tags={["Graham Platner", "Media Bias", "Sexual Misconduct"]}
+        tags={["Graham Platner", "Journalism-MediaBias", "Sexual Misconduct"]}
       />
       <ArticleBlock
         headline="Remember, Sky-High Rent Is Another Result of Democrats&#x27; Millions of Open-Border Illegal Aliens"
@@ -145,7 +145,7 @@ export default function Page11() {
         tinyUrl="https://tinyurl.com/3au6u3t4"
         xPostUrl="https://x.com/C3Heditor/status/2076398433905053890"
         imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-07-12_150945.jpg"
-        tags={["Lindsey Graham", "Violence"]}
+        tags={["Lindsey Graham", "Hate-Violence"]}
       />
       </div>
       <Pagination currentPage={11} totalPages={71} />

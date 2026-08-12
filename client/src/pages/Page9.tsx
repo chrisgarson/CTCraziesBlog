@@ -12,7 +12,7 @@ export default function Page9() {
         tinyUrl="https://tinyurl.com/y454vz84"
         xPostUrl="https://x.com/C3Heditor/status/2080031275700638178"
         imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-07-22_154527.jpg"
-        tags={["Election Fraud", "Left-Wing", "Media Bias"]}
+        tags={["Election Fraud", "Left-Wing", "Journalism-MediaBias"]}
       />
       <ArticleBlock
         headline="As Wealthy Residents Flee New York, Democrat Governor Hochul Blames Trump and COVID Instead"

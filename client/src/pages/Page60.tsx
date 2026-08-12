@@ -33,7 +33,7 @@ export default function Page60() {
         tinyUrl="https://tinyurl.com/49a72zjs"
         xPostUrl="https://x.com/C3Heditor/status/2028224148825166269"
         imageSrc="https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/post237_clean_f8c7e62f.jpg"
-        tags={["Media Bias", "Politics"]}
+        tags={["Journalism-MediaBias", "Politics"]}
       />
       <ArticleBlock
         headline="Facing a Bloated Budget Gap, Maryland Democrats Eye Raiding the State Green Energy Fund"
@@ -54,7 +54,7 @@ export default function Page60() {
         tinyUrl="https://tinyurl.com/mua3bp46"
         xPostUrl="https://x.com/C3Heditor/status/2027772936556253588"
         imageSrc="https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/post234_clean_41e61cce.jpg"
-        tags={["Media Bias", "Susan Rice"]}
+        tags={["Journalism-MediaBias", "Susan Rice"]}
       />
       <ArticleBlock
         headline="Storage Giant Becomes Latest Major Company Fleeing Democrat California&#x27;s Hostile Business Climate"
@@ -96,7 +96,7 @@ export default function Page60() {
         tinyUrl="https://tinyurl.com/2s2vne6m"
         xPostUrl="https://x.com/C3Heditor/status/2028233712337310185"
         imageSrc="https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/post228_clean_d0930cf6.jpg"
-        tags={["Christianity", "Media Bias"]}
+        tags={["Christianity", "Journalism-MediaBias"]}
       />
       <ArticleBlock
         headline="It&#x27;s The Case of Common Sense Versus Democrats&#x27; Crazy Radical Agenda"
@@ -131,7 +131,7 @@ export default function Page60() {
         tinyUrl="https://tinyurl.com/ykunrzbu"
         xPostUrl="https://x.com/C3Heditor/status/2028226539372835234"
         imageSrc="https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/post223_clean_ac6af1a4.jpg"
-        tags={["CBP-DHS-ICE", "Islam-Muslim", "Minnesota", "Reparations"]}
+        tags={["CBP-DHS-ICE", "Islam-Muslims", "Minnesota", "Reparations"]}
       />
       <ArticleBlock
         headline="This Is Nation&#x27;s Future If Democrats Win: A Revenge Purge the Moment They Manage to Reclaim Power"

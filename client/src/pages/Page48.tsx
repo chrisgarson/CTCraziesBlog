@@ -47,7 +47,7 @@ export default function Page48() {
         tinyUrl="https://tinyurl.com/4wyp32e9"
         xPostUrl="https://x.com/C3Heditor/status/2040039948280082820"
         imageSrc="https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/2026-04-03_071410_98289663.jpg"
-        tags={["Left-Wing", "Violence"]}
+        tags={["Left-Wing", "Hate-Violence"]}
       />
       <ArticleBlock
         headline="Justice Department Takes Minnesota&#x27;s Democrat Administration To Court Over Girls&#x27; Transgender Sports Eligibility Rules"

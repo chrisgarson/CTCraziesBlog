@@ -117,7 +117,7 @@ export default function Page44() {
         tinyUrl="https://tinyurl.com/ytwt8zxf"
         xPostUrl="https://x.com/C3Heditor/status/2043787028454580682"
         imageSrc="https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/2026-04-13_152326_17c9e657.jpg"
-        tags={["Censorship", "Christianity", "Media Bias"]}
+        tags={["Censorship", "Christianity", "Journalism-MediaBias"]}
       />
       <ArticleBlock
         headline="LA Fire Victims Still Waiting As Democrats Break Their Promise To Rebuild Quickly - So Far, Only 1 Home Rebuilt"
@@ -131,7 +131,7 @@ export default function Page44() {
         tinyUrl="https://tinyurl.com/2s3zbzy2"
         xPostUrl="https://x.com/C3Heditor/status/2043785598108856724"
         imageSrc="https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/2026-04-13_151752_6f40d2d9.jpg"
-        tags={["Journalism", "Maryland", "Politics"]}
+        tags={["Journalism-MediaBias", "Maryland", "Politics"]}
       />
       <ArticleBlock
         headline="Sexual Assault Accusation Against Eric Swalwell Triggers A Manhattan D.A. Investigation"

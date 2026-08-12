@@ -19,7 +19,7 @@ export default function Page8() {
         tinyUrl="https://tinyurl.com/y2p76h77"
         xPostUrl="https://x.com/C3Heditor/status/2080730326880465125"
         imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-07-24_140259.jpg"
-        tags={["Alexandria Ocasio-Cortez", "Israel-Jews", "Media Bias"]}
+        tags={["Alexandria Ocasio-Cortez", "Israel-Jews", "Journalism-MediaBias"]}
       />
       <ArticleBlock
         headline="Close Ally of Nebraska U.S. Senate Candidate, Democrat Dan Osborn, Brags About Doxxing ICE Agent"
@@ -75,7 +75,7 @@ export default function Page8() {
         tinyUrl="https://tinyurl.com/x699k9ev"
         xPostUrl="https://x.com/C3Heditor/status/2080412533664452934"
         imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-07-23_170007.jpg"
-        tags={["National Security", "Trump-Derangement", "Violence"]}
+        tags={["National Security", "Trump-Derangement", "Hate-Violence"]}
       />
       <ArticleBlock
         headline="Democrat Governor of New Jersey, Mikie Sherrill, Admits Her State Has Thousands of Illegal Voters on Its Rolls"
@@ -103,7 +103,7 @@ export default function Page8() {
         tinyUrl="https://tinyurl.com/38yrp7z9"
         xPostUrl="https://x.com/C3Heditor/status/2080409927365935172"
         imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-07-23_164952.jpg"
-        tags={["Culture War", "Islam-Muslim", "LGBTQ"]}
+        tags={["Culture War", "Islam-Muslims", "LGBTQ"]}
       />
       <ArticleBlock
         headline="Wealthy Democrat-Marxist NYC Mayor Zohran Mamdani is Unable to Define What &#x27;Working Class&#x27; Means"

@@ -40,7 +40,7 @@ export default function Page17() {
         tinyUrl="https://tinyurl.com/mrxnp8j7"
         xPostUrl="https://x.com/C3Heditor/status/2068811137185874387"
         imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-06-21_163832.jpg"
-        tags={["Chicago", "Hate", "Racial Issues"]}
+        tags={["Chicago", "Hate-Violence", "Racial Issues"]}
       />
       <ArticleBlock
         headline="California Democrats Now Require Proof of Sexual Orientation to Win Taxpayer-Funded Contracts"
@@ -131,7 +131,7 @@ export default function Page17() {
         tinyUrl="https://tinyurl.com/3z5p6wz4"
         xPostUrl="https://x.com/C3Heditor/status/2068802946721051089"
         imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-06-21_160826.jpg"
-        tags={["Abdul El-Sayed", "Islam-Muslim", "Michigan"]}
+        tags={["Abdul El-Sayed", "Islam-Muslims", "Michigan"]}
       />
       <ArticleBlock
         headline="Gargantuan Hypocrite Dem Ro Khanna Believes Female Accusers of Maine&#x27;s Democrat Senate Hopeful, Graham Platner, But Defends Him Anyway"

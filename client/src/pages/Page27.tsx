@@ -40,7 +40,7 @@ export default function Page27() {
         tinyUrl="https://tinyurl.com/52yb7xwx"
         xPostUrl="https://x.com/C3Heditor/status/2059738231042891871"
         imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-05-27_154832_c80a6cc3.jpg"
-        tags={["Left-Wing", "Media Bias", "Politics"]}
+        tags={["Left-Wing", "Journalism-MediaBias", "Politics"]}
       />
       <ArticleBlock
         headline="TikTok Video Shows Anti-American Michigan Democrat Cruelly Mocking Erika Kirk &amp; MAGA"
@@ -54,7 +54,7 @@ export default function Page27() {
         tinyUrl="https://tinyurl.com/495ke6vb"
         xPostUrl="https://x.com/C3Heditor/status/2059736717280862439"
         imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-05-27_154153_cf85cdae.jpg"
-        tags={["Media Bias", "Politics"]}
+        tags={["Journalism-MediaBias", "Politics"]}
       />
       <ArticleBlock
         headline="California Democrat Darling Flooded With Donor Cash From Sources Tied To Chinese Government &amp; CCP Intelligence"
@@ -82,7 +82,7 @@ export default function Page27() {
         tinyUrl="https://tinyurl.com/bdz7p9ku"
         xPostUrl="https://x.com/C3Heditor/status/2059732225357480195"
         imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-05-27_152359_e24ecf75.jpg"
-        tags={["2026 Elections", "Mainstream Media", "Media Bias", "Midterm Elections"]}
+        tags={["2026 Elections", "Journalism-MediaBias"]}
       />
       <ArticleBlock
         headline="North Carolina Democrat Roy Cooper Oversaw Nation&#x27;s Highest Health Costs But Promises Affordability As Candidate For U.S. Senate"
@@ -96,14 +96,14 @@ export default function Page27() {
         tinyUrl="https://tinyurl.com/4ktnfd5k"
         xPostUrl="https://x.com/C3Heditor/status/2059730913043640710"
         imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-05-27_151839_80ef6a92.jpg"
-        tags={["2026 Elections", "California", "Left-Wing", "Midterm Elections"]}
+        tags={["2026 Elections", "California", "Left-Wing"]}
       />
       <ArticleBlock
         headline="AOC&#x27;s Ex-Chief Of Staff Threatens Democrat Who Refuses To Support A Nazi-Linked Candidate"
         tinyUrl="https://tinyurl.com/y8yunz2v"
         xPostUrl="https://x.com/C3Heditor/status/2059730376898359728"
         imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-05-27_151640_28d99044.jpg"
-        tags={["Left-Wing", "Media Bias", "Politics"]}
+        tags={["Left-Wing", "Journalism-MediaBias", "Politics"]}
       />
       <ArticleBlock
         headline="Federal Funds For Drag Story Hour Sought By Two New York 2026 Candidates"
@@ -117,14 +117,14 @@ export default function Page27() {
         tinyUrl="https://tinyurl.com/w2v5fn2v"
         xPostUrl="https://x.com/C3Heditor/status/2059729014659723281"
         imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-05-27_151204_a79e265c.jpg"
-        tags={["CBP-DHS-ICE", "Immigration", "Media Bias"]}
+        tags={["CBP-DHS-ICE", "Immigration", "Journalism-MediaBias"]}
       />
       <ArticleBlock
         headline="Black Athletes Are Called-On To Sacrifice Their College Careers For The Democrats&#x27; Political Agenda"
         tinyUrl="https://tinyurl.com/4yhsfcz9"
         xPostUrl="https://x.com/C3Heditor/status/2059727752547516772"
         imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-05-27_150641_7e443be0.jpg"
-        tags={["Culture War", "Left-Wing", "Media Bias"]}
+        tags={["Culture War", "Left-Wing", "Journalism-MediaBias"]}
       />
       <ArticleBlock
         headline="California Taxpayers Are Footing The Bill For Democrat Gov. Gavin Newsom&#x27;s Porn Deliveries To Death Row Inmates Via Free Digital Tablets"

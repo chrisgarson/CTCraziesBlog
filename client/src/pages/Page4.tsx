@@ -40,7 +40,7 @@ export default function Page4() {
         tinyUrl="https://www.thegatewaypundit.com/2026/07/fcc-chair-brendan-carr-exposes-view-posting-video/"
         xPostUrl="https://x.com/C3Heditor/status/2084732657431445668"
         imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-08-04_150640.jpg"
-        tags={["Journalism", "Left-Wing"]}
+        tags={["Journalism-MediaBias", "Left-Wing"]}
       />
       <ArticleBlock
         headline="Public Now Aware of Double-Standard That Democrats Live By When It Comes To Their Activists&#x27; Violence &amp; Hate"

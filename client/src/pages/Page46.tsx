@@ -12,14 +12,14 @@ export default function Page46() {
         tinyUrl="https://tinyurl.com/yau4349s"
         xPostUrl="https://x.com/C3Heditor/status/2043080360783655413"
         imageSrc="https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/2026-04-11_163533_c21c5ab2.jpg"
-        tags={["Foreign Policy", "Media Bias", "Michigan", "Terrorism"]}
+        tags={["Foreign Policy", "Journalism-MediaBias", "Michigan", "Terrorism"]}
       />
       <ArticleBlock
         headline="Georgia Lieutenant Governor Democrat Candidate Shaming Those Who Are Critical of Islam Sharia"
         tinyUrl="https://tinyurl.com/56bvjehw"
         xPostUrl="https://x.com/C3Heditor/status/2043079552901972350"
         imageSrc="https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/2026-04-11_163221_ddd3b169.jpg"
-        tags={["Georgia", "Islam-Muslim"]}
+        tags={["Georgia", "Islam-Muslims"]}
       />
       <ArticleBlock
         headline="Michican Democrat Rep. Quits Politics, Blasting Her Paty&#x27;s Abortion And LGBTQ Agenda As Anti-Christian"
@@ -96,7 +96,7 @@ export default function Page46() {
         tinyUrl="https://tinyurl.com/3ft3apk4"
         xPostUrl="https://x.com/C3Heditor/status/2043064162096447863"
         imageSrc="https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/2026-04-11_152931_f9d8925d.jpg"
-        tags={["Media Bias", "U.S. Congress"]}
+        tags={["Journalism-MediaBias", "U.S. Congress"]}
       />
       <ArticleBlock
         headline="In Democrat Governed California, Rampant Fraud Has Become Less A Glitch And More A Deliberate Design"

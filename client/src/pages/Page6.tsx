@@ -12,7 +12,7 @@ export default function Page6() {
         tinyUrl="https://tinyurl.com/2rjm8pf4"
         xPostUrl="https://x.com/C3Heditor/status/2082155004517896596"
         imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-07-28_122402.jpg"
-        tags={["Islam-Muslim", "James Talarico", "Pandering", "Texas"]}
+        tags={["Islam-Muslims", "James Talarico", "Pandering", "Texas"]}
       />
       <ArticleBlock
         headline="Dem Governance Incompetence Not Only Prevailing In Blue Cities &amp; States: Democrats Forced to Mortgage Party HQ for $15 Million Due to Debt"
@@ -138,7 +138,7 @@ export default function Page6() {
         tinyUrl="https://tinyurl.com/kpc3nzke"
         xPostUrl="https://x.com/C3Heditor/status/2082071568901914884"
         imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-07-28_065225.jpg"
-        tags={["Governor Tim Walz", "Minnesota", "Trump-Derangement", "Violence"]}
+        tags={["Governor Tim Walz", "Minnesota", "Trump-Derangement", "Hate-Violence"]}
       />
       <ArticleBlock
         headline="‘Friend’ of Jeffrey Epstein, Democrat Representative Stacey Plaskett, Receives Max Donations For Her Gubernatorial Run From Epstein’s Political Fixer"

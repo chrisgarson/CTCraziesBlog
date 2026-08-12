@@ -33,7 +33,7 @@ export default function Page22() {
         tinyUrl="https://tinyurl.com/3zvvuy9r"
         xPostUrl="https://x.com/C3Heditor/status/2062284811109113923"
         imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-06-03_162706_78bc5fff.jpg"
-        tags={["Mainstream Media", "Media Bias", "Politics", "Racial Issues"]}
+        tags={["Journalism-MediaBias", "Politics", "Racial Issues"]}
       />
       <ArticleBlock
         headline="Black Reparations Activists Turn on Democrats Over the Ongoing Migration Surge Problem"
@@ -61,7 +61,7 @@ export default function Page22() {
         tinyUrl="https://tinyurl.com/49ka2xz5"
         xPostUrl="https://x.com/C3Heditor/status/2062281615171035580"
         imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-06-03_161419_15262a36.jpg"
-        tags={["California", "Censorship", "Corruption-Fraud", "Journalism"]}
+        tags={["California", "Censorship", "Corruption-Fraud", "Journalism-MediaBias"]}
       />
       <ArticleBlock
         headline="Hawaii Democrat Candidate Brandishes Firearm at County Workers in Off-the-Rails Incident"
@@ -145,7 +145,7 @@ export default function Page22() {
         tinyUrl="https://tinyurl.com/22u7264z"
         xPostUrl="https://x.com/C3Heditor/status/2062271039212585192"
         imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-06-03_153219_5b0f605e.jpg"
-        tags={["Culture War", "Islam-Muslim", "Texas"]}
+        tags={["Culture War", "Islam-Muslims", "Texas"]}
       />
       </div>
       <Pagination currentPage={22} totalPages={71} />

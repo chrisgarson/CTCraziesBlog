@@ -145,7 +145,7 @@ export default function Page12() {
         tinyUrl="https://tinyurl.com/mr2ukkxw"
         xPostUrl="https://x.com/C3Heditor/status/2075976211222651241"
         imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-07-11_111157.jpg"
-        tags={["Violence", "Wisconsin"]}
+        tags={["Hate-Violence", "Wisconsin"]}
       />
       </div>
       <Pagination currentPage={12} totalPages={71} />

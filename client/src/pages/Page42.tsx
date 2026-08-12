@@ -82,7 +82,7 @@ export default function Page42() {
         tinyUrl="https://tinyurl.com/3z9v5b7c"
         xPostUrl="https://x.com/C3Heditor/status/2044788111457075613"
         imageSrc="https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/2026-04-16_094127_d199c76b.jpg"
-        tags={["Israel-Jews", "Media Bias", "Violence"]}
+        tags={["Israel-Jews", "Journalism-MediaBias", "Hate-Violence"]}
       />
       <ArticleBlock
         headline="Is The View&#x27;s Joy Behar the Democrats&#x27; Biblical Scholar? She Ignorantly Claims Jesus Never Declared Himself To Be The Messiah"
@@ -117,14 +117,14 @@ export default function Page42() {
         tinyUrl="https://tinyurl.com/ytcczbrd"
         xPostUrl="https://x.com/C3Heditor/status/2044596234950779294"
         imageSrc="https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/2026-04-15_205905_0a9527eb.jpg"
-        tags={["Christianity", "Islam-Muslim", "Pope Leo XIV"]}
+        tags={["Christianity", "Islam-Muslims", "Pope Leo XIV"]}
       />
       <ArticleBlock
         headline="California Moves To Criminalize Journalism To Shield Democrats&#x27; Rampant Government Fraud"
         tinyUrl="https://tinyurl.com/4wtw2ccx"
         xPostUrl="https://x.com/C3Heditor/status/2044594512006119618"
         imageSrc="https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/2026-04-15_205219_e1df2fe3.jpg"
-        tags={["California", "Journalism"]}
+        tags={["California", "Journalism-MediaBias"]}
       />
       <ArticleBlock
         headline="Democrat Mayor Mamdani&#x27;s Own Video Director Praised October 7 Massacre Architect Yahya Sinwar As A Heroic Figure"
@@ -145,7 +145,7 @@ export default function Page42() {
         tinyUrl="https://tinyurl.com/7rxkc4a3"
         xPostUrl="https://x.com/C3Heditor/status/2044547947061244157"
         imageSrc="https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/2026-04-15_174501_b6afccd8.jpg"
-        tags={["Barack Obama", "Culture War", "Media Bias"]}
+        tags={["Barack Obama", "Culture War", "Journalism-MediaBias"]}
       />
       </div>
       <Pagination currentPage={42} totalPages={71} />

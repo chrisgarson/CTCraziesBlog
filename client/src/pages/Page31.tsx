@@ -12,14 +12,14 @@ export default function Page31() {
         tinyUrl="https://tinyurl.com/yh5vba52"
         xPostUrl="https://x.com/C3Heditor/status/2052861351979016616"
         imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-05-08_162017_ba8c2d43.jpg"
-        tags={["Government", "Governor Ferguson", "Media Bias", "Washington"]}
+        tags={["Government", "Governor Ferguson", "Journalism-MediaBias", "Washington"]}
       />
       <ArticleBlock
         headline="Democrat Mob Censorship: Free Speech Emergency That UCLA Is Desperately Trying To Hide"
         tinyUrl="https://tinyurl.com/47r9uphp"
         xPostUrl="https://x.com/C3Heditor/status/2052859413141029291"
         imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-05-08_161353_049e3ab7.jpg"
-        tags={["Censorship", "Media Bias"]}
+        tags={["Censorship", "Journalism-MediaBias"]}
       />
       <ArticleBlock
         headline="Major Projection Alert: Democrat Obama, Conveniently Forgetting About His Wingman&#x27;s DOJ, Accuses Trump of Using DOJ To Target Political Enemies"

@@ -82,7 +82,7 @@ export default function Page54() {
         tinyUrl="https://tinyurl.com/54cszwxk"
         xPostUrl="https://x.com/C3Heditor/status/2037148154655637630"
         imageSrc="https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/2026-03-26_074308_da8329e2.jpg"
-        tags={["California", "Islam-Muslim"]}
+        tags={["California", "Islam-Muslims"]}
       />
       <ArticleBlock
         headline="Leave It To A Muslim Democrat To Ruin a Christian Celebration: On St. Patrick&#x27;s Day Mayor Mamdani Invokes Palestinian &#x27;Genocide&#x27;"
@@ -117,7 +117,7 @@ export default function Page54() {
         tinyUrl="https://tinyurl.com/mr4dk9df"
         xPostUrl="https://x.com/C3Heditor/status/2037141569845756204"
         imageSrc="https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/2026-03-26_071711_9b26c09c.jpg"
-        tags={["Ali Velshi", "Media Bias"]}
+        tags={["Ali Velshi", "Journalism-MediaBias"]}
       />
       <ArticleBlock
         headline="Democrats-In-Action: Biden Judge Boots Top NJ Prosecutor From Child Porn Hearing in Tantrum Over Trump Picks"

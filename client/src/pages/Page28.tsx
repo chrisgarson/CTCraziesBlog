@@ -40,7 +40,7 @@ export default function Page28() {
         tinyUrl="https://tinyurl.com/324ny4u2"
         xPostUrl="https://x.com/C3Heditor/status/2059371846357729311"
         imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-05-26_153200_4053c682.jpg"
-        tags={["Left-Wing", "Media Bias"]}
+        tags={["Left-Wing", "Journalism-MediaBias"]}
       />
       <ArticleBlock
         headline="Democrat California Congressional Candidate Turns Back On Flag, Refuses To Say Pledge Of Allegiance"
@@ -96,7 +96,7 @@ export default function Page28() {
         tinyUrl="https://tinyurl.com/52p2z6zp"
         xPostUrl="https://x.com/C3Heditor/status/2059359833933910336"
         imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-05-26_144412_13d43fad.jpg"
-        tags={["California", "Media Bias", "Whoopi Goldberg"]}
+        tags={["California", "Journalism-MediaBias", "Whoopi Goldberg"]}
       />
       <ArticleBlock
         headline="Texas Democrat Congressional Candidate Vows First Vote Will Be To Impeach Trump &amp; Restore Biden&#x27;s Open Border Policy"
@@ -117,7 +117,7 @@ export default function Page28() {
         tinyUrl="https://tinyurl.com/5b9t9ard"
         xPostUrl="https://x.com/C3Heditor/status/2059244552477687994"
         imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-05-26_070623_951ca846.jpg"
-        tags={["2026 Elections", "Alternative & Social Media", "Media Bias"]}
+        tags={["2026 Elections", "Alternative & Social Media", "Journalism-MediaBias"]}
       />
       <ArticleBlock
         headline="Ohio Democrat Governor Candidate Poses As Moderate While Funneling Millions To Radical Leftist Groups"

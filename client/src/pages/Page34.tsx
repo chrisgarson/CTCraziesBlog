@@ -19,7 +19,7 @@ export default function Page34() {
         tinyUrl="https://tinyurl.com/ax5nyt2e"
         xPostUrl="https://x.com/C3Heditor/status/2050617595817029911"
         imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/vcbIFZfEoLgQYQoF.jpg"
-        tags={["2026 Elections", "Election Fraud", "Media Bias", "Michigan"]}
+        tags={["2026 Elections", "Election Fraud", "Journalism-MediaBias", "Michigan"]}
       />
       <ArticleBlock
         headline="Enough Already: Democrats Must Stop Stoking Violent Rhetoric Before Someone Gets Killed"
@@ -54,7 +54,7 @@ export default function Page34() {
         tinyUrl="https://tinyurl.com/2rsyth9n"
         xPostUrl="https://x.com/C3Heditor/status/2050547157007307185"
         imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/egbFLdJKGsexopPD.jpg"
-        tags={["Graham Platner", "Jen Psaki", "Maine", "Media Bias"]}
+        tags={["Graham Platner", "Jen Psaki", "Maine", "Journalism-MediaBias"]}
       />
       <ArticleBlock
         headline="A Constitutional SCOTUS Voting-Rights Ruling Sends Democrats Into Anti-Democracy Spasm Demanding Term Limits &amp; Impeachment"
@@ -75,7 +75,7 @@ export default function Page34() {
         tinyUrl="https://tinyurl.com/2rzzm49b"
         xPostUrl="https://x.com/C3Heditor/status/2050532990791590108"
         imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/ZWNoCsnfFqKwaRTD.jpg"
-        tags={["Culture War", "Islam-Muslim", "New York"]}
+        tags={["Culture War", "Islam-Muslims", "New York"]}
       />
       <ArticleBlock
         headline="The View&#x27;s Mouthpiece, Sonny Hostin, Claims Her Kids Somehow Lost Their Civil Rights After SCOTUS Ended Race-Based Districts - Her Family Lives In A Majority White Democrat District"

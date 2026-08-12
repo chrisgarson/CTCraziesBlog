@@ -145,7 +145,7 @@ export default function Page18() {
         tinyUrl="https://tinyurl.com/42k3yrxx"
         xPostUrl="https://x.com/C3Heditor/status/2066566439293603842"
         imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/YpcPQxVMUHCHfElL.jpg"
-        tags={["California", "Fareed Zakaria", "Mainstream Media", "Media Bias"]}
+        tags={["California", "Fareed Zakaria", "Journalism-MediaBias"]}
       />
       </div>
       <Pagination currentPage={18} totalPages={71} />

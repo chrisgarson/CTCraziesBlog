@@ -26,7 +26,7 @@ export default function Page50() {
         tinyUrl="https://tinyurl.com/2s7erd3j"
         xPostUrl="https://x.com/C3Heditor/status/2039058285542670771"
         imageSrc="https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/2026-03-31_141313_c1732f90.jpg"
-        tags={["Censorship", "Education Policy", "Violence"]}
+        tags={["Censorship", "Education Policy", "Hate-Violence"]}
       />
       <ArticleBlock
         headline="Hitler-Groupie Nick Fuentes Is Being Discovered By Appreciative Democrat Lefties"

@@ -61,7 +61,7 @@ export default function Page16() {
         tinyUrl="https://tinyurl.com/3mhpb722"
         xPostUrl="https://x.com/C3Heditor/status/2069106057792598275"
         imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-06-22_121222.jpg"
-        tags={["2026 Elections", "Mallory McMorrow", "Media Bias", "Michigan"]}
+        tags={["2026 Elections", "Mallory McMorrow", "Journalism-MediaBias", "Michigan"]}
       />
       <ArticleBlock
         headline="Election Fraud Investigation Leads FBI to Raid a Soros-Connected Democrat Ohio Voter Mobilization Group"
@@ -117,7 +117,7 @@ export default function Page16() {
         tinyUrl="https://tinyurl.com/342fucsw"
         xPostUrl="https://x.com/C3Heditor/status/2069088451509543224"
         imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-06-22_110216.jpg"
-        tags={["Culture War", "Media Bias", "San Francisco"]}
+        tags={["Culture War", "Journalism-MediaBias", "San Francisco"]}
       />
       <ArticleBlock
         headline="Democrat-Controlled Denver School Board Forced To Fire Teacher After Kids Were Graded on Same-Sex Kissing Roleplays"
@@ -145,7 +145,7 @@ export default function Page16() {
         tinyUrl="https://tinyurl.com/yu7f53f2"
         xPostUrl="https://x.com/C3Heditor/status/2069085223535440279"
         imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-06-22_104927.jpg"
-        tags={["Communism-Socialism", "Left-Wing", "Violence"]}
+        tags={["Communism-Socialism", "Left-Wing", "Hate-Violence"]}
       />
       </div>
       <Pagination currentPage={16} totalPages={71} />

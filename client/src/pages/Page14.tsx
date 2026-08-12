@@ -82,7 +82,7 @@ export default function Page14() {
         tinyUrl="https://tinyurl.com/3vzbexvp"
         xPostUrl="https://x.com/C3Heditor/status/2071692953001640299"
         imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-06-29_153157.jpg"
-        tags={["Graham Platner", "Massachusetts", "Media Bias", "Seth Moulton"]}
+        tags={["Graham Platner", "Massachusetts", "Journalism-MediaBias", "Seth Moulton"]}
       />
       <ArticleBlock
         headline="NYC&#x27;s Democrat Socialist Sweep Unveils the True New Dem Slogan: &#x27;We Hate America&#x27; Can Win"
@@ -110,7 +110,7 @@ export default function Page14() {
         tinyUrl="https://tinyurl.com/a9ff2psf"
         xPostUrl="https://x.com/C3Heditor/status/2071689140014367057"
         imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-06-29_151626.jpg"
-        tags={["Media Bias", "Politics"]}
+        tags={["Journalism-MediaBias", "Politics"]}
       />
       <ArticleBlock
         headline="Wacky Congressional Candidate, Backed by Democrat-Socialist Mayor Zohran Mamdani, Calls for &#x27;Eradication of the West&#x27;"

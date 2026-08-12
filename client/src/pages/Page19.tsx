@@ -82,7 +82,7 @@ export default function Page19() {
         tinyUrl="https://tinyurl.com/yw43va4a"
         xPostUrl="https://x.com/C3Heditor/status/2065485497456066894"
         imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-06-12_122530_f9d4a5d0.jpg"
-        tags={["Graham Platner", "Mainstream Media", "Media Bias", "Politics"]}
+        tags={["Graham Platner", "Journalism-MediaBias", "Politics"]}
       />
       <ArticleBlock
         headline="Democrats&#x27; Anti-ICE Campaign to Protect Open Borders &amp; Illegal Immigration an Epic Fail"
@@ -110,7 +110,7 @@ export default function Page19() {
         tinyUrl="https://tinyurl.com/mukcxdp7"
         xPostUrl="https://x.com/C3Heditor/status/2065480264256499877"
         imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-06-12_120205_a6b924d3.jpg"
-        tags={["Abdul El-Sayed", "Islam-Muslim", "Israel-Jews", "Michigan"]}
+        tags={["Abdul El-Sayed", "Islam-Muslims", "Israel-Jews", "Michigan"]}
       />
       <ArticleBlock
         headline="Democrat Staffers For Candidates Keep Censoring People Who Dare to Ask Legitimate Questions"
@@ -131,7 +131,7 @@ export default function Page19() {
         tinyUrl="https://tinyurl.com/snydxx4f"
         xPostUrl="https://x.com/C3Heditor/status/2065476052856508456"
         imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-06-12_114550_3af96334.jpg"
-        tags={["Graham Platner", "Mainstream Media", "Media Bias", "Politics"]}
+        tags={["Graham Platner", "Journalism-MediaBias", "Politics"]}
       />
       <ArticleBlock
         headline="Election Fraud on Steroids: Hard Evidence Points to an Extreme Lack of Integrity in the California Primary Process"
@@ -145,7 +145,7 @@ export default function Page19() {
         tinyUrl="https://tinyurl.com/583cxj77"
         xPostUrl="https://x.com/C3Heditor/status/2065474378913952037"
         imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-06-12_113718_0ddd9e22.jpg"
-        tags={["Media Bias", "Politics"]}
+        tags={["Journalism-MediaBias", "Politics"]}
       />
       </div>
       <Pagination currentPage={19} totalPages={71} />

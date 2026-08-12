@@ -47,7 +47,7 @@ export default function Page64() {
         tinyUrl="https://tinyurl.com/yfmhyntr"
         xPostUrl="https://x.com/C3Heditor/status/2026059115420606886"
         imageSrc="https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/post155_clean_11a8b7f4.jpg"
-        tags={["Media Bias", "Politics"]}
+        tags={["Journalism-MediaBias", "Politics"]}
       />
       <ArticleBlock
         headline="Stunning ABC Poll: Americans Back Trump Over Democrats in Every Single Category"

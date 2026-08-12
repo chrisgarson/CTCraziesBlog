@@ -33,7 +33,7 @@ export default function Page40() {
         tinyUrl="https://tinyurl.com/yh2wtkbs"
         xPostUrl="https://x.com/C3Heditor/status/2045531132536516848"
         imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/ZCwBREJlUjafeXDN.jpg"
-        tags={["Foreign Policy", "Islam-Muslim"]}
+        tags={["Foreign Policy", "Islam-Muslims"]}
       />
       <ArticleBlock
         headline="Texas Democrat Shatters Records For Spending Donor Cash Recklessly - Will Wildly Spend Even More As U.S. Senator"
@@ -103,14 +103,14 @@ export default function Page40() {
         tinyUrl="https://tinyurl.com/56fhhz5s"
         xPostUrl="https://x.com/C3Heditor/status/2045510687166787979"
         imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/ndtWLgygwyNviJlD.jpg"
-        tags={["Eric Swalwell", "Media Bias", "Politics"]}
+        tags={["Eric Swalwell", "Journalism-MediaBias", "Politics"]}
       />
       <ArticleBlock
         headline="Washington Post Baffled That Democrats Ever Noticed Or Reported That Swalwell Was A Creep All Along"
         tinyUrl="https://tinyurl.com/4zaw5vr8"
         xPostUrl="https://x.com/C3Heditor/status/2045509855801184538"
         imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/dpPobqEUoyKgICsH.jpg"
-        tags={["Eric Swalwell", "Joe Biden", "Media Bias", "Politics"]}
+        tags={["Eric Swalwell", "Joe Biden", "Journalism-MediaBias", "Politics"]}
       />
       <ArticleBlock
         headline="Journalist Reports Eric Swalwell&#x27;s Misconduct &#x27;Was Known&#x27; to Democrats"

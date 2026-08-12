@@ -12,7 +12,7 @@ export default function Page24() {
         tinyUrl="https://tinyurl.com/ym5akc6h"
         xPostUrl="https://x.com/C3Heditor/status/2060796629569937705"
         imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-05-30_135335_2e1c5646.jpg"
-        tags={["Immigration", "Islam-Muslim"]}
+        tags={["Immigration", "Islam-Muslims"]}
       />
       <ArticleBlock
         headline="Swatting Attack Violence by Democrat Activists on Conservative SCOTUS Justice Amy Coney Barrett"
@@ -54,7 +54,7 @@ export default function Page24() {
         tinyUrl="https://tinyurl.com/4bvar7z4"
         xPostUrl="https://x.com/C3Heditor/status/2060788856702566686"
         imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-05-30_132245_fcab9c76.jpg"
-        tags={["Mainstream Media", "Media Bias", "U.S. Constitution"]}
+        tags={["Journalism-MediaBias", "U.S. Constitution"]}
       />
       <ArticleBlock
         headline="New York&#x27;s Democrat Ban On Non-Lethal Weapons Is Unconstitutional &amp; Directly Undermines the Supreme Court"
@@ -124,14 +124,14 @@ export default function Page24() {
         tinyUrl="https://tinyurl.com/5cwe9zv3"
         xPostUrl="https://x.com/C3Heditor/status/2060756068372759023"
         imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-05-30_111229_c1312495.jpg"
-        tags={["Alexandria Ocasio-Cortez", "AOC", "Islam-Muslim", "New York"]}
+        tags={["Alexandria Ocasio-Cortez", "Islam-Muslims", "New York"]}
       />
       <ArticleBlock
         headline="MSM Bites Dog Story: CNN Host Slams Democrats for Years of Hiding Biden&#x27;s Worsening Cognitive Decline"
         tinyUrl="https://tinyurl.com/ycxkuhvr"
         xPostUrl="https://x.com/C3Heditor/status/2060755090877690182"
         imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-05-30_110833_45351329.jpg"
-        tags={["Biden Administration", "Joe Biden", "Mainstream Media", "Media Bias"]}
+        tags={["Biden Administration", "Joe Biden", "Journalism-MediaBias"]}
       />
       <ArticleBlock
         headline="Democrats Fear It will Become Common Knowledge for Donors Outside of Texas That Candidate James Talarico Is Considered One Creepy Weirdo by Texans"

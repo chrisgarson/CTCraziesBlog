@@ -103,7 +103,7 @@ export default function Page39() {
         tinyUrl="https://tinyurl.com/293bf4jk"
         xPostUrl="https://x.com/C3Heditor/status/2046312781675434086"
         imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/zwfpetUWVSlmyQni.jpg"
-        tags={["Eric Swalwell", "Media Bias", "Sexual Misconduct"]}
+        tags={["Eric Swalwell", "Journalism-MediaBias", "Sexual Misconduct"]}
       />
       <ArticleBlock
         headline="Soaring LA Homeless Camp Fires In Democrat City Are Slowing Emergency Response Times With Deadly Results"

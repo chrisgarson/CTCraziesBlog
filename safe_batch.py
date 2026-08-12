@@ -594,6 +594,58 @@ def rename_tag(ledger: dict[str, Any], old_tag: str, new_tag: str) -> dict[str, 
     return ledger
 
 
+def set_tag_type(ledger: dict[str, Any], tag: str, tag_type: str) -> dict[str, Any]:
+    """Change a confirmed existing tag's classification without altering articles or keywords."""
+    tag = tag.strip()
+    if tag not in ledger["tagMetadata"]:
+        raise ValueError(f"Active tag {tag!r} does not exist")
+    if tag_type not in {"person", "topic"}:
+        raise ValueError("Tag type must be person or topic")
+    ledger["tagMetadata"][tag]["type"] = tag_type
+    return ledger
+
+
+def merge_tags(ledger: dict[str, Any], sources: list[str], target: str, target_type: str = "topic") -> dict[str, Any]:
+    """Merge approved active tags into a target, retaining retired labels as target keywords."""
+    target = target.strip()
+    source_tags = [tag.strip() for tag in sources if tag.strip()]
+    if not target or not source_tags:
+        raise ValueError("A merge requires a target tag and at least one source tag")
+    if target in source_tags:
+        raise ValueError("A merge target cannot also be a source tag")
+    missing = [tag for tag in source_tags if tag not in ledger["tagMetadata"]]
+    if missing:
+        raise ValueError("Active source tags do not exist: " + ", ".join(missing))
+    if target not in ledger["tagMetadata"]:
+        ledger["tagMetadata"][target] = {"type": target_type, "keywords": []}
+    if ledger["tagMetadata"][target]["type"] != target_type:
+        raise ValueError(f"Target tag {target!r} has incompatible type")
+    keywords = ledger["tagMetadata"][target].setdefault("keywords", [])
+    for source in source_tags:
+        if source not in keywords:
+            keywords.append(source)
+    source_set = set(source_tags)
+    for article in ledger["articles"]:
+        if source_set.intersection(article["tags"]):
+            article["tags"] = [target if tag in source_set else tag for tag in article["tags"]]
+            article["tags"] = list(dict.fromkeys(article["tags"]))
+    for source in source_tags:
+        ledger["tagMetadata"].pop(source)
+    return ledger
+
+
+def apply_tag_update_plan(ledger: dict[str, Any], plan: dict[str, Any]) -> dict[str, Any]:
+    """Apply a reviewed declarative type-change, rename, and merge plan atomically in memory."""
+    updated = copy.deepcopy(ledger)
+    for item in plan.get("typeChanges", []):
+        set_tag_type(updated, item["tag"], item["type"])
+    for item in plan.get("renames", []):
+        rename_tag(updated, item["from"], item["to"])
+    for item in plan.get("merges", []):
+        merge_tags(updated, item["sources"], item["target"], item.get("type", "topic"))
+    return updated
+
+
 def rename_tag_command(args: argparse.Namespace) -> None:
     """Rename an approved tag and regenerate every derived source file safely."""
     ledger_path = Path(args.ledger)
@@ -602,6 +654,17 @@ def rename_tag_command(args: argparse.Namespace) -> None:
     write_project_from_ledger(ledger, latest_date)
     write_ledger(ledger, ledger_path)
     print(f"RENAMED: {args.old_tag!r} → {args.new_tag!r}; run verify_safe_site.py before publishing")
+
+
+def apply_tag_update_plan_command(args: argparse.Namespace) -> None:
+    """Apply one user-reviewed tag-update plan and regenerate every derived source file once."""
+    ledger_path = Path(args.ledger)
+    plan = json.loads(Path(args.plan).read_text(encoding="utf-8"))
+    ledger = apply_tag_update_plan(load_ledger(ledger_path), plan)
+    latest_date = ledger["articles"][0].get("batchDate") or date.today().isoformat()
+    write_project_from_ledger(ledger, latest_date)
+    write_ledger(ledger, ledger_path)
+    print(f"APPLIED TAG UPDATE PLAN: {Path(args.plan).name}; run verify_safe_site.py before publishing")
 
 
 def render_current_command(args: argparse.Namespace) -> None:
@@ -664,6 +727,10 @@ def main() -> None:
     rename.add_argument("new_tag")
     rename.add_argument("--ledger", default=str(LEDGER))
     rename.set_defaults(func=rename_tag_command)
+    update_plan = commands.add_parser("apply-tag-update-plan", help="Apply a reviewed type-change, rename, and merge plan")
+    update_plan.add_argument("plan")
+    update_plan.add_argument("--ledger", default=str(LEDGER))
+    update_plan.set_defaults(func=apply_tag_update_plan_command)
     render_current = commands.add_parser("render-current", help="Regenerate all derived source files from the canonical ledger")
     render_current.add_argument("--ledger", default=str(LEDGER))
     render_current.set_defaults(func=render_current_command)

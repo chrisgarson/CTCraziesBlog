@@ -68,7 +68,7 @@ export default function Page7() {
         tinyUrl="https://tinyurl.com/2nyy5zae"
         xPostUrl="https://x.com/C3Heditor/status/2081125938838786184"
         imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-07-25_161457.jpg"
-        tags={["Election Fraud", "Immigration", "Media Bias"]}
+        tags={["Election Fraud", "Immigration", "Journalism-MediaBias"]}
       />
       <ArticleBlock
         headline="Los Angeles Democrat-Socialist Mayor Bass Facing Continuing &amp; Significant Budget Gaps Wants to Make City&#x27;s Metro System Fare-Free"

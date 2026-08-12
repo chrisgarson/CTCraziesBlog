@@ -61,7 +61,7 @@ export default function Page13() {
         tinyUrl="https://tinyurl.com/4mzrc2fy"
         xPostUrl="https://x.com/C3Heditor/status/2075585588917354528"
         imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-07-10_091935.jpg"
-        tags={["Media Bias", "Nikole Hannah-Jones", "Racial Issues"]}
+        tags={["Journalism-MediaBias", "Nikole Hannah-Jones", "Racial Issues"]}
       />
       <ArticleBlock
         headline="Expert Warns That Being the Anti-Jewish Party Could Bring About the Democrat Party&#x27;s Destruction"
@@ -75,14 +75,14 @@ export default function Page13() {
         tinyUrl="https://tinyurl.com/4rs5nku3"
         xPostUrl="https://x.com/C3Heditor/status/2075552684787056951"
         imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-07-10_070846.jpg"
-        tags={["Elizabeth Warren", "Iran", "Islam-Muslim", "Massachusetts"]}
+        tags={["Elizabeth Warren", "Iran", "Islam-Muslims", "Massachusetts"]}
       />
       <ArticleBlock
         headline="Democrat-Islamicist Mayor Zohran Mamdani&#x27;s New York City Is Branded the &#x27;Islamic Republic of New Yorkistan&#x27; by Popular Muslim Viral Streamer"
         tinyUrl="https://tinyurl.com/4buzfnd2"
         xPostUrl="https://x.com/C3Heditor/status/2075549867338879455"
         imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-07-10_065744.jpg"
-        tags={["Islam-Muslim", "New York", "Zohran Mamdani"]}
+        tags={["Islam-Muslims", "New York", "Zohran Mamdani"]}
       />
       <ArticleBlock
         headline="Top Tier Democrat Has a &#x27;No-Shit-Sherlock&#x27; Moment: Warns of a Socialist Takeover of Democrat Party - Seeks Probe of Foreign Influence"
@@ -145,7 +145,7 @@ export default function Page13() {
         tinyUrl="https://tinyurl.com/2s3hnzef"
         xPostUrl="https://x.com/C3Heditor/status/2075537688703148266"
         imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-07-10_060924.jpg"
-        tags={["Media Bias", "Sexual Misconduct"]}
+        tags={["Journalism-MediaBias", "Sexual Misconduct"]}
       />
       </div>
       <Pagination currentPage={13} totalPages={71} />

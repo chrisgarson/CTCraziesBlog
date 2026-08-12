@@ -110,7 +110,7 @@ export default function Page67() {
         tinyUrl="https://tinyurl.com/3xsu5x7p"
         xPostUrl="https://x.com/C3Heditor/status/2023511699215806764"
         imageSrc="https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/post86_clean_23f7a611.jpg"
-        tags={["CBP-DHS-ICE", "Censorship", "Culture War", "Journalism"]}
+        tags={["CBP-DHS-ICE", "Censorship", "Culture War", "Journalism-MediaBias"]}
       />
       <ArticleBlock
         headline="NY&#x27;s leading ditz, Democrat AOC, goes to Europe &amp; proves how bad our education system is"

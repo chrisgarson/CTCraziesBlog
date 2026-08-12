@@ -1,0 +1,33 @@
+{
+  "typeChanges": [
+    { "tag": "Enrique Sanchez", "type": "person" },
+    { "tag": "Ken Martin", "type": "person" },
+    { "tag": "Melat Kiros", "type": "person" },
+    { "tag": "Sylvia Luke", "type": "person" }
+  ],
+  "renames": [
+    { "from": "Islam-Muslim", "to": "Islam-Muslims" }
+  ],
+  "merges": [
+    {
+      "sources": ["AOC"],
+      "target": "Alexandria Ocasio-Cortez",
+      "type": "person"
+    },
+    {
+      "sources": ["Hate", "Violence"],
+      "target": "Hate-Violence",
+      "type": "topic"
+    },
+    {
+      "sources": ["Journalism", "Mainstream Media", "Media Bias"],
+      "target": "Journalism-MediaBias",
+      "type": "topic"
+    },
+    {
+      "sources": ["Midterm Elections"],
+      "target": "2026 Elections",
+      "type": "topic"
+    }
+  ]
+}

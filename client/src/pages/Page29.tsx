@@ -26,7 +26,7 @@ export default function Page29() {
         tinyUrl="https://tinyurl.com/4udkwhmx"
         xPostUrl="https://x.com/C3Heditor/status/2056475287995461979"
         imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-05-18_154214_1618b1a2.jpg"
-        tags={["Islam-Muslim", "National Security"]}
+        tags={["Islam-Muslims", "National Security"]}
       />
       <ArticleBlock
         headline="It&#x27;s Another Democrat Liar: Michigan&#x27;s U.S. Senate Hopeful Abdul El-Sayed Claims He&#x27;s A Physician But Has No Medical License"
@@ -110,7 +110,7 @@ export default function Page29() {
         tinyUrl="https://tinyurl.com/hv4wwzvu"
         xPostUrl="https://x.com/C3Heditor/status/2056459126738391434"
         imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-05-18_143750_ea3d5832.jpg"
-        tags={["Media Bias", "Virginia"]}
+        tags={["Journalism-MediaBias", "Virginia"]}
       />
       <ArticleBlock
         headline="Aiding Communist Dictators: Michigan&#x27;s Democrat Rep. Jayapal Admits Helping Cuba Dodge The U.S. Oil Blockade"
@@ -124,7 +124,7 @@ export default function Page29() {
         tinyUrl="https://tinyurl.com/4ny4tx3d"
         xPostUrl="https://x.com/C3Heditor/status/2056457437952274530"
         imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-05-18_143111_f658c21f.jpg"
-        tags={["2024 Election", "Media Bias"]}
+        tags={["2024 Election", "Journalism-MediaBias"]}
       />
       <ArticleBlock
         headline="Brooklyn Is Now Ground Zero For The AntiSemite Intifada Under New York City&#x27;s Democrat Marxist Mayor Mamdani"

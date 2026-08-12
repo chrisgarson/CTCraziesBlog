@@ -19,7 +19,7 @@ export default function Page32() {
         tinyUrl="https://tinyurl.com/yu56zbc3"
         xPostUrl="https://x.com/C3Heditor/status/2052038802869195028"
         imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/LZOuyIggsKnCqfbK.jpg"
-        tags={["Iran", "Media Bias", "Violence"]}
+        tags={["Iran", "Journalism-MediaBias", "Hate-Violence"]}
       />
       <ArticleBlock
         headline="Decade In Review: The Democrat-Left&#x27;s Long &amp; Violent Legacy of Political Attacks On The Right"
@@ -110,7 +110,7 @@ export default function Page32() {
         tinyUrl="https://tinyurl.com/yzjku6xm"
         xPostUrl="https://x.com/C3Heditor/status/2051780743181803739"
         imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/jrFjJssCKbZKFhIw.jpg"
-        tags={["Alternative & Social Media", "Media Bias"]}
+        tags={["Alternative & Social Media", "Journalism-MediaBias"]}
       />
       <ArticleBlock
         headline="Hollywood Democrat Celebrities Prove Again They&#x27;re Stuck-On-TDS: Claims Trump Staged His Own WHCDAssassination Attempt"
@@ -138,7 +138,7 @@ export default function Page32() {
         tinyUrl="https://tinyurl.com/muzbpehh"
         xPostUrl="https://x.com/C3Heditor/status/2051776070014091282"
         imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/qwqvNvtTjkAMloRM.jpg"
-        tags={["Media Bias", "Politics", "Wajahat Ali"]}
+        tags={["Journalism-MediaBias", "Politics", "Wajahat Ali"]}
       />
       <ArticleBlock
         headline="Begging NY State For A Budget Bailout, Democrat Mayor Mamdani Feels The Cold Grip of Collectivism Squeezing"

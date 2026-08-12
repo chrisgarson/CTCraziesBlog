@@ -61,7 +61,7 @@ export default function Page37() {
         tinyUrl="https://tinyurl.com/y7cj6jps"
         xPostUrl="https://x.com/C3Heditor/status/2048447824560336977"
         imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/MtHnDHTGErMqdIpr.jpg"
-        tags={["Cory Booker", "Media Bias", "Politics"]}
+        tags={["Cory Booker", "Journalism-MediaBias", "Politics"]}
       />
       <ArticleBlock
         headline="Anti-White Discrimination Lawsuit Finally Costs The DEI-Democrat Cincinnati Police Chief Her Job"
@@ -96,14 +96,14 @@ export default function Page37() {
         tinyUrl="https://tinyurl.com/mry69ukt"
         xPostUrl="https://x.com/C3Heditor/status/2048442373311504710"
         imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/qFIUBJBPrpTPiSAj.jpg"
-        tags={["Christianity", "Hate", "SPLC"]}
+        tags={["Christianity", "Hate-Violence", "SPLC"]}
       />
       <ArticleBlock
         headline="Trust In The Legacy News Media Pushing Democrat Propaganda Has Collapsed — More Than Half See It As Totally Worthless"
         tinyUrl="https://tinyurl.com/4he6jzbm"
         xPostUrl="https://x.com/C3Heditor/status/2048441493422010704"
         imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/lAKHGkOinkMdfFvh.jpg"
-        tags={["Media Bias", "Polling"]}
+        tags={["Journalism-MediaBias", "Polling"]}
       />
       <ArticleBlock
         headline="Refinery Shutdowns Following Democrats&#x27; Strict Anti-Fossil Fuel Rules Put California On The Brink Of Gas Shortages"
@@ -124,14 +124,14 @@ export default function Page37() {
         tinyUrl="https://tinyurl.com/nhzz8dp9"
         xPostUrl="https://x.com/C3Heditor/status/2048355310847348798"
         imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/SnzjbpZEqnbQhhjb.jpg"
-        tags={["Media Bias", "Trump-Derangement", "Violence"]}
+        tags={["Journalism-MediaBias", "Trump-Derangement", "Hate-Violence"]}
       />
       <ArticleBlock
         headline="Democrat Extremist Journalists: 250+ Demand Protest Against Trump at White House Correspondents’ Dinner"
         tinyUrl="https://tinyurl.com/44sve2ej"
         xPostUrl="https://x.com/C3Heditor/status/2048351956335231006"
         imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/zfpITrQpxfpbTfZI.jpg"
-        tags={["Censorship", "Journalism", "Trump-Derangement"]}
+        tags={["Censorship", "Journalism-MediaBias", "Trump-Derangement"]}
       />
       <ArticleBlock
         headline="Playing The Race Card Again: California&#x27;s Democrat Governor Candidates Cry Racism"

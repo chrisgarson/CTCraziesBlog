@@ -131,7 +131,7 @@ export default function Page3() {
         tinyUrl="https://www.newsbusters.org/blogs/nb/jorge-bonilla/2026/08/05/what-nbc-nightly-news-shows-socialisms-unpopularity-among-voters"
         xPostUrl="https://x.com/C3Heditor/status/2085476536975552653"
         imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-08-06_162247.jpg"
-        tags={["Communism-Socialism", "Journalism"]}
+        tags={["Communism-Socialism", "Journalism-MediaBias"]}
       />
       <ArticleBlock
         headline="Bill Maher Show Audience Gasps As He Quotes Democrat Politicians Now Openly Embracing Communism"

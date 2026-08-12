@@ -110,7 +110,7 @@ export default function Page38() {
         tinyUrl="https://tinyurl.com/ypzf9u9k"
         xPostUrl="https://x.com/C3Heditor/status/2046697107063554115"
         imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/ULdPDCpGSBphvwqc.jpg"
-        tags={["Left-Wing", "Media Bias", "Politics"]}
+        tags={["Left-Wing", "Journalism-MediaBias", "Politics"]}
       />
       <ArticleBlock
         headline="Utah&#x27;s Gerrymander Judge Accused Of Having An Affair With The Democrat Redistricting Attorney"

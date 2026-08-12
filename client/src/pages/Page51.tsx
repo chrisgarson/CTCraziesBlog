@@ -96,7 +96,7 @@ export default function Page51() {
         tinyUrl="https://tinyurl.com/ytp3sbtz"
         xPostUrl="https://x.com/C3Heditor/status/2038357910858657867"
         imageSrc="https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/2026-03-29_155019_ca58f706.jpg"
-        tags={["Censorship", "Culture War", "Media Bias"]}
+        tags={["Censorship", "Culture War", "Journalism-MediaBias"]}
       />
       <ArticleBlock
         headline="Soros Democrat DA Blames the Old Dominion ISIS Attack on Pro-Gun Judges and Republican Lawmakers"

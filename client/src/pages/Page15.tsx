@@ -19,7 +19,7 @@ export default function Page15() {
         tinyUrl="https://tinyurl.com/35pu3vn8"
         xPostUrl="https://x.com/C3Heditor/status/2069962351487430700"
         imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-06-24_205455.jpg"
-        tags={["Immigration", "Media Bias", "National Security", "Terrorism"]}
+        tags={["Immigration", "Journalism-MediaBias", "National Security", "Terrorism"]}
       />
       <ArticleBlock
         headline="Democrats Continue the Battle for &#x27;Open Borders&#x27; by Fighting Against Wall Construction in Texas"
@@ -82,7 +82,7 @@ export default function Page15() {
         tinyUrl="https://tinyurl.com/2m5dh7ea"
         xPostUrl="https://x.com/C3Heditor/status/2069885370611671492"
         imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-06-24_154859.jpg"
-        tags={["DOJ", "Immigration", "Left-Wing", "Violence"]}
+        tags={["DOJ", "Immigration", "Left-Wing", "Hate-Violence"]}
       />
       <ArticleBlock
         headline="While North Carolina&#x27;s Governor, Democrat Roy Cooper Paid Out $47.2M in Fraudulent Unemployment Payments, Including to Illegal Aliens"

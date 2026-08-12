@@ -26,7 +26,7 @@ export default function Page45() {
         tinyUrl="https://tinyurl.com/4jzzbkdn"
         xPostUrl="https://x.com/C3Heditor/status/2043435863023956420"
         imageSrc="https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/2026-04-12_160815_c428d356.jpg"
-        tags={["Business Climate", "Harry Enten", "Media Bias", "Polling"]}
+        tags={["Business Climate", "Harry Enten", "Journalism-MediaBias", "Polling"]}
       />
       <ArticleBlock
         headline="Humiliation: Joe Biden Is Erased From Democrats&#x27; Easter Message As His Own Party Tries To Move On"

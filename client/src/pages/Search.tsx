@@ -27,7 +27,7 @@ const articles = [
     "tags": [
         "Zohran Mamdani",
         "NYC",
-        "Islam-Muslim",
+        "Islam-Muslims",
         "Israel-Jews"
     ],
     "page": 1,
@@ -87,7 +87,7 @@ const articles = [
         "Hasan Piker",
         "Abdul El-Sayed",
         "Michigan",
-        "Islam-Muslim"
+        "Islam-Muslims"
     ],
     "page": 1,
     "batchDate": "2026-08-12"
@@ -131,7 +131,7 @@ const articles = [
     "tags": [
         "Abdul El-Sayed",
         "Michigan",
-        "Islam-Muslim",
+        "Islam-Muslims",
         "Communism-Socialism"
     ],
     "page": 1,
@@ -247,7 +247,7 @@ const articles = [
     "xPostUrl": "https://x.com/C3Heditor/status/2087559510818705675",
     "imageUrl": "https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-08-12_101941.jpg",
     "tags": [
-        "Violence",
+        "Hate-Violence",
         "Left-Wing"
     ],
     "page": 1,
@@ -278,7 +278,7 @@ const articles = [
         "CBP-DHS-ICE",
         "Immigration",
         "Crime",
-        "Violence"
+        "Hate-Violence"
     ],
     "page": 1,
     "batchDate": "2026-08-12"
@@ -293,7 +293,7 @@ const articles = [
         "Francesca Hong",
         "Wisconsin",
         "2026 Elections",
-        "Violence"
+        "Hate-Violence"
     ],
     "page": 1,
     "batchDate": "2026-08-12"
@@ -375,7 +375,7 @@ const articles = [
     "xPostUrl": "https://x.com/C3Heditor/status/2085810666405781948",
     "imageUrl": "https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-08-07_143033.jpg",
     "tags": [
-        "Hate",
+        "Hate-Violence",
         "Israel-Jews",
         "Left-Wing"
     ],
@@ -389,7 +389,7 @@ const articles = [
     "xPostUrl": "https://x.com/C3Heditor/status/2085810063231344813",
     "imageUrl": "https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-08-07_142801.jpg",
     "tags": [
-        "Islam-Muslim",
+        "Islam-Muslims",
         "Left-Wing"
     ],
     "page": 2,
@@ -502,7 +502,7 @@ const articles = [
         "Abdul El-Sayed",
         "Francesca Hong",
         "Hasan Piker",
-        "Islam-Muslim"
+        "Islam-Muslims"
     ],
     "page": 2,
     "batchDate": "2026-08-07"
@@ -560,7 +560,7 @@ const articles = [
     "tags": [
         "Francesca Hong",
         "Left-Wing",
-        "Violence",
+        "Hate-Violence",
         "Wisconsin"
     ],
     "page": 2,
@@ -576,7 +576,7 @@ const articles = [
         "Hawaii",
         "Kirill Basin",
         "Left-Wing",
-        "Violence"
+        "Hate-Violence"
     ],
     "page": 2,
     "batchDate": "2026-08-07"
@@ -825,7 +825,7 @@ const articles = [
     "imageUrl": "https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-08-06_162247.jpg",
     "tags": [
         "Communism-Socialism",
-        "Journalism"
+        "Journalism-MediaBias"
     ],
     "page": 3,
     "batchDate": "2026-08-07"
@@ -918,7 +918,7 @@ const articles = [
     "xPostUrl": "https://x.com/C3Heditor/status/2084732657431445668",
     "imageUrl": "https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-08-04_150640.jpg",
     "tags": [
-        "Journalism",
+        "Journalism-MediaBias",
         "Left-Wing"
     ],
     "page": 4,
@@ -1129,7 +1129,7 @@ const articles = [
     "imageUrl": "https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-07-29_163029.jpg",
     "tags": [
         "Communism-Socialism",
-        "Islam-Muslim",
+        "Islam-Muslims",
         "NYC",
         "Zohran Mamdani"
     ],
@@ -1226,7 +1226,7 @@ const articles = [
     "tags": [
         "Communism-Socialism",
         "Ilhan Omar",
-        "Islam-Muslim"
+        "Islam-Muslims"
     ],
     "page": 5,
     "batchDate": "2026-07-29"
@@ -1240,7 +1240,7 @@ const articles = [
     "tags": [
         "Abdul El-Sayed",
         "Communism-Socialism",
-        "Islam-Muslim",
+        "Islam-Muslims",
         "Michigan"
     ],
     "page": 5,
@@ -1399,7 +1399,7 @@ const articles = [
     "imageUrl": "https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-07-29_145958.jpg",
     "tags": [
         "Iowa",
-        "Islam-Muslim",
+        "Islam-Muslims",
         "Left-Wing",
         "Sarah Trone Garriott"
     ],
@@ -1413,7 +1413,7 @@ const articles = [
     "xPostUrl": "https://x.com/C3Heditor/status/2082155004517896596",
     "imageUrl": "https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-07-28_122402.jpg",
     "tags": [
-        "Islam-Muslim",
+        "Islam-Muslims",
         "James Talarico",
         "Pandering",
         "Texas"
@@ -1675,7 +1675,7 @@ const articles = [
         "Governor Tim Walz",
         "Minnesota",
         "Trump-Derangement",
-        "Violence"
+        "Hate-Violence"
     ],
     "page": 6,
     "batchDate": "2026-07-28"
@@ -1818,7 +1818,7 @@ const articles = [
     "tags": [
         "Election Fraud",
         "Immigration",
-        "Media Bias"
+        "Journalism-MediaBias"
     ],
     "page": 7,
     "batchDate": "2026-07-26"
@@ -2002,7 +2002,7 @@ const articles = [
     "tags": [
         "Alexandria Ocasio-Cortez",
         "Israel-Jews",
-        "Media Bias"
+        "Journalism-MediaBias"
     ],
     "page": 8,
     "batchDate": "July 24, 2026"
@@ -2113,7 +2113,7 @@ const articles = [
     "tags": [
         "National Security",
         "Trump-Derangement",
-        "Violence"
+        "Hate-Violence"
     ],
     "page": 8,
     "batchDate": "July 24, 2026"
@@ -2168,7 +2168,7 @@ const articles = [
     "imageUrl": "https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-07-23_164952.jpg",
     "tags": [
         "Culture War",
-        "Islam-Muslim",
+        "Islam-Muslims",
         "LGBTQ"
     ],
     "page": 8,
@@ -2267,7 +2267,7 @@ const articles = [
     "tags": [
         "Election Fraud",
         "Left-Wing",
-        "Media Bias"
+        "Journalism-MediaBias"
     ],
     "page": 9,
     "batchDate": "July 22, 2026"
@@ -2566,7 +2566,7 @@ const articles = [
     "imageUrl": "https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-07-20_130855.jpg",
     "tags": [
         "Election Fraud",
-        "Media Bias"
+        "Journalism-MediaBias"
     ],
     "page": 10,
     "batchDate": "July 20, 2026"
@@ -2648,7 +2648,7 @@ const articles = [
     "imageUrl": "https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-07-20_123811.jpg",
     "tags": [
         "Communism-Socialism",
-        "Media Bias"
+        "Journalism-MediaBias"
     ],
     "page": 10,
     "batchDate": "July 20, 2026"
@@ -2702,7 +2702,7 @@ const articles = [
     "tags": [
         "Illinois",
         "JB Pritzker",
-        "Media Bias"
+        "Journalism-MediaBias"
     ],
     "page": 10,
     "batchDate": "July 20, 2026"
@@ -2743,7 +2743,7 @@ const articles = [
     "imageUrl": "https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-07-20_121054.jpg",
     "tags": [
         "LGBTQ",
-        "Violence"
+        "Hate-Violence"
     ],
     "page": 10,
     "batchDate": "July 20, 2026"
@@ -2894,7 +2894,7 @@ const articles = [
     "imageUrl": "https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-07-12_155125.jpg",
     "tags": [
         "2026 Elections",
-        "Islam-Muslim",
+        "Islam-Muslims",
         "James Talarico",
         "Texas"
     ],
@@ -2977,7 +2977,7 @@ const articles = [
     "imageUrl": "https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-07-1_1530285.jpg",
     "tags": [
         "Graham Platner",
-        "Media Bias",
+        "Journalism-MediaBias",
         "Sexual Misconduct"
     ],
     "page": 11,
@@ -3072,7 +3072,7 @@ const articles = [
     "imageUrl": "https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-07-12_150945.jpg",
     "tags": [
         "Lindsey Graham",
-        "Violence"
+        "Hate-Violence"
     ],
     "page": 11,
     "batchDate": "July 12, 2026"
@@ -3350,7 +3350,7 @@ const articles = [
     "xPostUrl": "https://x.com/C3Heditor/status/2075976211222651241",
     "imageUrl": "https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-07-11_111157.jpg",
     "tags": [
-        "Violence",
+        "Hate-Violence",
         "Wisconsin"
     ],
     "page": 12,
@@ -3461,7 +3461,7 @@ const articles = [
     "xPostUrl": "https://x.com/C3Heditor/status/2075585588917354528",
     "imageUrl": "https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-07-10_091935.jpg",
     "tags": [
-        "Media Bias",
+        "Journalism-MediaBias",
         "Nikole Hannah-Jones",
         "Racial Issues"
     ],
@@ -3490,7 +3490,7 @@ const articles = [
     "tags": [
         "Elizabeth Warren",
         "Iran",
-        "Islam-Muslim",
+        "Islam-Muslims",
         "Massachusetts"
     ],
     "page": 13,
@@ -3503,7 +3503,7 @@ const articles = [
     "xPostUrl": "https://x.com/C3Heditor/status/2075549867338879455",
     "imageUrl": "https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-07-10_065744.jpg",
     "tags": [
-        "Islam-Muslim",
+        "Islam-Muslims",
         "New York",
         "Zohran Mamdani"
     ],
@@ -3625,7 +3625,7 @@ const articles = [
     "xPostUrl": "https://x.com/C3Heditor/status/2075537688703148266",
     "imageUrl": "https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-07-10_060924.jpg",
     "tags": [
-        "Media Bias",
+        "Journalism-MediaBias",
         "Sexual Misconduct"
     ],
     "page": 13,
@@ -3781,7 +3781,7 @@ const articles = [
     "tags": [
         "Graham Platner",
         "Massachusetts",
-        "Media Bias",
+        "Journalism-MediaBias",
         "Seth Moulton"
     ],
     "page": 14,
@@ -3836,7 +3836,7 @@ const articles = [
     "xPostUrl": "https://x.com/C3Heditor/status/2071689140014367057",
     "imageUrl": "https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-06-29_151626.jpg",
     "tags": [
-        "Media Bias",
+        "Journalism-MediaBias",
         "Politics"
     ],
     "page": 14,
@@ -3933,7 +3933,7 @@ const articles = [
     "imageUrl": "https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-06-24_205455.jpg",
     "tags": [
         "Immigration",
-        "Media Bias",
+        "Journalism-MediaBias",
         "National Security",
         "Terrorism"
     ],
@@ -4061,7 +4061,7 @@ const articles = [
         "DOJ",
         "Immigration",
         "Left-Wing",
-        "Violence"
+        "Hate-Violence"
     ],
     "page": 15,
     "batchDate": "June 24, 2026"
@@ -4303,7 +4303,7 @@ const articles = [
     "tags": [
         "2026 Elections",
         "Mallory McMorrow",
-        "Media Bias",
+        "Journalism-MediaBias",
         "Michigan"
     ],
     "page": 16,
@@ -4416,7 +4416,7 @@ const articles = [
     "imageUrl": "https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-06-22_110216.jpg",
     "tags": [
         "Culture War",
-        "Media Bias",
+        "Journalism-MediaBias",
         "San Francisco"
     ],
     "page": 16,
@@ -4474,7 +4474,7 @@ const articles = [
     "tags": [
         "Communism-Socialism",
         "Left-Wing",
-        "Violence"
+        "Hate-Violence"
     ],
     "page": 16,
     "batchDate": "June 22, 2026"
@@ -4543,7 +4543,7 @@ const articles = [
     "imageUrl": "https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-06-21_163832.jpg",
     "tags": [
         "Chicago",
-        "Hate",
+        "Hate-Violence",
         "Racial Issues"
     ],
     "page": 17,
@@ -4730,7 +4730,7 @@ const articles = [
     "imageUrl": "https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-06-21_160826.jpg",
     "tags": [
         "Abdul El-Sayed",
-        "Islam-Muslim",
+        "Islam-Muslims",
         "Michigan"
     ],
     "page": 17,
@@ -5035,8 +5035,7 @@ const articles = [
     "tags": [
         "California",
         "Fareed Zakaria",
-        "Mainstream Media",
-        "Media Bias"
+        "Journalism-MediaBias"
     ],
     "page": 18,
     "batchDate": "June 16, 2026"
@@ -5188,8 +5187,7 @@ const articles = [
     "imageUrl": "https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-06-12_122530_f9d4a5d0.jpg",
     "tags": [
         "Graham Platner",
-        "Mainstream Media",
-        "Media Bias",
+        "Journalism-MediaBias",
         "Politics"
     ],
     "page": 19,
@@ -5245,7 +5243,7 @@ const articles = [
     "imageUrl": "https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-06-12_120205_a6b924d3.jpg",
     "tags": [
         "Abdul El-Sayed",
-        "Islam-Muslim",
+        "Islam-Muslims",
         "Israel-Jews",
         "Michigan"
     ],
@@ -5288,8 +5286,7 @@ const articles = [
     "imageUrl": "https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-06-12_114550_3af96334.jpg",
     "tags": [
         "Graham Platner",
-        "Mainstream Media",
-        "Media Bias",
+        "Journalism-MediaBias",
         "Politics"
     ],
     "page": 19,
@@ -5316,7 +5313,7 @@ const articles = [
     "xPostUrl": "https://x.com/C3Heditor/status/2065474378913952037",
     "imageUrl": "https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-06-12_113718_0ddd9e22.jpg",
     "tags": [
-        "Media Bias",
+        "Journalism-MediaBias",
         "Politics"
     ],
     "page": 19,
@@ -5360,7 +5357,7 @@ const articles = [
     "imageUrl": "https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-06-08_164720_ff3769e1.jpg",
     "tags": [
         "Left-Wing",
-        "Media Bias",
+        "Journalism-MediaBias",
         "Politics"
     ],
     "page": 20,
@@ -5431,7 +5428,7 @@ const articles = [
     "xPostUrl": "https://x.com/C3Heditor/status/2064097423513809350",
     "imageUrl": "https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-06-08_162951_3d420019.jpg",
     "tags": [
-        "Hate",
+        "Hate-Violence",
         "Israel-Jews",
         "NYC",
         "Zohran Mamdani"
@@ -5608,8 +5605,7 @@ const articles = [
     "tags": [
         "California",
         "Election Fraud",
-        "Mainstream Media",
-        "Media Bias"
+        "Journalism-MediaBias"
     ],
     "page": 20,
     "batchDate": "June 8, 2026"
@@ -5623,7 +5619,7 @@ const articles = [
     "tags": [
         "2026 Elections",
         "Election Fraud",
-        "Media Bias"
+        "Journalism-MediaBias"
     ],
     "page": 21,
     "batchDate": "June 5, 2026"
@@ -5705,7 +5701,7 @@ const articles = [
     "imageUrl": "https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-06-05_110537_b404f1e0.jpg",
     "tags": [
         "2026 Elections",
-        "Islam-Muslim",
+        "Islam-Muslims",
         "New Jersey",
         "Terrorism"
     ],
@@ -5876,7 +5872,7 @@ const articles = [
     "imageUrl": "https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-06-05_063902_73eda6a4.jpg",
     "tags": [
         "California",
-        "Hate",
+        "Hate-Violence",
         "Israel-Jews",
         "Violent Crime"
     ],
@@ -5948,8 +5944,7 @@ const articles = [
     "xPostUrl": "https://x.com/C3Heditor/status/2062284811109113923",
     "imageUrl": "https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-06-03_162706_78bc5fff.jpg",
     "tags": [
-        "Mainstream Media",
-        "Media Bias",
+        "Journalism-MediaBias",
         "Politics",
         "Racial Issues"
     ],
@@ -6008,7 +6003,7 @@ const articles = [
         "California",
         "Censorship",
         "Corruption-Fraud",
-        "Journalism"
+        "Journalism-MediaBias"
     ],
     "page": 22,
     "batchDate": "June 3, 2026"
@@ -6184,7 +6179,7 @@ const articles = [
     "imageUrl": "https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-06-03_153219_5b0f605e.jpg",
     "tags": [
         "Culture War",
-        "Islam-Muslim",
+        "Islam-Muslims",
         "Texas"
     ],
     "page": 22,
@@ -6240,7 +6235,7 @@ const articles = [
     "imageUrl": "https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-06-01_145550_2734cb46.jpg",
     "tags": [
         "2026 Elections",
-        "Islam-Muslim",
+        "Islam-Muslims",
         "Left-Wing",
         "Michigan"
     ],
@@ -6361,7 +6356,7 @@ const articles = [
         "California",
         "Corruption-Fraud",
         "Taxation",
-        "Violence"
+        "Hate-Violence"
     ],
     "page": 23,
     "batchDate": "June 1, 2026"
@@ -6495,7 +6490,7 @@ const articles = [
     "imageUrl": "https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-05-30_135335_2e1c5646.jpg",
     "tags": [
         "Immigration",
-        "Islam-Muslim"
+        "Islam-Muslims"
     ],
     "page": 24,
     "batchDate": "May 30, 2026"
@@ -6576,8 +6571,7 @@ const articles = [
     "xPostUrl": "https://x.com/C3Heditor/status/2060788856702566686",
     "imageUrl": "https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-05-30_132245_fcab9c76.jpg",
     "tags": [
-        "Mainstream Media",
-        "Media Bias",
+        "Journalism-MediaBias",
         "U.S. Constitution"
     ],
     "page": 24,
@@ -6724,8 +6718,7 @@ const articles = [
     "imageUrl": "https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-05-30_111229_c1312495.jpg",
     "tags": [
         "Alexandria Ocasio-Cortez",
-        "AOC",
-        "Islam-Muslim",
+        "Islam-Muslims",
         "New York"
     ],
     "page": 24,
@@ -6740,8 +6733,7 @@ const articles = [
     "tags": [
         "Biden Administration",
         "Joe Biden",
-        "Mainstream Media",
-        "Media Bias"
+        "Journalism-MediaBias"
     ],
     "page": 24,
     "batchDate": "May 30, 2026"
@@ -7388,7 +7380,7 @@ const articles = [
     "imageUrl": "https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-05-27_154832_c80a6cc3.jpg",
     "tags": [
         "Left-Wing",
-        "Media Bias",
+        "Journalism-MediaBias",
         "Politics"
     ],
     "page": 27,
@@ -7414,7 +7406,7 @@ const articles = [
     "xPostUrl": "https://x.com/C3Heditor/status/2059736717280862439",
     "imageUrl": "https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-05-27_154153_cf85cdae.jpg",
     "tags": [
-        "Media Bias",
+        "Journalism-MediaBias",
         "Politics"
     ],
     "page": 27,
@@ -7469,9 +7461,7 @@ const articles = [
     "imageUrl": "https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-05-27_152359_e24ecf75.jpg",
     "tags": [
         "2026 Elections",
-        "Mainstream Media",
-        "Media Bias",
-        "Midterm Elections"
+        "Journalism-MediaBias"
     ],
     "page": 27,
     "batchDate": "May 27, 2026"
@@ -7499,8 +7489,7 @@ const articles = [
     "tags": [
         "2026 Elections",
         "California",
-        "Left-Wing",
-        "Midterm Elections"
+        "Left-Wing"
     ],
     "page": 27,
     "batchDate": "May 27, 2026"
@@ -7513,7 +7502,7 @@ const articles = [
     "imageUrl": "https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-05-27_151640_28d99044.jpg",
     "tags": [
         "Left-Wing",
-        "Media Bias",
+        "Journalism-MediaBias",
         "Politics"
     ],
     "page": 27,
@@ -7542,7 +7531,7 @@ const articles = [
     "tags": [
         "CBP-DHS-ICE",
         "Immigration",
-        "Media Bias"
+        "Journalism-MediaBias"
     ],
     "page": 27,
     "batchDate": "May 27, 2026"
@@ -7556,7 +7545,7 @@ const articles = [
     "tags": [
         "Culture War",
         "Left-Wing",
-        "Media Bias"
+        "Journalism-MediaBias"
     ],
     "page": 27,
     "batchDate": "May 27, 2026"
@@ -7667,7 +7656,7 @@ const articles = [
     "imageUrl": "https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-05-26_153200_4053c682.jpg",
     "tags": [
         "Left-Wing",
-        "Media Bias"
+        "Journalism-MediaBias"
     ],
     "page": 28,
     "batchDate": "May 26, 2026"
@@ -7776,7 +7765,7 @@ const articles = [
     "imageUrl": "https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-05-26_144412_13d43fad.jpg",
     "tags": [
         "California",
-        "Media Bias",
+        "Journalism-MediaBias",
         "Whoopi Goldberg"
     ],
     "page": 28,
@@ -7818,7 +7807,7 @@ const articles = [
     "tags": [
         "2026 Elections",
         "Alternative & Social Media",
-        "Media Bias"
+        "Journalism-MediaBias"
     ],
     "page": 28,
     "batchDate": "May 26, 2026"
@@ -7914,7 +7903,7 @@ const articles = [
     "xPostUrl": "https://x.com/C3Heditor/status/2056475287995461979",
     "imageUrl": "https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-05-18_154214_1618b1a2.jpg",
     "tags": [
-        "Islam-Muslim",
+        "Islam-Muslims",
         "National Security"
     ],
     "page": 29,
@@ -8079,7 +8068,7 @@ const articles = [
     "xPostUrl": "https://x.com/C3Heditor/status/2056459126738391434",
     "imageUrl": "https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-05-18_143750_ea3d5832.jpg",
     "tags": [
-        "Media Bias",
+        "Journalism-MediaBias",
         "Virginia"
     ],
     "page": 29,
@@ -8106,7 +8095,7 @@ const articles = [
     "imageUrl": "https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-05-18_143111_f658c21f.jpg",
     "tags": [
         "2024 Election",
-        "Media Bias"
+        "Journalism-MediaBias"
     ],
     "page": 29,
     "batchDate": "May 18, 2026"
@@ -8341,7 +8330,7 @@ const articles = [
     "imageUrl": "https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-05-09_150045_0f4e1ce2.jpg",
     "tags": [
         "Gavin Newsom",
-        "Islam-Muslim",
+        "Islam-Muslims",
         "Israel-Jews"
     ],
     "page": 30,
@@ -8438,7 +8427,7 @@ const articles = [
     "tags": [
         "Government",
         "Governor Ferguson",
-        "Media Bias",
+        "Journalism-MediaBias",
         "Washington"
     ],
     "page": 31,
@@ -8452,7 +8441,7 @@ const articles = [
     "imageUrl": "https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-05-08_161353_049e3ab7.jpg",
     "tags": [
         "Censorship",
-        "Media Bias"
+        "Journalism-MediaBias"
     ],
     "page": 31,
     "batchDate": "May 08, 2026"
@@ -8725,8 +8714,8 @@ const articles = [
     "imageUrl": "https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/LZOuyIggsKnCqfbK.jpg",
     "tags": [
         "Iran",
-        "Media Bias",
-        "Violence"
+        "Journalism-MediaBias",
+        "Hate-Violence"
     ],
     "page": 32,
     "batchDate": "May 06, 2026"
@@ -8902,7 +8891,7 @@ const articles = [
     "imageUrl": "https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/jrFjJssCKbZKFhIw.jpg",
     "tags": [
         "Alternative & Social Media",
-        "Media Bias"
+        "Journalism-MediaBias"
     ],
     "page": 32,
     "batchDate": "May 06, 2026"
@@ -8954,7 +8943,7 @@ const articles = [
     "xPostUrl": "https://x.com/C3Heditor/status/2051776070014091282",
     "imageUrl": "https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/qwqvNvtTjkAMloRM.jpg",
     "tags": [
-        "Media Bias",
+        "Journalism-MediaBias",
         "Politics",
         "Wajahat Ali"
     ],
@@ -9053,7 +9042,7 @@ const articles = [
     "imageUrl": "https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/ijiyWcjBJufrkRwO.jpg",
     "tags": [
         "Joy Reid",
-        "Media Bias"
+        "Journalism-MediaBias"
     ],
     "page": 33,
     "batchDate": "May 03, 2026"
@@ -9108,7 +9097,7 @@ const articles = [
     "imageUrl": "https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/saquRktlLqMMwYbi.jpg",
     "tags": [
         "Election Fraud",
-        "Media Bias",
+        "Journalism-MediaBias",
         "Racial Issues"
     ],
     "page": 33,
@@ -9137,7 +9126,7 @@ const articles = [
     "tags": [
         "FBI",
         "Homeland Security",
-        "Islam-Muslim",
+        "Islam-Muslims",
         "Minnesota"
     ],
     "page": 33,
@@ -9189,7 +9178,7 @@ const articles = [
     "xPostUrl": "https://x.com/C3Heditor/status/2051042131045761123",
     "imageUrl": "https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/ogwdiYLWIEuSkeGf.jpg",
     "tags": [
-        "Media Bias",
+        "Journalism-MediaBias",
         "Politics",
         "Trump-Derangement"
     ],
@@ -9218,7 +9207,7 @@ const articles = [
     "imageUrl": "https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/HcgTggDGNUCJQKmU.jpg",
     "tags": [
         "CBP-DHS-ICE",
-        "Hate"
+        "Hate-Violence"
     ],
     "page": 33,
     "batchDate": "May 03, 2026"
@@ -9273,7 +9262,7 @@ const articles = [
     "tags": [
         "2026 Elections",
         "Election Fraud",
-        "Media Bias",
+        "Journalism-MediaBias",
         "Michigan"
     ],
     "page": 34,
@@ -9344,7 +9333,7 @@ const articles = [
         "Graham Platner",
         "Jen Psaki",
         "Maine",
-        "Media Bias"
+        "Journalism-MediaBias"
     ],
     "page": 34,
     "batchDate": "May 02, 2026"
@@ -9386,7 +9375,7 @@ const articles = [
     "imageUrl": "https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/ZWNoCsnfFqKwaRTD.jpg",
     "tags": [
         "Culture War",
-        "Islam-Muslim",
+        "Islam-Muslims",
         "New York"
     ],
     "page": 34,
@@ -9539,7 +9528,7 @@ const articles = [
     "xPostUrl": "https://x.com/C3Heditor/status/2048866523692081583",
     "imageUrl": "https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/kVcsMThomMkIcSFG.jpg",
     "tags": [
-        "Media Bias",
+        "Journalism-MediaBias",
         "Trump-Derangement",
         "Violent Crime"
     ],
@@ -9554,7 +9543,7 @@ const articles = [
     "imageUrl": "https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/VmYUvmXKxJUFyEnl.jpg",
     "tags": [
         "Left-Wing",
-        "Media Bias"
+        "Journalism-MediaBias"
     ],
     "page": 35,
     "batchDate": "Apr 27, 2026"
@@ -9581,7 +9570,7 @@ const articles = [
     "tags": [
         "CBP-DHS-ICE",
         "Law Enforcement",
-        "Media Bias"
+        "Journalism-MediaBias"
     ],
     "page": 35,
     "batchDate": "Apr 27, 2026"
@@ -9649,7 +9638,7 @@ const articles = [
     "imageUrl": "https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/MVGkRWOYlIoIBMAT.jpg",
     "tags": [
         "CBP-DHS-ICE",
-        "Islam-Muslim",
+        "Islam-Muslims",
         "North Dakota"
     ],
     "page": 35,
@@ -10178,7 +10167,7 @@ const articles = [
     "imageUrl": "https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/MtHnDHTGErMqdIpr.jpg",
     "tags": [
         "Cory Booker",
-        "Media Bias",
+        "Journalism-MediaBias",
         "Politics"
     ],
     "page": 37,
@@ -10249,7 +10238,7 @@ const articles = [
     "imageUrl": "https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/qFIUBJBPrpTPiSAj.jpg",
     "tags": [
         "Christianity",
-        "Hate",
+        "Hate-Violence",
         "SPLC"
     ],
     "page": 37,
@@ -10262,7 +10251,7 @@ const articles = [
     "xPostUrl": "https://x.com/C3Heditor/status/2048441493422010704",
     "imageUrl": "https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/lAKHGkOinkMdfFvh.jpg",
     "tags": [
-        "Media Bias",
+        "Journalism-MediaBias",
         "Polling"
     ],
     "page": 37,
@@ -10302,9 +10291,9 @@ const articles = [
     "xPostUrl": "https://x.com/C3Heditor/status/2048355310847348798",
     "imageUrl": "https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/SnzjbpZEqnbQhhjb.jpg",
     "tags": [
-        "Media Bias",
+        "Journalism-MediaBias",
         "Trump-Derangement",
-        "Violence"
+        "Hate-Violence"
     ],
     "page": 37,
     "batchDate": "Apr 26, 2026"
@@ -10317,7 +10306,7 @@ const articles = [
     "imageUrl": "https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/zfpITrQpxfpbTfZI.jpg",
     "tags": [
         "Censorship",
-        "Journalism",
+        "Journalism-MediaBias",
         "Trump-Derangement"
     ],
     "page": 37,
@@ -10549,7 +10538,7 @@ const articles = [
     "imageUrl": "https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/ULdPDCpGSBphvwqc.jpg",
     "tags": [
         "Left-Wing",
-        "Media Bias",
+        "Journalism-MediaBias",
         "Politics"
     ],
     "page": 38,
@@ -10805,7 +10794,7 @@ const articles = [
     "imageUrl": "https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/zwfpetUWVSlmyQni.jpg",
     "tags": [
         "Eric Swalwell",
-        "Media Bias",
+        "Journalism-MediaBias",
         "Sexual Misconduct"
     ],
     "page": 39,
@@ -10943,7 +10932,7 @@ const articles = [
     "imageUrl": "https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/ZCwBREJlUjafeXDN.jpg",
     "tags": [
         "Foreign Policy",
-        "Islam-Muslim"
+        "Islam-Muslims"
     ],
     "page": 40,
     "batchDate": "Apr 18, 2026"
@@ -11078,7 +11067,7 @@ const articles = [
     "imageUrl": "https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/ndtWLgygwyNviJlD.jpg",
     "tags": [
         "Eric Swalwell",
-        "Media Bias",
+        "Journalism-MediaBias",
         "Politics"
     ],
     "page": 40,
@@ -11093,7 +11082,7 @@ const articles = [
     "tags": [
         "Eric Swalwell",
         "Joe Biden",
-        "Media Bias",
+        "Journalism-MediaBias",
         "Politics"
     ],
     "page": 40,
@@ -11586,8 +11575,8 @@ const articles = [
     "imageUrl": "https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/2026-04-16_094127_d199c76b.jpg",
     "tags": [
         "Israel-Jews",
-        "Media Bias",
-        "Violence"
+        "Journalism-MediaBias",
+        "Hate-Violence"
     ],
     "page": 42,
     "batchDate": "Apr 16, 2026"
@@ -11658,7 +11647,7 @@ const articles = [
     "imageUrl": "https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/2026-04-15_205905_0a9527eb.jpg",
     "tags": [
         "Christianity",
-        "Islam-Muslim",
+        "Islam-Muslims",
         "Pope Leo XIV"
     ],
     "page": 42,
@@ -11672,7 +11661,7 @@ const articles = [
     "imageUrl": "https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/2026-04-15_205219_e1df2fe3.jpg",
     "tags": [
         "California",
-        "Journalism"
+        "Journalism-MediaBias"
     ],
     "page": 42,
     "batchDate": "Apr 16, 2026"
@@ -11713,7 +11702,7 @@ const articles = [
     "tags": [
         "Barack Obama",
         "Culture War",
-        "Media Bias"
+        "Journalism-MediaBias"
     ],
     "page": 42,
     "batchDate": "Apr 16, 2026"
@@ -11766,7 +11755,7 @@ const articles = [
     "xPostUrl": "https://x.com/C3Heditor/status/2044133002490319292",
     "imageUrl": "https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/2026-04-14_142003_0be227d3.jpg",
     "tags": [
-        "Media Bias",
+        "Journalism-MediaBias",
         "Violent Crime"
     ],
     "page": 43,
@@ -11821,7 +11810,7 @@ const articles = [
     "tags": [
         "Jen Psaki",
         "Maryland",
-        "Media Bias",
+        "Journalism-MediaBias",
         "Wes Moore"
     ],
     "page": 43,
@@ -12207,7 +12196,7 @@ const articles = [
     "tags": [
         "Censorship",
         "Christianity",
-        "Media Bias"
+        "Journalism-MediaBias"
     ],
     "page": 44,
     "batchDate": "Apr 14, 2026"
@@ -12232,7 +12221,7 @@ const articles = [
     "xPostUrl": "https://x.com/C3Heditor/status/2043785598108856724",
     "imageUrl": "https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/2026-04-13_151752_6f40d2d9.jpg",
     "tags": [
-        "Journalism",
+        "Journalism-MediaBias",
         "Maryland",
         "Politics"
     ],
@@ -12303,7 +12292,7 @@ const articles = [
     "tags": [
         "Business Climate",
         "Harry Enten",
-        "Media Bias",
+        "Journalism-MediaBias",
         "Polling"
     ],
     "page": 45,
@@ -12552,7 +12541,7 @@ const articles = [
     "imageUrl": "https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/2026-04-11_163533_c21c5ab2.jpg",
     "tags": [
         "Foreign Policy",
-        "Media Bias",
+        "Journalism-MediaBias",
         "Michigan",
         "Terrorism"
     ],
@@ -12567,7 +12556,7 @@ const articles = [
     "imageUrl": "https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/2026-04-11_163221_ddd3b169.jpg",
     "tags": [
         "Georgia",
-        "Islam-Muslim"
+        "Islam-Muslims"
     ],
     "page": 46,
     "batchDate": "Apr 11, 2026"
@@ -12717,7 +12706,7 @@ const articles = [
     "xPostUrl": "https://x.com/C3Heditor/status/2043064162096447863",
     "imageUrl": "https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/2026-04-11_152931_f9d8925d.jpg",
     "tags": [
-        "Media Bias",
+        "Journalism-MediaBias",
         "U.S. Congress"
     ],
     "page": 46,
@@ -12994,7 +12983,7 @@ const articles = [
     "tags": [
         "Iran",
         "John Fetterman",
-        "Media Bias"
+        "Journalism-MediaBias"
     ],
     "page": 47,
     "batchDate": "Apr 03, 2026"
@@ -13048,7 +13037,7 @@ const articles = [
     "xPostUrl": "https://x.com/C3Heditor/status/2040048741990703264",
     "imageUrl": "https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/2026-04-03_074849_cca8adca.jpg",
     "tags": [
-        "Media Bias",
+        "Journalism-MediaBias",
         "Politics"
     ],
     "page": 47,
@@ -13170,7 +13159,7 @@ const articles = [
     "imageUrl": "https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/2026-04-03_071410_98289663.jpg",
     "tags": [
         "Left-Wing",
-        "Violence"
+        "Hate-Violence"
     ],
     "page": 48,
     "batchDate": "Apr 03, 2026"
@@ -13670,7 +13659,7 @@ const articles = [
     "tags": [
         "Censorship",
         "Education Policy",
-        "Violence"
+        "Hate-Violence"
     ],
     "page": 50,
     "batchDate": "Mar 31, 2026"
@@ -14078,7 +14067,7 @@ const articles = [
     "tags": [
         "Censorship",
         "Culture War",
-        "Media Bias"
+        "Journalism-MediaBias"
     ],
     "page": 51,
     "batchDate": "Mar 29, 2026"
@@ -14346,7 +14335,7 @@ const articles = [
     "xPostUrl": "https://x.com/C3Heditor/status/2038206941474808076",
     "imageUrl": "https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/2026-03-29_053959_e971fe88.jpg",
     "tags": [
-        "Islam-Muslim",
+        "Islam-Muslims",
         "North Carolina",
         "Politics",
         "Roy Cooper"
@@ -14538,7 +14527,7 @@ const articles = [
     "xPostUrl": "https://x.com/C3Heditor/status/2037233814993252679",
     "imageUrl": "https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/2026-03-26_132424_791d40ef.jpg",
     "tags": [
-        "Islam-Muslim",
+        "Islam-Muslims",
         "Israel-Jews",
         "Politics"
     ],
@@ -14664,7 +14653,7 @@ const articles = [
     "imageUrl": "https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/2026-03-26_112803_9ee1c2a0.jpg",
     "tags": [
         "Culture War",
-        "Media Bias",
+        "Journalism-MediaBias",
         "Politics"
     ],
     "page": 53,
@@ -14868,7 +14857,7 @@ const articles = [
     "imageUrl": "https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/2026-03-26_074308_da8329e2.jpg",
     "tags": [
         "California",
-        "Islam-Muslim"
+        "Islam-Muslims"
     ],
     "page": 54,
     "batchDate": "Mar 26, 2026"
@@ -14937,7 +14926,7 @@ const articles = [
     "imageUrl": "https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/2026-03-26_071711_9b26c09c.jpg",
     "tags": [
         "Ali Velshi",
-        "Media Bias"
+        "Journalism-MediaBias"
     ],
     "page": 54,
     "batchDate": "Mar 26, 2026"
@@ -15308,7 +15297,7 @@ const articles = [
     "imageUrl": "https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/2026-03-25_081539_8688e5a5.jpg",
     "tags": [
         "Election Fraud",
-        "Islam-Muslim"
+        "Islam-Muslims"
     ],
     "page": 56,
     "batchDate": "Mar 26, 2026"
@@ -15334,7 +15323,7 @@ const articles = [
     "xPostUrl": "https://x.com/C3Heditor/status/2036791777366057358",
     "imageUrl": "https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/2026-03-25_080820_7142a129.jpg",
     "tags": [
-        "Hate",
+        "Hate-Violence",
         "Israel-Jews"
     ],
     "page": 56,
@@ -15540,7 +15529,7 @@ const articles = [
     "tags": [
         "Iran",
         "Mark Kelly",
-        "Media Bias"
+        "Journalism-MediaBias"
     ],
     "page": 56,
     "batchDate": "Mar 26, 2026"
@@ -16010,7 +15999,7 @@ const articles = [
     "tags": [
         "New York",
         "NYC",
-        "Violence"
+        "Hate-Violence"
     ],
     "page": 58,
     "batchDate": "Feb 21, 2026"
@@ -16052,7 +16041,7 @@ const articles = [
     "tags": [
         "2026 Elections",
         "James Talarico",
-        "Media Bias",
+        "Journalism-MediaBias",
         "Texas"
     ],
     "page": 58,
@@ -16066,7 +16055,7 @@ const articles = [
     "imageUrl": "https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/post263_clean_28e5d576.jpg",
     "tags": [
         "Idaho",
-        "Violence"
+        "Hate-Violence"
     ],
     "page": 58,
     "batchDate": "Feb 21, 2026"
@@ -16420,7 +16409,7 @@ const articles = [
     "xPostUrl": "https://x.com/C3Heditor/status/2028224148825166269",
     "imageUrl": "https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/post237_clean_f8c7e62f.jpg",
     "tags": [
-        "Media Bias",
+        "Journalism-MediaBias",
         "Politics"
     ],
     "page": 60,
@@ -16460,7 +16449,7 @@ const articles = [
     "xPostUrl": "https://x.com/C3Heditor/status/2027772936556253588",
     "imageUrl": "https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/post234_clean_41e61cce.jpg",
     "tags": [
-        "Media Bias",
+        "Journalism-MediaBias",
         "Susan Rice"
     ],
     "page": 60,
@@ -16542,7 +16531,7 @@ const articles = [
     "imageUrl": "https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/post228_clean_d0930cf6.jpg",
     "tags": [
         "Christianity",
-        "Media Bias"
+        "Journalism-MediaBias"
     ],
     "page": 60,
     "batchDate": "Feb 21, 2026"
@@ -16609,7 +16598,7 @@ const articles = [
     "imageUrl": "https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/post223_clean_ac6af1a4.jpg",
     "tags": [
         "CBP-DHS-ICE",
-        "Islam-Muslim",
+        "Islam-Muslims",
         "Minnesota",
         "Reparations"
     ],
@@ -16694,7 +16683,7 @@ const articles = [
     "imageUrl": "https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/post217_clean_fbedf847.jpg",
     "tags": [
         "Censorship",
-        "Media Bias"
+        "Journalism-MediaBias"
     ],
     "page": 61,
     "batchDate": "Feb 21, 2026"
@@ -16787,7 +16776,7 @@ const articles = [
     "imageUrl": "https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/post210_clean_4fc07e35.jpg",
     "tags": [
         "Foreign Policy",
-        "Islam-Muslim"
+        "Islam-Muslims"
     ],
     "page": 61,
     "batchDate": "Feb 21, 2026"
@@ -17017,7 +17006,7 @@ const articles = [
     "tags": [
         "Election Fraud",
         "Gavin Newsom",
-        "Media Bias"
+        "Journalism-MediaBias"
     ],
     "page": 62,
     "batchDate": "Feb 21, 2026"
@@ -17209,7 +17198,7 @@ const articles = [
         "Epstein",
         "Illinois",
         "JB Pritzker",
-        "Media Bias"
+        "Journalism-MediaBias"
     ],
     "page": 63,
     "batchDate": "Feb 21, 2026"
@@ -17535,7 +17524,7 @@ const articles = [
     "xPostUrl": "https://x.com/C3Heditor/status/2026059115420606886",
     "imageUrl": "https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/post155_clean_11a8b7f4.jpg",
     "tags": [
-        "Media Bias",
+        "Journalism-MediaBias",
         "Politics"
     ],
     "page": 64,
@@ -17859,8 +17848,7 @@ const articles = [
     "xPostUrl": "https://x.com/C3Heditor/status/2025536162186535348",
     "imageUrl": "https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/post131_clean_67e58c34.jpg",
     "tags": [
-        "Journalism",
-        "Media Bias"
+        "Journalism-MediaBias"
     ],
     "page": 65,
     "batchDate": "Feb 21, 2026"
@@ -17925,7 +17913,7 @@ const articles = [
     "xPostUrl": "https://x.com/C3Heditor/status/2025527251110932493",
     "imageUrl": "https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/2026-02-22_050525_3500af21.jpg",
     "tags": [
-        "Media Bias",
+        "Journalism-MediaBias",
         "Politics"
     ],
     "page": 65,
@@ -18087,7 +18075,7 @@ const articles = [
     "tags": [
         "2026 Elections",
         "Harry Enten",
-        "Media Bias"
+        "Journalism-MediaBias"
     ],
     "page": 66,
     "batchDate": "Feb 21, 2026"
@@ -18476,7 +18464,7 @@ const articles = [
         "CBP-DHS-ICE",
         "Censorship",
         "Culture War",
-        "Journalism"
+        "Journalism-MediaBias"
     ],
     "page": 67,
     "batchDate": "Feb 21, 2026"
@@ -18738,7 +18726,7 @@ const articles = [
     "imageUrl": "https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/post67_clean_4986c3b0.jpg",
     "tags": [
         "Harry Enten",
-        "Media Bias",
+        "Journalism-MediaBias",
         "Politics"
     ],
     "page": 68,
@@ -19432,7 +19420,7 @@ const articles = [
     "tags": [
         "CBP-DHS-ICE",
         "Immigration",
-        "Media Bias"
+        "Journalism-MediaBias"
     ],
     "page": 71,
     "batchDate": "Feb 21, 2026"
@@ -19614,7 +19602,7 @@ const articles = [
     "tags": [
         "CBP-DHS-ICE",
         "Left-Wing",
-        "Media Bias"
+        "Journalism-MediaBias"
     ],
     "page": 71,
     "batchDate": "Feb 21, 2026"

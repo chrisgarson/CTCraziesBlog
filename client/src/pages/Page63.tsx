@@ -19,7 +19,7 @@ export default function Page63() {
         tinyUrl="https://tinyurl.com/5yu69dft"
         xPostUrl="https://x.com/C3Heditor/status/2026422998958232028"
         imageSrc="https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/post179_clean_0b94455c.jpg"
-        tags={["Epstein", "Illinois", "JB Pritzker", "Media Bias"]}
+        tags={["Epstein", "Illinois", "JB Pritzker", "Journalism-MediaBias"]}
       />
       <ArticleBlock
         headline="Democrat Mayor Awards A Crazed Machete-Wielding Professor For A Lucrative $407K Public Art Commission"

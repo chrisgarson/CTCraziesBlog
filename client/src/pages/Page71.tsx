@@ -33,7 +33,7 @@ export default function Page71() {
         tinyUrl="https://tinyurl.com/8x8zwrar"
         xPostUrl="https://x.com/C3Heditor/status/2019872267774386401"
         imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-02-19_083511_9d4be653.jpg"
-        tags={["CBP-DHS-ICE", "Immigration", "Media Bias"]}
+        tags={["CBP-DHS-ICE", "Immigration", "Journalism-MediaBias"]}
       />
       <ArticleBlock
         headline="Major Democrat Donor Resigns From Powerful Law Firm After Epstein Emails Surface"
@@ -124,7 +124,7 @@ export default function Page71() {
         tinyUrl="https://tinyurl.com/4pwuthdr"
         xPostUrl="https://x.com/C3Heditor/status/2019888542441164879"
         imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-02-09_063727_1788c34e.jpg"
-        tags={["CBP-DHS-ICE", "Left-Wing", "Media Bias"]}
+        tags={["CBP-DHS-ICE", "Left-Wing", "Journalism-MediaBias"]}
       />
       <ArticleBlock
         headline="Unions Bankrolling Far-Left Lunacy: Teachers &amp; Nurses"

@@ -33,7 +33,7 @@ export default function Page23() {
         tinyUrl="https://tinyurl.com/9wnev6x8"
         xPostUrl="https://x.com/C3Heditor/status/2061534995988357232"
         imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-06-01_145550_2734cb46.jpg"
-        tags={["2026 Elections", "Islam-Muslim", "Left-Wing", "Michigan"]}
+        tags={["2026 Elections", "Islam-Muslims", "Left-Wing", "Michigan"]}
       />
       <ArticleBlock
         headline="Major Felony Charges In Case of Prominent Michigan Democrat &amp; Associate of Governor Whitmer"
@@ -89,7 +89,7 @@ export default function Page23() {
         tinyUrl="https://tinyurl.com/ybkk24ds"
         xPostUrl="https://x.com/C3Heditor/status/2061200509026070781"
         imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-05-31_163821_d49d090e.jpg"
-        tags={["California", "Corruption-Fraud", "Taxation", "Violence"]}
+        tags={["California", "Corruption-Fraud", "Taxation", "Hate-Violence"]}
       />
       <ArticleBlock
         headline="Utterly Creepy: Texas Senate Candidate James Talarico Actually Thought Posting Texts With a 13-Year-Old Was Fine"
