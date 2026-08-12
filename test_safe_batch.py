@@ -2,7 +2,7 @@
 
 import unittest
 
-from safe_batch import ARTICLES_PER_PAGE, assign_pages, combine_batch, declare_tag, validate_batch
+from safe_batch import ARTICLES_PER_PAGE, assign_pages, combine_batch, declare_tag, rename_tag, render_article, render_search, validate_batch
 
 
 def article(num: int) -> dict:
@@ -61,6 +61,28 @@ class SafeBatchTests(unittest.TestCase):
         batch = [article(num) for num in range(40, 20, -1)]
         batch[0]["tags"] = ["New Person"]
         self.assertEqual(validate_batch(ledger, batch)[0]["tags"], ["New Person"])
+
+    def test_tag_rename_retains_type_keywords_and_article_association(self):
+        ledger = {
+            "schemaVersion": 1,
+            "articlesPerPage": ARTICLES_PER_PAGE,
+            "tagMetadata": {"Lies": {"type": "topic", "keywords": ["Falsehood"]}},
+            "articles": assign_pages([article(num) for num in range(20, 0, -1)]),
+        }
+        ledger["articles"][0]["tags"] = ["Lies"]
+        rename_tag(ledger, "Lies", "Gaslight-Lies")
+        self.assertNotIn("Lies", ledger["tagMetadata"])
+        self.assertEqual(ledger["tagMetadata"]["Gaslight-Lies"], {"type": "topic", "keywords": ["Falsehood"]})
+        self.assertEqual(ledger["articles"][0]["tags"], ["Gaslight-Lies"])
+
+    def test_generated_search_records_retain_num_and_rendered_quotes_are_valid_jsx(self):
+        item = article(20)
+        item["headline"] = 'Headline With "Quoted" Text'
+        item["page"] = 1
+        search = render_search([item], "const articles = []\nexport default articles;\n")
+        self.assertIn('"num": 20', search)
+        block = render_article(item)
+        self.assertIn("Headline With &quot;Quoted&quot; Text", block)
 
 
 if __name__ == "__main__":

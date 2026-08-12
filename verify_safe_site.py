@@ -27,7 +27,10 @@ def verify(project: Path, ledger_path: Path) -> list[str]:
         for index, (found, expected_key) in enumerate(zip(actual_keys, expected_keys), start=1):
             if found != expected_key:
                 page = (index - 1) // ARTICLES_PER_PAGE + 1
-                errors.append(f"Descending NUM/page order fails at visitor Page {page}, position {(index - 1) % ARTICLES_PER_PAGE + 1}")
+                errors.append(
+                    f"Descending NUM/page order fails at visitor Page {page}, position {(index - 1) % ARTICLES_PER_PAGE + 1} "
+                    f"(found={found!r}, expected={expected_key!r})"
+                )
                 break
         if len(actual_keys) != len(expected_keys):
             errors.append("Page article identities do not match the ledger")

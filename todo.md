@@ -474,3 +474,7 @@
 - [x] Map Columns D–G to headline, Source URL, image filename, and X-post URL
 - [x] Preserve historic TinyURL values as legacy source links during rebuilds
 - [x] Validate the updated processor against the supplied sample workbook
+
+## Topic Tag Rename (August 11, 2026)
+- [x] Rename the active topic tag Lies to Gaslight-Lies while preserving all existing associations
+- [ ] Rebuild, verify, and publish the renamed typed tag index
