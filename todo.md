@@ -484,4 +484,4 @@
 - [x] Present and obtain approval for two-to-four existing topic tags per article
 - [x] Create approved person tags, rename Milat Kiros to Melat Kiros, rename Israel to Israel-Jews, and create the approved Seattle topic tag
 - [x] Add approved batch images and apply the canonical 20-article page update
-- [ ] Pass page-order, Search, tag-index, build, and live-deployment verification gates
+- [x] Pass page-order, Search, tag-index, build, and live-deployment verification gates
