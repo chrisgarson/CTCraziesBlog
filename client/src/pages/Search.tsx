@@ -4,6 +4,301 @@ import { Link } from 'wouter';
 
 const articles = [
 {
+    "num": 1420,
+    "headline": "Cheeseheads Got Brains: Wisconsin Primary Voters Reject Democrat-Socialist, Francesca Hong, Who Hates America, Hates Major Holidays & Hates Whites ",
+    "tinyUrl": "https://nypost.com/2026/08/12/us-news/francesca-hong-loses-tight-race-to-moderate-david-crowley-in-wisconsin-gubernatorial-primary/",
+    "xPostUrl": "https://x.com/C3Heditor/status/2087577460904972685",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-08-12_113113.jpg",
+    "tags": [
+        "Francesca Hong",
+        "David Crowley",
+        "Wisconsin",
+        "Communism-Socialism"
+    ],
+    "page": 1,
+    "batchDate": "2026-08-12"
+},
+{
+    "num": 1419,
+    "headline": "Video Shows Attack on Jewish Wealthy 'Slumlord' as Muslim Democrat-Marxist NYC Mayor Zohran Mamdani Backs Squatters' Rights",
+    "tinyUrl": "https://freebeacon.com/democrats/mamdani-backs-squatters-rights-in-video-demonizing-billionaire-jewish-slumlord/",
+    "xPostUrl": "https://x.com/C3Heditor/status/2087576705066291677",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-08-12_112805.jpg",
+    "tags": [
+        "Zohran Mamdani",
+        "NYC",
+        "Islam-Muslim",
+        "Israel-Jews"
+    ],
+    "page": 1,
+    "batchDate": "2026-08-12"
+},
+{
+    "num": 1418,
+    "headline": "Racist Democrat Summer Lee Wants More Black Doctors, Even If They Lack the Qualifications to Practice Medicine",
+    "tinyUrl": "https://townhall.com/tipsheet/amy-curtis/2026/07/16/rep-summer-lee-admits-she-wants-more-black-doctors-even-if-theyre-unqualified-n2679560",
+    "xPostUrl": "https://x.com/C3Heditor/status/2087575881342669107",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-08-12_112512.jpg",
+    "tags": [
+        "Summer Lee",
+        "Racial Issues",
+        "Government"
+    ],
+    "page": 1,
+    "batchDate": "2026-08-12"
+},
+{
+    "num": 1417,
+    "headline": "Bernie Sanders Urges Young Democrat-Leftists to Hide Their Communist-Marxist Agenda Until After Winning Elections ",
+    "tinyUrl": "https://twitchy.com/justmindy/2026/08/07/dsa-members-socialists-commies-encourage-politicians-not-to-talk-about-what-they-believe-n2431056",
+    "xPostUrl": "https://x.com/C3Heditor/status/2087577869065302307",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-08-12_113144.jpg",
+    "tags": [
+        "Bernie Sanders",
+        "2026 Elections",
+        "Communism-Socialism",
+        "Gaslight-Lies"
+    ],
+    "page": 1,
+    "batchDate": "2026-08-12"
+},
+{
+    "num": 1416,
+    "headline": "Bernie-Bro Democrat Candidate in Key Ohio District Says He'd Mislead Voters to Assure Winning",
+    "tinyUrl": "https://freebeacon.com/democrats/ohio-dem-running-in-swing-district-says-hes-not-a-socialist-but-would-lie-to-the-people-to-get-their-votes-if-he-was/",
+    "xPostUrl": "https://x.com/C3Heditor/status/2087574899023847644",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-08-12_112055.jpg",
+    "tags": [
+        "Ohio",
+        "2026 Elections",
+        "Communism-Socialism",
+        "Gaslight-Lies"
+    ],
+    "page": 1,
+    "batchDate": "2026-08-12"
+},
+{
+    "num": 1415,
+    "headline": "Muslim Democrat-Socialist Influencer, Hasan Piker Demands Democrats Punish Those Who Won't Back Michigan's Muslim Abdul El-Sayed",
+    "tinyUrl": "https://slaynews.com/hasan-piker-calls-democrats-refuse-back-socialist-abdul-el-sayed-punished/",
+    "xPostUrl": "https://x.com/C3Heditor/status/2087573539553448100",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-08-12_111521.jpg",
+    "tags": [
+        "Hasan Piker",
+        "Abdul El-Sayed",
+        "Michigan",
+        "Islam-Muslim"
+    ],
+    "page": 1,
+    "batchDate": "2026-08-12"
+},
+{
+    "num": 1414,
+    "headline": "Texas Democrat-Socialist, James Talarico, Involved In An Inappropriate Relationship With A Staff Member",
+    "tinyUrl": "https://pjmedia.com/matt-margolis/2026/08/07/talarico-confirms-inappropriate-relationship-with-staffer-n4955923",
+    "xPostUrl": "https://x.com/C3Heditor/status/2087573053240730014",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-08-12_111039.jpg",
+    "tags": [
+        "James Talarico",
+        "Texas",
+        "Ethics-Morals",
+        "Communism-Socialism"
+    ],
+    "page": 1,
+    "batchDate": "2026-08-12"
+},
+{
+    "num": 1413,
+    "headline": "Turns Out That NYC Mayor Mamdani Seeks Big Bankers' Help Because His Democrat-Marxist Policies Need Capitalism to Survive",
+    "tinyUrl": "https://www.zerohedge.com/political/reality-bites-socialist-nyc-mayor-mamdani-turns-capitalist-bankers-help",
+    "xPostUrl": "https://x.com/C3Heditor/status/2087571056684888465",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-08-12_110532.jpg",
+    "tags": [
+        "Zohran Mamdani",
+        "NYC",
+        "Communism-Socialism",
+        "Economic Policy"
+    ],
+    "page": 1,
+    "batchDate": "2026-08-12"
+},
+{
+    "num": 1412,
+    "headline": "Democrat-Socialist Abdul El-Sayed - aka, Muslim Abdulrahman Mohamed El-Sayed - Attacks A Top USA Tourist Attraction Located In Michigan",
+    "tinyUrl": "https://townhall.com/news/amy-curtis/2026/08/07/abdul-el-sayed-i-hate-mackinac-michigan-n2680879",
+    "xPostUrl": "https://x.com/C3Heditor/status/2087570301542441091",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-08-12_110235.jpg",
+    "tags": [
+        "Abdul El-Sayed",
+        "Michigan",
+        "Islam-Muslim",
+        "Communism-Socialism"
+    ],
+    "page": 1,
+    "batchDate": "2026-08-12"
+},
+{
+    "num": 1411,
+    "headline": "Katie Hobbs, Arizona's Democrat Governor, Gets Ratioed on 'X' After Claiming Credit for Trump's No Tax Rule That Democrats Voted Against ",
+    "tinyUrl": "https://www.thegatewaypundit.com/2026/07/democrat-arizona-governor-katie-hobbs-ratioed-x-after/",
+    "xPostUrl": "https://x.com/C3Heditor/status/2087569547003937198",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-08-12_105943.jpg",
+    "tags": [
+        "Katie Hobbs",
+        "Arizona",
+        "Taxation",
+        "Gaslight-Lies"
+    ],
+    "page": 1,
+    "batchDate": "2026-08-12"
+},
+{
+    "num": 1410,
+    "headline": "‘There’s Nothing More American Than Socialism' So Claims Democrat-Marxist, Melat Kiros, An Ethiopian Immigrant Running For Congress In Colorado ",
+    "tinyUrl": "https://townhall.com/news/dmitri-bolt/2026/08/06/melat-kiros-theres-nothing-more-american-than-socialsim-n2680665",
+    "xPostUrl": "https://x.com/C3Heditor/status/2087567860797215207",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-08-12_105316.jpg",
+    "tags": [
+        "Melat Kiros",
+        "Colorado",
+        "Communism-Socialism",
+        "Gaslight-Lies"
+    ],
+    "page": 1,
+    "batchDate": "2026-08-12"
+},
+{
+    "num": 1409,
+    "headline": "Crowd Boos and Laughs as Minnesota's Open-Border Democrat Senator Amy Klobuchar Brags About Securing the Border That Trump Accomplished",
+    "tinyUrl": "https://twitchy.com/samj/2026/08/06/crowd-boos-and-laughs-in-amy-klobuchars-face-border-n2431011",
+    "xPostUrl": "https://x.com/C3Heditor/status/2087567269526188080",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-08-12_105031.jpg",
+    "tags": [
+        "Amy Klobuchar",
+        "Minnesota",
+        "Immigration",
+        "Gaslight-Lies"
+    ],
+    "page": 1,
+    "batchDate": "2026-08-12"
+},
+{
+    "num": 1408,
+    "headline": "Documentation of Democrats' Gigantic $229.9 Billion Fraud Problem That They Refuse to Address",
+    "tinyUrl": "https://redstate.com/ben-smith/2026/08/08/democrats-have-a-2299-billion-fraud-problem-and-trump-just-put-it-online-n2205343",
+    "xPostUrl": "https://x.com/C3Heditor/status/2087565487714529374",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-08-12_104327.jpg",
+    "tags": [
+        "Corruption-Fraud",
+        "Government",
+        "Incompetence"
+    ],
+    "page": 1,
+    "batchDate": "2026-08-12"
+},
+{
+    "num": 1407,
+    "headline": "Democrats Embrace Planned Parenthood's Sick Rebrand: “Abortion is gender-affirming care”",
+    "tinyUrl": "https://www.thegatewaypundit.com/2026/08/planned-parenthood-comes-sick-new-euphemism-abortion/",
+    "xPostUrl": "https://x.com/C3Heditor/status/2087564980442832929",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-08-12_104129.jpg",
+    "tags": [
+        "LGBTQ",
+        "Culture War"
+    ],
+    "page": 1,
+    "batchDate": "2026-08-12"
+},
+{
+    "num": 1406,
+    "headline": "Democrat Socialist-Marxist Idiocracy Producing Unsurprising Results: Seattle's Corporate Pullback Grows as Google, Zillow, Salesforce Cut Jobs & Flee For Better Biz Climate",
+    "tinyUrl": "https://thepostmillennial.com/google-zillow-salesforce-slash-jobs-in-washington-state-as-corporate-retreat-from-seattle-area-accelerates",
+    "xPostUrl": "https://x.com/C3Heditor/status/2087564356707827949",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-08-12_103856.jpg",
+    "tags": [
+        "Seattle",
+        "Washington",
+        "Business Climate",
+        "Business Relocation",
+        "Economic Policy"
+    ],
+    "page": 1,
+    "batchDate": "2026-08-12"
+},
+{
+    "num": 1405,
+    "headline": "Anti-Second Amendment Activist, David Hogg, Says Democrat Party's 'Big Tent' Has No Place for Moderate Voices",
+    "tinyUrl": "https://twitchy.com/warren-squire/2026/08/08/former-dnc-vice-chair-david-hogg-thinks-that-there-is-no-room-for-moderates-in-the-democrat-party-n2431064",
+    "xPostUrl": "https://x.com/C3Heditor/status/2087561113676222556",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-08-12_102559.jpg",
+    "tags": [
+        "David Hogg",
+        "Gun Control",
+        "Culture War",
+        "2026 Elections"
+    ],
+    "page": 1,
+    "batchDate": "2026-08-12"
+},
+{
+    "num": 1404,
+    "headline": "Since 2020 the Riots, Looting, and Assassinations Signal Escalating Democrat-Leftist Violence Nationwide",
+    "tinyUrl": "https://www.thegatewaypundit.com/2026/08/leftist-violence-rising-since-2020-riots-looting-assassinations/",
+    "xPostUrl": "https://x.com/C3Heditor/status/2087559510818705675",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-08-12_101941.jpg",
+    "tags": [
+        "Violence",
+        "Left-Wing"
+    ],
+    "page": 1,
+    "batchDate": "2026-08-12"
+},
+{
+    "num": 1403,
+    "headline": "Being Illogical is a Democrat Feature, Not a Bug: Kamala Harris Lost the 2024 Popular Vote, So She Concludes the Electoral College Is Broken",
+    "tinyUrl": "https://redstate.com/ben-smith/2026/08/08/kamala-harris-lost-so-naturally-the-electoral-college-is-broken-n2205345",
+    "xPostUrl": "https://x.com/C3Heditor/status/2087558244646408694",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-08-12_101721.jpg",
+    "tags": [
+        "Kamala Harris",
+        "2024 Election",
+        "Gaslight-Lies",
+        "U.S. Constitution"
+    ],
+    "page": 1,
+    "batchDate": "2026-08-12"
+},
+{
+    "num": 1402,
+    "headline": "Vehicle Attack by Illegal Alien Gangster on Border Patrol Brings Guilty Plea - Violence That Is a Direct Result of Democrats' Open Border Policies",
+    "tinyUrl": "https://thenationalpulse.com/2026/07/28/illegal-alien-gangster-pleads-guilty-to-attacking-border-patrol-with-vehicle/",
+    "xPostUrl": "https://x.com/C3Heditor/status/2087557340752924873",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-08-12_101253.jpg",
+    "tags": [
+        "CBP-DHS-ICE",
+        "Immigration",
+        "Crime",
+        "Violence"
+    ],
+    "page": 1,
+    "batchDate": "2026-08-12"
+},
+{
+    "num": 1401,
+    "headline": "Maybe Democrat-Socialist Francesca Hong Lost a Close Wisconsin Primary Due to Video Footage of Her Calling for Violence Against ICE Agents",
+    "tinyUrl": "https://nalert.blogspot.com/2026/08/watch-democrat-candidate-francesca-hong.html",
+    "xPostUrl": "https://x.com/C3Heditor/status/2087556939106365520",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-08-12_100723.jpg",
+    "tags": [
+        "Francesca Hong",
+        "Wisconsin",
+        "2026 Elections",
+        "Violence"
+    ],
+    "page": 1,
+    "batchDate": "2026-08-12"
+},
+{
     "num": 1400,
     "headline": "Note to Democrats: His TDS Impeachment Focus Did Not Prevent Michigan's Loyal Democrat Shri Thanedar From Suffering Huge Primary Loss",
     "tinyUrl": "https://www.theblaze.com/news/maniacal-trump-hater-loses-democratic-primary-bigly",
@@ -15,7 +310,7 @@ const articles = [
         "Shri Thanedar",
         "Trump-Derangement"
     ],
-    "page": 1,
+    "page": 2,
     "batchDate": "2026-08-07"
 },
 {
@@ -30,7 +325,7 @@ const articles = [
         "Francesca Hong",
         "Wisconsin"
     ],
-    "page": 1,
+    "page": 2,
     "batchDate": "2026-08-07"
 },
 {
@@ -44,7 +339,7 @@ const articles = [
         "Epstein",
         "Mary Peltola"
     ],
-    "page": 1,
+    "page": 2,
     "batchDate": "2026-08-07"
 },
 {
@@ -57,7 +352,7 @@ const articles = [
         "Judiciary-Judicial",
         "Left-Wing"
     ],
-    "page": 1,
+    "page": 2,
     "batchDate": "2026-08-07"
 },
 {
@@ -70,7 +365,7 @@ const articles = [
         "Communism-Socialism",
         "Left-Wing"
     ],
-    "page": 1,
+    "page": 2,
     "batchDate": "2026-08-07"
 },
 {
@@ -81,10 +376,10 @@ const articles = [
     "imageUrl": "https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-08-07_143033.jpg",
     "tags": [
         "Hate",
-        "Israel",
+        "Israel-Jews",
         "Left-Wing"
     ],
-    "page": 1,
+    "page": 2,
     "batchDate": "2026-08-07"
 },
 {
@@ -97,7 +392,7 @@ const articles = [
         "Islam-Muslim",
         "Left-Wing"
     ],
-    "page": 1,
+    "page": 2,
     "batchDate": "2026-08-07"
 },
 {
@@ -112,7 +407,7 @@ const articles = [
         "Sheldon Whitehouse",
         "Virtue-Signaling"
     ],
-    "page": 1,
+    "page": 2,
     "batchDate": "2026-08-07"
 },
 {
@@ -126,7 +421,7 @@ const articles = [
         "Michigan",
         "Racial Issues"
     ],
-    "page": 1,
+    "page": 2,
     "batchDate": "2026-08-07"
 },
 {
@@ -138,7 +433,7 @@ const articles = [
     "tags": [
         "2026 Elections"
     ],
-    "page": 1,
+    "page": 2,
     "batchDate": "2026-08-07"
 },
 {
@@ -152,7 +447,7 @@ const articles = [
         "Left-Wing",
         "Taxation"
     ],
-    "page": 1,
+    "page": 2,
     "batchDate": "2026-08-07"
 },
 {
@@ -166,7 +461,7 @@ const articles = [
         "Pete Buttigieg",
         "Taxation"
     ],
-    "page": 1,
+    "page": 2,
     "batchDate": "2026-08-07"
 },
 {
@@ -180,7 +475,7 @@ const articles = [
         "Tim Kaine",
         "Trump-Derangement"
     ],
-    "page": 1,
+    "page": 2,
     "batchDate": "2026-08-07"
 },
 {
@@ -194,7 +489,7 @@ const articles = [
         "Hasan Piker",
         "James Carville"
     ],
-    "page": 1,
+    "page": 2,
     "batchDate": "2026-08-07"
 },
 {
@@ -209,7 +504,7 @@ const articles = [
         "Hasan Piker",
         "Islam-Muslim"
     ],
-    "page": 1,
+    "page": 2,
     "batchDate": "2026-08-07"
 },
 {
@@ -223,7 +518,7 @@ const articles = [
         "Florida",
         "LGBTQ"
     ],
-    "page": 1,
+    "page": 2,
     "batchDate": "2026-08-07"
 },
 {
@@ -238,7 +533,7 @@ const articles = [
         "NYC",
         "Zohran Mamdani"
     ],
-    "page": 1,
+    "page": 2,
     "batchDate": "2026-08-07"
 },
 {
@@ -253,7 +548,7 @@ const articles = [
         "James Talarico",
         "Texas"
     ],
-    "page": 1,
+    "page": 2,
     "batchDate": "2026-08-07"
 },
 {
@@ -268,7 +563,7 @@ const articles = [
         "Violence",
         "Wisconsin"
     ],
-    "page": 1,
+    "page": 2,
     "batchDate": "2026-08-07"
 },
 {
@@ -283,7 +578,7 @@ const articles = [
         "Left-Wing",
         "Violence"
     ],
-    "page": 1,
+    "page": 2,
     "batchDate": "2026-08-07"
 },
 {
@@ -296,7 +591,7 @@ const articles = [
         "Communism-Socialism",
         "Left-Wing"
     ],
-    "page": 2,
+    "page": 3,
     "batchDate": "2026-08-07"
 },
 {
@@ -311,7 +606,7 @@ const articles = [
         "Pete Buttigieg",
         "Politics"
     ],
-    "page": 2,
+    "page": 3,
     "batchDate": "2026-08-07"
 },
 {
@@ -324,7 +619,7 @@ const articles = [
         "Incompetence",
         "Roy Cooper"
     ],
-    "page": 2,
+    "page": 3,
     "batchDate": "2026-08-07"
 },
 {
@@ -337,7 +632,7 @@ const articles = [
         "Healthcare Policy",
         "Left-Wing"
     ],
-    "page": 2,
+    "page": 3,
     "batchDate": "2026-08-07"
 },
 {
@@ -351,7 +646,7 @@ const articles = [
         "Racial Issues",
         "Wisconsin"
     ],
-    "page": 2,
+    "page": 3,
     "batchDate": "2026-08-07"
 },
 {
@@ -365,7 +660,7 @@ const articles = [
         "James Talarico",
         "Texas"
     ],
-    "page": 2,
+    "page": 3,
     "batchDate": "2026-08-07"
 },
 {
@@ -378,7 +673,7 @@ const articles = [
         "Election Fraud",
         "Michigan"
     ],
-    "page": 2,
+    "page": 3,
     "batchDate": "2026-08-07"
 },
 {
@@ -392,7 +687,7 @@ const articles = [
         "Election Fraud",
         "Left-Wing"
     ],
-    "page": 2,
+    "page": 3,
     "batchDate": "2026-08-07"
 },
 {
@@ -405,7 +700,7 @@ const articles = [
         "China",
         "Communism-Socialism"
     ],
-    "page": 2,
+    "page": 3,
     "batchDate": "2026-08-07"
 },
 {
@@ -420,7 +715,7 @@ const articles = [
         "Paige Cognetti",
         "Pennsylvania"
     ],
-    "page": 2,
+    "page": 3,
     "batchDate": "2026-08-07"
 },
 {
@@ -434,7 +729,7 @@ const articles = [
         "LGBTQ",
         "Seth Moulton"
     ],
-    "page": 2,
+    "page": 3,
     "batchDate": "2026-08-07"
 },
 {
@@ -447,7 +742,7 @@ const articles = [
         "Culture War",
         "Sophie Cunningham"
     ],
-    "page": 2,
+    "page": 3,
     "batchDate": "2026-08-07"
 },
 {
@@ -462,7 +757,7 @@ const articles = [
         "Immigration",
         "Michigan"
     ],
-    "page": 2,
+    "page": 3,
     "batchDate": "2026-08-07"
 },
 {
@@ -477,7 +772,7 @@ const articles = [
         "Ohio",
         "Sherrod Brown"
     ],
-    "page": 2,
+    "page": 3,
     "batchDate": "2026-08-07"
 },
 {
@@ -491,7 +786,7 @@ const articles = [
         "Crime",
         "Immigration"
     ],
-    "page": 2,
+    "page": 3,
     "batchDate": "2026-08-07"
 },
 {
@@ -506,7 +801,7 @@ const articles = [
         "Dan Osborn",
         "Nebraska"
     ],
-    "page": 2,
+    "page": 3,
     "batchDate": "2026-08-07"
 },
 {
@@ -519,7 +814,7 @@ const articles = [
         "Culture War",
         "Left-Wing"
     ],
-    "page": 2,
+    "page": 3,
     "batchDate": "2026-08-07"
 },
 {
@@ -532,7 +827,7 @@ const articles = [
         "Communism-Socialism",
         "Journalism"
     ],
-    "page": 2,
+    "page": 3,
     "batchDate": "2026-08-07"
 },
 {
@@ -546,7 +841,7 @@ const articles = [
         "Communism-Socialism",
         "Polling"
     ],
-    "page": 2,
+    "page": 3,
     "batchDate": "2026-08-07"
 },
 {
@@ -561,7 +856,7 @@ const articles = [
         "Michigan",
         "Polling"
     ],
-    "page": 2,
+    "page": 3,
     "batchDate": "2026-08-07"
 },
 {
@@ -574,7 +869,7 @@ const articles = [
         "Culture War",
         "Kamala Harris"
     ],
-    "page": 3,
+    "page": 4,
     "batchDate": "2026-08-05"
 },
 {
@@ -587,7 +882,7 @@ const articles = [
         "Election Fraud",
         "Immigration"
     ],
-    "page": 3,
+    "page": 4,
     "batchDate": "2026-08-05"
 },
 {
@@ -600,7 +895,7 @@ const articles = [
         "Maine",
         "Troy Jackson"
     ],
-    "page": 3,
+    "page": 4,
     "batchDate": "2026-08-05"
 },
 {
@@ -613,7 +908,7 @@ const articles = [
         "Immigration",
         "Left-Wing"
     ],
-    "page": 3,
+    "page": 4,
     "batchDate": "2026-08-05"
 },
 {
@@ -626,7 +921,7 @@ const articles = [
         "Journalism",
         "Left-Wing"
     ],
-    "page": 3,
+    "page": 4,
     "batchDate": "2026-08-05"
 },
 {
@@ -639,7 +934,7 @@ const articles = [
         "Culture War",
         "Left-Wing"
     ],
-    "page": 3,
+    "page": 4,
     "batchDate": "2026-08-05"
 },
 {
@@ -651,7 +946,7 @@ const articles = [
     "tags": [
         "Communism-Socialism"
     ],
-    "page": 3,
+    "page": 4,
     "batchDate": "2026-08-05"
 },
 {
@@ -664,7 +959,7 @@ const articles = [
         "Corruption-Fraud",
         "Immigration"
     ],
-    "page": 3,
+    "page": 4,
     "batchDate": "2026-08-05"
 },
 {
@@ -678,7 +973,7 @@ const articles = [
         "Corruption-Fraud",
         "Michigan"
     ],
-    "page": 3,
+    "page": 4,
     "batchDate": "2026-08-05"
 },
 {
@@ -691,7 +986,7 @@ const articles = [
         "James Talarico",
         "Texas"
     ],
-    "page": 3,
+    "page": 4,
     "batchDate": "2026-08-05"
 },
 {
@@ -704,7 +999,7 @@ const articles = [
         "Immigration",
         "New Jersey"
     ],
-    "page": 3,
+    "page": 4,
     "batchDate": "2026-08-05"
 },
 {
@@ -717,7 +1012,7 @@ const articles = [
         "Immigration",
         "Left-Wing"
     ],
-    "page": 3,
+    "page": 4,
     "batchDate": "2026-08-05"
 },
 {
@@ -730,7 +1025,7 @@ const articles = [
         "Dan Osborn",
         "Election Fraud"
     ],
-    "page": 3,
+    "page": 4,
     "batchDate": "2026-08-05"
 },
 {
@@ -744,7 +1039,7 @@ const articles = [
         "Florida",
         "Immigration"
     ],
-    "page": 3,
+    "page": 4,
     "batchDate": "2026-08-05"
 },
 {
@@ -757,7 +1052,7 @@ const articles = [
         "Dana Nessel",
         "Michigan"
     ],
-    "page": 3,
+    "page": 4,
     "batchDate": "2026-08-05"
 },
 {
@@ -770,7 +1065,7 @@ const articles = [
         "Crime",
         "Left-Wing"
     ],
-    "page": 3,
+    "page": 4,
     "batchDate": "2026-08-05"
 },
 {
@@ -784,7 +1079,7 @@ const articles = [
         "Francesca Hong",
         "Wisconsin"
     ],
-    "page": 3,
+    "page": 4,
     "batchDate": "2026-08-05"
 },
 {
@@ -796,7 +1091,7 @@ const articles = [
     "tags": [
         "Communism-Socialism"
     ],
-    "page": 3,
+    "page": 4,
     "batchDate": "2026-08-05"
 },
 {
@@ -809,7 +1104,7 @@ const articles = [
         "China",
         "Communism-Socialism"
     ],
-    "page": 3,
+    "page": 4,
     "batchDate": "2026-08-05"
 },
 {
@@ -823,7 +1118,7 @@ const articles = [
         "Immigration",
         "Xavier Becerra"
     ],
-    "page": 3,
+    "page": 4,
     "batchDate": "2026-08-05"
 },
 {
@@ -838,7 +1133,7 @@ const articles = [
         "NYC",
         "Zohran Mamdani"
     ],
-    "page": 4,
+    "page": 5,
     "batchDate": "2026-07-29"
 },
 {
@@ -852,7 +1147,7 @@ const articles = [
         "Maine",
         "Troy Jackson"
     ],
-    "page": 4,
+    "page": 5,
     "batchDate": "2026-07-29"
 },
 {
@@ -864,7 +1159,7 @@ const articles = [
     "tags": [
         "Communism-Socialism"
     ],
-    "page": 4,
+    "page": 5,
     "batchDate": "2026-07-29"
 },
 {
@@ -877,7 +1172,7 @@ const articles = [
         "Corruption-Fraud",
         "Dr. Anthony Fauci"
     ],
-    "page": 4,
+    "page": 5,
     "batchDate": "2026-07-29"
 },
 {
@@ -891,7 +1186,7 @@ const articles = [
         "Crime",
         "Left-Wing"
     ],
-    "page": 4,
+    "page": 5,
     "batchDate": "2026-07-29"
 },
 {
@@ -905,7 +1200,7 @@ const articles = [
         "James Talarico",
         "Texas"
     ],
-    "page": 4,
+    "page": 5,
     "batchDate": "2026-07-29"
 },
 {
@@ -919,7 +1214,7 @@ const articles = [
         "Francesca Hong",
         "Wisconsin"
     ],
-    "page": 4,
+    "page": 5,
     "batchDate": "2026-07-29"
 },
 {
@@ -933,7 +1228,7 @@ const articles = [
         "Ilhan Omar",
         "Islam-Muslim"
     ],
-    "page": 4,
+    "page": 5,
     "batchDate": "2026-07-29"
 },
 {
@@ -948,7 +1243,7 @@ const articles = [
         "Islam-Muslim",
         "Michigan"
     ],
-    "page": 4,
+    "page": 5,
     "batchDate": "2026-07-29"
 },
 {
@@ -962,7 +1257,7 @@ const articles = [
         "NYC",
         "Zohran Mamdani"
     ],
-    "page": 4,
+    "page": 5,
     "batchDate": "2026-07-29"
 },
 {
@@ -975,7 +1270,7 @@ const articles = [
         "Left-Wing",
         "Michigan"
     ],
-    "page": 4,
+    "page": 5,
     "batchDate": "2026-07-29"
 },
 {
@@ -993,7 +1288,7 @@ const articles = [
         "Ro Khanna",
         "Terrorism"
     ],
-    "page": 4,
+    "page": 5,
     "batchDate": "2026-07-29"
 },
 {
@@ -1007,7 +1302,7 @@ const articles = [
         "Immigration",
         "Richard Blumenthal"
     ],
-    "page": 4,
+    "page": 5,
     "batchDate": "2026-07-29"
 },
 {
@@ -1021,7 +1316,7 @@ const articles = [
         "Crime",
         "Gavin Newsom"
     ],
-    "page": 4,
+    "page": 5,
     "batchDate": "2026-07-29"
 },
 {
@@ -1035,7 +1330,7 @@ const articles = [
         "Drug Crime",
         "Florida"
     ],
-    "page": 4,
+    "page": 5,
     "batchDate": "2026-07-29"
 },
 {
@@ -1049,7 +1344,7 @@ const articles = [
         "Left-Wing",
         "LGBTQ"
     ],
-    "page": 4,
+    "page": 5,
     "batchDate": "2026-07-29"
 },
 {
@@ -1063,7 +1358,7 @@ const articles = [
         "Jesse White",
         "Pennsylvania"
     ],
-    "page": 4,
+    "page": 5,
     "batchDate": "2026-07-29"
 },
 {
@@ -1078,7 +1373,7 @@ const articles = [
         "Mikie Sherrill",
         "New Jersey"
     ],
-    "page": 4,
+    "page": 5,
     "batchDate": "2026-07-29"
 },
 {
@@ -1093,7 +1388,7 @@ const articles = [
         "Maine",
         "Troy Jackson"
     ],
-    "page": 4,
+    "page": 5,
     "batchDate": "2026-07-29"
 },
 {
@@ -1108,7 +1403,7 @@ const articles = [
         "Left-Wing",
         "Sarah Trone Garriott"
     ],
-    "page": 4,
+    "page": 5,
     "batchDate": "2026-07-29"
 },
 {
@@ -1123,7 +1418,7 @@ const articles = [
         "Pandering",
         "Texas"
     ],
-    "page": 5,
+    "page": 6,
     "batchDate": "2026-07-28"
 },
 {
@@ -1138,7 +1433,7 @@ const articles = [
         "Government",
         "Politics"
     ],
-    "page": 5,
+    "page": 6,
     "batchDate": "2026-07-28"
 },
 {
@@ -1152,7 +1447,7 @@ const articles = [
         "Ken Martin",
         "Politics"
     ],
-    "page": 5,
+    "page": 6,
     "batchDate": "2026-07-28"
 },
 {
@@ -1166,7 +1461,7 @@ const articles = [
         "Politics",
         "U.S. Congress"
     ],
-    "page": 5,
+    "page": 6,
     "batchDate": "2026-07-28"
 },
 {
@@ -1180,7 +1475,7 @@ const articles = [
         "Hawaii",
         "Sylvia Luke"
     ],
-    "page": 5,
+    "page": 6,
     "batchDate": "2026-07-28"
 },
 {
@@ -1194,7 +1489,7 @@ const articles = [
         "Corruption-Fraud",
         "Left-Wing"
     ],
-    "page": 5,
+    "page": 6,
     "batchDate": "2026-07-28"
 },
 {
@@ -1208,7 +1503,7 @@ const articles = [
         "Left-Wing",
         "Polling"
     ],
-    "page": 5,
+    "page": 6,
     "batchDate": "2026-07-28"
 },
 {
@@ -1223,7 +1518,7 @@ const articles = [
         "Polling",
         "Virtue Signaling"
     ],
-    "page": 5,
+    "page": 6,
     "batchDate": "2026-07-28"
 },
 {
@@ -1237,7 +1532,7 @@ const articles = [
         "Massachusetts",
         "Politics"
     ],
-    "page": 5,
+    "page": 6,
     "batchDate": "2026-07-28"
 },
 {
@@ -1252,7 +1547,7 @@ const articles = [
         "Politics",
         "Seth Moulton"
     ],
-    "page": 5,
+    "page": 6,
     "batchDate": "2026-07-28"
 },
 {
@@ -1266,7 +1561,7 @@ const articles = [
         "Left-Wing",
         "Politics"
     ],
-    "page": 5,
+    "page": 6,
     "batchDate": "2026-07-28"
 },
 {
@@ -1281,7 +1576,7 @@ const articles = [
         "James Carville",
         "Left-Wing"
     ],
-    "page": 5,
+    "page": 6,
     "batchDate": "2026-07-28"
 },
 {
@@ -1294,9 +1589,9 @@ const articles = [
         "CBP-DHS-ICE",
         "Colorado",
         "Immigration",
-        "Milat Kiros"
+        "Melat Kiros"
     ],
-    "page": 5,
+    "page": 6,
     "batchDate": "2026-07-28"
 },
 {
@@ -1310,7 +1605,7 @@ const articles = [
         "Left-Wing",
         "Racial Issues"
     ],
-    "page": 5,
+    "page": 6,
     "batchDate": "2026-07-28"
 },
 {
@@ -1325,7 +1620,7 @@ const articles = [
         "Immigration",
         "Rhode Island Politics"
     ],
-    "page": 5,
+    "page": 6,
     "batchDate": "2026-07-28"
 },
 {
@@ -1339,7 +1634,7 @@ const articles = [
         "Jon Ossoff",
         "Politics"
     ],
-    "page": 5,
+    "page": 6,
     "batchDate": "2026-07-28"
 },
 {
@@ -1353,7 +1648,7 @@ const articles = [
         "JoAnna Mendoza",
         "Left-Wing"
     ],
-    "page": 5,
+    "page": 6,
     "batchDate": "2026-07-28"
 },
 {
@@ -1367,7 +1662,7 @@ const articles = [
         "New Jersey",
         "Politics"
     ],
-    "page": 5,
+    "page": 6,
     "batchDate": "2026-07-28"
 },
 {
@@ -1382,7 +1677,7 @@ const articles = [
         "Trump-Derangement",
         "Violence"
     ],
-    "page": 5,
+    "page": 6,
     "batchDate": "2026-07-28"
 },
 {
@@ -1397,7 +1692,7 @@ const articles = [
         "Stacey Plaskett",
         "Virgin Islands"
     ],
-    "page": 5,
+    "page": 6,
     "batchDate": "2026-07-28"
 },
 {
@@ -1411,7 +1706,7 @@ const articles = [
         "Gabe Vasquez",
         "New Mexico"
     ],
-    "page": 6,
+    "page": 7,
     "batchDate": "2026-07-26"
 },
 {
@@ -1425,7 +1720,7 @@ const articles = [
         "Racial Issues",
         "Texas"
     ],
-    "page": 6,
+    "page": 7,
     "batchDate": "2026-07-26"
 },
 {
@@ -1439,7 +1734,7 @@ const articles = [
         "Left-Wing",
         "Racial Issues"
     ],
-    "page": 6,
+    "page": 7,
     "batchDate": "2026-07-26"
 },
 {
@@ -1453,7 +1748,7 @@ const articles = [
         "Hasan Piker",
         "Left-Wing"
     ],
-    "page": 6,
+    "page": 7,
     "batchDate": "2026-07-26"
 },
 {
@@ -1468,7 +1763,7 @@ const articles = [
         "James Talarico",
         "Texas"
     ],
-    "page": 6,
+    "page": 7,
     "batchDate": "2026-07-26"
 },
 {
@@ -1482,7 +1777,7 @@ const articles = [
         "Darializa Avila Chevalier",
         "Zohran Mamdani"
     ],
-    "page": 6,
+    "page": 7,
     "batchDate": "2026-07-26"
 },
 {
@@ -1497,7 +1792,7 @@ const articles = [
         "Gun Control",
         "Nebraska"
     ],
-    "page": 6,
+    "page": 7,
     "batchDate": "2026-07-26"
 },
 {
@@ -1511,7 +1806,7 @@ const articles = [
         "Amy Acton",
         "Ohio"
     ],
-    "page": 6,
+    "page": 7,
     "batchDate": "2026-07-26"
 },
 {
@@ -1525,7 +1820,7 @@ const articles = [
         "Immigration",
         "Media Bias"
     ],
-    "page": 6,
+    "page": 7,
     "batchDate": "2026-07-26"
 },
 {
@@ -1539,7 +1834,7 @@ const articles = [
         "Karen Bass",
         "Los Angeles"
     ],
-    "page": 6,
+    "page": 7,
     "batchDate": "2026-07-26"
 },
 {
@@ -1553,7 +1848,7 @@ const articles = [
         "Gavin Newsom",
         "Politics"
     ],
-    "page": 6,
+    "page": 7,
     "batchDate": "2026-07-26"
 },
 {
@@ -1567,7 +1862,7 @@ const articles = [
         "Left-Wing",
         "Politics"
     ],
-    "page": 6,
+    "page": 7,
     "batchDate": "2026-07-26"
 },
 {
@@ -1581,7 +1876,7 @@ const articles = [
         "Maryland",
         "Wes Moore"
     ],
-    "page": 6,
+    "page": 7,
     "batchDate": "2026-07-26"
 },
 {
@@ -1595,7 +1890,7 @@ const articles = [
         "Education Policy",
         "New York"
     ],
-    "page": 6,
+    "page": 7,
     "batchDate": "2026-07-26"
 },
 {
@@ -1609,7 +1904,7 @@ const articles = [
         "Michigan",
         "Violent Crime"
     ],
-    "page": 6,
+    "page": 7,
     "batchDate": "2026-07-26"
 },
 {
@@ -1623,7 +1918,7 @@ const articles = [
         "Hawaii",
         "Judiciary-Judicial"
     ],
-    "page": 6,
+    "page": 7,
     "batchDate": "2026-07-26"
 },
 {
@@ -1637,7 +1932,7 @@ const articles = [
         "San Francisco",
         "Taxation"
     ],
-    "page": 6,
+    "page": 7,
     "batchDate": "2026-07-26"
 },
 {
@@ -1649,10 +1944,10 @@ const articles = [
     "tags": [
         "2026 Elections",
         "Abdul El-Sayed",
-        "Israel",
+        "Israel-Jews",
         "Michigan"
     ],
-    "page": 6,
+    "page": 7,
     "batchDate": "2026-07-26"
 },
 {
@@ -1664,10 +1959,10 @@ const articles = [
     "tags": [
         "2026 Elections",
         "Abdul El-Sayed",
-        "Israel",
+        "Israel-Jews",
         "Michigan"
     ],
-    "page": 6,
+    "page": 7,
     "batchDate": "2026-07-26"
 },
 {
@@ -1681,7 +1976,7 @@ const articles = [
         "Judiciary-Judicial",
         "New York"
     ],
-    "page": 6,
+    "page": 7,
     "batchDate": "2026-07-26"
 },
 {
@@ -1695,7 +1990,7 @@ const articles = [
         "Left-Wing",
         "Politics"
     ],
-    "page": 7,
+    "page": 8,
     "batchDate": "July 24, 2026"
 },
 {
@@ -1706,10 +2001,10 @@ const articles = [
     "imageUrl": "https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-07-24_140259.jpg",
     "tags": [
         "Alexandria Ocasio-Cortez",
-        "Israel",
+        "Israel-Jews",
         "Media Bias"
     ],
-    "page": 7,
+    "page": 8,
     "batchDate": "July 24, 2026"
 },
 {
@@ -1723,7 +2018,7 @@ const articles = [
         "Dan Osborn",
         "Nebraska"
     ],
-    "page": 7,
+    "page": 8,
     "batchDate": "July 24, 2026"
 },
 {
@@ -1737,7 +2032,7 @@ const articles = [
         "Karen Bass",
         "Los Angeles"
     ],
-    "page": 7,
+    "page": 8,
     "batchDate": "July 24, 2026"
 },
 {
@@ -1750,7 +2045,7 @@ const articles = [
         "Economic Policy",
         "Politics"
     ],
-    "page": 7,
+    "page": 8,
     "batchDate": "July 24, 2026"
 },
 {
@@ -1764,7 +2059,7 @@ const articles = [
         "U.S. Congress",
         "Weaponization"
     ],
-    "page": 7,
+    "page": 8,
     "batchDate": "July 24, 2026"
 },
 {
@@ -1778,7 +2073,7 @@ const articles = [
         "Investigation",
         "Weaponization"
     ],
-    "page": 7,
+    "page": 8,
     "batchDate": "July 24, 2026"
 },
 {
@@ -1792,7 +2087,7 @@ const articles = [
         "NYC",
         "Terrorism"
     ],
-    "page": 7,
+    "page": 8,
     "batchDate": "July 24, 2026"
 },
 {
@@ -1806,7 +2101,7 @@ const articles = [
         "LGBTQ",
         "Politics"
     ],
-    "page": 7,
+    "page": 8,
     "batchDate": "July 24, 2026"
 },
 {
@@ -1820,7 +2115,7 @@ const articles = [
         "Trump-Derangement",
         "Violence"
     ],
-    "page": 7,
+    "page": 8,
     "batchDate": "July 24, 2026"
 },
 {
@@ -1834,7 +2129,7 @@ const articles = [
         "Immigration",
         "New Jersey"
     ],
-    "page": 7,
+    "page": 8,
     "batchDate": "July 24, 2026"
 },
 {
@@ -1848,7 +2143,7 @@ const articles = [
         "Left-Wing",
         "Politics"
     ],
-    "page": 7,
+    "page": 8,
     "batchDate": "July 24, 2026"
 },
 {
@@ -1862,7 +2157,7 @@ const articles = [
         "Immigration",
         "Maine"
     ],
-    "page": 7,
+    "page": 8,
     "batchDate": "July 24, 2026"
 },
 {
@@ -1876,7 +2171,7 @@ const articles = [
         "Islam-Muslim",
         "LGBTQ"
     ],
-    "page": 7,
+    "page": 8,
     "batchDate": "July 24, 2026"
 },
 {
@@ -1890,7 +2185,7 @@ const articles = [
         "NYC",
         "Zohran Mamdani"
     ],
-    "page": 7,
+    "page": 8,
     "batchDate": "July 24, 2026"
 },
 {
@@ -1901,10 +2196,10 @@ const articles = [
     "imageUrl": "https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-07-23_164430.jpg",
     "tags": [
         "Adam Smith",
-        "Israel",
+        "Israel-Jews",
         "U.S. Congress"
     ],
-    "page": 7,
+    "page": 8,
     "batchDate": "July 24, 2026"
 },
 {
@@ -1918,7 +2213,7 @@ const articles = [
         "Healthcare Policy",
         "Left-Wing"
     ],
-    "page": 7,
+    "page": 8,
     "batchDate": "July 24, 2026"
 },
 {
@@ -1932,7 +2227,7 @@ const articles = [
         "Election Fraud",
         "New York"
     ],
-    "page": 7,
+    "page": 8,
     "batchDate": "July 24, 2026"
 },
 {
@@ -1946,7 +2241,7 @@ const articles = [
         "Left-Wing",
         "Politics"
     ],
-    "page": 7,
+    "page": 8,
     "batchDate": "July 24, 2026"
 },
 {
@@ -1960,7 +2255,7 @@ const articles = [
         "Left-Wing",
         "Texas"
     ],
-    "page": 7,
+    "page": 8,
     "batchDate": "July 24, 2026"
 },
 {
@@ -1974,7 +2269,7 @@ const articles = [
         "Left-Wing",
         "Media Bias"
     ],
-    "page": 8,
+    "page": 9,
     "batchDate": "July 22, 2026"
 },
 {
@@ -1988,7 +2283,7 @@ const articles = [
         "Governor Hochul",
         "New York"
     ],
-    "page": 8,
+    "page": 9,
     "batchDate": "July 22, 2026"
 },
 {
@@ -2002,7 +2297,7 @@ const articles = [
         "New York",
         "Zohran Mamdani"
     ],
-    "page": 8,
+    "page": 9,
     "batchDate": "July 22, 2026"
 },
 {
@@ -2015,7 +2310,7 @@ const articles = [
         "Communism-Socialism",
         "Economic Policy"
     ],
-    "page": 8,
+    "page": 9,
     "batchDate": "July 22, 2026"
 },
 {
@@ -2029,7 +2324,7 @@ const articles = [
         "Left-Wing",
         "Politics"
     ],
-    "page": 8,
+    "page": 9,
     "batchDate": "July 22, 2026"
 },
 {
@@ -2043,7 +2338,7 @@ const articles = [
         "Left-Wing",
         "Politics"
     ],
-    "page": 8,
+    "page": 9,
     "batchDate": "July 22, 2026"
 },
 {
@@ -2056,7 +2351,7 @@ const articles = [
         "Communism-Socialism",
         "U.S. Congress"
     ],
-    "page": 8,
+    "page": 9,
     "batchDate": "July 22, 2026"
 },
 {
@@ -2070,7 +2365,7 @@ const articles = [
         "Election Fraud",
         "Politics"
     ],
-    "page": 8,
+    "page": 9,
     "batchDate": "July 22, 2026"
 },
 {
@@ -2084,7 +2379,7 @@ const articles = [
         "Politics",
         "Wisconsin"
     ],
-    "page": 8,
+    "page": 9,
     "batchDate": "July 22, 2026"
 },
 {
@@ -2097,7 +2392,7 @@ const articles = [
         "Communism-Socialism",
         "Polling"
     ],
-    "page": 8,
+    "page": 9,
     "batchDate": "July 22, 2026"
 },
 {
@@ -2111,7 +2406,7 @@ const articles = [
         "Corruption-Fraud",
         "Politics"
     ],
-    "page": 8,
+    "page": 9,
     "batchDate": "July 22, 2026"
 },
 {
@@ -2125,7 +2420,7 @@ const articles = [
         "Corruption-Fraud",
         "Graham Platner"
     ],
-    "page": 8,
+    "page": 9,
     "batchDate": "July 22, 2026"
 },
 {
@@ -2139,7 +2434,7 @@ const articles = [
         "James Talarico",
         "Texas"
     ],
-    "page": 8,
+    "page": 9,
     "batchDate": "July 22, 2026"
 },
 {
@@ -2152,7 +2447,7 @@ const articles = [
         "Election Fraud",
         "National Security"
     ],
-    "page": 8,
+    "page": 9,
     "batchDate": "July 22, 2026"
 },
 {
@@ -2165,7 +2460,7 @@ const articles = [
         "Election Fraud",
         "Immigration"
     ],
-    "page": 8,
+    "page": 9,
     "batchDate": "July 22, 2026"
 },
 {
@@ -2179,7 +2474,7 @@ const articles = [
         "Education Policy",
         "Virginia"
     ],
-    "page": 8,
+    "page": 9,
     "batchDate": "July 22, 2026"
 },
 {
@@ -2192,7 +2487,7 @@ const articles = [
         "Culture War",
         "Education Policy"
     ],
-    "page": 8,
+    "page": 9,
     "batchDate": "July 22, 2026"
 },
 {
@@ -2206,7 +2501,7 @@ const articles = [
         "New York",
         "Violent Crime"
     ],
-    "page": 8,
+    "page": 9,
     "batchDate": "July 22, 2026"
 },
 {
@@ -2220,7 +2515,7 @@ const articles = [
         "Maryland",
         "Wes Moore"
     ],
-    "page": 8,
+    "page": 9,
     "batchDate": "July 22, 2026"
 },
 {
@@ -2234,7 +2529,7 @@ const articles = [
         "Ilhan Omar",
         "National Security"
     ],
-    "page": 8,
+    "page": 9,
     "batchDate": "July 22, 2026"
 },
 {
@@ -2247,7 +2542,7 @@ const articles = [
         "Election Fraud",
         "Politics"
     ],
-    "page": 9,
+    "page": 10,
     "batchDate": "July 20, 2026"
 },
 {
@@ -2260,7 +2555,7 @@ const articles = [
         "Economic Policy",
         "New York"
     ],
-    "page": 9,
+    "page": 10,
     "batchDate": "July 20, 2026"
 },
 {
@@ -2273,7 +2568,7 @@ const articles = [
         "Election Fraud",
         "Media Bias"
     ],
-    "page": 9,
+    "page": 10,
     "batchDate": "July 20, 2026"
 },
 {
@@ -2287,7 +2582,7 @@ const articles = [
         "James Talarico",
         "Texas"
     ],
-    "page": 9,
+    "page": 10,
     "batchDate": "July 20, 2026"
 },
 {
@@ -2300,7 +2595,7 @@ const articles = [
         "Election Fraud",
         "Immigration"
     ],
-    "page": 9,
+    "page": 10,
     "batchDate": "July 20, 2026"
 },
 {
@@ -2314,7 +2609,7 @@ const articles = [
         "Senator Mark Warner",
         "Virginia"
     ],
-    "page": 9,
+    "page": 10,
     "batchDate": "July 20, 2026"
 },
 {
@@ -2328,7 +2623,7 @@ const articles = [
         "Sunny Hostin",
         "The View"
     ],
-    "page": 9,
+    "page": 10,
     "batchDate": "July 20, 2026"
 },
 {
@@ -2342,7 +2637,7 @@ const articles = [
         "Ilhan Omar",
         "Minnesota"
     ],
-    "page": 9,
+    "page": 10,
     "batchDate": "July 20, 2026"
 },
 {
@@ -2355,7 +2650,7 @@ const articles = [
         "Communism-Socialism",
         "Media Bias"
     ],
-    "page": 9,
+    "page": 10,
     "batchDate": "July 20, 2026"
 },
 {
@@ -2368,7 +2663,7 @@ const articles = [
         "Communism-Socialism",
         "Politics"
     ],
-    "page": 9,
+    "page": 10,
     "batchDate": "July 20, 2026"
 },
 {
@@ -2382,7 +2677,7 @@ const articles = [
         "Kirsten Gillibrand",
         "New York"
     ],
-    "page": 9,
+    "page": 10,
     "batchDate": "July 20, 2026"
 },
 {
@@ -2395,7 +2690,7 @@ const articles = [
         "Left-Wing",
         "Politics"
     ],
-    "page": 9,
+    "page": 10,
     "batchDate": "July 20, 2026"
 },
 {
@@ -2409,7 +2704,7 @@ const articles = [
         "JB Pritzker",
         "Media Bias"
     ],
-    "page": 9,
+    "page": 10,
     "batchDate": "July 20, 2026"
 },
 {
@@ -2423,7 +2718,7 @@ const articles = [
         "Dan Koh",
         "Massachusetts"
     ],
-    "page": 9,
+    "page": 10,
     "batchDate": "July 20, 2026"
 },
 {
@@ -2437,7 +2732,7 @@ const articles = [
         "New York",
         "Zohran Mamdani"
     ],
-    "page": 9,
+    "page": 10,
     "batchDate": "July 20, 2026"
 },
 {
@@ -2450,7 +2745,7 @@ const articles = [
         "LGBTQ",
         "Violence"
     ],
-    "page": 9,
+    "page": 10,
     "batchDate": "July 20, 2026"
 },
 {
@@ -2463,7 +2758,7 @@ const articles = [
         "Corruption-Fraud",
         "Stephen A. Smith"
     ],
-    "page": 9,
+    "page": 10,
     "batchDate": "July 20, 2026"
 },
 {
@@ -2477,7 +2772,7 @@ const articles = [
         "FBI",
         "Mississippi"
     ],
-    "page": 9,
+    "page": 10,
     "batchDate": "July 20, 2026"
 },
 {
@@ -2490,7 +2785,7 @@ const articles = [
         "Communism-Socialism",
         "Energy Policy"
     ],
-    "page": 9,
+    "page": 10,
     "batchDate": "July 20, 2026"
 },
 {
@@ -2504,7 +2799,7 @@ const articles = [
         "LGBTQ",
         "Raphael Warnock"
     ],
-    "page": 9,
+    "page": 10,
     "batchDate": "July 20, 2026"
 },
 {
@@ -2517,7 +2812,7 @@ const articles = [
         "Politics",
         "U.S. Congress"
     ],
-    "page": 10,
+    "page": 11,
     "batchDate": "July 12, 2026"
 },
 {
@@ -2530,7 +2825,7 @@ const articles = [
         "Corruption-Fraud",
         "Ilhan Omar"
     ],
-    "page": 10,
+    "page": 11,
     "batchDate": "July 12, 2026"
 },
 {
@@ -2545,7 +2840,7 @@ const articles = [
         "Corruption-Fraud",
         "Michigan"
     ],
-    "page": 10,
+    "page": 11,
     "batchDate": "July 12, 2026"
 },
 {
@@ -2560,7 +2855,7 @@ const articles = [
         "LGBTQ",
         "Texas"
     ],
-    "page": 10,
+    "page": 11,
     "batchDate": "July 12, 2026"
 },
 {
@@ -2575,7 +2870,7 @@ const articles = [
         "Judiciary-Judicial",
         "Virginia"
     ],
-    "page": 10,
+    "page": 11,
     "batchDate": "July 12, 2026"
 },
 {
@@ -2588,7 +2883,7 @@ const articles = [
         "Judiciary-Judicial",
         "Racial Issues"
     ],
-    "page": 10,
+    "page": 11,
     "batchDate": "July 12, 2026"
 },
 {
@@ -2603,7 +2898,7 @@ const articles = [
         "James Talarico",
         "Texas"
     ],
-    "page": 10,
+    "page": 11,
     "batchDate": "July 12, 2026"
 },
 {
@@ -2616,7 +2911,7 @@ const articles = [
         "California",
         "Economic Policy"
     ],
-    "page": 10,
+    "page": 11,
     "batchDate": "July 12, 2026"
 },
 {
@@ -2630,7 +2925,7 @@ const articles = [
         "Election Fraud",
         "Immigration"
     ],
-    "page": 10,
+    "page": 11,
     "batchDate": "July 12, 2026"
 },
 {
@@ -2641,10 +2936,10 @@ const articles = [
     "imageUrl": "https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-07-12_154509.jpg",
     "tags": [
         "Foreign Policy",
-        "Israel",
+        "Israel-Jews",
         "Ro Khanna"
     ],
-    "page": 10,
+    "page": 11,
     "batchDate": "July 12, 2026"
 },
 {
@@ -2657,7 +2952,7 @@ const articles = [
         "Graham Platner",
         "Sexual Misconduct"
     ],
-    "page": 10,
+    "page": 11,
     "batchDate": "July 12, 2026"
 },
 {
@@ -2671,7 +2966,7 @@ const articles = [
         "Ro Khanna",
         "Sexual Misconduct"
     ],
-    "page": 10,
+    "page": 11,
     "batchDate": "July 12, 2026"
 },
 {
@@ -2685,7 +2980,7 @@ const articles = [
         "Media Bias",
         "Sexual Misconduct"
     ],
-    "page": 10,
+    "page": 11,
     "batchDate": "July 12, 2026"
 },
 {
@@ -2698,7 +2993,7 @@ const articles = [
         "Economic Policy",
         "Immigration"
     ],
-    "page": 10,
+    "page": 11,
     "batchDate": "July 12, 2026"
 },
 {
@@ -2711,7 +3006,7 @@ const articles = [
         "Communism-Socialism",
         "Left-Wing"
     ],
-    "page": 10,
+    "page": 11,
     "batchDate": "July 12, 2026"
 },
 {
@@ -2725,7 +3020,7 @@ const articles = [
         "New York",
         "Violent Crime"
     ],
-    "page": 10,
+    "page": 11,
     "batchDate": "July 12, 2026"
 },
 {
@@ -2740,7 +3035,7 @@ const articles = [
         "Corruption-Fraud",
         "Michigan"
     ],
-    "page": 10,
+    "page": 11,
     "batchDate": "July 12, 2026"
 },
 {
@@ -2753,7 +3048,7 @@ const articles = [
         "Adam Smith",
         "Politics"
     ],
-    "page": 10,
+    "page": 11,
     "batchDate": "July 12, 2026"
 },
 {
@@ -2764,9 +3059,9 @@ const articles = [
     "imageUrl": "https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-07-12_151411.jpg",
     "tags": [
         "Becca Balint",
-        "Israel"
+        "Israel-Jews"
     ],
-    "page": 10,
+    "page": 11,
     "batchDate": "July 12, 2026"
 },
 {
@@ -2779,7 +3074,7 @@ const articles = [
         "Lindsey Graham",
         "Violence"
     ],
-    "page": 10,
+    "page": 11,
     "batchDate": "July 12, 2026"
 },
 {
@@ -2793,7 +3088,7 @@ const articles = [
         "Josh Shapiro",
         "Pennsylvania"
     ],
-    "page": 11,
+    "page": 12,
     "batchDate": "July 11, 2026"
 },
 {
@@ -2806,7 +3101,7 @@ const articles = [
         "Economic Policy",
         "Illinois"
     ],
-    "page": 11,
+    "page": 12,
     "batchDate": "July 11, 2026"
 },
 {
@@ -2819,7 +3114,7 @@ const articles = [
         "Politics",
         "Polling"
     ],
-    "page": 11,
+    "page": 12,
     "batchDate": "July 11, 2026"
 },
 {
@@ -2833,7 +3128,7 @@ const articles = [
         "Politics",
         "Taxation"
     ],
-    "page": 11,
+    "page": 12,
     "batchDate": "July 11, 2026"
 },
 {
@@ -2846,7 +3141,7 @@ const articles = [
         "Communism-Socialism",
         "Economic Policy"
     ],
-    "page": 11,
+    "page": 12,
     "batchDate": "July 11, 2026"
 },
 {
@@ -2859,7 +3154,7 @@ const articles = [
         "Election Fraud",
         "Immigration"
     ],
-    "page": 11,
+    "page": 12,
     "batchDate": "July 11, 2026"
 },
 {
@@ -2873,7 +3168,7 @@ const articles = [
         "Bob Brooks",
         "Pennsylvania"
     ],
-    "page": 11,
+    "page": 12,
     "batchDate": "July 11, 2026"
 },
 {
@@ -2887,7 +3182,7 @@ const articles = [
         "Corruption-Fraud",
         "Mississippi"
     ],
-    "page": 11,
+    "page": 12,
     "batchDate": "July 11, 2026"
 },
 {
@@ -2901,7 +3196,7 @@ const articles = [
         "Communism-Socialism",
         "Graham Platner"
     ],
-    "page": 11,
+    "page": 12,
     "batchDate": "July 11, 2026"
 },
 {
@@ -2916,7 +3211,7 @@ const articles = [
         "LGBTQ",
         "Wisconsin"
     ],
-    "page": 11,
+    "page": 12,
     "batchDate": "July 11, 2026"
 },
 {
@@ -2931,7 +3226,7 @@ const articles = [
         "Ro Khanna",
         "Zohran Mamdani"
     ],
-    "page": 11,
+    "page": 12,
     "batchDate": "July 11, 2026"
 },
 {
@@ -2945,7 +3240,7 @@ const articles = [
         "Culture War",
         "Patriotism"
     ],
-    "page": 11,
+    "page": 12,
     "batchDate": "July 11, 2026"
 },
 {
@@ -2960,7 +3255,7 @@ const articles = [
         "Josh Turek",
         "Racial Issues"
     ],
-    "page": 11,
+    "page": 12,
     "batchDate": "July 11, 2026"
 },
 {
@@ -2975,7 +3270,7 @@ const articles = [
         "Law Enforcement",
         "Michigan"
     ],
-    "page": 11,
+    "page": 12,
     "batchDate": "July 11, 2026"
 },
 {
@@ -2990,7 +3285,7 @@ const articles = [
         "Graham Platner",
         "Virginia"
     ],
-    "page": 11,
+    "page": 12,
     "batchDate": "July 11, 2026"
 },
 {
@@ -3003,7 +3298,7 @@ const articles = [
         "Economic Policy",
         "U.S. Congress"
     ],
-    "page": 11,
+    "page": 12,
     "batchDate": "July 11, 2026"
 },
 {
@@ -3017,7 +3312,7 @@ const articles = [
         "Education Policy",
         "Racial Issues"
     ],
-    "page": 11,
+    "page": 12,
     "batchDate": "July 11, 2026"
 },
 {
@@ -3032,7 +3327,7 @@ const articles = [
         "LGBTQ",
         "Texas"
     ],
-    "page": 11,
+    "page": 12,
     "batchDate": "July 11, 2026"
 },
 {
@@ -3045,7 +3340,7 @@ const articles = [
         "Election Fraud",
         "Foreign Policy"
     ],
-    "page": 11,
+    "page": 12,
     "batchDate": "July 11, 2026"
 },
 {
@@ -3058,7 +3353,7 @@ const articles = [
         "Violence",
         "Wisconsin"
     ],
-    "page": 11,
+    "page": 12,
     "batchDate": "July 11, 2026"
 },
 {
@@ -3073,7 +3368,7 @@ const articles = [
         "Pennsylvania",
         "Violent Crime"
     ],
-    "page": 12,
+    "page": 13,
     "batchDate": "July 10, 2026"
 },
 {
@@ -3088,7 +3383,7 @@ const articles = [
         "LGBTQ",
         "Texas"
     ],
-    "page": 12,
+    "page": 13,
     "batchDate": "July 10, 2026"
 },
 {
@@ -3102,7 +3397,7 @@ const articles = [
         "New York",
         "Zohran Mamdani"
     ],
-    "page": 12,
+    "page": 13,
     "batchDate": "July 10, 2026"
 },
 {
@@ -3116,7 +3411,7 @@ const articles = [
         "Law Enforcement",
         "Violent Crime"
     ],
-    "page": 12,
+    "page": 13,
     "batchDate": "July 10, 2026"
 },
 {
@@ -3130,7 +3425,7 @@ const articles = [
         "California",
         "Economic Policy"
     ],
-    "page": 12,
+    "page": 13,
     "batchDate": "July 10, 2026"
 },
 {
@@ -3143,7 +3438,7 @@ const articles = [
         "Biden Administration",
         "Censorship"
     ],
-    "page": 12,
+    "page": 13,
     "batchDate": "July 10, 2026"
 },
 {
@@ -3156,7 +3451,7 @@ const articles = [
         "Judiciary-Judicial",
         "U.S. Congress"
     ],
-    "page": 12,
+    "page": 13,
     "batchDate": "July 10, 2026"
 },
 {
@@ -3170,7 +3465,7 @@ const articles = [
         "Nikole Hannah-Jones",
         "Racial Issues"
     ],
-    "page": 12,
+    "page": 13,
     "batchDate": "July 10, 2026"
 },
 {
@@ -3180,10 +3475,10 @@ const articles = [
     "xPostUrl": "https://x.com/C3Heditor/status/2075553988523553071",
     "imageUrl": "https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-07-10_071402.jpg",
     "tags": [
-        "Israel",
+        "Israel-Jews",
         "Politics"
     ],
-    "page": 12,
+    "page": 13,
     "batchDate": "July 10, 2026"
 },
 {
@@ -3198,7 +3493,7 @@ const articles = [
         "Islam-Muslim",
         "Massachusetts"
     ],
-    "page": 12,
+    "page": 13,
     "batchDate": "July 10, 2026"
 },
 {
@@ -3212,7 +3507,7 @@ const articles = [
         "New York",
         "Zohran Mamdani"
     ],
-    "page": 12,
+    "page": 13,
     "batchDate": "July 10, 2026"
 },
 {
@@ -3225,7 +3520,7 @@ const articles = [
         "Communism-Socialism",
         "Politics"
     ],
-    "page": 12,
+    "page": 13,
     "batchDate": "July 10, 2026"
 },
 {
@@ -3238,7 +3533,7 @@ const articles = [
         "Racial Issues",
         "SPLC"
     ],
-    "page": 12,
+    "page": 13,
     "batchDate": "July 10, 2026"
 },
 {
@@ -3251,7 +3546,7 @@ const articles = [
         "Culture War",
         "Patriotism"
     ],
-    "page": 12,
+    "page": 13,
     "batchDate": "July 10, 2026"
 },
 {
@@ -3265,7 +3560,7 @@ const articles = [
         "Polling",
         "Racial Issues"
     ],
-    "page": 12,
+    "page": 13,
     "batchDate": "July 10, 2026"
 },
 {
@@ -3278,7 +3573,7 @@ const articles = [
         "California",
         "Education Policy"
     ],
-    "page": 12,
+    "page": 13,
     "batchDate": "July 10, 2026"
 },
 {
@@ -3293,7 +3588,7 @@ const articles = [
         "Tim Walz",
         "Violent Crime"
     ],
-    "page": 12,
+    "page": 13,
     "batchDate": "July 10, 2026"
 },
 {
@@ -3306,7 +3601,7 @@ const articles = [
         "Illinois",
         "Sexual Misconduct"
     ],
-    "page": 12,
+    "page": 13,
     "batchDate": "July 10, 2026"
 },
 {
@@ -3320,7 +3615,7 @@ const articles = [
         "Graham Platner",
         "Sexual Misconduct"
     ],
-    "page": 12,
+    "page": 13,
     "batchDate": "July 10, 2026"
 },
 {
@@ -3333,7 +3628,7 @@ const articles = [
         "Media Bias",
         "Sexual Misconduct"
     ],
-    "page": 12,
+    "page": 13,
     "batchDate": "July 10, 2026"
 },
 {
@@ -3347,7 +3642,7 @@ const articles = [
         "Roy Cooper",
         "Violent Crime"
     ],
-    "page": 13,
+    "page": 14,
     "batchDate": "June 29, 2026"
 },
 {
@@ -3361,7 +3656,7 @@ const articles = [
         "New York",
         "Racial Issues"
     ],
-    "page": 13,
+    "page": 14,
     "batchDate": "June 29, 2026"
 },
 {
@@ -3375,7 +3670,7 @@ const articles = [
         "Corruption-Fraud",
         "Gavin Newsom"
     ],
-    "page": 13,
+    "page": 14,
     "batchDate": "June 29, 2026"
 },
 {
@@ -3390,7 +3685,7 @@ const articles = [
         "LGBTQ",
         "Texas"
     ],
-    "page": 13,
+    "page": 14,
     "batchDate": "June 29, 2026"
 },
 {
@@ -3405,7 +3700,7 @@ const articles = [
         "Paige Cognetti",
         "Pennsylvania"
     ],
-    "page": 13,
+    "page": 14,
     "batchDate": "June 29, 2026"
 },
 {
@@ -3419,7 +3714,7 @@ const articles = [
         "Kirsten Gillibrand",
         "New York"
     ],
-    "page": 13,
+    "page": 14,
     "batchDate": "June 29, 2026"
 },
 {
@@ -3432,7 +3727,7 @@ const articles = [
         "Debbie Wasserman Schultz",
         "Racial Issues"
     ],
-    "page": 13,
+    "page": 14,
     "batchDate": "June 29, 2026"
 },
 {
@@ -3446,7 +3741,7 @@ const articles = [
         "Economic Policy",
         "Left-Wing"
     ],
-    "page": 13,
+    "page": 14,
     "batchDate": "June 29, 2026"
 },
 {
@@ -3460,7 +3755,7 @@ const articles = [
         "Racial Issues",
         "Virtue Signaling"
     ],
-    "page": 13,
+    "page": 14,
     "batchDate": "June 29, 2026"
 },
 {
@@ -3474,7 +3769,7 @@ const articles = [
         "Graham Platner",
         "Maine"
     ],
-    "page": 13,
+    "page": 14,
     "batchDate": "June 29, 2026"
 },
 {
@@ -3489,7 +3784,7 @@ const articles = [
         "Media Bias",
         "Seth Moulton"
     ],
-    "page": 13,
+    "page": 14,
     "batchDate": "June 29, 2026"
 },
 {
@@ -3503,7 +3798,7 @@ const articles = [
         "Communism-Socialism",
         "New York"
     ],
-    "page": 13,
+    "page": 14,
     "batchDate": "June 29, 2026"
 },
 {
@@ -3517,7 +3812,7 @@ const articles = [
         "Immigration",
         "Polling"
     ],
-    "page": 13,
+    "page": 14,
     "batchDate": "June 29, 2026"
 },
 {
@@ -3531,7 +3826,7 @@ const articles = [
         "Healthcare Policy",
         "Immigration"
     ],
-    "page": 13,
+    "page": 14,
     "batchDate": "June 29, 2026"
 },
 {
@@ -3544,7 +3839,7 @@ const articles = [
         "Media Bias",
         "Politics"
     ],
-    "page": 13,
+    "page": 14,
     "batchDate": "June 29, 2026"
 },
 {
@@ -3559,7 +3854,7 @@ const articles = [
         "Left-Wing",
         "Zohran Mamdani"
     ],
-    "page": 13,
+    "page": 14,
     "batchDate": "June 29, 2026"
 },
 {
@@ -3573,7 +3868,7 @@ const articles = [
         "Chicago",
         "Violent Crime"
     ],
-    "page": 13,
+    "page": 14,
     "batchDate": "June 29, 2026"
 },
 {
@@ -3586,7 +3881,7 @@ const articles = [
         "Culture War",
         "Politics"
     ],
-    "page": 13,
+    "page": 14,
     "batchDate": "June 29, 2026"
 },
 {
@@ -3599,7 +3894,7 @@ const articles = [
         "Immigration",
         "Judiciary-Judicial"
     ],
-    "page": 13,
+    "page": 14,
     "batchDate": "June 29, 2026"
 },
 {
@@ -3612,7 +3907,7 @@ const articles = [
         "Polling",
         "Racial Issues"
     ],
-    "page": 13,
+    "page": 14,
     "batchDate": "June 29, 2026"
 },
 {
@@ -3627,7 +3922,7 @@ const articles = [
         "Violent Crime",
         "Virginia"
     ],
-    "page": 14,
+    "page": 15,
     "batchDate": "June 24, 2026"
 },
 {
@@ -3642,7 +3937,7 @@ const articles = [
         "National Security",
         "Terrorism"
     ],
-    "page": 14,
+    "page": 15,
     "batchDate": "June 24, 2026"
 },
 {
@@ -3656,7 +3951,7 @@ const articles = [
         "Immigration",
         "Texas"
     ],
-    "page": 14,
+    "page": 15,
     "batchDate": "June 24, 2026"
 },
 {
@@ -3670,7 +3965,7 @@ const articles = [
         "Election Fraud",
         "Immigration"
     ],
-    "page": 14,
+    "page": 15,
     "batchDate": "June 24, 2026"
 },
 {
@@ -3683,7 +3978,7 @@ const articles = [
         "Culture War",
         "Polling"
     ],
-    "page": 14,
+    "page": 15,
     "batchDate": "June 24, 2026"
 },
 {
@@ -3697,7 +3992,7 @@ const articles = [
         "Corruption-Fraud",
         "Homeless"
     ],
-    "page": 14,
+    "page": 15,
     "batchDate": "June 24, 2026"
 },
 {
@@ -3711,7 +4006,7 @@ const articles = [
         "Economic Policy",
         "Gavin Newsom"
     ],
-    "page": 14,
+    "page": 15,
     "batchDate": "June 24, 2026"
 },
 {
@@ -3725,7 +4020,7 @@ const articles = [
         "Illinois",
         "Immigration"
     ],
-    "page": 14,
+    "page": 15,
     "batchDate": "June 24, 2026"
 },
 {
@@ -3739,7 +4034,7 @@ const articles = [
         "Communism-Socialism",
         "Economic Policy"
     ],
-    "page": 14,
+    "page": 15,
     "batchDate": "June 24, 2026"
 },
 {
@@ -3753,7 +4048,7 @@ const articles = [
         "Corruption-Fraud",
         "Obama Presidential Center"
     ],
-    "page": 14,
+    "page": 15,
     "batchDate": "June 24, 2026"
 },
 {
@@ -3768,7 +4063,7 @@ const articles = [
         "Left-Wing",
         "Violence"
     ],
-    "page": 14,
+    "page": 15,
     "batchDate": "June 24, 2026"
 },
 {
@@ -3782,7 +4077,7 @@ const articles = [
         "Immigration",
         "Roy Cooper"
     ],
-    "page": 14,
+    "page": 15,
     "batchDate": "June 24, 2026"
 },
 {
@@ -3796,7 +4091,7 @@ const articles = [
         "Racial Issues",
         "Virginia"
     ],
-    "page": 14,
+    "page": 15,
     "batchDate": "June 24, 2026"
 },
 {
@@ -3810,7 +4105,7 @@ const articles = [
         "DOJ",
         "Left-Wing"
     ],
-    "page": 14,
+    "page": 15,
     "batchDate": "June 24, 2026"
 },
 {
@@ -3824,7 +4119,7 @@ const articles = [
         "Graham Platner",
         "Maine"
     ],
-    "page": 14,
+    "page": 15,
     "batchDate": "June 24, 2026"
 },
 {
@@ -3839,7 +4134,7 @@ const articles = [
         "Francesca Hong",
         "Wisconsin"
     ],
-    "page": 14,
+    "page": 15,
     "batchDate": "June 24, 2026"
 },
 {
@@ -3854,7 +4149,7 @@ const articles = [
         "LGBTQ",
         "Texas"
     ],
-    "page": 14,
+    "page": 15,
     "batchDate": "June 24, 2026"
 },
 {
@@ -3869,7 +4164,7 @@ const articles = [
         "Eric Swalwell",
         "Ruben Gallego"
     ],
-    "page": 14,
+    "page": 15,
     "batchDate": "June 24, 2026"
 },
 {
@@ -3882,7 +4177,7 @@ const articles = [
         "Foreign Policy",
         "Iran"
     ],
-    "page": 14,
+    "page": 15,
     "batchDate": "June 24, 2026"
 },
 {
@@ -3896,7 +4191,7 @@ const articles = [
         "Communism-Socialism",
         "New York"
     ],
-    "page": 14,
+    "page": 15,
     "batchDate": "June 24, 2026"
 },
 {
@@ -3910,7 +4205,7 @@ const articles = [
         "Graham Platner",
         "Law Enforcement"
     ],
-    "page": 15,
+    "page": 16,
     "batchDate": "June 22, 2026"
 },
 {
@@ -3924,7 +4219,7 @@ const articles = [
         "National Security",
         "Terrorism"
     ],
-    "page": 15,
+    "page": 16,
     "batchDate": "June 22, 2026"
 },
 {
@@ -3938,7 +4233,7 @@ const articles = [
         "National Security",
         "Terrorism"
     ],
-    "page": 15,
+    "page": 16,
     "batchDate": "June 22, 2026"
 },
 {
@@ -3952,7 +4247,7 @@ const articles = [
         "LGBTQ",
         "Virginia"
     ],
-    "page": 15,
+    "page": 16,
     "batchDate": "June 22, 2026"
 },
 {
@@ -3967,7 +4262,7 @@ const articles = [
         "Jon Ossoff",
         "SPLC"
     ],
-    "page": 15,
+    "page": 16,
     "batchDate": "June 22, 2026"
 },
 {
@@ -3982,7 +4277,7 @@ const articles = [
         "Immigration",
         "Wisconsin"
     ],
-    "page": 15,
+    "page": 16,
     "batchDate": "June 22, 2026"
 },
 {
@@ -3996,7 +4291,7 @@ const articles = [
         "Left-Wing",
         "New Jersey"
     ],
-    "page": 15,
+    "page": 16,
     "batchDate": "June 22, 2026"
 },
 {
@@ -4011,7 +4306,7 @@ const articles = [
         "Media Bias",
         "Michigan"
     ],
-    "page": 15,
+    "page": 16,
     "batchDate": "June 22, 2026"
 },
 {
@@ -4025,7 +4320,7 @@ const articles = [
         "FBI",
         "George Soros"
     ],
-    "page": 15,
+    "page": 16,
     "batchDate": "June 22, 2026"
 },
 {
@@ -4039,7 +4334,7 @@ const articles = [
         "Corruption-Fraud",
         "James Talarico"
     ],
-    "page": 15,
+    "page": 16,
     "batchDate": "June 22, 2026"
 },
 {
@@ -4053,7 +4348,7 @@ const articles = [
         "Gabe Vasquez",
         "New Mexico"
     ],
-    "page": 15,
+    "page": 16,
     "batchDate": "June 22, 2026"
 },
 {
@@ -4066,7 +4361,7 @@ const articles = [
         "2026 Elections",
         "Election Fraud"
     ],
-    "page": 15,
+    "page": 16,
     "batchDate": "June 22, 2026"
 },
 {
@@ -4081,7 +4376,7 @@ const articles = [
         "Pennsylvania",
         "Violent Crime"
     ],
-    "page": 15,
+    "page": 16,
     "batchDate": "June 22, 2026"
 },
 {
@@ -4095,7 +4390,7 @@ const articles = [
         "Economic Policy",
         "Left-Wing"
     ],
-    "page": 15,
+    "page": 16,
     "batchDate": "June 22, 2026"
 },
 {
@@ -4110,7 +4405,7 @@ const articles = [
         "Healthcare Policy",
         "New York"
     ],
-    "page": 15,
+    "page": 16,
     "batchDate": "June 22, 2026"
 },
 {
@@ -4124,7 +4419,7 @@ const articles = [
         "Media Bias",
         "San Francisco"
     ],
-    "page": 15,
+    "page": 16,
     "batchDate": "June 22, 2026"
 },
 {
@@ -4138,7 +4433,7 @@ const articles = [
         "Education Policy",
         "LGBTQ"
     ],
-    "page": 15,
+    "page": 16,
     "batchDate": "June 22, 2026"
 },
 {
@@ -4152,7 +4447,7 @@ const articles = [
         "DOJ",
         "Election Fraud"
     ],
-    "page": 15,
+    "page": 16,
     "batchDate": "June 22, 2026"
 },
 {
@@ -4167,7 +4462,7 @@ const articles = [
         "DOJ",
         "Gavin Newsom"
     ],
-    "page": 15,
+    "page": 16,
     "batchDate": "June 22, 2026"
 },
 {
@@ -4181,7 +4476,7 @@ const articles = [
         "Left-Wing",
         "Violence"
     ],
-    "page": 15,
+    "page": 16,
     "batchDate": "June 22, 2026"
 },
 {
@@ -4195,7 +4490,7 @@ const articles = [
         "Darializa Avila Chevalier",
         "NYC"
     ],
-    "page": 16,
+    "page": 17,
     "batchDate": "June 21, 2026"
 },
 {
@@ -4209,7 +4504,7 @@ const articles = [
         "Patriotism",
         "Politics"
     ],
-    "page": 16,
+    "page": 17,
     "batchDate": "June 21, 2026"
 },
 {
@@ -4223,7 +4518,7 @@ const articles = [
         "Maryland",
         "Wes Moore"
     ],
-    "page": 16,
+    "page": 17,
     "batchDate": "June 21, 2026"
 },
 {
@@ -4237,7 +4532,7 @@ const articles = [
         "Election Fraud",
         "Investigation"
     ],
-    "page": 16,
+    "page": 17,
     "batchDate": "June 21, 2026"
 },
 {
@@ -4251,7 +4546,7 @@ const articles = [
         "Hate",
         "Racial Issues"
     ],
-    "page": 16,
+    "page": 17,
     "batchDate": "June 21, 2026"
 },
 {
@@ -4265,7 +4560,7 @@ const articles = [
         "Economic Policy",
         "LGBTQ"
     ],
-    "page": 16,
+    "page": 17,
     "batchDate": "June 21, 2026"
 },
 {
@@ -4279,7 +4574,7 @@ const articles = [
         "Sexual Misconduct",
         "Violent Crime"
     ],
-    "page": 16,
+    "page": 17,
     "batchDate": "June 21, 2026"
 },
 {
@@ -4293,7 +4588,7 @@ const articles = [
         "Politics",
         "U.S. Constitution"
     ],
-    "page": 16,
+    "page": 17,
     "batchDate": "June 21, 2026"
 },
 {
@@ -4307,7 +4602,7 @@ const articles = [
         "Business Relocation",
         "Gun Control"
     ],
-    "page": 16,
+    "page": 17,
     "batchDate": "June 21, 2026"
 },
 {
@@ -4321,7 +4616,7 @@ const articles = [
         "Left-Wing",
         "Weaponization"
     ],
-    "page": 16,
+    "page": 17,
     "batchDate": "June 21, 2026"
 },
 {
@@ -4336,7 +4631,7 @@ const articles = [
         "Immigration",
         "Virginia"
     ],
-    "page": 16,
+    "page": 17,
     "batchDate": "June 21, 2026"
 },
 {
@@ -4351,7 +4646,7 @@ const articles = [
         "New York",
         "Violent Crime"
     ],
-    "page": 16,
+    "page": 17,
     "batchDate": "June 21, 2026"
 },
 {
@@ -4366,7 +4661,7 @@ const articles = [
         "NYC",
         "Zohran Mamdani"
     ],
-    "page": 16,
+    "page": 17,
     "batchDate": "June 21, 2026"
 },
 {
@@ -4380,7 +4675,7 @@ const articles = [
         "Kris Mayes",
         "Weaponization"
     ],
-    "page": 16,
+    "page": 17,
     "batchDate": "June 21, 2026"
 },
 {
@@ -4395,7 +4690,7 @@ const articles = [
         "Polling",
         "Tim Walz"
     ],
-    "page": 16,
+    "page": 17,
     "batchDate": "June 21, 2026"
 },
 {
@@ -4410,7 +4705,7 @@ const articles = [
         "JB Pritzker",
         "Violent Crime"
     ],
-    "page": 16,
+    "page": 17,
     "batchDate": "June 21, 2026"
 },
 {
@@ -4424,7 +4719,7 @@ const articles = [
         "Violent Crime",
         "WashingtonDC"
     ],
-    "page": 16,
+    "page": 17,
     "batchDate": "June 21, 2026"
 },
 {
@@ -4438,7 +4733,7 @@ const articles = [
         "Islam-Muslim",
         "Michigan"
     ],
-    "page": 16,
+    "page": 17,
     "batchDate": "June 21, 2026"
 },
 {
@@ -4452,7 +4747,7 @@ const articles = [
         "Ro Khanna",
         "Sexual Misconduct"
     ],
-    "page": 16,
+    "page": 17,
     "batchDate": "June 21, 2026"
 },
 {
@@ -4467,7 +4762,7 @@ const articles = [
         "Racial Issues",
         "Texas"
     ],
-    "page": 16,
+    "page": 17,
     "batchDate": "June 21, 2026"
 },
 {
@@ -4481,7 +4776,7 @@ const articles = [
         "Graham Platner",
         "Sexual Misconduct"
     ],
-    "page": 17,
+    "page": 18,
     "batchDate": "June 16, 2026"
 },
 {
@@ -4494,7 +4789,7 @@ const articles = [
         "Economic Policy",
         "Foreign Policy"
     ],
-    "page": 17,
+    "page": 18,
     "batchDate": "June 16, 2026"
 },
 {
@@ -4507,7 +4802,7 @@ const articles = [
         "Biden Administration",
         "LGBTQ"
     ],
-    "page": 17,
+    "page": 18,
     "batchDate": "June 16, 2026"
 },
 {
@@ -4521,7 +4816,7 @@ const articles = [
         "Florida",
         "Immigration"
     ],
-    "page": 17,
+    "page": 18,
     "batchDate": "June 16, 2026"
 },
 {
@@ -4536,7 +4831,7 @@ const articles = [
         "Left-Wing",
         "Wisconsin"
     ],
-    "page": 17,
+    "page": 18,
     "batchDate": "June 16, 2026"
 },
 {
@@ -4549,7 +4844,7 @@ const articles = [
         "NYC",
         "Zohran Mamdani"
     ],
-    "page": 17,
+    "page": 18,
     "batchDate": "June 16, 2026"
 },
 {
@@ -4563,7 +4858,7 @@ const articles = [
         "Sexual Misconduct",
         "Washington"
     ],
-    "page": 17,
+    "page": 18,
     "batchDate": "June 16, 2026"
 },
 {
@@ -4576,7 +4871,7 @@ const articles = [
         "California",
         "Los Angeles"
     ],
-    "page": 17,
+    "page": 18,
     "batchDate": "June 16, 2026"
 },
 {
@@ -4590,7 +4885,7 @@ const articles = [
         "Abdul El-Sayed",
         "Michigan"
     ],
-    "page": 17,
+    "page": 18,
     "batchDate": "June 16, 2026"
 },
 {
@@ -4604,7 +4899,7 @@ const articles = [
         "Pennsylvania",
         "Philadelphia"
     ],
-    "page": 17,
+    "page": 18,
     "batchDate": "June 16, 2026"
 },
 {
@@ -4617,7 +4912,7 @@ const articles = [
         "Immigration",
         "Racial Issues"
     ],
-    "page": 17,
+    "page": 18,
     "batchDate": "June 16, 2026"
 },
 {
@@ -4630,7 +4925,7 @@ const articles = [
         "CBP-DHS-ICE",
         "Immigration"
     ],
-    "page": 17,
+    "page": 18,
     "batchDate": "June 16, 2026"
 },
 {
@@ -4644,7 +4939,7 @@ const articles = [
         "CBP-DHS-ICE",
         "Immigration"
     ],
-    "page": 17,
+    "page": 18,
     "batchDate": "June 16, 2026"
 },
 {
@@ -4657,7 +4952,7 @@ const articles = [
         "CBP-DHS-ICE",
         "Immigration"
     ],
-    "page": 17,
+    "page": 18,
     "batchDate": "June 16, 2026"
 },
 {
@@ -4670,7 +4965,7 @@ const articles = [
         "Gavin Newsom",
         "Hunter Biden"
     ],
-    "page": 17,
+    "page": 18,
     "batchDate": "June 16, 2026"
 },
 {
@@ -4685,7 +4980,7 @@ const articles = [
         "CBP-DHS-ICE",
         "Virginia"
     ],
-    "page": 17,
+    "page": 18,
     "batchDate": "June 16, 2026"
 },
 {
@@ -4700,7 +4995,7 @@ const articles = [
         "LGBTQ",
         "Texas"
     ],
-    "page": 17,
+    "page": 18,
     "batchDate": "June 16, 2026"
 },
 {
@@ -4715,7 +5010,7 @@ const articles = [
         "NYC",
         "Zohran Mamdani"
     ],
-    "page": 17,
+    "page": 18,
     "batchDate": "June 16, 2026"
 },
 {
@@ -4728,7 +5023,7 @@ const articles = [
         "2026 Elections",
         "Left-Wing"
     ],
-    "page": 17,
+    "page": 18,
     "batchDate": "June 16, 2026"
 },
 {
@@ -4743,7 +5038,7 @@ const articles = [
         "Mainstream Media",
         "Media Bias"
     ],
-    "page": 17,
+    "page": 18,
     "batchDate": "June 16, 2026"
 },
 {
@@ -4756,7 +5051,7 @@ const articles = [
         "California",
         "Government"
     ],
-    "page": 18,
+    "page": 19,
     "batchDate": "June 12, 2026"
 },
 {
@@ -4769,7 +5064,7 @@ const articles = [
         "California",
         "Government"
     ],
-    "page": 18,
+    "page": 19,
     "batchDate": "June 12, 2026"
 },
 {
@@ -4783,7 +5078,7 @@ const articles = [
         "Reparations",
         "Summer Lee"
     ],
-    "page": 18,
+    "page": 19,
     "batchDate": "June 12, 2026"
 },
 {
@@ -4797,7 +5092,7 @@ const articles = [
         "Immigration",
         "New Jersey"
     ],
-    "page": 18,
+    "page": 19,
     "batchDate": "June 12, 2026"
 },
 {
@@ -4812,7 +5107,7 @@ const articles = [
         "Kathy Hochul",
         "New York"
     ],
-    "page": 18,
+    "page": 19,
     "batchDate": "June 12, 2026"
 },
 {
@@ -4827,7 +5122,7 @@ const articles = [
         "Sexual Misconduct",
         "Texas"
     ],
-    "page": 18,
+    "page": 19,
     "batchDate": "June 12, 2026"
 },
 {
@@ -4840,7 +5135,7 @@ const articles = [
         "Racial Issues",
         "SPLC"
     ],
-    "page": 18,
+    "page": 19,
     "batchDate": "June 12, 2026"
 },
 {
@@ -4855,7 +5150,7 @@ const articles = [
         "Michigan",
         "Terrorism"
     ],
-    "page": 18,
+    "page": 19,
     "batchDate": "June 12, 2026"
 },
 {
@@ -4868,7 +5163,7 @@ const articles = [
         "2026 Elections",
         "Politics"
     ],
-    "page": 18,
+    "page": 19,
     "batchDate": "June 12, 2026"
 },
 {
@@ -4882,7 +5177,7 @@ const articles = [
         "Corruption-Fraud",
         "Immigration"
     ],
-    "page": 18,
+    "page": 19,
     "batchDate": "June 12, 2026"
 },
 {
@@ -4897,7 +5192,7 @@ const articles = [
         "Media Bias",
         "Politics"
     ],
-    "page": 18,
+    "page": 19,
     "batchDate": "June 12, 2026"
 },
 {
@@ -4910,7 +5205,7 @@ const articles = [
         "CBP-DHS-ICE",
         "Immigration"
     ],
-    "page": 18,
+    "page": 19,
     "batchDate": "June 12, 2026"
 },
 {
@@ -4925,7 +5220,7 @@ const articles = [
         "NYC",
         "Zohran Mamdani"
     ],
-    "page": 18,
+    "page": 19,
     "batchDate": "June 12, 2026"
 },
 {
@@ -4939,7 +5234,7 @@ const articles = [
         "Illinois",
         "Taxation"
     ],
-    "page": 18,
+    "page": 19,
     "batchDate": "June 12, 2026"
 },
 {
@@ -4951,10 +5246,10 @@ const articles = [
     "tags": [
         "Abdul El-Sayed",
         "Islam-Muslim",
-        "Israel",
+        "Israel-Jews",
         "Michigan"
     ],
-    "page": 18,
+    "page": 19,
     "batchDate": "June 12, 2026"
 },
 {
@@ -4967,7 +5262,7 @@ const articles = [
         "2026 Elections",
         "Politics"
     ],
-    "page": 18,
+    "page": 19,
     "batchDate": "June 12, 2026"
 },
 {
@@ -4982,7 +5277,7 @@ const articles = [
         "Minnesota",
         "Tim Walz"
     ],
-    "page": 18,
+    "page": 19,
     "batchDate": "June 12, 2026"
 },
 {
@@ -4997,7 +5292,7 @@ const articles = [
         "Media Bias",
         "Politics"
     ],
-    "page": 18,
+    "page": 19,
     "batchDate": "June 12, 2026"
 },
 {
@@ -5011,7 +5306,7 @@ const articles = [
         "Election Fraud",
         "Politics"
     ],
-    "page": 18,
+    "page": 19,
     "batchDate": "June 12, 2026"
 },
 {
@@ -5024,7 +5319,7 @@ const articles = [
         "Media Bias",
         "Politics"
     ],
-    "page": 18,
+    "page": 19,
     "batchDate": "June 12, 2026"
 },
 {
@@ -5039,7 +5334,7 @@ const articles = [
         "Maine",
         "Ro Khanna"
     ],
-    "page": 19,
+    "page": 20,
     "batchDate": "June 8, 2026"
 },
 {
@@ -5054,7 +5349,7 @@ const articles = [
         "Sexual Misconduct",
         "Texas"
     ],
-    "page": 19,
+    "page": 20,
     "batchDate": "June 8, 2026"
 },
 {
@@ -5068,7 +5363,7 @@ const articles = [
         "Media Bias",
         "Politics"
     ],
-    "page": 19,
+    "page": 20,
     "batchDate": "June 8, 2026"
 },
 {
@@ -5081,7 +5376,7 @@ const articles = [
         "Al Green",
         "Racial Issues"
     ],
-    "page": 19,
+    "page": 20,
     "batchDate": "June 8, 2026"
 },
 {
@@ -5096,7 +5391,7 @@ const articles = [
         "Reparations",
         "Tina McKinnor"
     ],
-    "page": 19,
+    "page": 20,
     "batchDate": "June 8, 2026"
 },
 {
@@ -5111,7 +5406,7 @@ const articles = [
         "JoAnna Mendoza",
         "LGBTQ"
     ],
-    "page": 19,
+    "page": 20,
     "batchDate": "June 8, 2026"
 },
 {
@@ -5126,7 +5421,7 @@ const articles = [
         "Lindsay James",
         "Racial Issues"
     ],
-    "page": 19,
+    "page": 20,
     "batchDate": "June 8, 2026"
 },
 {
@@ -5137,11 +5432,11 @@ const articles = [
     "imageUrl": "https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-06-08_162951_3d420019.jpg",
     "tags": [
         "Hate",
-        "Israel",
+        "Israel-Jews",
         "NYC",
         "Zohran Mamdani"
     ],
-    "page": 19,
+    "page": 20,
     "batchDate": "June 8, 2026"
 },
 {
@@ -5156,7 +5451,7 @@ const articles = [
         "Maine",
         "Politics"
     ],
-    "page": 19,
+    "page": 20,
     "batchDate": "June 8, 2026"
 },
 {
@@ -5170,7 +5465,7 @@ const articles = [
         "Immigration",
         "New Jersey"
     ],
-    "page": 19,
+    "page": 20,
     "batchDate": "June 8, 2026"
 },
 {
@@ -5185,7 +5480,7 @@ const articles = [
         "Judiciary-Judicial",
         "Politics"
     ],
-    "page": 19,
+    "page": 20,
     "batchDate": "June 8, 2026"
 },
 {
@@ -5198,7 +5493,7 @@ const articles = [
         "Chicago",
         "Government"
     ],
-    "page": 19,
+    "page": 20,
     "batchDate": "June 8, 2026"
 },
 {
@@ -5211,7 +5506,7 @@ const articles = [
         "California",
         "Government"
     ],
-    "page": 19,
+    "page": 20,
     "batchDate": "June 8, 2026"
 },
 {
@@ -5226,7 +5521,7 @@ const articles = [
         "Politics",
         "Wisconsin"
     ],
-    "page": 19,
+    "page": 20,
     "batchDate": "June 8, 2026"
 },
 {
@@ -5241,7 +5536,7 @@ const articles = [
         "Left-Wing",
         "Nate Willems"
     ],
-    "page": 19,
+    "page": 20,
     "batchDate": "June 8, 2026"
 },
 {
@@ -5256,7 +5551,7 @@ const articles = [
         "Connecticut",
         "Left-Wing"
     ],
-    "page": 19,
+    "page": 20,
     "batchDate": "June 8, 2026"
 },
 {
@@ -5271,7 +5566,7 @@ const articles = [
         "NYC",
         "Politics"
     ],
-    "page": 19,
+    "page": 20,
     "batchDate": "June 8, 2026"
 },
 {
@@ -5286,7 +5581,7 @@ const articles = [
         "Kris Mayes",
         "Weaponization"
     ],
-    "page": 19,
+    "page": 20,
     "batchDate": "June 8, 2026"
 },
 {
@@ -5301,7 +5596,7 @@ const articles = [
         "Jimmy Gomez",
         "Sexual Misconduct"
     ],
-    "page": 19,
+    "page": 20,
     "batchDate": "June 8, 2026"
 },
 {
@@ -5316,7 +5611,7 @@ const articles = [
         "Mainstream Media",
         "Media Bias"
     ],
-    "page": 19,
+    "page": 20,
     "batchDate": "June 8, 2026"
 },
 {
@@ -5330,7 +5625,7 @@ const articles = [
         "Election Fraud",
         "Media Bias"
     ],
-    "page": 20,
+    "page": 21,
     "batchDate": "June 5, 2026"
 },
 {
@@ -5345,7 +5640,7 @@ const articles = [
         "Judiciary-Judicial",
         "Politics"
     ],
-    "page": 20,
+    "page": 21,
     "batchDate": "June 5, 2026"
 },
 {
@@ -5358,7 +5653,7 @@ const articles = [
         "Left-Wing",
         "Politics"
     ],
-    "page": 20,
+    "page": 21,
     "batchDate": "June 5, 2026"
 },
 {
@@ -5372,7 +5667,7 @@ const articles = [
         "Culture War",
         "LGBTQ"
     ],
-    "page": 20,
+    "page": 21,
     "batchDate": "June 5, 2026"
 },
 {
@@ -5386,7 +5681,7 @@ const articles = [
         "LGBTQ",
         "New York"
     ],
-    "page": 20,
+    "page": 21,
     "batchDate": "June 5, 2026"
 },
 {
@@ -5399,7 +5694,7 @@ const articles = [
         "2026 Elections",
         "Politics"
     ],
-    "page": 20,
+    "page": 21,
     "batchDate": "June 5, 2026"
 },
 {
@@ -5414,7 +5709,7 @@ const articles = [
         "New Jersey",
         "Terrorism"
     ],
-    "page": 20,
+    "page": 21,
     "batchDate": "June 5, 2026"
 },
 {
@@ -5428,7 +5723,7 @@ const articles = [
         "Government",
         "Taxation"
     ],
-    "page": 20,
+    "page": 21,
     "batchDate": "June 5, 2026"
 },
 {
@@ -5443,7 +5738,7 @@ const articles = [
         "Politics",
         "Sexual Misconduct"
     ],
-    "page": 20,
+    "page": 21,
     "batchDate": "June 5, 2026"
 },
 {
@@ -5458,7 +5753,7 @@ const articles = [
         "Massachusetts",
         "Politics"
     ],
-    "page": 20,
+    "page": 21,
     "batchDate": "June 5, 2026"
 },
 {
@@ -5471,7 +5766,7 @@ const articles = [
         "Culture War",
         "Left-Wing"
     ],
-    "page": 20,
+    "page": 21,
     "batchDate": "June 5, 2026"
 },
 {
@@ -5485,7 +5780,7 @@ const articles = [
         "Politics",
         "Zohran Mamdani"
     ],
-    "page": 20,
+    "page": 21,
     "batchDate": "June 5, 2026"
 },
 {
@@ -5499,7 +5794,7 @@ const articles = [
         "Massachusetts",
         "Taxation"
     ],
-    "page": 20,
+    "page": 21,
     "batchDate": "June 5, 2026"
 },
 {
@@ -5513,7 +5808,7 @@ const articles = [
         "Left-Wing",
         "Wisconsin"
     ],
-    "page": 20,
+    "page": 21,
     "batchDate": "June 5, 2026"
 },
 {
@@ -5528,7 +5823,7 @@ const articles = [
         "Sexual Misconduct",
         "U.S. Congress"
     ],
-    "page": 20,
+    "page": 21,
     "batchDate": "June 5, 2026"
 },
 {
@@ -5543,7 +5838,7 @@ const articles = [
         "James Talarico",
         "Texas"
     ],
-    "page": 20,
+    "page": 21,
     "batchDate": "June 5, 2026"
 },
 {
@@ -5557,7 +5852,7 @@ const articles = [
         "Impeachment",
         "Politics"
     ],
-    "page": 20,
+    "page": 21,
     "batchDate": "June 5, 2026"
 },
 {
@@ -5570,7 +5865,7 @@ const articles = [
         "Judiciary-Judicial",
         "Politics"
     ],
-    "page": 20,
+    "page": 21,
     "batchDate": "June 5, 2026"
 },
 {
@@ -5582,10 +5877,10 @@ const articles = [
     "tags": [
         "California",
         "Hate",
-        "Israel",
+        "Israel-Jews",
         "Violent Crime"
     ],
-    "page": 20,
+    "page": 21,
     "batchDate": "June 5, 2026"
 },
 {
@@ -5600,7 +5895,7 @@ const articles = [
         "Politics",
         "Violent Crime"
     ],
-    "page": 20,
+    "page": 21,
     "batchDate": "June 5, 2026"
 },
 {
@@ -5614,7 +5909,7 @@ const articles = [
         "Politics",
         "Ro Khanna"
     ],
-    "page": 21,
+    "page": 22,
     "batchDate": "June 3, 2026"
 },
 {
@@ -5629,7 +5924,7 @@ const articles = [
         "James Talarico",
         "Texas"
     ],
-    "page": 21,
+    "page": 22,
     "batchDate": "June 3, 2026"
 },
 {
@@ -5643,7 +5938,7 @@ const articles = [
         "Politics",
         "Racial Issues"
     ],
-    "page": 21,
+    "page": 22,
     "batchDate": "June 3, 2026"
 },
 {
@@ -5658,7 +5953,7 @@ const articles = [
         "Politics",
         "Racial Issues"
     ],
-    "page": 21,
+    "page": 22,
     "batchDate": "June 3, 2026"
 },
 {
@@ -5672,7 +5967,7 @@ const articles = [
         "Politics",
         "Reparations"
     ],
-    "page": 21,
+    "page": 22,
     "batchDate": "June 3, 2026"
 },
 {
@@ -5687,7 +5982,7 @@ const articles = [
         "Politics",
         "Sexual Misconduct"
     ],
-    "page": 21,
+    "page": 22,
     "batchDate": "June 3, 2026"
 },
 {
@@ -5700,7 +5995,7 @@ const articles = [
         "Immigration",
         "New Jersey"
     ],
-    "page": 21,
+    "page": 22,
     "batchDate": "June 3, 2026"
 },
 {
@@ -5715,7 +6010,7 @@ const articles = [
         "Corruption-Fraud",
         "Journalism"
     ],
-    "page": 21,
+    "page": 22,
     "batchDate": "June 3, 2026"
 },
 {
@@ -5730,7 +6025,7 @@ const articles = [
         "Politics",
         "Violent Crime"
     ],
-    "page": 21,
+    "page": 22,
     "batchDate": "June 3, 2026"
 },
 {
@@ -5745,7 +6040,7 @@ const articles = [
         "New Jersey",
         "Texas"
     ],
-    "page": 21,
+    "page": 22,
     "batchDate": "June 3, 2026"
 },
 {
@@ -5761,7 +6056,7 @@ const articles = [
         "Incompetence",
         "Soft-On-Crime"
     ],
-    "page": 21,
+    "page": 22,
     "batchDate": "June 3, 2026"
 },
 {
@@ -5775,7 +6070,7 @@ const articles = [
         "Immigration",
         "Violent Crime"
     ],
-    "page": 21,
+    "page": 22,
     "batchDate": "June 3, 2026"
 },
 {
@@ -5789,7 +6084,7 @@ const articles = [
         "Joe Biden",
         "Politics"
     ],
-    "page": 21,
+    "page": 22,
     "batchDate": "June 3, 2026"
 },
 {
@@ -5804,7 +6099,7 @@ const articles = [
         "Maryland",
         "Virginia"
     ],
-    "page": 21,
+    "page": 22,
     "batchDate": "June 3, 2026"
 },
 {
@@ -5819,7 +6114,7 @@ const articles = [
         "Dan Osborn",
         "Nebraska"
     ],
-    "page": 21,
+    "page": 22,
     "batchDate": "June 3, 2026"
 },
 {
@@ -5833,7 +6128,7 @@ const articles = [
         "Taxation",
         "Virginia"
     ],
-    "page": 21,
+    "page": 22,
     "batchDate": "June 3, 2026"
 },
 {
@@ -5848,7 +6143,7 @@ const articles = [
         "Politics",
         "Sexual Misconduct"
     ],
-    "page": 21,
+    "page": 22,
     "batchDate": "June 3, 2026"
 },
 {
@@ -5863,7 +6158,7 @@ const articles = [
         "Politics",
         "Roy Cooper"
     ],
-    "page": 21,
+    "page": 22,
     "batchDate": "June 3, 2026"
 },
 {
@@ -5878,7 +6173,7 @@ const articles = [
         "Left-Wing",
         "New Jersey"
     ],
-    "page": 21,
+    "page": 22,
     "batchDate": "June 3, 2026"
 },
 {
@@ -5892,7 +6187,7 @@ const articles = [
         "Islam-Muslim",
         "Texas"
     ],
-    "page": 21,
+    "page": 22,
     "batchDate": "June 3, 2026"
 },
 {
@@ -5906,7 +6201,7 @@ const articles = [
         "Government",
         "Immigration"
     ],
-    "page": 22,
+    "page": 23,
     "batchDate": "June 1, 2026"
 },
 {
@@ -5919,7 +6214,7 @@ const articles = [
         "Left-Wing",
         "Politics"
     ],
-    "page": 22,
+    "page": 23,
     "batchDate": "June 1, 2026"
 },
 {
@@ -5934,7 +6229,7 @@ const articles = [
         "Judiciary-Judicial",
         "Maryland"
     ],
-    "page": 22,
+    "page": 23,
     "batchDate": "June 1, 2026"
 },
 {
@@ -5949,7 +6244,7 @@ const articles = [
         "Left-Wing",
         "Michigan"
     ],
-    "page": 22,
+    "page": 23,
     "batchDate": "June 1, 2026"
 },
 {
@@ -5964,7 +6259,7 @@ const articles = [
         "Michigan",
         "Politics"
     ],
-    "page": 22,
+    "page": 23,
     "batchDate": "June 1, 2026"
 },
 {
@@ -5979,7 +6274,7 @@ const articles = [
         "New Jersey",
         "Violent Crime"
     ],
-    "page": 22,
+    "page": 23,
     "batchDate": "June 1, 2026"
 },
 {
@@ -5994,7 +6289,7 @@ const articles = [
         "Taxation",
         "Zohran Mamdani"
     ],
-    "page": 22,
+    "page": 23,
     "batchDate": "June 1, 2026"
 },
 {
@@ -6008,7 +6303,7 @@ const articles = [
         "Corruption-Fraud",
         "Politics"
     ],
-    "page": 22,
+    "page": 23,
     "batchDate": "June 1, 2026"
 },
 {
@@ -6023,7 +6318,7 @@ const articles = [
         "Terrorism",
         "Wisconsin"
     ],
-    "page": 22,
+    "page": 23,
     "batchDate": "June 1, 2026"
 },
 {
@@ -6037,7 +6332,7 @@ const articles = [
         "Taxation",
         "Virginia"
     ],
-    "page": 22,
+    "page": 23,
     "batchDate": "June 1, 2026"
 },
 {
@@ -6053,7 +6348,7 @@ const articles = [
         "Soft-On-Crime",
         "Violent Crime"
     ],
-    "page": 22,
+    "page": 23,
     "batchDate": "June 1, 2026"
 },
 {
@@ -6068,7 +6363,7 @@ const articles = [
         "Taxation",
         "Violence"
     ],
-    "page": 22,
+    "page": 23,
     "batchDate": "June 1, 2026"
 },
 {
@@ -6084,7 +6379,7 @@ const articles = [
         "Sexual Misconduct",
         "Texas"
     ],
-    "page": 22,
+    "page": 23,
     "batchDate": "June 1, 2026"
 },
 {
@@ -6100,7 +6395,7 @@ const articles = [
         "Sex Crimes",
         "Sexual Misconduct"
     ],
-    "page": 22,
+    "page": 23,
     "batchDate": "June 1, 2026"
 },
 {
@@ -6116,7 +6411,7 @@ const articles = [
         "Sexual Misconduct",
         "Texas"
     ],
-    "page": 22,
+    "page": 23,
     "batchDate": "June 1, 2026"
 },
 {
@@ -6130,7 +6425,7 @@ const articles = [
         "Election Fraud",
         "New York"
     ],
-    "page": 22,
+    "page": 23,
     "batchDate": "June 1, 2026"
 },
 {
@@ -6145,7 +6440,7 @@ const articles = [
         "New Jersey",
         "Violent Crime"
     ],
-    "page": 22,
+    "page": 23,
     "batchDate": "June 1, 2026"
 },
 {
@@ -6155,11 +6450,11 @@ const articles = [
     "xPostUrl": "https://x.com/C3Heditor/status/2061195475953565841",
     "imageUrl": "https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-05-31_161825_a40bf9f2.jpg",
     "tags": [
-        "Israel",
+        "Israel-Jews",
         "Judiciary-Judicial",
         "Pennsylvania"
     ],
-    "page": 22,
+    "page": 23,
     "batchDate": "June 1, 2026"
 },
 {
@@ -6174,7 +6469,7 @@ const articles = [
         "Immigration",
         "Violent Crime"
     ],
-    "page": 22,
+    "page": 23,
     "batchDate": "June 1, 2026"
 },
 {
@@ -6189,7 +6484,7 @@ const articles = [
         "Politics",
         "U.S. Congress"
     ],
-    "page": 22,
+    "page": 23,
     "batchDate": "June 1, 2026"
 },
 {
@@ -6202,7 +6497,7 @@ const articles = [
         "Immigration",
         "Islam-Muslim"
     ],
-    "page": 23,
+    "page": 24,
     "batchDate": "May 30, 2026"
 },
 {
@@ -6216,7 +6511,7 @@ const articles = [
         "Left-Wing",
         "Violent Crime"
     ],
-    "page": 23,
+    "page": 24,
     "batchDate": "May 30, 2026"
 },
 {
@@ -6230,7 +6525,7 @@ const articles = [
         "Gavin Newsom",
         "Government"
     ],
-    "page": 23,
+    "page": 24,
     "batchDate": "May 30, 2026"
 },
 {
@@ -6244,7 +6539,7 @@ const articles = [
         "Judiciary-Judicial",
         "Weaponization"
     ],
-    "page": 23,
+    "page": 24,
     "batchDate": "May 30, 2026"
 },
 {
@@ -6257,7 +6552,7 @@ const articles = [
         "Government",
         "Taxation"
     ],
-    "page": 23,
+    "page": 24,
     "batchDate": "May 30, 2026"
 },
 {
@@ -6271,7 +6566,7 @@ const articles = [
         "Politics",
         "Terrorism"
     ],
-    "page": 23,
+    "page": 24,
     "batchDate": "May 30, 2026"
 },
 {
@@ -6285,7 +6580,7 @@ const articles = [
         "Media Bias",
         "U.S. Constitution"
     ],
-    "page": 23,
+    "page": 24,
     "batchDate": "May 30, 2026"
 },
 {
@@ -6300,7 +6595,7 @@ const articles = [
         "Judiciary-Judicial",
         "New York"
     ],
-    "page": 23,
+    "page": 24,
     "batchDate": "May 30, 2026"
 },
 {
@@ -6314,7 +6609,7 @@ const articles = [
         "James Talarico",
         "Texas"
     ],
-    "page": 23,
+    "page": 24,
     "batchDate": "May 30, 2026"
 },
 {
@@ -6328,7 +6623,7 @@ const articles = [
         "Judiciary-Judicial",
         "Racial Issues"
     ],
-    "page": 23,
+    "page": 24,
     "batchDate": "May 30, 2026"
 },
 {
@@ -6344,7 +6639,7 @@ const articles = [
         "Sexual Misconduct",
         "Taxation"
     ],
-    "page": 23,
+    "page": 24,
     "batchDate": "May 30, 2026"
 },
 {
@@ -6359,7 +6654,7 @@ const articles = [
         "New York",
         "Zohran Mamdani"
     ],
-    "page": 23,
+    "page": 24,
     "batchDate": "May 30, 2026"
 },
 {
@@ -6373,7 +6668,7 @@ const articles = [
         "Joe Biden",
         "Politics"
     ],
-    "page": 23,
+    "page": 24,
     "batchDate": "May 30, 2026"
 },
 {
@@ -6388,7 +6683,7 @@ const articles = [
         "Sex Crimes",
         "Sexual Misconduct"
     ],
-    "page": 23,
+    "page": 24,
     "batchDate": "May 30, 2026"
 },
 {
@@ -6403,7 +6698,7 @@ const articles = [
         "Taxation",
         "Terrorism"
     ],
-    "page": 23,
+    "page": 24,
     "batchDate": "May 30, 2026"
 },
 {
@@ -6418,7 +6713,7 @@ const articles = [
         "Violent Crime",
         "Washington"
     ],
-    "page": 23,
+    "page": 24,
     "batchDate": "May 30, 2026"
 },
 {
@@ -6433,7 +6728,7 @@ const articles = [
         "Islam-Muslim",
         "New York"
     ],
-    "page": 23,
+    "page": 24,
     "batchDate": "May 30, 2026"
 },
 {
@@ -6448,7 +6743,7 @@ const articles = [
         "Mainstream Media",
         "Media Bias"
     ],
-    "page": 23,
+    "page": 24,
     "batchDate": "May 30, 2026"
 },
 {
@@ -6462,7 +6757,7 @@ const articles = [
         "James Talarico",
         "Texas"
     ],
-    "page": 23,
+    "page": 24,
     "batchDate": "May 30, 2026"
 },
 {
@@ -6475,7 +6770,7 @@ const articles = [
         "Election Fraud",
         "North Carolina"
     ],
-    "page": 23,
+    "page": 24,
     "batchDate": "May 30, 2026"
 },
 {
@@ -6489,7 +6784,7 @@ const articles = [
         "Culture War",
         "Texas"
     ],
-    "page": 24,
+    "page": 25,
     "batchDate": "May 29, 2026"
 },
 {
@@ -6502,7 +6797,7 @@ const articles = [
         "New Mexico",
         "Politics"
     ],
-    "page": 24,
+    "page": 25,
     "batchDate": "May 29, 2026"
 },
 {
@@ -6515,7 +6810,7 @@ const articles = [
         "Michigan",
         "U.S. Congress"
     ],
-    "page": 24,
+    "page": 25,
     "batchDate": "May 29, 2026"
 },
 {
@@ -6529,7 +6824,7 @@ const articles = [
         "LGBTQ",
         "Politics"
     ],
-    "page": 24,
+    "page": 25,
     "batchDate": "May 29, 2026"
 },
 {
@@ -6543,7 +6838,7 @@ const articles = [
         "Politics",
         "Texas"
     ],
-    "page": 24,
+    "page": 25,
     "batchDate": "May 29, 2026"
 },
 {
@@ -6556,7 +6851,7 @@ const articles = [
         "Corruption-Fraud",
         "Election Fraud"
     ],
-    "page": 24,
+    "page": 25,
     "batchDate": "May 29, 2026"
 },
 {
@@ -6569,7 +6864,7 @@ const articles = [
         "Corruption-Fraud",
         "Election Fraud"
     ],
-    "page": 24,
+    "page": 25,
     "batchDate": "May 29, 2026"
 },
 {
@@ -6582,7 +6877,7 @@ const articles = [
         "Arizona",
         "Election Fraud"
     ],
-    "page": 24,
+    "page": 25,
     "batchDate": "May 29, 2026"
 },
 {
@@ -6595,7 +6890,7 @@ const articles = [
         "Boston",
         "Immigration"
     ],
-    "page": 24,
+    "page": 25,
     "batchDate": "May 29, 2026"
 },
 {
@@ -6610,7 +6905,7 @@ const articles = [
         "Soft-On-Crime",
         "Tim Walz"
     ],
-    "page": 24,
+    "page": 25,
     "batchDate": "May 29, 2026"
 },
 {
@@ -6624,7 +6919,7 @@ const articles = [
         "NYC",
         "Politics"
     ],
-    "page": 24,
+    "page": 25,
     "batchDate": "May 29, 2026"
 },
 {
@@ -6637,7 +6932,7 @@ const articles = [
         "Corruption-Fraud",
         "New York"
     ],
-    "page": 24,
+    "page": 25,
     "batchDate": "May 29, 2026"
 },
 {
@@ -6651,7 +6946,7 @@ const articles = [
         "Karen Bass",
         "Taxation"
     ],
-    "page": 24,
+    "page": 25,
     "batchDate": "May 29, 2026"
 },
 {
@@ -6664,7 +6959,7 @@ const articles = [
         "Entertainment Industry",
         "Racial Issues"
     ],
-    "page": 24,
+    "page": 25,
     "batchDate": "May 29, 2026"
 },
 {
@@ -6677,7 +6972,7 @@ const articles = [
         "2026 Elections",
         "California"
     ],
-    "page": 24,
+    "page": 25,
     "batchDate": "May 29, 2026"
 },
 {
@@ -6691,7 +6986,7 @@ const articles = [
         "Politics",
         "U.S. Congress"
     ],
-    "page": 24,
+    "page": 25,
     "batchDate": "May 29, 2026"
 },
 {
@@ -6705,7 +7000,7 @@ const articles = [
         "Left-Wing",
         "Politics"
     ],
-    "page": 24,
+    "page": 25,
     "batchDate": "May 29, 2026"
 },
 {
@@ -6719,7 +7014,7 @@ const articles = [
         "LGBTQ",
         "Texas"
     ],
-    "page": 24,
+    "page": 25,
     "batchDate": "May 29, 2026"
 },
 {
@@ -6733,7 +7028,7 @@ const articles = [
         "Education Policy",
         "Racial Issues"
     ],
-    "page": 24,
+    "page": 25,
     "batchDate": "May 29, 2026"
 },
 {
@@ -6747,7 +7042,7 @@ const articles = [
         "California",
         "Corruption-Fraud"
     ],
-    "page": 24,
+    "page": 25,
     "batchDate": "May 29, 2026"
 },
 {
@@ -6761,7 +7056,7 @@ const articles = [
         "Maine",
         "Terrorism"
     ],
-    "page": 25,
+    "page": 26,
     "batchDate": "May 28, 2026"
 },
 {
@@ -6775,7 +7070,7 @@ const articles = [
         "Culture War",
         "Immigration"
     ],
-    "page": 25,
+    "page": 26,
     "batchDate": "May 28, 2026"
 },
 {
@@ -6789,7 +7084,7 @@ const articles = [
         "Criminal Justice",
         "Election Fraud"
     ],
-    "page": 25,
+    "page": 26,
     "batchDate": "May 28, 2026"
 },
 {
@@ -6802,7 +7097,7 @@ const articles = [
         "California",
         "Election Fraud"
     ],
-    "page": 25,
+    "page": 26,
     "batchDate": "May 28, 2026"
 },
 {
@@ -6816,7 +7111,7 @@ const articles = [
         "California",
         "Election Fraud"
     ],
-    "page": 25,
+    "page": 26,
     "batchDate": "May 28, 2026"
 },
 {
@@ -6830,7 +7125,7 @@ const articles = [
         "Climate Change",
         "Texas"
     ],
-    "page": 25,
+    "page": 26,
     "batchDate": "May 28, 2026"
 },
 {
@@ -6845,7 +7140,7 @@ const articles = [
         "Left-Wing",
         "Oregon"
     ],
-    "page": 25,
+    "page": 26,
     "batchDate": "May 28, 2026"
 },
 {
@@ -6859,7 +7154,7 @@ const articles = [
         "Criminal Justice",
         "Violent Crime"
     ],
-    "page": 25,
+    "page": 26,
     "batchDate": "May 28, 2026"
 },
 {
@@ -6873,7 +7168,7 @@ const articles = [
         "Culture War",
         "Education Policy"
     ],
-    "page": 25,
+    "page": 26,
     "batchDate": "May 28, 2026"
 },
 {
@@ -6887,7 +7182,7 @@ const articles = [
         "Judiciary-Judicial",
         "Left-Wing"
     ],
-    "page": 25,
+    "page": 26,
     "batchDate": "May 28, 2026"
 },
 {
@@ -6901,7 +7196,7 @@ const articles = [
         "Colorado",
         "Left-Wing"
     ],
-    "page": 25,
+    "page": 26,
     "batchDate": "May 28, 2026"
 },
 {
@@ -6915,7 +7210,7 @@ const articles = [
         "Election Fraud",
         "Left-Wing"
     ],
-    "page": 25,
+    "page": 26,
     "batchDate": "May 28, 2026"
 },
 {
@@ -6929,7 +7224,7 @@ const articles = [
         "Corruption-Fraud",
         "Maine"
     ],
-    "page": 25,
+    "page": 26,
     "batchDate": "May 28, 2026"
 },
 {
@@ -6943,7 +7238,7 @@ const articles = [
         "Corruption-Fraud",
         "Left-Wing"
     ],
-    "page": 25,
+    "page": 26,
     "batchDate": "May 28, 2026"
 },
 {
@@ -6957,7 +7252,7 @@ const articles = [
         "Left-Wing",
         "Racial Issues"
     ],
-    "page": 25,
+    "page": 26,
     "batchDate": "May 28, 2026"
 },
 {
@@ -6970,7 +7265,7 @@ const articles = [
         "Government",
         "New York"
     ],
-    "page": 25,
+    "page": 26,
     "batchDate": "May 28, 2026"
 },
 {
@@ -6984,7 +7279,7 @@ const articles = [
         "Healthcare Policy",
         "Immigration"
     ],
-    "page": 25,
+    "page": 26,
     "batchDate": "May 28, 2026"
 },
 {
@@ -6998,7 +7293,7 @@ const articles = [
         "Foreign Policy",
         "Terrorism"
     ],
-    "page": 25,
+    "page": 26,
     "batchDate": "May 28, 2026"
 },
 {
@@ -7012,7 +7307,7 @@ const articles = [
         "Politics",
         "Racial Issues"
     ],
-    "page": 25,
+    "page": 26,
     "batchDate": "May 28, 2026"
 },
 {
@@ -7026,7 +7321,7 @@ const articles = [
         "Left-Wing",
         "Racial Issues"
     ],
-    "page": 25,
+    "page": 26,
     "batchDate": "May 28, 2026"
 },
 {
@@ -7040,7 +7335,7 @@ const articles = [
         "Housing",
         "Left-Wing"
     ],
-    "page": 26,
+    "page": 27,
     "batchDate": "May 27, 2026"
 },
 {
@@ -7054,7 +7349,7 @@ const articles = [
         "Gun Control",
         "Maryland"
     ],
-    "page": 26,
+    "page": 27,
     "batchDate": "May 27, 2026"
 },
 {
@@ -7068,7 +7363,7 @@ const articles = [
         "Government",
         "Los Angeles"
     ],
-    "page": 26,
+    "page": 27,
     "batchDate": "May 27, 2026"
 },
 {
@@ -7082,7 +7377,7 @@ const articles = [
         "Government",
         "Left-Wing"
     ],
-    "page": 26,
+    "page": 27,
     "batchDate": "May 27, 2026"
 },
 {
@@ -7096,7 +7391,7 @@ const articles = [
         "Media Bias",
         "Politics"
     ],
-    "page": 26,
+    "page": 27,
     "batchDate": "May 27, 2026"
 },
 {
@@ -7109,7 +7404,7 @@ const articles = [
         "Alternative & Social Media",
         "Michigan"
     ],
-    "page": 26,
+    "page": 27,
     "batchDate": "May 27, 2026"
 },
 {
@@ -7122,7 +7417,7 @@ const articles = [
         "Media Bias",
         "Politics"
     ],
-    "page": 26,
+    "page": 27,
     "batchDate": "May 27, 2026"
 },
 {
@@ -7136,7 +7431,7 @@ const articles = [
         "California",
         "Government"
     ],
-    "page": 26,
+    "page": 27,
     "batchDate": "May 27, 2026"
 },
 {
@@ -7150,7 +7445,7 @@ const articles = [
         "LGBTQ",
         "Michigan"
     ],
-    "page": 26,
+    "page": 27,
     "batchDate": "May 27, 2026"
 },
 {
@@ -7163,7 +7458,7 @@ const articles = [
         "Politics",
         "Polling"
     ],
-    "page": 26,
+    "page": 27,
     "batchDate": "May 27, 2026"
 },
 {
@@ -7178,7 +7473,7 @@ const articles = [
         "Media Bias",
         "Midterm Elections"
     ],
-    "page": 26,
+    "page": 27,
     "batchDate": "May 27, 2026"
 },
 {
@@ -7192,7 +7487,7 @@ const articles = [
         "Healthcare Policy",
         "North Carolina"
     ],
-    "page": 26,
+    "page": 27,
     "batchDate": "May 27, 2026"
 },
 {
@@ -7207,7 +7502,7 @@ const articles = [
         "Left-Wing",
         "Midterm Elections"
     ],
-    "page": 26,
+    "page": 27,
     "batchDate": "May 27, 2026"
 },
 {
@@ -7221,7 +7516,7 @@ const articles = [
         "Media Bias",
         "Politics"
     ],
-    "page": 26,
+    "page": 27,
     "batchDate": "May 27, 2026"
 },
 {
@@ -7235,7 +7530,7 @@ const articles = [
         "Left-Wing",
         "New York"
     ],
-    "page": 26,
+    "page": 27,
     "batchDate": "May 27, 2026"
 },
 {
@@ -7249,7 +7544,7 @@ const articles = [
         "Immigration",
         "Media Bias"
     ],
-    "page": 26,
+    "page": 27,
     "batchDate": "May 27, 2026"
 },
 {
@@ -7263,7 +7558,7 @@ const articles = [
         "Left-Wing",
         "Media Bias"
     ],
-    "page": 26,
+    "page": 27,
     "batchDate": "May 27, 2026"
 },
 {
@@ -7278,7 +7573,7 @@ const articles = [
         "Government",
         "Left-Wing"
     ],
-    "page": 26,
+    "page": 27,
     "batchDate": "May 27, 2026"
 },
 {
@@ -7292,7 +7587,7 @@ const articles = [
         "Government",
         "Healthcare Policy"
     ],
-    "page": 26,
+    "page": 27,
     "batchDate": "May 27, 2026"
 },
 {
@@ -7306,7 +7601,7 @@ const articles = [
         "Left-Wing",
         "Violent Crime"
     ],
-    "page": 26,
+    "page": 27,
     "batchDate": "May 27, 2026"
 },
 {
@@ -7320,7 +7615,7 @@ const articles = [
         "Education Policy",
         "Politics"
     ],
-    "page": 27,
+    "page": 28,
     "batchDate": "May 26, 2026"
 },
 {
@@ -7333,7 +7628,7 @@ const articles = [
         "2026 Elections",
         "Hakeem Jeffries"
     ],
-    "page": 27,
+    "page": 28,
     "batchDate": "May 26, 2026"
 },
 {
@@ -7347,7 +7642,7 @@ const articles = [
         "Politics",
         "Racial Issues"
     ],
-    "page": 27,
+    "page": 28,
     "batchDate": "May 26, 2026"
 },
 {
@@ -7361,7 +7656,7 @@ const articles = [
         "Election Fraud",
         "Polling"
     ],
-    "page": 27,
+    "page": 28,
     "batchDate": "May 26, 2026"
 },
 {
@@ -7374,7 +7669,7 @@ const articles = [
         "Left-Wing",
         "Media Bias"
     ],
-    "page": 27,
+    "page": 28,
     "batchDate": "May 26, 2026"
 },
 {
@@ -7388,7 +7683,7 @@ const articles = [
         "California",
         "U.S. Congress"
     ],
-    "page": 27,
+    "page": 28,
     "batchDate": "May 26, 2026"
 },
 {
@@ -7401,7 +7696,7 @@ const articles = [
         "Christianity",
         "Left-Wing"
     ],
-    "page": 27,
+    "page": 28,
     "batchDate": "May 26, 2026"
 },
 {
@@ -7414,7 +7709,7 @@ const articles = [
         "Politics",
         "Violent Crime"
     ],
-    "page": 27,
+    "page": 28,
     "batchDate": "May 26, 2026"
 },
 {
@@ -7428,7 +7723,7 @@ const articles = [
         "New York",
         "Taxation"
     ],
-    "page": 27,
+    "page": 28,
     "batchDate": "May 26, 2026"
 },
 {
@@ -7442,7 +7737,7 @@ const articles = [
         "Left-Wing",
         "Washington"
     ],
-    "page": 27,
+    "page": 28,
     "batchDate": "May 26, 2026"
 },
 {
@@ -7455,7 +7750,7 @@ const articles = [
         "Business Climate",
         "Washington"
     ],
-    "page": 27,
+    "page": 28,
     "batchDate": "May 26, 2026"
 },
 {
@@ -7470,7 +7765,7 @@ const articles = [
         "Violent Crime",
         "Washington"
     ],
-    "page": 27,
+    "page": 28,
     "batchDate": "May 26, 2026"
 },
 {
@@ -7484,7 +7779,7 @@ const articles = [
         "Media Bias",
         "Whoopi Goldberg"
     ],
-    "page": 27,
+    "page": 28,
     "batchDate": "May 26, 2026"
 },
 {
@@ -7497,7 +7792,7 @@ const articles = [
         "CBP-DHS-ICE",
         "Immigration"
     ],
-    "page": 27,
+    "page": 28,
     "batchDate": "May 26, 2026"
 },
 {
@@ -7511,7 +7806,7 @@ const articles = [
         "Taxation",
         "Wisconsin"
     ],
-    "page": 27,
+    "page": 28,
     "batchDate": "May 26, 2026"
 },
 {
@@ -7525,7 +7820,7 @@ const articles = [
         "Alternative & Social Media",
         "Media Bias"
     ],
-    "page": 27,
+    "page": 28,
     "batchDate": "May 26, 2026"
 },
 {
@@ -7539,7 +7834,7 @@ const articles = [
         "Left-Wing",
         "Ohio"
     ],
-    "page": 27,
+    "page": 28,
     "batchDate": "May 26, 2026"
 },
 {
@@ -7553,7 +7848,7 @@ const articles = [
         "Corruption-Fraud",
         "Immigration"
     ],
-    "page": 27,
+    "page": 28,
     "batchDate": "May 26, 2026"
 },
 {
@@ -7567,7 +7862,7 @@ const articles = [
         "California",
         "Housing"
     ],
-    "page": 27,
+    "page": 28,
     "batchDate": "May 26, 2026"
 },
 {
@@ -7581,7 +7876,7 @@ const articles = [
         "Chicago",
         "Election Fraud"
     ],
-    "page": 27,
+    "page": 28,
     "batchDate": "May 26, 2026"
 },
 {
@@ -7595,7 +7890,7 @@ const articles = [
         "Judiciary-Judicial",
         "Virginia"
     ],
-    "page": 28,
+    "page": 29,
     "batchDate": "May 18, 2026"
 },
 {
@@ -7609,7 +7904,7 @@ const articles = [
         "Criminal Justice",
         "Judiciary-Judicial"
     ],
-    "page": 28,
+    "page": 29,
     "batchDate": "May 18, 2026"
 },
 {
@@ -7622,7 +7917,7 @@ const articles = [
         "Islam-Muslim",
         "National Security"
     ],
-    "page": 28,
+    "page": 29,
     "batchDate": "May 18, 2026"
 },
 {
@@ -7636,7 +7931,7 @@ const articles = [
         "Healthcare Policy",
         "Michigan"
     ],
-    "page": 28,
+    "page": 29,
     "batchDate": "May 18, 2026"
 },
 {
@@ -7651,7 +7946,7 @@ const articles = [
         "Judiciary-Judicial",
         "Virginia"
     ],
-    "page": 28,
+    "page": 29,
     "batchDate": "May 18, 2026"
 },
 {
@@ -7664,7 +7959,7 @@ const articles = [
         "2026 Elections",
         "Corruption-Fraud"
     ],
-    "page": 28,
+    "page": 29,
     "batchDate": "May 18, 2026"
 },
 {
@@ -7679,7 +7974,7 @@ const articles = [
         "Politics",
         "WashingtonDC"
     ],
-    "page": 28,
+    "page": 29,
     "batchDate": "May 18, 2026"
 },
 {
@@ -7692,7 +7987,7 @@ const articles = [
         "2026 Elections",
         "Politics"
     ],
-    "page": 28,
+    "page": 29,
     "batchDate": "May 18, 2026"
 },
 {
@@ -7705,7 +8000,7 @@ const articles = [
         "Oregon",
         "Taxation"
     ],
-    "page": 28,
+    "page": 29,
     "batchDate": "May 18, 2026"
 },
 {
@@ -7719,7 +8014,7 @@ const articles = [
         "California",
         "Election Fraud"
     ],
-    "page": 28,
+    "page": 29,
     "batchDate": "May 18, 2026"
 },
 {
@@ -7734,7 +8029,7 @@ const articles = [
         "National Security",
         "U.S. Congress"
     ],
-    "page": 28,
+    "page": 29,
     "batchDate": "May 18, 2026"
 },
 {
@@ -7747,7 +8042,7 @@ const articles = [
         "Climate Change",
         "Politics"
     ],
-    "page": 28,
+    "page": 29,
     "batchDate": "May 18, 2026"
 },
 {
@@ -7760,7 +8055,7 @@ const articles = [
         "Politics",
         "Racial Issues"
     ],
-    "page": 28,
+    "page": 29,
     "batchDate": "May 18, 2026"
 },
 {
@@ -7774,7 +8069,7 @@ const articles = [
         "Incompetence",
         "Los Angeles"
     ],
-    "page": 28,
+    "page": 29,
     "batchDate": "May 18, 2026"
 },
 {
@@ -7787,7 +8082,7 @@ const articles = [
         "Media Bias",
         "Virginia"
     ],
-    "page": 28,
+    "page": 29,
     "batchDate": "May 18, 2026"
 },
 {
@@ -7800,7 +8095,7 @@ const articles = [
         "Foreign Policy",
         "Pramila Jayapal"
     ],
-    "page": 28,
+    "page": 29,
     "batchDate": "May 18, 2026"
 },
 {
@@ -7813,7 +8108,7 @@ const articles = [
         "2024 Election",
         "Media Bias"
     ],
-    "page": 28,
+    "page": 29,
     "batchDate": "May 18, 2026"
 },
 {
@@ -7823,11 +8118,11 @@ const articles = [
     "xPostUrl": "https://x.com/C3Heditor/status/2056456725927211386",
     "imageUrl": "https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-05-18_142813_7cf14bce.jpg",
     "tags": [
-        "Israel",
+        "Israel-Jews",
         "Left-Wing",
         "New York"
     ],
-    "page": 28,
+    "page": 29,
     "batchDate": "May 18, 2026"
 },
 {
@@ -7841,7 +8136,7 @@ const articles = [
         "Dr. Anthony Fauci",
         "Homeland Security"
     ],
-    "page": 28,
+    "page": 29,
     "batchDate": "May 18, 2026"
 },
 {
@@ -7854,7 +8149,7 @@ const articles = [
         "Biden Administration",
         "COVID-19"
     ],
-    "page": 28,
+    "page": 29,
     "batchDate": "May 18, 2026"
 },
 {
@@ -7869,7 +8164,7 @@ const articles = [
         "George Soros",
         "Immigration"
     ],
-    "page": 29,
+    "page": 30,
     "batchDate": "May 09, 2026"
 },
 {
@@ -7883,7 +8178,7 @@ const articles = [
         "Maine",
         "U.S. Congress"
     ],
-    "page": 29,
+    "page": 30,
     "batchDate": "May 09, 2026"
 },
 {
@@ -7896,7 +8191,7 @@ const articles = [
         "NYC",
         "Violent Crime"
     ],
-    "page": 29,
+    "page": 30,
     "batchDate": "May 09, 2026"
 },
 {
@@ -7911,7 +8206,7 @@ const articles = [
         "Healthcare Policy",
         "Racial Issues"
     ],
-    "page": 29,
+    "page": 30,
     "batchDate": "May 09, 2026"
 },
 {
@@ -7924,7 +8219,7 @@ const articles = [
         "2026 Elections",
         "Election Fraud"
     ],
-    "page": 29,
+    "page": 30,
     "batchDate": "May 09, 2026"
 },
 {
@@ -7938,7 +8233,7 @@ const articles = [
         "North Carolina",
         "Roy Cooper"
     ],
-    "page": 29,
+    "page": 30,
     "batchDate": "May 09, 2026"
 },
 {
@@ -7951,7 +8246,7 @@ const articles = [
         "Culture War",
         "Mark Hamill"
     ],
-    "page": 29,
+    "page": 30,
     "batchDate": "May 09, 2026"
 },
 {
@@ -7965,7 +8260,7 @@ const articles = [
         "Immigration",
         "Minnesota"
     ],
-    "page": 29,
+    "page": 30,
     "batchDate": "May 09, 2026"
 },
 {
@@ -7978,7 +8273,7 @@ const articles = [
         "Communism-Socialism",
         "Culture War"
     ],
-    "page": 29,
+    "page": 30,
     "batchDate": "May 09, 2026"
 },
 {
@@ -7992,7 +8287,7 @@ const articles = [
         "Energy Policy",
         "Gavin Newsom"
     ],
-    "page": 29,
+    "page": 30,
     "batchDate": "May 09, 2026"
 },
 {
@@ -8004,10 +8299,10 @@ const articles = [
     "tags": [
         "Colorado",
         "Foreign Policy",
-        "Israel",
+        "Israel-Jews",
         "Left-Wing"
     ],
-    "page": 29,
+    "page": 30,
     "batchDate": "May 09, 2026"
 },
 {
@@ -8020,7 +8315,7 @@ const articles = [
         "Justin Pearson",
         "Politics"
     ],
-    "page": 29,
+    "page": 30,
     "batchDate": "May 09, 2026"
 },
 {
@@ -8035,7 +8330,7 @@ const articles = [
         "Culture War",
         "DOJ"
     ],
-    "page": 29,
+    "page": 30,
     "batchDate": "May 09, 2026"
 },
 {
@@ -8047,9 +8342,9 @@ const articles = [
     "tags": [
         "Gavin Newsom",
         "Islam-Muslim",
-        "Israel"
+        "Israel-Jews"
     ],
-    "page": 29,
+    "page": 30,
     "batchDate": "May 09, 2026"
 },
 {
@@ -8063,7 +8358,7 @@ const articles = [
         "Karen Bass",
         "Los Angeles"
     ],
-    "page": 29,
+    "page": 30,
     "batchDate": "May 09, 2026"
 },
 {
@@ -8077,7 +8372,7 @@ const articles = [
         "Tony Evers",
         "Wisconsin"
     ],
-    "page": 29,
+    "page": 30,
     "batchDate": "May 09, 2026"
 },
 {
@@ -8092,7 +8387,7 @@ const articles = [
         "Reparations",
         "Zohran Mamdani"
     ],
-    "page": 29,
+    "page": 30,
     "batchDate": "May 09, 2026"
 },
 {
@@ -8105,7 +8400,7 @@ const articles = [
         "FCC",
         "Judiciary-Judicial"
     ],
-    "page": 29,
+    "page": 30,
     "batchDate": "May 09, 2026"
 },
 {
@@ -8118,7 +8413,7 @@ const articles = [
         "Violent Crime",
         "Washington"
     ],
-    "page": 29,
+    "page": 30,
     "batchDate": "May 09, 2026"
 },
 {
@@ -8131,7 +8426,7 @@ const articles = [
         "Kathy Griffin",
         "Politics"
     ],
-    "page": 29,
+    "page": 30,
     "batchDate": "May 09, 2026"
 },
 {
@@ -8146,7 +8441,7 @@ const articles = [
         "Media Bias",
         "Washington"
     ],
-    "page": 30,
+    "page": 31,
     "batchDate": "May 08, 2026"
 },
 {
@@ -8159,7 +8454,7 @@ const articles = [
         "Censorship",
         "Media Bias"
     ],
-    "page": 30,
+    "page": 31,
     "batchDate": "May 08, 2026"
 },
 {
@@ -8173,7 +8468,7 @@ const articles = [
         "DOJ",
         "Weaponization"
     ],
-    "page": 30,
+    "page": 31,
     "batchDate": "May 08, 2026"
 },
 {
@@ -8188,7 +8483,7 @@ const articles = [
         "Law Enforcement",
         "SPLC"
     ],
-    "page": 30,
+    "page": 31,
     "batchDate": "May 08, 2026"
 },
 {
@@ -8200,9 +8495,9 @@ const articles = [
     "tags": [
         "California",
         "Culture War",
-        "Israel"
+        "Israel-Jews"
     ],
-    "page": 30,
+    "page": 31,
     "batchDate": "May 08, 2026"
 },
 {
@@ -8215,7 +8510,7 @@ const articles = [
         "Left-Wing",
         "Los Angeles"
     ],
-    "page": 30,
+    "page": 31,
     "batchDate": "May 08, 2026"
 },
 {
@@ -8230,7 +8525,7 @@ const articles = [
         "Texas",
         "Violent Crime"
     ],
-    "page": 30,
+    "page": 31,
     "batchDate": "May 08, 2026"
 },
 {
@@ -8244,7 +8539,7 @@ const articles = [
         "Censorship",
         "Oregon"
     ],
-    "page": 30,
+    "page": 31,
     "batchDate": "May 08, 2026"
 },
 {
@@ -8258,7 +8553,7 @@ const articles = [
         "Governor Hochul",
         "New York"
     ],
-    "page": 30,
+    "page": 31,
     "batchDate": "May 08, 2026"
 },
 {
@@ -8272,7 +8567,7 @@ const articles = [
         "Minnesota",
         "Taxation"
     ],
-    "page": 30,
+    "page": 31,
     "batchDate": "May 08, 2026"
 },
 {
@@ -8286,7 +8581,7 @@ const articles = [
         "Immigration",
         "Terrorism"
     ],
-    "page": 30,
+    "page": 31,
     "batchDate": "May 08, 2026"
 },
 {
@@ -8299,7 +8594,7 @@ const articles = [
         "New York",
         "Violent Crime"
     ],
-    "page": 30,
+    "page": 31,
     "batchDate": "May 08, 2026"
 },
 {
@@ -8313,7 +8608,7 @@ const articles = [
         "LGBTQ",
         "Sexual Misconduct"
     ],
-    "page": 30,
+    "page": 31,
     "batchDate": "May 08, 2026"
 },
 {
@@ -8326,7 +8621,7 @@ const articles = [
         "Culture War",
         "Education Policy"
     ],
-    "page": 30,
+    "page": 31,
     "batchDate": "May 08, 2026"
 },
 {
@@ -8339,7 +8634,7 @@ const articles = [
         "Education Policy",
         "Government"
     ],
-    "page": 30,
+    "page": 31,
     "batchDate": "May 08, 2026"
 },
 {
@@ -8352,7 +8647,7 @@ const articles = [
         "Education Policy",
         "Unions"
     ],
-    "page": 30,
+    "page": 31,
     "batchDate": "May 08, 2026"
 },
 {
@@ -8365,7 +8660,7 @@ const articles = [
         "Corruption-Fraud",
         "Healthcare Policy"
     ],
-    "page": 30,
+    "page": 31,
     "batchDate": "May 08, 2026"
 },
 {
@@ -8378,7 +8673,7 @@ const articles = [
         "Business Climate",
         "Washington"
     ],
-    "page": 30,
+    "page": 31,
     "batchDate": "May 08, 2026"
 },
 {
@@ -8393,7 +8688,7 @@ const articles = [
         "New York",
         "Taxation"
     ],
-    "page": 30,
+    "page": 31,
     "batchDate": "May 08, 2026"
 },
 {
@@ -8406,7 +8701,7 @@ const articles = [
         "Alexandria Ocasio-Cortez",
         "Taxation"
     ],
-    "page": 30,
+    "page": 31,
     "batchDate": "May 08, 2026"
 },
 {
@@ -8419,7 +8714,7 @@ const articles = [
         "Biden Administration",
         "Elizabeth Warren"
     ],
-    "page": 31,
+    "page": 32,
     "batchDate": "May 06, 2026"
 },
 {
@@ -8433,7 +8728,7 @@ const articles = [
         "Media Bias",
         "Violence"
     ],
-    "page": 31,
+    "page": 32,
     "batchDate": "May 06, 2026"
 },
 {
@@ -8447,7 +8742,7 @@ const articles = [
         "Politics",
         "Violent Crime"
     ],
-    "page": 31,
+    "page": 32,
     "batchDate": "May 06, 2026"
 },
 {
@@ -8461,7 +8756,7 @@ const articles = [
         "New York",
         "Violent Crime"
     ],
-    "page": 31,
+    "page": 32,
     "batchDate": "May 06, 2026"
 },
 {
@@ -8475,7 +8770,7 @@ const articles = [
         "Racial Issues",
         "SPLC"
     ],
-    "page": 31,
+    "page": 32,
     "batchDate": "May 06, 2026"
 },
 {
@@ -8489,7 +8784,7 @@ const articles = [
         "Corruption-Fraud",
         "Healthcare Policy"
     ],
-    "page": 31,
+    "page": 32,
     "batchDate": "May 06, 2026"
 },
 {
@@ -8502,7 +8797,7 @@ const articles = [
         "Christianity",
         "DOJ"
     ],
-    "page": 31,
+    "page": 32,
     "batchDate": "May 06, 2026"
 },
 {
@@ -8516,7 +8811,7 @@ const articles = [
         "The View",
         "Trump-Derangement"
     ],
-    "page": 31,
+    "page": 32,
     "batchDate": "May 06, 2026"
 },
 {
@@ -8529,7 +8824,7 @@ const articles = [
         "Los Angeles",
         "Unions"
     ],
-    "page": 31,
+    "page": 32,
     "batchDate": "May 06, 2026"
 },
 {
@@ -8543,7 +8838,7 @@ const articles = [
         "Los Angeles",
         "Virtue Signaling"
     ],
-    "page": 31,
+    "page": 32,
     "batchDate": "May 06, 2026"
 },
 {
@@ -8556,7 +8851,7 @@ const articles = [
         "2026 Elections",
         "Ilhan Omar"
     ],
-    "page": 31,
+    "page": 32,
     "batchDate": "May 06, 2026"
 },
 {
@@ -8570,7 +8865,7 @@ const articles = [
         "Corruption-Fraud",
         "Ro Khanna"
     ],
-    "page": 31,
+    "page": 32,
     "batchDate": "May 06, 2026"
 },
 {
@@ -8584,7 +8879,7 @@ const articles = [
         "Sheila Cherfilus-McCormick",
         "U.S. Congress"
     ],
-    "page": 31,
+    "page": 32,
     "batchDate": "May 06, 2026"
 },
 {
@@ -8596,7 +8891,7 @@ const articles = [
     "tags": [
         "Corruption-Fraud"
     ],
-    "page": 31,
+    "page": 32,
     "batchDate": "May 06, 2026"
 },
 {
@@ -8609,7 +8904,7 @@ const articles = [
         "Alternative & Social Media",
         "Media Bias"
     ],
-    "page": 31,
+    "page": 32,
     "batchDate": "May 06, 2026"
 },
 {
@@ -8622,7 +8917,7 @@ const articles = [
         "Politics",
         "Trump-Derangement"
     ],
-    "page": 31,
+    "page": 32,
     "batchDate": "May 06, 2026"
 },
 {
@@ -8635,7 +8930,7 @@ const articles = [
         "Left-Wing",
         "New York"
     ],
-    "page": 31,
+    "page": 32,
     "batchDate": "May 06, 2026"
 },
 {
@@ -8649,7 +8944,7 @@ const articles = [
         "Politics",
         "Trump-Derangement"
     ],
-    "page": 31,
+    "page": 32,
     "batchDate": "May 06, 2026"
 },
 {
@@ -8663,7 +8958,7 @@ const articles = [
         "Politics",
         "Wajahat Ali"
     ],
-    "page": 31,
+    "page": 32,
     "batchDate": "May 06, 2026"
 },
 {
@@ -8678,7 +8973,7 @@ const articles = [
         "New York",
         "Zohran Mamdani"
     ],
-    "page": 31,
+    "page": 32,
     "batchDate": "May 06, 2026"
 },
 {
@@ -8693,7 +8988,7 @@ const articles = [
         "Mallory McMorrow",
         "Michigan"
     ],
-    "page": 32,
+    "page": 33,
     "batchDate": "May 03, 2026"
 },
 {
@@ -8706,7 +9001,7 @@ const articles = [
         "Abdul Saleh",
         "Violent Crime"
     ],
-    "page": 32,
+    "page": 33,
     "batchDate": "May 03, 2026"
 },
 {
@@ -8719,7 +9014,7 @@ const articles = [
         "2026 Elections",
         "Pennsylvania"
     ],
-    "page": 32,
+    "page": 33,
     "batchDate": "May 03, 2026"
 },
 {
@@ -8733,7 +9028,7 @@ const articles = [
         "SPLC",
         "Virginia"
     ],
-    "page": 32,
+    "page": 33,
     "batchDate": "May 03, 2026"
 },
 {
@@ -8747,7 +9042,7 @@ const articles = [
         "SPLC",
         "Stacey Abrams"
     ],
-    "page": 32,
+    "page": 33,
     "batchDate": "May 03, 2026"
 },
 {
@@ -8760,7 +9055,7 @@ const articles = [
         "Joy Reid",
         "Media Bias"
     ],
-    "page": 32,
+    "page": 33,
     "batchDate": "May 03, 2026"
 },
 {
@@ -8774,7 +9069,7 @@ const articles = [
         "New York",
         "Violent Crime"
     ],
-    "page": 32,
+    "page": 33,
     "batchDate": "May 03, 2026"
 },
 {
@@ -8787,7 +9082,7 @@ const articles = [
         "Business Climate",
         "Immigration"
     ],
-    "page": 32,
+    "page": 33,
     "batchDate": "May 03, 2026"
 },
 {
@@ -8802,7 +9097,7 @@ const articles = [
         "Hakeem Jeffries",
         "Judiciary-Judicial"
     ],
-    "page": 32,
+    "page": 33,
     "batchDate": "May 03, 2026"
 },
 {
@@ -8816,7 +9111,7 @@ const articles = [
         "Media Bias",
         "Racial Issues"
     ],
-    "page": 32,
+    "page": 33,
     "batchDate": "May 03, 2026"
 },
 {
@@ -8830,7 +9125,7 @@ const articles = [
         "Gavin Newsom",
         "Incompetence"
     ],
-    "page": 32,
+    "page": 33,
     "batchDate": "May 03, 2026"
 },
 {
@@ -8845,7 +9140,7 @@ const articles = [
         "Islam-Muslim",
         "Minnesota"
     ],
-    "page": 32,
+    "page": 33,
     "batchDate": "May 03, 2026"
 },
 {
@@ -8858,7 +9153,7 @@ const articles = [
         "Jimmy Kimmel",
         "Trump-Derangement"
     ],
-    "page": 32,
+    "page": 33,
     "batchDate": "May 03, 2026"
 },
 {
@@ -8871,7 +9166,7 @@ const articles = [
         "Left-Wing",
         "Trump-Derangement"
     ],
-    "page": 32,
+    "page": 33,
     "batchDate": "May 03, 2026"
 },
 {
@@ -8884,7 +9179,7 @@ const articles = [
         "CBP-DHS-ICE",
         "Immigration"
     ],
-    "page": 32,
+    "page": 33,
     "batchDate": "May 03, 2026"
 },
 {
@@ -8898,7 +9193,7 @@ const articles = [
         "Politics",
         "Trump-Derangement"
     ],
-    "page": 32,
+    "page": 33,
     "batchDate": "May 03, 2026"
 },
 {
@@ -8912,7 +9207,7 @@ const articles = [
         "Immigration",
         "North Carolina"
     ],
-    "page": 32,
+    "page": 33,
     "batchDate": "May 03, 2026"
 },
 {
@@ -8925,7 +9220,7 @@ const articles = [
         "CBP-DHS-ICE",
         "Hate"
     ],
-    "page": 32,
+    "page": 33,
     "batchDate": "May 03, 2026"
 },
 {
@@ -8939,7 +9234,7 @@ const articles = [
         "Retail Crime",
         "Violent Crime"
     ],
-    "page": 32,
+    "page": 33,
     "batchDate": "May 03, 2026"
 },
 {
@@ -8952,7 +9247,7 @@ const articles = [
         "Energy Policy",
         "Violent Crime"
     ],
-    "page": 32,
+    "page": 33,
     "batchDate": "May 03, 2026"
 },
 {
@@ -8966,7 +9261,7 @@ const articles = [
         "The View",
         "Whoopi Goldberg"
     ],
-    "page": 33,
+    "page": 34,
     "batchDate": "May 02, 2026"
 },
 {
@@ -8981,7 +9276,7 @@ const articles = [
         "Media Bias",
         "Michigan"
     ],
-    "page": 33,
+    "page": 34,
     "batchDate": "May 02, 2026"
 },
 {
@@ -8994,7 +9289,7 @@ const articles = [
         "Politics",
         "Trump-Derangement"
     ],
-    "page": 33,
+    "page": 34,
     "batchDate": "May 02, 2026"
 },
 {
@@ -9008,7 +9303,7 @@ const articles = [
         "Politics",
         "U.S. Congress"
     ],
-    "page": 33,
+    "page": 34,
     "batchDate": "May 02, 2026"
 },
 {
@@ -9021,7 +9316,7 @@ const articles = [
         "Foreign Policy",
         "Seth Moulton"
     ],
-    "page": 33,
+    "page": 34,
     "batchDate": "May 02, 2026"
 },
 {
@@ -9036,7 +9331,7 @@ const articles = [
         "Hakeem Jeffries",
         "Weaponization"
     ],
-    "page": 33,
+    "page": 34,
     "batchDate": "May 02, 2026"
 },
 {
@@ -9051,7 +9346,7 @@ const articles = [
         "Maine",
         "Media Bias"
     ],
-    "page": 33,
+    "page": 34,
     "batchDate": "May 02, 2026"
 },
 {
@@ -9065,7 +9360,7 @@ const articles = [
         "Election Fraud",
         "Judiciary-Judicial"
     ],
-    "page": 33,
+    "page": 34,
     "batchDate": "May 02, 2026"
 },
 {
@@ -9080,7 +9375,7 @@ const articles = [
         "Culture War",
         "Politics"
     ],
-    "page": 33,
+    "page": 34,
     "batchDate": "May 02, 2026"
 },
 {
@@ -9094,7 +9389,7 @@ const articles = [
         "Islam-Muslim",
         "New York"
     ],
-    "page": 33,
+    "page": 34,
     "batchDate": "May 02, 2026"
 },
 {
@@ -9109,7 +9404,7 @@ const articles = [
         "Sunny Hostin",
         "The View"
     ],
-    "page": 33,
+    "page": 34,
     "batchDate": "May 02, 2026"
 },
 {
@@ -9124,7 +9419,7 @@ const articles = [
         "Culture War",
         "Justice Department"
     ],
-    "page": 33,
+    "page": 34,
     "batchDate": "May 02, 2026"
 },
 {
@@ -9138,7 +9433,7 @@ const articles = [
         "Taxation",
         "Tim Walz"
     ],
-    "page": 33,
+    "page": 34,
     "batchDate": "May 02, 2026"
 },
 {
@@ -9152,7 +9447,7 @@ const articles = [
         "Rhode Island Politics",
         "Violent Crime"
     ],
-    "page": 33,
+    "page": 34,
     "batchDate": "May 02, 2026"
 },
 {
@@ -9165,7 +9460,7 @@ const articles = [
         "Jasmine Crockett",
         "Texas"
     ],
-    "page": 33,
+    "page": 34,
     "batchDate": "May 02, 2026"
 },
 {
@@ -9179,7 +9474,7 @@ const articles = [
         "Healthcare Policy",
         "Los Angeles"
     ],
-    "page": 33,
+    "page": 34,
     "batchDate": "May 02, 2026"
 },
 {
@@ -9193,7 +9488,7 @@ const articles = [
         "Election Fraud",
         "Wisconsin"
     ],
-    "page": 33,
+    "page": 34,
     "batchDate": "May 02, 2026"
 },
 {
@@ -9207,7 +9502,7 @@ const articles = [
         "Politics",
         "Virtue Signaling"
     ],
-    "page": 33,
+    "page": 34,
     "batchDate": "May 02, 2026"
 },
 {
@@ -9221,7 +9516,7 @@ const articles = [
         "Racial Issues",
         "Violent Crime"
     ],
-    "page": 33,
+    "page": 34,
     "batchDate": "May 02, 2026"
 },
 {
@@ -9234,7 +9529,7 @@ const articles = [
         "Christianity",
         "DOJ"
     ],
-    "page": 33,
+    "page": 34,
     "batchDate": "May 02, 2026"
 },
 {
@@ -9248,7 +9543,7 @@ const articles = [
         "Trump-Derangement",
         "Violent Crime"
     ],
-    "page": 34,
+    "page": 35,
     "batchDate": "Apr 27, 2026"
 },
 {
@@ -9261,7 +9556,7 @@ const articles = [
         "Left-Wing",
         "Media Bias"
     ],
-    "page": 34,
+    "page": 35,
     "batchDate": "Apr 27, 2026"
 },
 {
@@ -9274,7 +9569,7 @@ const articles = [
         "SPLC",
         "Trump-Derangement"
     ],
-    "page": 34,
+    "page": 35,
     "batchDate": "Apr 27, 2026"
 },
 {
@@ -9288,7 +9583,7 @@ const articles = [
         "Law Enforcement",
         "Media Bias"
     ],
-    "page": 34,
+    "page": 35,
     "batchDate": "Apr 27, 2026"
 },
 {
@@ -9301,7 +9596,7 @@ const articles = [
         "Immigration",
         "Violent Crime"
     ],
-    "page": 34,
+    "page": 35,
     "batchDate": "Apr 27, 2026"
 },
 {
@@ -9315,7 +9610,7 @@ const articles = [
         "Business Climate",
         "Education Policy"
     ],
-    "page": 34,
+    "page": 35,
     "batchDate": "Apr 27, 2026"
 },
 {
@@ -9328,7 +9623,7 @@ const articles = [
         "Trump-Derangement",
         "Wisconsin"
     ],
-    "page": 34,
+    "page": 35,
     "batchDate": "Apr 27, 2026"
 },
 {
@@ -9343,7 +9638,7 @@ const articles = [
         "Polling",
         "Virginia"
     ],
-    "page": 34,
+    "page": 35,
     "batchDate": "Apr 27, 2026"
 },
 {
@@ -9357,7 +9652,7 @@ const articles = [
         "Islam-Muslim",
         "North Dakota"
     ],
-    "page": 34,
+    "page": 35,
     "batchDate": "Apr 27, 2026"
 },
 {
@@ -9371,7 +9666,7 @@ const articles = [
         "Iran",
         "Strait of Hormuz"
     ],
-    "page": 34,
+    "page": 35,
     "batchDate": "Apr 27, 2026"
 },
 {
@@ -9386,7 +9681,7 @@ const articles = [
         "Michigan",
         "Politics"
     ],
-    "page": 34,
+    "page": 35,
     "batchDate": "Apr 27, 2026"
 },
 {
@@ -9400,7 +9695,7 @@ const articles = [
         "Corruption-Fraud",
         "U.S. Congress"
     ],
-    "page": 34,
+    "page": 35,
     "batchDate": "Apr 27, 2026"
 },
 {
@@ -9414,7 +9709,7 @@ const articles = [
         "Investigation",
         "SPLC"
     ],
-    "page": 34,
+    "page": 35,
     "batchDate": "Apr 27, 2026"
 },
 {
@@ -9429,7 +9724,7 @@ const articles = [
         "SPLC",
         "Weaponization"
     ],
-    "page": 34,
+    "page": 35,
     "batchDate": "Apr 27, 2026"
 },
 {
@@ -9443,7 +9738,7 @@ const articles = [
         "Corruption-Fraud",
         "Education Policy"
     ],
-    "page": 34,
+    "page": 35,
     "batchDate": "Apr 27, 2026"
 },
 {
@@ -9456,7 +9751,7 @@ const articles = [
         "Culture War",
         "Law Enforcement"
     ],
-    "page": 34,
+    "page": 35,
     "batchDate": "Apr 27, 2026"
 },
 {
@@ -9470,7 +9765,7 @@ const articles = [
         "CBP-DHS-ICE",
         "Judiciary-Judicial"
     ],
-    "page": 34,
+    "page": 35,
     "batchDate": "Apr 27, 2026"
 },
 {
@@ -9484,7 +9779,7 @@ const articles = [
         "New York",
         "Zohran Mamdani"
     ],
-    "page": 34,
+    "page": 35,
     "batchDate": "Apr 27, 2026"
 },
 {
@@ -9497,7 +9792,7 @@ const articles = [
         "Eric Swalwell",
         "Sexual Misconduct"
     ],
-    "page": 34,
+    "page": 35,
     "batchDate": "Apr 27, 2026"
 },
 {
@@ -9510,7 +9805,7 @@ const articles = [
         "Mia Farrow",
         "Violent Crime"
     ],
-    "page": 34,
+    "page": 35,
     "batchDate": "Apr 27, 2026"
 },
 {
@@ -9523,7 +9818,7 @@ const articles = [
         "Racial Issues",
         "SPLC"
     ],
-    "page": 35,
+    "page": 36,
     "batchDate": "Apr 27, 2026"
 },
 {
@@ -9536,7 +9831,7 @@ const articles = [
         "DOJ",
         "SPLC"
     ],
-    "page": 35,
+    "page": 36,
     "batchDate": "Apr 27, 2026"
 },
 {
@@ -9549,7 +9844,7 @@ const articles = [
         "Idaho",
         "LGBTQ"
     ],
-    "page": 35,
+    "page": 36,
     "batchDate": "Apr 27, 2026"
 },
 {
@@ -9562,7 +9857,7 @@ const articles = [
         "Left-Wing",
         "Politics"
     ],
-    "page": 35,
+    "page": 36,
     "batchDate": "Apr 27, 2026"
 },
 {
@@ -9576,7 +9871,7 @@ const articles = [
         "California",
         "Nevada"
     ],
-    "page": 35,
+    "page": 36,
     "batchDate": "Apr 27, 2026"
 },
 {
@@ -9589,7 +9884,7 @@ const articles = [
         "DOJ",
         "Election Fraud"
     ],
-    "page": 35,
+    "page": 36,
     "batchDate": "Apr 27, 2026"
 },
 {
@@ -9602,7 +9897,7 @@ const articles = [
         "Immigration",
         "Sexual Misconduct"
     ],
-    "page": 35,
+    "page": 36,
     "batchDate": "Apr 27, 2026"
 },
 {
@@ -9616,7 +9911,7 @@ const articles = [
         "Minnesota",
         "Tim Walz"
     ],
-    "page": 35,
+    "page": 36,
     "batchDate": "Apr 27, 2026"
 },
 {
@@ -9629,7 +9924,7 @@ const articles = [
         "Culture War",
         "Racial Issues"
     ],
-    "page": 35,
+    "page": 36,
     "batchDate": "Apr 27, 2026"
 },
 {
@@ -9644,7 +9939,7 @@ const articles = [
         "Immigration",
         "Violent Crime"
     ],
-    "page": 35,
+    "page": 36,
     "batchDate": "Apr 27, 2026"
 },
 {
@@ -9658,7 +9953,7 @@ const articles = [
         "China",
         "Left-Wing"
     ],
-    "page": 35,
+    "page": 36,
     "batchDate": "Apr 27, 2026"
 },
 {
@@ -9672,7 +9967,7 @@ const articles = [
         "Eric Swalwell",
         "Sexual Misconduct"
     ],
-    "page": 35,
+    "page": 36,
     "batchDate": "Apr 27, 2026"
 },
 {
@@ -9685,7 +9980,7 @@ const articles = [
         "Election Fraud",
         "Immigration"
     ],
-    "page": 35,
+    "page": 36,
     "batchDate": "Apr 27, 2026"
 },
 {
@@ -9698,7 +9993,7 @@ const articles = [
         "CBP-DHS-ICE",
         "New York"
     ],
-    "page": 35,
+    "page": 36,
     "batchDate": "Apr 27, 2026"
 },
 {
@@ -9711,7 +10006,7 @@ const articles = [
         "Iran",
         "Texas"
     ],
-    "page": 35,
+    "page": 36,
     "batchDate": "Apr 27, 2026"
 },
 {
@@ -9725,7 +10020,7 @@ const articles = [
         "Immigration",
         "Pope Francis"
     ],
-    "page": 35,
+    "page": 36,
     "batchDate": "Apr 27, 2026"
 },
 {
@@ -9738,7 +10033,7 @@ const articles = [
         "2026 Elections",
         "Corruption-Fraud"
     ],
-    "page": 35,
+    "page": 36,
     "batchDate": "Apr 27, 2026"
 },
 {
@@ -9751,7 +10046,7 @@ const articles = [
         "Jocelyn Benson",
         "SPLC"
     ],
-    "page": 35,
+    "page": 36,
     "batchDate": "Apr 27, 2026"
 },
 {
@@ -9764,7 +10059,7 @@ const articles = [
         "New York",
         "Violent Crime"
     ],
-    "page": 35,
+    "page": 36,
     "batchDate": "Apr 27, 2026"
 },
 {
@@ -9778,7 +10073,7 @@ const articles = [
         "Maryland",
         "North Carolina"
     ],
-    "page": 35,
+    "page": 36,
     "batchDate": "Apr 27, 2026"
 },
 {
@@ -9792,7 +10087,7 @@ const articles = [
         "Mallory McMorrow",
         "Michigan"
     ],
-    "page": 36,
+    "page": 37,
     "batchDate": "Apr 26, 2026"
 },
 {
@@ -9806,7 +10101,7 @@ const articles = [
         "Culture War",
         "Taxation"
     ],
-    "page": 36,
+    "page": 37,
     "batchDate": "Apr 26, 2026"
 },
 {
@@ -9820,7 +10115,7 @@ const articles = [
         "California",
         "Housing"
     ],
-    "page": 36,
+    "page": 37,
     "batchDate": "Apr 26, 2026"
 },
 {
@@ -9833,7 +10128,7 @@ const articles = [
         "Immigration",
         "North Carolina"
     ],
-    "page": 36,
+    "page": 37,
     "batchDate": "Apr 26, 2026"
 },
 {
@@ -9846,7 +10141,7 @@ const articles = [
         "Racial Issues",
         "SPLC"
     ],
-    "page": 36,
+    "page": 37,
     "batchDate": "Apr 26, 2026"
 },
 {
@@ -9859,7 +10154,7 @@ const articles = [
         "Sexual Misconduct",
         "Utah"
     ],
-    "page": 36,
+    "page": 37,
     "batchDate": "Apr 26, 2026"
 },
 {
@@ -9872,7 +10167,7 @@ const articles = [
         "Ilhan Omar",
         "Mental Health"
     ],
-    "page": 36,
+    "page": 37,
     "batchDate": "Apr 26, 2026"
 },
 {
@@ -9886,7 +10181,7 @@ const articles = [
         "Media Bias",
         "Politics"
     ],
-    "page": 36,
+    "page": 37,
     "batchDate": "Apr 26, 2026"
 },
 {
@@ -9900,7 +10195,7 @@ const articles = [
         "Law Enforcement",
         "Racial Issues"
     ],
-    "page": 36,
+    "page": 37,
     "batchDate": "Apr 26, 2026"
 },
 {
@@ -9915,7 +10210,7 @@ const articles = [
         "Graham Platner",
         "Maine"
     ],
-    "page": 36,
+    "page": 37,
     "batchDate": "Apr 26, 2026"
 },
 {
@@ -9929,7 +10224,7 @@ const articles = [
         "Chuck Schumer",
         "Politics"
     ],
-    "page": 36,
+    "page": 37,
     "batchDate": "Apr 26, 2026"
 },
 {
@@ -9943,7 +10238,7 @@ const articles = [
         "Ethics-Morals",
         "Sexual Misconduct"
     ],
-    "page": 36,
+    "page": 37,
     "batchDate": "Apr 26, 2026"
 },
 {
@@ -9957,7 +10252,7 @@ const articles = [
         "Hate",
         "SPLC"
     ],
-    "page": 36,
+    "page": 37,
     "batchDate": "Apr 26, 2026"
 },
 {
@@ -9970,7 +10265,7 @@ const articles = [
         "Media Bias",
         "Polling"
     ],
-    "page": 36,
+    "page": 37,
     "batchDate": "Apr 26, 2026"
 },
 {
@@ -9983,7 +10278,7 @@ const articles = [
         "California",
         "Energy Policy"
     ],
-    "page": 36,
+    "page": 37,
     "batchDate": "Apr 26, 2026"
 },
 {
@@ -9997,7 +10292,7 @@ const articles = [
         "George Soros",
         "Virginia"
     ],
-    "page": 36,
+    "page": 37,
     "batchDate": "Apr 26, 2026"
 },
 {
@@ -10011,7 +10306,7 @@ const articles = [
         "Trump-Derangement",
         "Violence"
     ],
-    "page": 36,
+    "page": 37,
     "batchDate": "Apr 26, 2026"
 },
 {
@@ -10025,7 +10320,7 @@ const articles = [
         "Journalism",
         "Trump-Derangement"
     ],
-    "page": 36,
+    "page": 37,
     "batchDate": "Apr 26, 2026"
 },
 {
@@ -10040,7 +10335,7 @@ const articles = [
         "Politics",
         "Xavier Becerra"
     ],
-    "page": 36,
+    "page": 37,
     "batchDate": "Apr 26, 2026"
 },
 {
@@ -10053,7 +10348,7 @@ const articles = [
         "Corruption-Fraud",
         "Government"
     ],
-    "page": 36,
+    "page": 37,
     "batchDate": "Apr 26, 2026"
 },
 {
@@ -10066,7 +10361,7 @@ const articles = [
         "Chris Murphy",
         "Left-Wing"
     ],
-    "page": 37,
+    "page": 38,
     "batchDate": "Apr 21, 2026"
 },
 {
@@ -10080,7 +10375,7 @@ const articles = [
         "Arizona",
         "Ruben Gallego"
     ],
-    "page": 37,
+    "page": 38,
     "batchDate": "Apr 21, 2026"
 },
 {
@@ -10094,7 +10389,7 @@ const articles = [
         "Immigration",
         "LGBTQ"
     ],
-    "page": 37,
+    "page": 38,
     "batchDate": "Apr 21, 2026"
 },
 {
@@ -10109,7 +10404,7 @@ const articles = [
         "Graham Platner",
         "Maine"
     ],
-    "page": 37,
+    "page": 38,
     "batchDate": "Apr 21, 2026"
 },
 {
@@ -10122,7 +10417,7 @@ const articles = [
         "Hasan Piker",
         "Racial Issues"
     ],
-    "page": 37,
+    "page": 38,
     "batchDate": "Apr 21, 2026"
 },
 {
@@ -10136,7 +10431,7 @@ const articles = [
         "Hasan Piker",
         "Politics"
     ],
-    "page": 37,
+    "page": 38,
     "batchDate": "Apr 21, 2026"
 },
 {
@@ -10150,7 +10445,7 @@ const articles = [
         "DOJ",
         "FBI"
     ],
-    "page": 37,
+    "page": 38,
     "batchDate": "Apr 21, 2026"
 },
 {
@@ -10163,7 +10458,7 @@ const articles = [
         "Left-Wing",
         "Retail Crime"
     ],
-    "page": 37,
+    "page": 38,
     "batchDate": "Apr 21, 2026"
 },
 {
@@ -10177,7 +10472,7 @@ const articles = [
         "Foreign Policy",
         "Housing"
     ],
-    "page": 37,
+    "page": 38,
     "batchDate": "Apr 21, 2026"
 },
 {
@@ -10189,7 +10484,7 @@ const articles = [
     "tags": [
         "Taxation"
     ],
-    "page": 37,
+    "page": 38,
     "batchDate": "Apr 21, 2026"
 },
 {
@@ -10203,7 +10498,7 @@ const articles = [
         "Minneapolis",
         "Violent Crime"
     ],
-    "page": 37,
+    "page": 38,
     "batchDate": "Apr 21, 2026"
 },
 {
@@ -10216,7 +10511,7 @@ const articles = [
         "Judiciary-Judicial",
         "Justice Sotomayor"
     ],
-    "page": 37,
+    "page": 38,
     "batchDate": "Apr 21, 2026"
 },
 {
@@ -10229,7 +10524,7 @@ const articles = [
         "Immigration",
         "Polling"
     ],
-    "page": 37,
+    "page": 38,
     "batchDate": "Apr 21, 2026"
 },
 {
@@ -10243,7 +10538,7 @@ const articles = [
         "Karen Bass",
         "Los Angeles"
     ],
-    "page": 37,
+    "page": 38,
     "batchDate": "Apr 21, 2026"
 },
 {
@@ -10257,7 +10552,7 @@ const articles = [
         "Media Bias",
         "Politics"
     ],
-    "page": 37,
+    "page": 38,
     "batchDate": "Apr 21, 2026"
 },
 {
@@ -10270,7 +10565,7 @@ const articles = [
         "2026 Elections",
         "Judiciary-Judicial"
     ],
-    "page": 37,
+    "page": 38,
     "batchDate": "Apr 21, 2026"
 },
 {
@@ -10284,7 +10579,7 @@ const articles = [
         "Corruption-Fraud",
         "Election Fraud"
     ],
-    "page": 37,
+    "page": 38,
     "batchDate": "Apr 21, 2026"
 },
 {
@@ -10297,7 +10592,7 @@ const articles = [
         "Eric Swalwell",
         "Sexual Misconduct"
     ],
-    "page": 37,
+    "page": 38,
     "batchDate": "Apr 21, 2026"
 },
 {
@@ -10311,7 +10606,7 @@ const articles = [
         "Gavin Newsom",
         "Government"
     ],
-    "page": 37,
+    "page": 38,
     "batchDate": "Apr 21, 2026"
 },
 {
@@ -10322,10 +10617,10 @@ const articles = [
     "imageUrl": "https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/SjPqHNfSyUnfXpWQ.jpg",
     "tags": [
         "Graham Platner",
-        "Israel",
+        "Israel-Jews",
         "John Fetterman"
     ],
-    "page": 37,
+    "page": 38,
     "batchDate": "Apr 21, 2026"
 },
 {
@@ -10338,7 +10633,7 @@ const articles = [
         "James Carville",
         "WashingtonDC"
     ],
-    "page": 38,
+    "page": 39,
     "batchDate": "Apr 20, 2026"
 },
 {
@@ -10351,7 +10646,7 @@ const articles = [
         "Corruption-Fraud",
         "Election Fraud"
     ],
-    "page": 38,
+    "page": 39,
     "batchDate": "Apr 20, 2026"
 },
 {
@@ -10364,7 +10659,7 @@ const articles = [
         "Christianity",
         "Pope Leo XIV"
     ],
-    "page": 38,
+    "page": 39,
     "batchDate": "Apr 20, 2026"
 },
 {
@@ -10377,7 +10672,7 @@ const articles = [
         "Business Climate",
         "Left-Wing"
     ],
-    "page": 38,
+    "page": 39,
     "batchDate": "Apr 20, 2026"
 },
 {
@@ -10392,7 +10687,7 @@ const articles = [
         "Taxation",
         "Zohran Mamdani"
     ],
-    "page": 38,
+    "page": 39,
     "batchDate": "Apr 20, 2026"
 },
 {
@@ -10406,7 +10701,7 @@ const articles = [
         "Fani Willis",
         "Georgia"
     ],
-    "page": 38,
+    "page": 39,
     "batchDate": "Apr 20, 2026"
 },
 {
@@ -10419,7 +10714,7 @@ const articles = [
         "Public Safety",
         "Violent Crime"
     ],
-    "page": 38,
+    "page": 39,
     "batchDate": "Apr 20, 2026"
 },
 {
@@ -10432,7 +10727,7 @@ const articles = [
         "Corruption-Fraud",
         "Politics"
     ],
-    "page": 38,
+    "page": 39,
     "batchDate": "Apr 20, 2026"
 },
 {
@@ -10446,7 +10741,7 @@ const articles = [
         "Drug Crime",
         "Washington"
     ],
-    "page": 38,
+    "page": 39,
     "batchDate": "Apr 20, 2026"
 },
 {
@@ -10459,7 +10754,7 @@ const articles = [
         "Immigration",
         "New York"
     ],
-    "page": 38,
+    "page": 39,
     "batchDate": "Apr 20, 2026"
 },
 {
@@ -10473,7 +10768,7 @@ const articles = [
         "Law Enforcement",
         "Minnesota"
     ],
-    "page": 38,
+    "page": 39,
     "batchDate": "Apr 20, 2026"
 },
 {
@@ -10486,7 +10781,7 @@ const articles = [
         "Corruption-Fraud",
         "Politics"
     ],
-    "page": 38,
+    "page": 39,
     "batchDate": "Apr 20, 2026"
 },
 {
@@ -10499,7 +10794,7 @@ const articles = [
         "New York",
         "Zohran Mamdani"
     ],
-    "page": 38,
+    "page": 39,
     "batchDate": "Apr 20, 2026"
 },
 {
@@ -10513,7 +10808,7 @@ const articles = [
         "Media Bias",
         "Sexual Misconduct"
     ],
-    "page": 38,
+    "page": 39,
     "batchDate": "Apr 20, 2026"
 },
 {
@@ -10526,7 +10821,7 @@ const articles = [
         "Homeless",
         "Los Angeles"
     ],
-    "page": 38,
+    "page": 39,
     "batchDate": "Apr 20, 2026"
 },
 {
@@ -10540,7 +10835,7 @@ const articles = [
         "Iran",
         "Senator Mark Warner"
     ],
-    "page": 38,
+    "page": 39,
     "batchDate": "Apr 20, 2026"
 },
 {
@@ -10553,7 +10848,7 @@ const articles = [
         "Corruption-Fraud",
         "Foreign Policy"
     ],
-    "page": 38,
+    "page": 39,
     "batchDate": "Apr 20, 2026"
 },
 {
@@ -10567,7 +10862,7 @@ const articles = [
         "Michigan",
         "Violent Crime"
     ],
-    "page": 38,
+    "page": 39,
     "batchDate": "Apr 20, 2026"
 },
 {
@@ -10581,7 +10876,7 @@ const articles = [
         "Sexual Misconduct",
         "Violent Crime"
     ],
-    "page": 38,
+    "page": 39,
     "batchDate": "Apr 20, 2026"
 },
 {
@@ -10594,7 +10889,7 @@ const articles = [
         "2026 Elections",
         "Ilhan Omar"
     ],
-    "page": 38,
+    "page": 39,
     "batchDate": "Apr 20, 2026"
 },
 {
@@ -10608,7 +10903,7 @@ const articles = [
         "Eric Swalwell",
         "Ruben Gallego"
     ],
-    "page": 39,
+    "page": 40,
     "batchDate": "Apr 18, 2026"
 },
 {
@@ -10623,7 +10918,7 @@ const articles = [
         "Jimmy Kimmel",
         "Sexual Misconduct"
     ],
-    "page": 39,
+    "page": 40,
     "batchDate": "Apr 18, 2026"
 },
 {
@@ -10637,7 +10932,7 @@ const articles = [
         "Foreign Policy",
         "Patriotism"
     ],
-    "page": 39,
+    "page": 40,
     "batchDate": "Apr 18, 2026"
 },
 {
@@ -10650,7 +10945,7 @@ const articles = [
         "Foreign Policy",
         "Islam-Muslim"
     ],
-    "page": 39,
+    "page": 40,
     "batchDate": "Apr 18, 2026"
 },
 {
@@ -10663,7 +10958,7 @@ const articles = [
         "2026 Elections",
         "Government"
     ],
-    "page": 39,
+    "page": 40,
     "batchDate": "Apr 18, 2026"
 },
 {
@@ -10677,7 +10972,7 @@ const articles = [
         "Culture War",
         "Unions"
     ],
-    "page": 39,
+    "page": 40,
     "batchDate": "Apr 18, 2026"
 },
 {
@@ -10690,7 +10985,7 @@ const articles = [
         "Corruption-Fraud",
         "Healthcare Policy"
     ],
-    "page": 39,
+    "page": 40,
     "batchDate": "Apr 18, 2026"
 },
 {
@@ -10703,7 +10998,7 @@ const articles = [
         "Culture War",
         "Politics"
     ],
-    "page": 39,
+    "page": 40,
     "batchDate": "Apr 18, 2026"
 },
 {
@@ -10717,7 +11012,7 @@ const articles = [
         "Politics",
         "Virginia"
     ],
-    "page": 39,
+    "page": 40,
     "batchDate": "Apr 18, 2026"
 },
 {
@@ -10731,7 +11026,7 @@ const articles = [
         "Impeachment",
         "Ro Khanna"
     ],
-    "page": 39,
+    "page": 40,
     "batchDate": "Apr 18, 2026"
 },
 {
@@ -10745,7 +11040,7 @@ const articles = [
         "Iran",
         "Strait of Hormuz"
     ],
-    "page": 39,
+    "page": 40,
     "batchDate": "Apr 18, 2026"
 },
 {
@@ -10758,7 +11053,7 @@ const articles = [
         "California",
         "Energy Policy"
     ],
-    "page": 39,
+    "page": 40,
     "batchDate": "Apr 18, 2026"
 },
 {
@@ -10772,7 +11067,7 @@ const articles = [
         "Immigration",
         "Violent Crime"
     ],
-    "page": 39,
+    "page": 40,
     "batchDate": "Apr 18, 2026"
 },
 {
@@ -10786,7 +11081,7 @@ const articles = [
         "Media Bias",
         "Politics"
     ],
-    "page": 39,
+    "page": 40,
     "batchDate": "Apr 18, 2026"
 },
 {
@@ -10801,7 +11096,7 @@ const articles = [
         "Media Bias",
         "Politics"
     ],
-    "page": 39,
+    "page": 40,
     "batchDate": "Apr 18, 2026"
 },
 {
@@ -10814,7 +11109,7 @@ const articles = [
         "2026 Elections",
         "Eric Swalwell"
     ],
-    "page": 39,
+    "page": 40,
     "batchDate": "Apr 18, 2026"
 },
 {
@@ -10828,7 +11123,7 @@ const articles = [
         "Taxation",
         "Zohran Mamdani"
     ],
-    "page": 39,
+    "page": 40,
     "batchDate": "Apr 18, 2026"
 },
 {
@@ -10843,7 +11138,7 @@ const articles = [
         "Politics",
         "Polling"
     ],
-    "page": 39,
+    "page": 40,
     "batchDate": "Apr 18, 2026"
 },
 {
@@ -10857,7 +11152,7 @@ const articles = [
         "Left-Wing",
         "U.S. Congress"
     ],
-    "page": 39,
+    "page": 40,
     "batchDate": "Apr 18, 2026"
 },
 {
@@ -10871,7 +11166,7 @@ const articles = [
         "Culture War",
         "DOJ"
     ],
-    "page": 39,
+    "page": 40,
     "batchDate": "Apr 18, 2026"
 },
 {
@@ -10884,7 +11179,7 @@ const articles = [
         "Election Fraud",
         "Rob Bonta"
     ],
-    "page": 40,
+    "page": 41,
     "batchDate": "Apr 18, 2026"
 },
 {
@@ -10897,7 +11192,7 @@ const articles = [
         "2026 Elections",
         "Eric Swalwell"
     ],
-    "page": 40,
+    "page": 41,
     "batchDate": "Apr 18, 2026"
 },
 {
@@ -10910,7 +11205,7 @@ const articles = [
         "California",
         "Economic Policy"
     ],
-    "page": 40,
+    "page": 41,
     "batchDate": "Apr 18, 2026"
 },
 {
@@ -10924,7 +11219,7 @@ const articles = [
         "Polling",
         "Pope Leo XIV"
     ],
-    "page": 40,
+    "page": 41,
     "batchDate": "Apr 18, 2026"
 },
 {
@@ -10937,7 +11232,7 @@ const articles = [
         "Brandon Johnson",
         "Reparations"
     ],
-    "page": 40,
+    "page": 41,
     "batchDate": "Apr 18, 2026"
 },
 {
@@ -10952,7 +11247,7 @@ const articles = [
         "LGBTQ",
         "Scott Wiener"
     ],
-    "page": 40,
+    "page": 41,
     "batchDate": "Apr 18, 2026"
 },
 {
@@ -10966,7 +11261,7 @@ const articles = [
         "Tony Evers",
         "Wisconsin"
     ],
-    "page": 40,
+    "page": 41,
     "batchDate": "Apr 18, 2026"
 },
 {
@@ -10980,7 +11275,7 @@ const articles = [
         "Immigration",
         "New York"
     ],
-    "page": 40,
+    "page": 41,
     "batchDate": "Apr 18, 2026"
 },
 {
@@ -10993,7 +11288,7 @@ const articles = [
         "CBP-DHS-ICE",
         "Immigration"
     ],
-    "page": 40,
+    "page": 41,
     "batchDate": "Apr 18, 2026"
 },
 {
@@ -11006,7 +11301,7 @@ const articles = [
         "Eric Swalwell",
         "Sexual Misconduct"
     ],
-    "page": 40,
+    "page": 41,
     "batchDate": "Apr 18, 2026"
 },
 {
@@ -11019,7 +11314,7 @@ const articles = [
         "Homeland Security",
         "Immigration"
     ],
-    "page": 40,
+    "page": 41,
     "batchDate": "Apr 18, 2026"
 },
 {
@@ -11032,7 +11327,7 @@ const articles = [
         "New York",
         "Violent Crime"
     ],
-    "page": 40,
+    "page": 41,
     "batchDate": "Apr 18, 2026"
 },
 {
@@ -11047,7 +11342,7 @@ const articles = [
         "Michigan",
         "Terrorism"
     ],
-    "page": 40,
+    "page": 41,
     "batchDate": "Apr 18, 2026"
 },
 {
@@ -11060,7 +11355,7 @@ const articles = [
         "2026 Elections",
         "U.S. Congress"
     ],
-    "page": 40,
+    "page": 41,
     "batchDate": "Apr 18, 2026"
 },
 {
@@ -11073,7 +11368,7 @@ const articles = [
         "Foreign Policy",
         "Ro Khanna"
     ],
-    "page": 40,
+    "page": 41,
     "batchDate": "Apr 18, 2026"
 },
 {
@@ -11086,7 +11381,7 @@ const articles = [
         "Culture War",
         "Polling"
     ],
-    "page": 40,
+    "page": 41,
     "batchDate": "Apr 18, 2026"
 },
 {
@@ -11099,7 +11394,7 @@ const articles = [
         "Colorado",
         "Immigration"
     ],
-    "page": 40,
+    "page": 41,
     "batchDate": "Apr 18, 2026"
 },
 {
@@ -11113,7 +11408,7 @@ const articles = [
         "Education Policy",
         "Rahm Emanuel"
     ],
-    "page": 40,
+    "page": 41,
     "batchDate": "Apr 18, 2026"
 },
 {
@@ -11128,7 +11423,7 @@ const articles = [
         "Polling",
         "Wes Moore"
     ],
-    "page": 40,
+    "page": 41,
     "batchDate": "Apr 18, 2026"
 },
 {
@@ -11142,7 +11437,7 @@ const articles = [
         "Sexual Misconduct",
         "Violent Crime"
     ],
-    "page": 40,
+    "page": 41,
     "batchDate": "Apr 18, 2026"
 },
 {
@@ -11155,7 +11450,7 @@ const articles = [
         "Immigration",
         "Texas"
     ],
-    "page": 41,
+    "page": 42,
     "batchDate": "Apr 16, 2026"
 },
 {
@@ -11169,7 +11464,7 @@ const articles = [
         "Culture War",
         "Racial Issues"
     ],
-    "page": 41,
+    "page": 42,
     "batchDate": "Apr 16, 2026"
 },
 {
@@ -11182,7 +11477,7 @@ const articles = [
         "Boston",
         "Michelle Wu"
     ],
-    "page": 41,
+    "page": 42,
     "batchDate": "Apr 16, 2026"
 },
 {
@@ -11197,7 +11492,7 @@ const articles = [
         "Judiciary-Judicial",
         "Tom Steyer"
     ],
-    "page": 41,
+    "page": 42,
     "batchDate": "Apr 16, 2026"
 },
 {
@@ -11210,7 +11505,7 @@ const articles = [
         "2026 Elections",
         "Eric Swalwell"
     ],
-    "page": 41,
+    "page": 42,
     "batchDate": "Apr 16, 2026"
 },
 {
@@ -11225,7 +11520,7 @@ const articles = [
         "NYC",
         "Zohran Mamdani"
     ],
-    "page": 41,
+    "page": 42,
     "batchDate": "Apr 16, 2026"
 },
 {
@@ -11239,7 +11534,7 @@ const articles = [
         "California",
         "Economic Policy"
     ],
-    "page": 41,
+    "page": 42,
     "batchDate": "Apr 16, 2026"
 },
 {
@@ -11252,7 +11547,7 @@ const articles = [
         "Left-Wing",
         "Politics"
     ],
-    "page": 41,
+    "page": 42,
     "batchDate": "Apr 16, 2026"
 },
 {
@@ -11266,7 +11561,7 @@ const articles = [
         "Kathy Hochul",
         "New York"
     ],
-    "page": 41,
+    "page": 42,
     "batchDate": "Apr 16, 2026"
 },
 {
@@ -11280,7 +11575,7 @@ const articles = [
         "DOJ",
         "Merrick Garland"
     ],
-    "page": 41,
+    "page": 42,
     "batchDate": "Apr 16, 2026"
 },
 {
@@ -11290,11 +11585,11 @@ const articles = [
     "xPostUrl": "https://x.com/C3Heditor/status/2044788111457075613",
     "imageUrl": "https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/2026-04-16_094127_d199c76b.jpg",
     "tags": [
-        "Israel",
+        "Israel-Jews",
         "Media Bias",
         "Violence"
     ],
-    "page": 41,
+    "page": 42,
     "batchDate": "Apr 16, 2026"
 },
 {
@@ -11308,7 +11603,7 @@ const articles = [
         "Joy Behar",
         "The View"
     ],
-    "page": 41,
+    "page": 42,
     "batchDate": "Apr 16, 2026"
 },
 {
@@ -11322,7 +11617,7 @@ const articles = [
         "Joe Biden",
         "Racial Issues"
     ],
-    "page": 41,
+    "page": 42,
     "batchDate": "Apr 16, 2026"
 },
 {
@@ -11337,7 +11632,7 @@ const articles = [
         "Left-Wing",
         "Virtue Signaling"
     ],
-    "page": 41,
+    "page": 42,
     "batchDate": "Apr 16, 2026"
 },
 {
@@ -11352,7 +11647,7 @@ const articles = [
         "LGBTQ",
         "San Francisco"
     ],
-    "page": 41,
+    "page": 42,
     "batchDate": "Apr 16, 2026"
 },
 {
@@ -11366,7 +11661,7 @@ const articles = [
         "Islam-Muslim",
         "Pope Leo XIV"
     ],
-    "page": 41,
+    "page": 42,
     "batchDate": "Apr 16, 2026"
 },
 {
@@ -11379,7 +11674,7 @@ const articles = [
         "California",
         "Journalism"
     ],
-    "page": 41,
+    "page": 42,
     "batchDate": "Apr 16, 2026"
 },
 {
@@ -11389,10 +11684,10 @@ const articles = [
     "xPostUrl": "https://x.com/C3Heditor/status/2044548837818183776",
     "imageUrl": "https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/2026-04-15_175133_2dba4ecf.jpg",
     "tags": [
-        "Israel",
+        "Israel-Jews",
         "Zohran Mamdani"
     ],
-    "page": 41,
+    "page": 42,
     "batchDate": "Apr 16, 2026"
 },
 {
@@ -11406,7 +11701,7 @@ const articles = [
         "Energy Policy",
         "Maine"
     ],
-    "page": 41,
+    "page": 42,
     "batchDate": "Apr 16, 2026"
 },
 {
@@ -11420,7 +11715,7 @@ const articles = [
         "Culture War",
         "Media Bias"
     ],
-    "page": 41,
+    "page": 42,
     "batchDate": "Apr 16, 2026"
 },
 {
@@ -11433,7 +11728,7 @@ const articles = [
         "DOJ",
         "Election Fraud"
     ],
-    "page": 42,
+    "page": 43,
     "batchDate": "Apr 14, 2026"
 },
 {
@@ -11447,7 +11742,7 @@ const articles = [
         "LGBTQ",
         "Taxation"
     ],
-    "page": 42,
+    "page": 43,
     "batchDate": "Apr 14, 2026"
 },
 {
@@ -11461,7 +11756,7 @@ const articles = [
         "Eric Swalwell",
         "Sexual Misconduct"
     ],
-    "page": 42,
+    "page": 43,
     "batchDate": "Apr 14, 2026"
 },
 {
@@ -11474,7 +11769,7 @@ const articles = [
         "Media Bias",
         "Violent Crime"
     ],
-    "page": 42,
+    "page": 43,
     "batchDate": "Apr 14, 2026"
 },
 {
@@ -11487,7 +11782,7 @@ const articles = [
         "New York",
         "Zohran Mamdani"
     ],
-    "page": 42,
+    "page": 43,
     "batchDate": "Apr 14, 2026"
 },
 {
@@ -11501,7 +11796,7 @@ const articles = [
         "Corruption-Fraud",
         "Rob Bonta"
     ],
-    "page": 42,
+    "page": 43,
     "batchDate": "Apr 14, 2026"
 },
 {
@@ -11514,7 +11809,7 @@ const articles = [
         "Iryna Zarutska",
         "North Carolina"
     ],
-    "page": 42,
+    "page": 43,
     "batchDate": "Apr 14, 2026"
 },
 {
@@ -11529,7 +11824,7 @@ const articles = [
         "Media Bias",
         "Wes Moore"
     ],
-    "page": 42,
+    "page": 43,
     "batchDate": "Apr 14, 2026"
 },
 {
@@ -11542,7 +11837,7 @@ const articles = [
         "Graham Platner",
         "Maine"
     ],
-    "page": 42,
+    "page": 43,
     "batchDate": "Apr 14, 2026"
 },
 {
@@ -11555,7 +11850,7 @@ const articles = [
         "Minnesota",
         "Politics"
     ],
-    "page": 42,
+    "page": 43,
     "batchDate": "Apr 14, 2026"
 },
 {
@@ -11569,7 +11864,7 @@ const articles = [
         "Law Enforcement",
         "Ohio"
     ],
-    "page": 42,
+    "page": 43,
     "batchDate": "Apr 14, 2026"
 },
 {
@@ -11583,7 +11878,7 @@ const articles = [
         "Politics",
         "Sexual Misconduct"
     ],
-    "page": 42,
+    "page": 43,
     "batchDate": "Apr 14, 2026"
 },
 {
@@ -11596,7 +11891,7 @@ const articles = [
         "2026 Elections",
         "Virginia"
     ],
-    "page": 42,
+    "page": 43,
     "batchDate": "Apr 14, 2026"
 },
 {
@@ -11609,7 +11904,7 @@ const articles = [
         "JB Pritzker",
         "Pope Leo XIV"
     ],
-    "page": 42,
+    "page": 43,
     "batchDate": "Apr 14, 2026"
 },
 {
@@ -11622,7 +11917,7 @@ const articles = [
         "Los Angeles",
         "Unions"
     ],
-    "page": 42,
+    "page": 43,
     "batchDate": "Apr 14, 2026"
 },
 {
@@ -11636,7 +11931,7 @@ const articles = [
         "Rhode Island Politics",
         "Violent Crime"
     ],
-    "page": 42,
+    "page": 43,
     "batchDate": "Apr 14, 2026"
 },
 {
@@ -11649,7 +11944,7 @@ const articles = [
         "Culture War",
         "Left-Wing"
     ],
-    "page": 42,
+    "page": 43,
     "batchDate": "Apr 14, 2026"
 },
 {
@@ -11662,7 +11957,7 @@ const articles = [
         "Andy Beshear",
         "Culture War"
     ],
-    "page": 42,
+    "page": 43,
     "batchDate": "Apr 14, 2026"
 },
 {
@@ -11677,7 +11972,7 @@ const articles = [
         "Culture War",
         "DOJ"
     ],
-    "page": 42,
+    "page": 43,
     "batchDate": "Apr 14, 2026"
 },
 {
@@ -11690,7 +11985,7 @@ const articles = [
         "2026 Elections",
         "Christianity"
     ],
-    "page": 42,
+    "page": 43,
     "batchDate": "Apr 14, 2026"
 },
 {
@@ -11705,7 +12000,7 @@ const articles = [
         "Mental Health",
         "Texas"
     ],
-    "page": 43,
+    "page": 44,
     "batchDate": "Apr 14, 2026"
 },
 {
@@ -11718,7 +12013,7 @@ const articles = [
         "Election Fraud",
         "Texas"
     ],
-    "page": 43,
+    "page": 44,
     "batchDate": "Apr 14, 2026"
 },
 {
@@ -11733,7 +12028,7 @@ const articles = [
         "Judiciary-Judicial",
         "Minnesota"
     ],
-    "page": 43,
+    "page": 44,
     "batchDate": "Apr 14, 2026"
 },
 {
@@ -11747,7 +12042,7 @@ const articles = [
         "Law Enforcement",
         "Washington"
     ],
-    "page": 43,
+    "page": 44,
     "batchDate": "Apr 14, 2026"
 },
 {
@@ -11762,7 +12057,7 @@ const articles = [
         "Kathy Hochul",
         "New York"
     ],
-    "page": 43,
+    "page": 44,
     "batchDate": "Apr 14, 2026"
 },
 {
@@ -11776,7 +12071,7 @@ const articles = [
         "Eric Swalwell",
         "U.S. Congress"
     ],
-    "page": 43,
+    "page": 44,
     "batchDate": "Apr 14, 2026"
 },
 {
@@ -11791,7 +12086,7 @@ const articles = [
         "Sexual Misconduct",
         "Violent Crime"
     ],
-    "page": 43,
+    "page": 44,
     "batchDate": "Apr 14, 2026"
 },
 {
@@ -11804,7 +12099,7 @@ const articles = [
         "Impeachment",
         "Iran"
     ],
-    "page": 43,
+    "page": 44,
     "batchDate": "Apr 14, 2026"
 },
 {
@@ -11818,7 +12113,7 @@ const articles = [
         "Massachusetts",
         "Transportation Policy"
     ],
-    "page": 43,
+    "page": 44,
     "batchDate": "Apr 14, 2026"
 },
 {
@@ -11831,7 +12126,7 @@ const articles = [
         "Colorado",
         "Politics"
     ],
-    "page": 43,
+    "page": 44,
     "batchDate": "Apr 14, 2026"
 },
 {
@@ -11845,7 +12140,7 @@ const articles = [
         "Corruption-Fraud",
         "Gavin Newsom"
     ],
-    "page": 43,
+    "page": 44,
     "batchDate": "Apr 14, 2026"
 },
 {
@@ -11858,7 +12153,7 @@ const articles = [
         "CBP-DHS-ICE",
         "Tammy Duckworth"
     ],
-    "page": 43,
+    "page": 44,
     "batchDate": "Apr 14, 2026"
 },
 {
@@ -11872,7 +12167,7 @@ const articles = [
         "Judiciary-Judicial",
         "Ohio"
     ],
-    "page": 43,
+    "page": 44,
     "batchDate": "Apr 14, 2026"
 },
 {
@@ -11886,7 +12181,7 @@ const articles = [
         "Left-Wing",
         "U.S. Constitution"
     ],
-    "page": 43,
+    "page": 44,
     "batchDate": "Apr 14, 2026"
 },
 {
@@ -11900,7 +12195,7 @@ const articles = [
         "Business Climate",
         "Energy Policy"
     ],
-    "page": 43,
+    "page": 44,
     "batchDate": "Apr 14, 2026"
 },
 {
@@ -11914,7 +12209,7 @@ const articles = [
         "Christianity",
         "Media Bias"
     ],
-    "page": 43,
+    "page": 44,
     "batchDate": "Apr 14, 2026"
 },
 {
@@ -11927,7 +12222,7 @@ const articles = [
         "Gavin Newsom",
         "Los Angeles"
     ],
-    "page": 43,
+    "page": 44,
     "batchDate": "Apr 14, 2026"
 },
 {
@@ -11941,7 +12236,7 @@ const articles = [
         "Maryland",
         "Politics"
     ],
-    "page": 43,
+    "page": 44,
     "batchDate": "Apr 14, 2026"
 },
 {
@@ -11956,7 +12251,7 @@ const articles = [
         "Investigation",
         "Sexual Misconduct"
     ],
-    "page": 43,
+    "page": 44,
     "batchDate": "Apr 14, 2026"
 },
 {
@@ -11970,7 +12265,7 @@ const articles = [
         "Politics",
         "Racial Issues"
     ],
-    "page": 43,
+    "page": 44,
     "batchDate": "Apr 14, 2026"
 },
 {
@@ -11983,7 +12278,7 @@ const articles = [
         "California",
         "Gavin Newsom"
     ],
-    "page": 44,
+    "page": 45,
     "batchDate": "Apr 12, 2026"
 },
 {
@@ -11996,7 +12291,7 @@ const articles = [
         "DOJ",
         "Politics"
     ],
-    "page": 44,
+    "page": 45,
     "batchDate": "Apr 12, 2026"
 },
 {
@@ -12011,7 +12306,7 @@ const articles = [
         "Media Bias",
         "Polling"
     ],
-    "page": 44,
+    "page": 45,
     "batchDate": "Apr 12, 2026"
 },
 {
@@ -12025,7 +12320,7 @@ const articles = [
         "Joe Biden",
         "LGBTQ"
     ],
-    "page": 44,
+    "page": 45,
     "batchDate": "Apr 12, 2026"
 },
 {
@@ -12039,7 +12334,7 @@ const articles = [
         "Racial Issues",
         "Virginia"
     ],
-    "page": 44,
+    "page": 45,
     "batchDate": "Apr 12, 2026"
 },
 {
@@ -12053,7 +12348,7 @@ const articles = [
         "John Fetterman",
         "Politics"
     ],
-    "page": 44,
+    "page": 45,
     "batchDate": "Apr 12, 2026"
 },
 {
@@ -12068,7 +12363,7 @@ const articles = [
         "Immigration",
         "Virtue Signaling"
     ],
-    "page": 44,
+    "page": 45,
     "batchDate": "Apr 12, 2026"
 },
 {
@@ -12083,7 +12378,7 @@ const articles = [
         "Los Angeles County",
         "Taxation"
     ],
-    "page": 44,
+    "page": 45,
     "batchDate": "Apr 12, 2026"
 },
 {
@@ -12096,7 +12391,7 @@ const articles = [
         "Censorship",
         "Politics"
     ],
-    "page": 44,
+    "page": 45,
     "batchDate": "Apr 12, 2026"
 },
 {
@@ -12109,7 +12404,7 @@ const articles = [
         "2026 Elections",
         "U.S. Congress"
     ],
-    "page": 44,
+    "page": 45,
     "batchDate": "Apr 12, 2026"
 },
 {
@@ -12122,7 +12417,7 @@ const articles = [
         "Politics",
         "Trump-Derangement"
     ],
-    "page": 44,
+    "page": 45,
     "batchDate": "Apr 12, 2026"
 },
 {
@@ -12136,7 +12431,7 @@ const articles = [
         "Energy Policy",
         "Long Island"
     ],
-    "page": 44,
+    "page": 45,
     "batchDate": "Apr 12, 2026"
 },
 {
@@ -12150,7 +12445,7 @@ const articles = [
         "Business Climate",
         "COVID-19"
     ],
-    "page": 44,
+    "page": 45,
     "batchDate": "Apr 12, 2026"
 },
 {
@@ -12163,7 +12458,7 @@ const articles = [
         "Iryna Zarutska",
         "Violent Crime"
     ],
-    "page": 44,
+    "page": 45,
     "batchDate": "Apr 12, 2026"
 },
 {
@@ -12176,7 +12471,7 @@ const articles = [
         "CBP-DHS-ICE",
         "Politics"
     ],
-    "page": 44,
+    "page": 45,
     "batchDate": "Apr 12, 2026"
 },
 {
@@ -12191,7 +12486,7 @@ const articles = [
         "Gavin Newsom",
         "Taxation"
     ],
-    "page": 44,
+    "page": 45,
     "batchDate": "Apr 12, 2026"
 },
 {
@@ -12205,7 +12500,7 @@ const articles = [
         "Alexandria Ocasio-Cortez",
         "New York"
     ],
-    "page": 44,
+    "page": 45,
     "batchDate": "Apr 12, 2026"
 },
 {
@@ -12218,7 +12513,7 @@ const articles = [
         "Judiciary-Judicial",
         "Sexual Misconduct"
     ],
-    "page": 44,
+    "page": 45,
     "batchDate": "Apr 12, 2026"
 },
 {
@@ -12233,7 +12528,7 @@ const articles = [
         "Hasan Piker",
         "Jon Ossoff"
     ],
-    "page": 44,
+    "page": 45,
     "batchDate": "Apr 12, 2026"
 },
 {
@@ -12246,7 +12541,7 @@ const articles = [
         "Government",
         "Immigration"
     ],
-    "page": 44,
+    "page": 45,
     "batchDate": "Apr 12, 2026"
 },
 {
@@ -12261,7 +12556,7 @@ const articles = [
         "Michigan",
         "Terrorism"
     ],
-    "page": 45,
+    "page": 46,
     "batchDate": "Apr 11, 2026"
 },
 {
@@ -12274,7 +12569,7 @@ const articles = [
         "Georgia",
         "Islam-Muslim"
     ],
-    "page": 45,
+    "page": 46,
     "batchDate": "Apr 11, 2026"
 },
 {
@@ -12288,7 +12583,7 @@ const articles = [
         "LGBTQ",
         "Michigan"
     ],
-    "page": 45,
+    "page": 46,
     "batchDate": "Apr 11, 2026"
 },
 {
@@ -12302,7 +12597,7 @@ const articles = [
         "Eric Swalwell",
         "Sexual Misconduct"
     ],
-    "page": 45,
+    "page": 46,
     "batchDate": "Apr 11, 2026"
 },
 {
@@ -12317,7 +12612,7 @@ const articles = [
         "Taxation",
         "Zohran Mamdani"
     ],
-    "page": 45,
+    "page": 46,
     "batchDate": "Apr 11, 2026"
 },
 {
@@ -12330,7 +12625,7 @@ const articles = [
         "Election Fraud",
         "Obama Presidential Center"
     ],
-    "page": 45,
+    "page": 46,
     "batchDate": "Apr 11, 2026"
 },
 {
@@ -12343,7 +12638,7 @@ const articles = [
         "Corruption-Fraud",
         "Minnesota"
     ],
-    "page": 45,
+    "page": 46,
     "batchDate": "Apr 11, 2026"
 },
 {
@@ -12358,7 +12653,7 @@ const articles = [
         "Los Angeles",
         "Taxation"
     ],
-    "page": 45,
+    "page": 46,
     "batchDate": "Apr 11, 2026"
 },
 {
@@ -12371,7 +12666,7 @@ const articles = [
         "Immigration",
         "Violent Crime"
     ],
-    "page": 45,
+    "page": 46,
     "batchDate": "Apr 11, 2026"
 },
 {
@@ -12384,7 +12679,7 @@ const articles = [
         "2026 Elections",
         "Corruption-Fraud"
     ],
-    "page": 45,
+    "page": 46,
     "batchDate": "Apr 11, 2026"
 },
 {
@@ -12398,7 +12693,7 @@ const articles = [
         "Homeless",
         "Incompetence"
     ],
-    "page": 45,
+    "page": 46,
     "batchDate": "Apr 11, 2026"
 },
 {
@@ -12412,7 +12707,7 @@ const articles = [
         "Ohio",
         "U.S. Congress"
     ],
-    "page": 45,
+    "page": 46,
     "batchDate": "Apr 11, 2026"
 },
 {
@@ -12425,7 +12720,7 @@ const articles = [
         "Media Bias",
         "U.S. Congress"
     ],
-    "page": 45,
+    "page": 46,
     "batchDate": "Apr 11, 2026"
 },
 {
@@ -12438,7 +12733,7 @@ const articles = [
         "California",
         "Corruption-Fraud"
     ],
-    "page": 45,
+    "page": 46,
     "batchDate": "Apr 11, 2026"
 },
 {
@@ -12452,7 +12747,7 @@ const articles = [
         "George Soros",
         "Judiciary-Judicial"
     ],
-    "page": 45,
+    "page": 46,
     "batchDate": "Apr 11, 2026"
 },
 {
@@ -12466,7 +12761,7 @@ const articles = [
         "Energy Policy",
         "San Francisco"
     ],
-    "page": 45,
+    "page": 46,
     "batchDate": "Apr 11, 2026"
 },
 {
@@ -12480,7 +12775,7 @@ const articles = [
         "Patriotism",
         "Politics"
     ],
-    "page": 45,
+    "page": 46,
     "batchDate": "Apr 11, 2026"
 },
 {
@@ -12494,7 +12789,7 @@ const articles = [
         "Immigration",
         "Violent Crime"
     ],
-    "page": 45,
+    "page": 46,
     "batchDate": "Apr 11, 2026"
 },
 {
@@ -12508,7 +12803,7 @@ const articles = [
         "Gavin Newsom",
         "Taxation"
     ],
-    "page": 45,
+    "page": 46,
     "batchDate": "Apr 11, 2026"
 },
 {
@@ -12522,7 +12817,7 @@ const articles = [
         "Healthcare Policy",
         "Immigration"
     ],
-    "page": 45,
+    "page": 46,
     "batchDate": "Apr 11, 2026"
 },
 {
@@ -12535,7 +12830,7 @@ const articles = [
         "Immigration",
         "Kathy Hochul"
     ],
-    "page": 46,
+    "page": 47,
     "batchDate": "Apr 03, 2026"
 },
 {
@@ -12549,7 +12844,7 @@ const articles = [
         "Gavin Newsom",
         "National Security"
     ],
-    "page": 46,
+    "page": 47,
     "batchDate": "Apr 03, 2026"
 },
 {
@@ -12562,7 +12857,7 @@ const articles = [
         "CBP-DHS-ICE",
         "Election Fraud"
     ],
-    "page": 46,
+    "page": 47,
     "batchDate": "Apr 03, 2026"
 },
 {
@@ -12576,7 +12871,7 @@ const articles = [
         "Gun Control",
         "Virginia"
     ],
-    "page": 46,
+    "page": 47,
     "batchDate": "Apr 03, 2026"
 },
 {
@@ -12589,7 +12884,7 @@ const articles = [
         "Letitia James",
         "LGBTQ"
     ],
-    "page": 46,
+    "page": 47,
     "batchDate": "Apr 03, 2026"
 },
 {
@@ -12603,7 +12898,7 @@ const articles = [
         "Eric Swalwell",
         "FBI"
     ],
-    "page": 46,
+    "page": 47,
     "batchDate": "Apr 03, 2026"
 },
 {
@@ -12618,7 +12913,7 @@ const articles = [
         "Violent Crime",
         "Virginia"
     ],
-    "page": 46,
+    "page": 47,
     "batchDate": "Apr 03, 2026"
 },
 {
@@ -12631,7 +12926,7 @@ const articles = [
         "CBP-DHS-ICE",
         "Immigration"
     ],
-    "page": 46,
+    "page": 47,
     "batchDate": "Apr 03, 2026"
 },
 {
@@ -12645,7 +12940,7 @@ const articles = [
         "Homeless",
         "Violent Crime"
     ],
-    "page": 46,
+    "page": 47,
     "batchDate": "Apr 03, 2026"
 },
 {
@@ -12659,7 +12954,7 @@ const articles = [
         "Epstein",
         "Maine"
     ],
-    "page": 46,
+    "page": 47,
     "batchDate": "Apr 03, 2026"
 },
 {
@@ -12673,7 +12968,7 @@ const articles = [
         "Foreign Policy",
         "Taxation"
     ],
-    "page": 46,
+    "page": 47,
     "batchDate": "Apr 03, 2026"
 },
 {
@@ -12687,7 +12982,7 @@ const articles = [
         "Gavin Newsom",
         "Los Angeles County"
     ],
-    "page": 46,
+    "page": 47,
     "batchDate": "Apr 03, 2026"
 },
 {
@@ -12701,7 +12996,7 @@ const articles = [
         "John Fetterman",
         "Media Bias"
     ],
-    "page": 46,
+    "page": 47,
     "batchDate": "Apr 03, 2026"
 },
 {
@@ -12715,7 +13010,7 @@ const articles = [
         "Taxation",
         "Washington"
     ],
-    "page": 46,
+    "page": 47,
     "batchDate": "Apr 03, 2026"
 },
 {
@@ -12728,7 +13023,7 @@ const articles = [
         "Immigration",
         "LGBTQ"
     ],
-    "page": 46,
+    "page": 47,
     "batchDate": "Apr 03, 2026"
 },
 {
@@ -12743,7 +13038,7 @@ const articles = [
         "Judiciary-Judicial",
         "LGBTQ"
     ],
-    "page": 46,
+    "page": 47,
     "batchDate": "Apr 03, 2026"
 },
 {
@@ -12756,7 +13051,7 @@ const articles = [
         "Media Bias",
         "Politics"
     ],
-    "page": 46,
+    "page": 47,
     "batchDate": "Apr 03, 2026"
 },
 {
@@ -12769,7 +13064,7 @@ const articles = [
         "Left-Wing",
         "Racial Issues"
     ],
-    "page": 46,
+    "page": 47,
     "batchDate": "Apr 03, 2026"
 },
 {
@@ -12782,7 +13077,7 @@ const articles = [
         "2026 Elections",
         "Iryna Zarutska"
     ],
-    "page": 46,
+    "page": 47,
     "batchDate": "Apr 03, 2026"
 },
 {
@@ -12797,7 +13092,7 @@ const articles = [
         "Election Fraud",
         "Taxation"
     ],
-    "page": 46,
+    "page": 47,
     "batchDate": "Apr 03, 2026"
 },
 {
@@ -12810,7 +13105,7 @@ const articles = [
         "Immigration",
         "Violent Crime"
     ],
-    "page": 47,
+    "page": 48,
     "batchDate": "Apr 03, 2026"
 },
 {
@@ -12823,7 +13118,7 @@ const articles = [
         "Election Fraud",
         "LGBTQ"
     ],
-    "page": 47,
+    "page": 48,
     "batchDate": "Apr 03, 2026"
 },
 {
@@ -12837,7 +13132,7 @@ const articles = [
         "January 6 Protest",
         "Virginia"
     ],
-    "page": 47,
+    "page": 48,
     "batchDate": "Apr 03, 2026"
 },
 {
@@ -12850,7 +13145,7 @@ const articles = [
         "Sexual Misconduct",
         "Zohran Mamdani"
     ],
-    "page": 47,
+    "page": 48,
     "batchDate": "Apr 03, 2026"
 },
 {
@@ -12864,7 +13159,7 @@ const articles = [
         "Gavin Newsom",
         "Kamala Harris"
     ],
-    "page": 47,
+    "page": 48,
     "batchDate": "Apr 03, 2026"
 },
 {
@@ -12877,7 +13172,7 @@ const articles = [
         "Left-Wing",
         "Violence"
     ],
-    "page": 47,
+    "page": 48,
     "batchDate": "Apr 03, 2026"
 },
 {
@@ -12892,7 +13187,7 @@ const articles = [
         "LGBTQ",
         "Minnesota"
     ],
-    "page": 47,
+    "page": 48,
     "batchDate": "Apr 03, 2026"
 },
 {
@@ -12905,7 +13200,7 @@ const articles = [
         "Judiciary-Judicial",
         "Violent Crime"
     ],
-    "page": 47,
+    "page": 48,
     "batchDate": "Apr 03, 2026"
 },
 {
@@ -12918,7 +13213,7 @@ const articles = [
         "2026 Elections",
         "Minnesota"
     ],
-    "page": 47,
+    "page": 48,
     "batchDate": "Apr 03, 2026"
 },
 {
@@ -12932,7 +13227,7 @@ const articles = [
         "Education Policy",
         "LGBTQ"
     ],
-    "page": 47,
+    "page": 48,
     "batchDate": "Apr 03, 2026"
 },
 {
@@ -12945,7 +13240,7 @@ const articles = [
         "Foreign Policy",
         "John Fetterman"
     ],
-    "page": 47,
+    "page": 48,
     "batchDate": "Apr 03, 2026"
 },
 {
@@ -12958,7 +13253,7 @@ const articles = [
         "Culture War",
         "Iowa"
     ],
-    "page": 47,
+    "page": 48,
     "batchDate": "Apr 03, 2026"
 },
 {
@@ -12970,7 +13265,7 @@ const articles = [
     "tags": [
         "Healthcare Policy"
     ],
-    "page": 47,
+    "page": 48,
     "batchDate": "Apr 03, 2026"
 },
 {
@@ -12983,7 +13278,7 @@ const articles = [
         "Alternative & Social Media",
         "Election Fraud"
     ],
-    "page": 47,
+    "page": 48,
     "batchDate": "Apr 03, 2026"
 },
 {
@@ -12996,7 +13291,7 @@ const articles = [
         "Election Fraud",
         "Trump-Derangement"
     ],
-    "page": 47,
+    "page": 48,
     "batchDate": "Apr 03, 2026"
 },
 {
@@ -13010,7 +13305,7 @@ const articles = [
         "Energy Policy",
         "Gavin Newsom"
     ],
-    "page": 47,
+    "page": 48,
     "batchDate": "Apr 03, 2026"
 },
 {
@@ -13023,7 +13318,7 @@ const articles = [
         "Law Enforcement",
         "San Francisco"
     ],
-    "page": 47,
+    "page": 48,
     "batchDate": "Apr 03, 2026"
 },
 {
@@ -13036,7 +13331,7 @@ const articles = [
         "Immigration",
         "Violent Crime"
     ],
-    "page": 47,
+    "page": 48,
     "batchDate": "Apr 03, 2026"
 },
 {
@@ -13049,7 +13344,7 @@ const articles = [
         "Corruption-Fraud",
         "Judiciary-Judicial"
     ],
-    "page": 47,
+    "page": 48,
     "batchDate": "Apr 03, 2026"
 },
 {
@@ -13063,7 +13358,7 @@ const articles = [
         "Immigration",
         "Violent Crime"
     ],
-    "page": 47,
+    "page": 48,
     "batchDate": "Apr 03, 2026"
 },
 {
@@ -13077,7 +13372,7 @@ const articles = [
         "Minnesota",
         "Tim Walz"
     ],
-    "page": 48,
+    "page": 49,
     "batchDate": "Mar 31, 2026"
 },
 {
@@ -13090,7 +13385,7 @@ const articles = [
         "Corruption-Fraud",
         "Maryland"
     ],
-    "page": 48,
+    "page": 49,
     "batchDate": "Mar 31, 2026"
 },
 {
@@ -13103,7 +13398,7 @@ const articles = [
         "Corruption-Fraud",
         "FBI"
     ],
-    "page": 48,
+    "page": 49,
     "batchDate": "Mar 31, 2026"
 },
 {
@@ -13116,7 +13411,7 @@ const articles = [
         "Culture War",
         "Education Policy"
     ],
-    "page": 48,
+    "page": 49,
     "batchDate": "Mar 31, 2026"
 },
 {
@@ -13130,7 +13425,7 @@ const articles = [
         "CBP-DHS-ICE",
         "Kaitlan Collins"
     ],
-    "page": 48,
+    "page": 49,
     "batchDate": "Mar 31, 2026"
 },
 {
@@ -13143,7 +13438,7 @@ const articles = [
         "Election Fraud",
         "Jocelyn Benson"
     ],
-    "page": 48,
+    "page": 49,
     "batchDate": "Mar 31, 2026"
 },
 {
@@ -13158,7 +13453,7 @@ const articles = [
         "Epstein",
         "Gavin Newsom"
     ],
-    "page": 48,
+    "page": 49,
     "batchDate": "Mar 31, 2026"
 },
 {
@@ -13171,7 +13466,7 @@ const articles = [
         "CBP-DHS-ICE",
         "Justice Department"
     ],
-    "page": 48,
+    "page": 49,
     "batchDate": "Mar 31, 2026"
 },
 {
@@ -13184,7 +13479,7 @@ const articles = [
         "Business Climate",
         "Politics"
     ],
-    "page": 48,
+    "page": 49,
     "batchDate": "Mar 31, 2026"
 },
 {
@@ -13198,7 +13493,7 @@ const articles = [
         "Politics",
         "State of the Union"
     ],
-    "page": 48,
+    "page": 49,
     "batchDate": "Mar 31, 2026"
 },
 {
@@ -13212,7 +13507,7 @@ const articles = [
         "Los Angeles",
         "Racial Issues"
     ],
-    "page": 48,
+    "page": 49,
     "batchDate": "Mar 31, 2026"
 },
 {
@@ -13226,7 +13521,7 @@ const articles = [
         "Immigration",
         "Stephen A. Smith"
     ],
-    "page": 48,
+    "page": 49,
     "batchDate": "Mar 31, 2026"
 },
 {
@@ -13240,7 +13535,7 @@ const articles = [
         "Election Fraud",
         "Law Enforcement"
     ],
-    "page": 48,
+    "page": 49,
     "batchDate": "Mar 31, 2026"
 },
 {
@@ -13253,7 +13548,7 @@ const articles = [
         "Iran",
         "Michigan"
     ],
-    "page": 48,
+    "page": 49,
     "batchDate": "Mar 31, 2026"
 },
 {
@@ -13267,7 +13562,7 @@ const articles = [
         "Silicon Valley",
         "Violent Crime"
     ],
-    "page": 48,
+    "page": 49,
     "batchDate": "Mar 31, 2026"
 },
 {
@@ -13281,7 +13576,7 @@ const articles = [
         "John Fetterman",
         "U.S. Congress"
     ],
-    "page": 48,
+    "page": 49,
     "batchDate": "Mar 31, 2026"
 },
 {
@@ -13295,7 +13590,7 @@ const articles = [
         "Immigration",
         "JB Pritzker"
     ],
-    "page": 48,
+    "page": 49,
     "batchDate": "Mar 31, 2026"
 },
 {
@@ -13308,7 +13603,7 @@ const articles = [
         "Election Fraud",
         "Polling"
     ],
-    "page": 48,
+    "page": 49,
     "batchDate": "Mar 31, 2026"
 },
 {
@@ -13321,7 +13616,7 @@ const articles = [
         "Culture War",
         "Judiciary-Judicial"
     ],
-    "page": 48,
+    "page": 49,
     "batchDate": "Mar 31, 2026"
 },
 {
@@ -13336,7 +13631,7 @@ const articles = [
         "Sheila Cherfilus-McCormick",
         "U.S. Congress"
     ],
-    "page": 48,
+    "page": 49,
     "batchDate": "Mar 31, 2026"
 },
 {
@@ -13349,7 +13644,7 @@ const articles = [
         "Eric Swalwell",
         "U.S. Congress"
     ],
-    "page": 49,
+    "page": 50,
     "batchDate": "Mar 31, 2026"
 },
 {
@@ -13363,7 +13658,7 @@ const articles = [
         "Corruption-Fraud",
         "Election Fraud"
     ],
-    "page": 49,
+    "page": 50,
     "batchDate": "Mar 31, 2026"
 },
 {
@@ -13377,7 +13672,7 @@ const articles = [
         "Education Policy",
         "Violence"
     ],
-    "page": 49,
+    "page": 50,
     "batchDate": "Mar 31, 2026"
 },
 {
@@ -13390,7 +13685,7 @@ const articles = [
         "Alternative & Social Media",
         "Racial Issues"
     ],
-    "page": 49,
+    "page": 50,
     "batchDate": "Mar 31, 2026"
 },
 {
@@ -13403,7 +13698,7 @@ const articles = [
         "Energy Policy",
         "New York"
     ],
-    "page": 49,
+    "page": 50,
     "batchDate": "Mar 31, 2026"
 },
 {
@@ -13416,7 +13711,7 @@ const articles = [
         "Law Enforcement",
         "Violent Crime"
     ],
-    "page": 49,
+    "page": 50,
     "batchDate": "Mar 31, 2026"
 },
 {
@@ -13429,7 +13724,7 @@ const articles = [
         "CBP-DHS-ICE",
         "Immigration"
     ],
-    "page": 49,
+    "page": 50,
     "batchDate": "Mar 31, 2026"
 },
 {
@@ -13443,7 +13738,7 @@ const articles = [
         "Law Enforcement",
         "Michigan"
     ],
-    "page": 49,
+    "page": 50,
     "batchDate": "Mar 31, 2026"
 },
 {
@@ -13456,7 +13751,7 @@ const articles = [
         "California",
         "Government"
     ],
-    "page": 49,
+    "page": 50,
     "batchDate": "Mar 31, 2026"
 },
 {
@@ -13469,7 +13764,7 @@ const articles = [
         "Foreign Policy",
         "Zohran Mamdani"
     ],
-    "page": 49,
+    "page": 50,
     "batchDate": "Mar 31, 2026"
 },
 {
@@ -13482,7 +13777,7 @@ const articles = [
         "Election Fraud",
         "Immigration"
     ],
-    "page": 49,
+    "page": 50,
     "batchDate": "Mar 31, 2026"
 },
 {
@@ -13496,7 +13791,7 @@ const articles = [
         "Energy Policy",
         "Minnesota"
     ],
-    "page": 49,
+    "page": 50,
     "batchDate": "Mar 31, 2026"
 },
 {
@@ -13510,7 +13805,7 @@ const articles = [
         "Graham Platner",
         "Maine"
     ],
-    "page": 49,
+    "page": 50,
     "batchDate": "Mar 31, 2026"
 },
 {
@@ -13523,7 +13818,7 @@ const articles = [
         "China",
         "Election Fraud"
     ],
-    "page": 49,
+    "page": 50,
     "batchDate": "Mar 31, 2026"
 },
 {
@@ -13536,7 +13831,7 @@ const articles = [
         "Election Fraud",
         "Immigration"
     ],
-    "page": 49,
+    "page": 50,
     "batchDate": "Mar 31, 2026"
 },
 {
@@ -13550,7 +13845,7 @@ const articles = [
         "Reparations",
         "San Francisco"
     ],
-    "page": 49,
+    "page": 50,
     "batchDate": "Mar 31, 2026"
 },
 {
@@ -13564,7 +13859,7 @@ const articles = [
         "Government",
         "NYC"
     ],
-    "page": 49,
+    "page": 50,
     "batchDate": "Mar 31, 2026"
 },
 {
@@ -13579,7 +13874,7 @@ const articles = [
         "Gavin Newsom",
         "Jimmy Kimmel"
     ],
-    "page": 49,
+    "page": 50,
     "batchDate": "Mar 31, 2026"
 },
 {
@@ -13593,7 +13888,7 @@ const articles = [
         "Politics",
         "Violent Crime"
     ],
-    "page": 49,
+    "page": 50,
     "batchDate": "Mar 31, 2026"
 },
 {
@@ -13608,7 +13903,7 @@ const articles = [
         "Education Policy",
         "Ethics-Morals"
     ],
-    "page": 49,
+    "page": 50,
     "batchDate": "Mar 31, 2026"
 },
 {
@@ -13621,7 +13916,7 @@ const articles = [
         "Chuck Schumer",
         "Election Fraud"
     ],
-    "page": 50,
+    "page": 51,
     "batchDate": "Mar 29, 2026"
 },
 {
@@ -13635,7 +13930,7 @@ const articles = [
         "Left-Wing",
         "Long Island"
     ],
-    "page": 50,
+    "page": 51,
     "batchDate": "Mar 29, 2026"
 },
 {
@@ -13648,7 +13943,7 @@ const articles = [
         "Culture War",
         "Maryland"
     ],
-    "page": 50,
+    "page": 51,
     "batchDate": "Mar 29, 2026"
 },
 {
@@ -13661,7 +13956,7 @@ const articles = [
         "Corruption-Fraud",
         "LGBTQ"
     ],
-    "page": 50,
+    "page": 51,
     "batchDate": "Mar 29, 2026"
 },
 {
@@ -13674,7 +13969,7 @@ const articles = [
         "CBP-DHS-ICE",
         "Cory Booker"
     ],
-    "page": 50,
+    "page": 51,
     "batchDate": "Mar 29, 2026"
 },
 {
@@ -13687,7 +13982,7 @@ const articles = [
         "Culture War",
         "South Carolina"
     ],
-    "page": 50,
+    "page": 51,
     "batchDate": "Mar 29, 2026"
 },
 {
@@ -13702,7 +13997,7 @@ const articles = [
         "North Carolina",
         "Violent Crime"
     ],
-    "page": 50,
+    "page": 51,
     "batchDate": "Mar 29, 2026"
 },
 {
@@ -13716,7 +14011,7 @@ const articles = [
         "FBI",
         "Immigration"
     ],
-    "page": 50,
+    "page": 51,
     "batchDate": "Mar 29, 2026"
 },
 {
@@ -13729,7 +14024,7 @@ const articles = [
         "Business Relocation",
         "California"
     ],
-    "page": 50,
+    "page": 51,
     "batchDate": "Mar 29, 2026"
 },
 {
@@ -13743,7 +14038,7 @@ const articles = [
         "Education Policy",
         "James Talarico"
     ],
-    "page": 50,
+    "page": 51,
     "batchDate": "Mar 29, 2026"
 },
 {
@@ -13758,7 +14053,7 @@ const articles = [
         "Gavin Newsom",
         "Politics"
     ],
-    "page": 50,
+    "page": 51,
     "batchDate": "Mar 29, 2026"
 },
 {
@@ -13771,7 +14066,7 @@ const articles = [
         "Immigration",
         "Judiciary-Judicial"
     ],
-    "page": 50,
+    "page": 51,
     "batchDate": "Mar 29, 2026"
 },
 {
@@ -13785,7 +14080,7 @@ const articles = [
         "Culture War",
         "Media Bias"
     ],
-    "page": 50,
+    "page": 51,
     "batchDate": "Mar 29, 2026"
 },
 {
@@ -13799,7 +14094,7 @@ const articles = [
         "Gun Control",
         "Left-Wing"
     ],
-    "page": 50,
+    "page": 51,
     "batchDate": "Mar 29, 2026"
 },
 {
@@ -13811,7 +14106,7 @@ const articles = [
     "tags": [
         "Los Angeles"
     ],
-    "page": 50,
+    "page": 51,
     "batchDate": "Mar 29, 2026"
 },
 {
@@ -13824,7 +14119,7 @@ const articles = [
         "Immigration",
         "New York"
     ],
-    "page": 50,
+    "page": 51,
     "batchDate": "Mar 29, 2026"
 },
 {
@@ -13838,7 +14133,7 @@ const articles = [
         "Adam Schiff",
         "U.S. Congress"
     ],
-    "page": 50,
+    "page": 51,
     "batchDate": "Mar 29, 2026"
 },
 {
@@ -13852,7 +14147,7 @@ const articles = [
         "Pramila Jayapal",
         "Reparations"
     ],
-    "page": 50,
+    "page": 51,
     "batchDate": "Mar 29, 2026"
 },
 {
@@ -13866,7 +14161,7 @@ const articles = [
         "Foreign Policy",
         "Iran"
     ],
-    "page": 50,
+    "page": 51,
     "batchDate": "Mar 29, 2026"
 },
 {
@@ -13879,7 +14174,7 @@ const articles = [
         "Biden Administration",
         "Culture War"
     ],
-    "page": 50,
+    "page": 51,
     "batchDate": "Mar 29, 2026"
 },
 {
@@ -13893,7 +14188,7 @@ const articles = [
         "Foreign Policy",
         "Virginia"
     ],
-    "page": 51,
+    "page": 52,
     "batchDate": "Mar 29, 2026"
 },
 {
@@ -13906,7 +14201,7 @@ const articles = [
         "Election Fraud",
         "Judiciary-Judicial"
     ],
-    "page": 51,
+    "page": 52,
     "batchDate": "Mar 29, 2026"
 },
 {
@@ -13920,7 +14215,7 @@ const articles = [
         "Energy Policy",
         "Gavin Newsom"
     ],
-    "page": 51,
+    "page": 52,
     "batchDate": "Mar 29, 2026"
 },
 {
@@ -13934,7 +14229,7 @@ const articles = [
         "California",
         "CBP-DHS-ICE"
     ],
-    "page": 51,
+    "page": 52,
     "batchDate": "Mar 29, 2026"
 },
 {
@@ -13948,7 +14243,7 @@ const articles = [
         "Law Enforcement",
         "Washington"
     ],
-    "page": 51,
+    "page": 52,
     "batchDate": "Mar 29, 2026"
 },
 {
@@ -13961,7 +14256,7 @@ const articles = [
         "Affordability",
         "Business Climate"
     ],
-    "page": 51,
+    "page": 52,
     "batchDate": "Mar 29, 2026"
 },
 {
@@ -13974,7 +14269,7 @@ const articles = [
         "California",
         "Corruption-Fraud"
     ],
-    "page": 51,
+    "page": 52,
     "batchDate": "Mar 29, 2026"
 },
 {
@@ -13986,9 +14281,9 @@ const articles = [
     "tags": [
         "California",
         "Gavin Newsom",
-        "Israel"
+        "Israel-Jews"
     ],
-    "page": 51,
+    "page": 52,
     "batchDate": "Mar 29, 2026"
 },
 {
@@ -14001,7 +14296,7 @@ const articles = [
         "Judiciary-Judicial",
         "Racial Issues"
     ],
-    "page": 51,
+    "page": 52,
     "batchDate": "Mar 29, 2026"
 },
 {
@@ -14014,7 +14309,7 @@ const articles = [
         "New York",
         "Violent Crime"
     ],
-    "page": 51,
+    "page": 52,
     "batchDate": "Mar 29, 2026"
 },
 {
@@ -14027,7 +14322,7 @@ const articles = [
         "Texas",
         "U.S. Congress"
     ],
-    "page": 51,
+    "page": 52,
     "batchDate": "Mar 29, 2026"
 },
 {
@@ -14041,7 +14336,7 @@ const articles = [
         "Corruption-Fraud",
         "Oakland"
     ],
-    "page": 51,
+    "page": 52,
     "batchDate": "Mar 29, 2026"
 },
 {
@@ -14056,7 +14351,7 @@ const articles = [
         "Politics",
         "Roy Cooper"
     ],
-    "page": 51,
+    "page": 52,
     "batchDate": "Mar 29, 2026"
 },
 {
@@ -14070,7 +14365,7 @@ const articles = [
         "Illinois",
         "Immigration"
     ],
-    "page": 51,
+    "page": 52,
     "batchDate": "Mar 29, 2026"
 },
 {
@@ -14083,7 +14378,7 @@ const articles = [
         "JB Pritzker",
         "Weaponization"
     ],
-    "page": 51,
+    "page": 52,
     "batchDate": "Mar 29, 2026"
 },
 {
@@ -14096,7 +14391,7 @@ const articles = [
         "Left-Wing",
         "Patriotism"
     ],
-    "page": 51,
+    "page": 52,
     "batchDate": "Mar 29, 2026"
 },
 {
@@ -14110,7 +14405,7 @@ const articles = [
         "Law Enforcement",
         "San Francisco"
     ],
-    "page": 51,
+    "page": 52,
     "batchDate": "Mar 29, 2026"
 },
 {
@@ -14125,7 +14420,7 @@ const articles = [
         "Kaitlan Collins",
         "Politics"
     ],
-    "page": 51,
+    "page": 52,
     "batchDate": "Mar 29, 2026"
 },
 {
@@ -14140,7 +14435,7 @@ const articles = [
         "Election Fraud",
         "Virginia"
     ],
-    "page": 51,
+    "page": 52,
     "batchDate": "Mar 29, 2026"
 },
 {
@@ -14153,7 +14448,7 @@ const articles = [
         "Election Fraud",
         "Homeless"
     ],
-    "page": 51,
+    "page": 52,
     "batchDate": "Mar 29, 2026"
 },
 {
@@ -14166,7 +14461,7 @@ const articles = [
         "CBP-DHS-ICE",
         "Richard Blumenthal"
     ],
-    "page": 52,
+    "page": 53,
     "batchDate": "Mar 26, 2026"
 },
 {
@@ -14178,7 +14473,7 @@ const articles = [
     "tags": [
         "Politics"
     ],
-    "page": 52,
+    "page": 53,
     "batchDate": "Mar 26, 2026"
 },
 {
@@ -14191,7 +14486,7 @@ const articles = [
         "2026 Elections",
         "Election Fraud"
     ],
-    "page": 52,
+    "page": 53,
     "batchDate": "Mar 26, 2026"
 },
 {
@@ -14206,7 +14501,7 @@ const articles = [
         "Homeland Security",
         "Immigration"
     ],
-    "page": 52,
+    "page": 53,
     "batchDate": "Mar 26, 2026"
 },
 {
@@ -14219,7 +14514,7 @@ const articles = [
         "Homeless",
         "Los Angeles"
     ],
-    "page": 52,
+    "page": 53,
     "batchDate": "Mar 26, 2026"
 },
 {
@@ -14233,7 +14528,7 @@ const articles = [
         "China",
         "Education Policy"
     ],
-    "page": 52,
+    "page": 53,
     "batchDate": "Mar 26, 2026"
 },
 {
@@ -14244,10 +14539,10 @@ const articles = [
     "imageUrl": "https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/2026-03-26_132424_791d40ef.jpg",
     "tags": [
         "Islam-Muslim",
-        "Israel",
+        "Israel-Jews",
         "Politics"
     ],
-    "page": 52,
+    "page": 53,
     "batchDate": "Mar 26, 2026"
 },
 {
@@ -14258,9 +14553,9 @@ const articles = [
     "imageUrl": "https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/2026-03-26_132009_0b321189.jpg",
     "tags": [
         "Censorship",
-        "Israel"
+        "Israel-Jews"
     ],
-    "page": 52,
+    "page": 53,
     "batchDate": "Mar 26, 2026"
 },
 {
@@ -14275,7 +14570,7 @@ const articles = [
         "Texas",
         "U.S. Congress"
     ],
-    "page": 52,
+    "page": 53,
     "batchDate": "Mar 26, 2026"
 },
 {
@@ -14288,7 +14583,7 @@ const articles = [
         "Election Fraud",
         "Politics"
     ],
-    "page": 52,
+    "page": 53,
     "batchDate": "Mar 26, 2026"
 },
 {
@@ -14302,7 +14597,7 @@ const articles = [
         "Karine Jean-Pierre",
         "WashingtonDC"
     ],
-    "page": 52,
+    "page": 53,
     "batchDate": "Mar 26, 2026"
 },
 {
@@ -14316,7 +14611,7 @@ const articles = [
         "Censorship",
         "Education Policy"
     ],
-    "page": 52,
+    "page": 53,
     "batchDate": "Mar 26, 2026"
 },
 {
@@ -14331,7 +14626,7 @@ const articles = [
         "Left-Wing",
         "Texas"
     ],
-    "page": 52,
+    "page": 53,
     "batchDate": "Mar 26, 2026"
 },
 {
@@ -14344,7 +14639,7 @@ const articles = [
         "NYC",
         "Retail Crime"
     ],
-    "page": 52,
+    "page": 53,
     "batchDate": "Mar 26, 2026"
 },
 {
@@ -14358,7 +14653,7 @@ const articles = [
         "Illinois",
         "Taxation"
     ],
-    "page": 52,
+    "page": 53,
     "batchDate": "Mar 26, 2026"
 },
 {
@@ -14372,7 +14667,7 @@ const articles = [
         "Media Bias",
         "Politics"
     ],
-    "page": 52,
+    "page": 53,
     "batchDate": "Mar 26, 2026"
 },
 {
@@ -14387,7 +14682,7 @@ const articles = [
         "Judiciary-Judicial",
         "LGBTQ"
     ],
-    "page": 52,
+    "page": 53,
     "batchDate": "Mar 26, 2026"
 },
 {
@@ -14401,7 +14696,7 @@ const articles = [
         "Left-Wing",
         "Texas"
     ],
-    "page": 52,
+    "page": 53,
     "batchDate": "Mar 26, 2026"
 },
 {
@@ -14414,7 +14709,7 @@ const articles = [
         "CBP-DHS-ICE",
         "Government"
     ],
-    "page": 52,
+    "page": 53,
     "batchDate": "Mar 26, 2026"
 },
 {
@@ -14427,7 +14722,7 @@ const articles = [
         "CBP-DHS-ICE",
         "Government"
     ],
-    "page": 52,
+    "page": 53,
     "batchDate": "Mar 26, 2026"
 },
 {
@@ -14440,7 +14735,7 @@ const articles = [
         "Corruption-Fraud",
         "Minnesota"
     ],
-    "page": 53,
+    "page": 54,
     "batchDate": "Mar 26, 2026"
 },
 {
@@ -14454,7 +14749,7 @@ const articles = [
         "Judiciary-Judicial",
         "Violent Crime"
     ],
-    "page": 53,
+    "page": 54,
     "batchDate": "Mar 26, 2026"
 },
 {
@@ -14468,7 +14763,7 @@ const articles = [
         "Energy Policy",
         "Gavin Newsom"
     ],
-    "page": 53,
+    "page": 54,
     "batchDate": "Mar 26, 2026"
 },
 {
@@ -14481,7 +14776,7 @@ const articles = [
         "Taxation",
         "Washington"
     ],
-    "page": 53,
+    "page": 54,
     "batchDate": "Mar 26, 2026"
 },
 {
@@ -14495,7 +14790,7 @@ const articles = [
         "Illinois",
         "JB Pritzker"
     ],
-    "page": 53,
+    "page": 54,
     "batchDate": "Mar 26, 2026"
 },
 {
@@ -14509,7 +14804,7 @@ const articles = [
         "New York",
         "Zohran Mamdani"
     ],
-    "page": 53,
+    "page": 54,
     "batchDate": "Mar 26, 2026"
 },
 {
@@ -14523,7 +14818,7 @@ const articles = [
         "Sheldon Whitehouse",
         "U.S. Congress"
     ],
-    "page": 53,
+    "page": 54,
     "batchDate": "Mar 26, 2026"
 },
 {
@@ -14536,7 +14831,7 @@ const articles = [
         "Barack Obama",
         "Racial Issues"
     ],
-    "page": 53,
+    "page": 54,
     "batchDate": "Mar 26, 2026"
 },
 {
@@ -14549,7 +14844,7 @@ const articles = [
         "2026 Elections",
         "Sexual Misconduct"
     ],
-    "page": 53,
+    "page": 54,
     "batchDate": "Mar 26, 2026"
 },
 {
@@ -14562,7 +14857,7 @@ const articles = [
         "LGBTQ",
         "Violent Crime"
     ],
-    "page": 53,
+    "page": 54,
     "batchDate": "Mar 26, 2026"
 },
 {
@@ -14575,7 +14870,7 @@ const articles = [
         "California",
         "Islam-Muslim"
     ],
-    "page": 53,
+    "page": 54,
     "batchDate": "Mar 26, 2026"
 },
 {
@@ -14589,7 +14884,7 @@ const articles = [
         "New York",
         "Zohran Mamdani"
     ],
-    "page": 53,
+    "page": 54,
     "batchDate": "Mar 26, 2026"
 },
 {
@@ -14602,7 +14897,7 @@ const articles = [
         "Housing",
         "Los Angeles"
     ],
-    "page": 53,
+    "page": 54,
     "batchDate": "Mar 26, 2026"
 },
 {
@@ -14616,7 +14911,7 @@ const articles = [
         "Gettysburg Mayor",
         "Sexual Misconduct"
     ],
-    "page": 53,
+    "page": 54,
     "batchDate": "Mar 26, 2026"
 },
 {
@@ -14631,7 +14926,7 @@ const articles = [
         "Gun Control",
         "Virginia"
     ],
-    "page": 53,
+    "page": 54,
     "batchDate": "Mar 26, 2026"
 },
 {
@@ -14644,7 +14939,7 @@ const articles = [
         "Ali Velshi",
         "Media Bias"
     ],
-    "page": 53,
+    "page": 54,
     "batchDate": "Mar 26, 2026"
 },
 {
@@ -14658,7 +14953,7 @@ const articles = [
         "Judiciary-Judicial",
         "Law Enforcement"
     ],
-    "page": 53,
+    "page": 54,
     "batchDate": "Mar 26, 2026"
 },
 {
@@ -14671,7 +14966,7 @@ const articles = [
         "Energy Policy",
         "U.S. Congress"
     ],
-    "page": 53,
+    "page": 54,
     "batchDate": "Mar 26, 2026"
 },
 {
@@ -14686,7 +14981,7 @@ const articles = [
         "Left-Wing",
         "Violent Crime"
     ],
-    "page": 53,
+    "page": 54,
     "batchDate": "Mar 26, 2026"
 },
 {
@@ -14699,7 +14994,7 @@ const articles = [
         "Election Fraud",
         "Stephen A. Smith"
     ],
-    "page": 53,
+    "page": 54,
     "batchDate": "Mar 26, 2026"
 },
 {
@@ -14713,7 +15008,7 @@ const articles = [
         "Taxation",
         "Zohran Mamdani"
     ],
-    "page": 54,
+    "page": 55,
     "batchDate": "Mar 26, 2026"
 },
 {
@@ -14727,7 +15022,7 @@ const articles = [
         "CBP-DHS-ICE",
         "Immigration"
     ],
-    "page": 54,
+    "page": 55,
     "batchDate": "Mar 26, 2026"
 },
 {
@@ -14741,7 +15036,7 @@ const articles = [
         "Immigration",
         "Law Enforcement"
     ],
-    "page": 54,
+    "page": 55,
     "batchDate": "Mar 26, 2026"
 },
 {
@@ -14754,7 +15049,7 @@ const articles = [
         "Obama Presidential Center",
         "Valerie Jarrett"
     ],
-    "page": 54,
+    "page": 55,
     "batchDate": "Mar 26, 2026"
 },
 {
@@ -14769,7 +15064,7 @@ const articles = [
         "New York",
         "Taxation"
     ],
-    "page": 54,
+    "page": 55,
     "batchDate": "Mar 26, 2026"
 },
 {
@@ -14782,7 +15077,7 @@ const articles = [
         "CBP-DHS-ICE",
         "Homeland Security"
     ],
-    "page": 54,
+    "page": 55,
     "batchDate": "Mar 26, 2026"
 },
 {
@@ -14793,10 +15088,10 @@ const articles = [
     "imageUrl": "https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/2026-03-25_141741_a4cca37e.jpg",
     "tags": [
         "Graham Platner",
-        "Israel",
+        "Israel-Jews",
         "Maine"
     ],
-    "page": 54,
+    "page": 55,
     "batchDate": "Mar 26, 2026"
 },
 {
@@ -14809,7 +15104,7 @@ const articles = [
         "Gavin Newsom",
         "Violent Crime"
     ],
-    "page": 54,
+    "page": 55,
     "batchDate": "Mar 26, 2026"
 },
 {
@@ -14821,9 +15116,9 @@ const articles = [
     "tags": [
         "Censorship",
         "Education Policy",
-        "Israel"
+        "Israel-Jews"
     ],
-    "page": 54,
+    "page": 55,
     "batchDate": "Mar 26, 2026"
 },
 {
@@ -14837,7 +15132,7 @@ const articles = [
         "Judiciary-Judicial",
         "Violent Crime"
     ],
-    "page": 54,
+    "page": 55,
     "batchDate": "Mar 26, 2026"
 },
 {
@@ -14850,7 +15145,7 @@ const articles = [
         "Arizona",
         "Politics"
     ],
-    "page": 54,
+    "page": 55,
     "batchDate": "Mar 26, 2026"
 },
 {
@@ -14864,7 +15159,7 @@ const articles = [
         "Gun Control",
         "Minnesota"
     ],
-    "page": 54,
+    "page": 55,
     "batchDate": "Mar 26, 2026"
 },
 {
@@ -14879,7 +15174,7 @@ const articles = [
         "Terrorism",
         "Violent Crime"
     ],
-    "page": 54,
+    "page": 55,
     "batchDate": "Mar 26, 2026"
 },
 {
@@ -14892,7 +15187,7 @@ const articles = [
         "California",
         "Election Fraud"
     ],
-    "page": 54,
+    "page": 55,
     "batchDate": "Mar 26, 2026"
 },
 {
@@ -14907,7 +15202,7 @@ const articles = [
         "James Talarico",
         "Texas"
     ],
-    "page": 54,
+    "page": 55,
     "batchDate": "Mar 26, 2026"
 },
 {
@@ -14921,7 +15216,7 @@ const articles = [
         "Politics",
         "Virginia"
     ],
-    "page": 54,
+    "page": 55,
     "batchDate": "Mar 26, 2026"
 },
 {
@@ -14935,7 +15230,7 @@ const articles = [
         "Censorship",
         "Culture War"
     ],
-    "page": 54,
+    "page": 55,
     "batchDate": "Mar 26, 2026"
 },
 {
@@ -14948,7 +15243,7 @@ const articles = [
         "Maxine Waters",
         "Patriotism"
     ],
-    "page": 54,
+    "page": 55,
     "batchDate": "Mar 26, 2026"
 },
 {
@@ -14962,7 +15257,7 @@ const articles = [
         "Los Angeles",
         "Violent Crime"
     ],
-    "page": 54,
+    "page": 55,
     "batchDate": "Mar 26, 2026"
 },
 {
@@ -14976,7 +15271,7 @@ const articles = [
         "Government",
         "Los Angeles"
     ],
-    "page": 54,
+    "page": 55,
     "batchDate": "Mar 26, 2026"
 },
 {
@@ -14989,7 +15284,7 @@ const articles = [
         "Education Policy",
         "Government"
     ],
-    "page": 55,
+    "page": 56,
     "batchDate": "Mar 26, 2026"
 },
 {
@@ -15002,7 +15297,7 @@ const articles = [
         "Corruption-Fraud",
         "Gavin Newsom"
     ],
-    "page": 55,
+    "page": 56,
     "batchDate": "Mar 26, 2026"
 },
 {
@@ -15015,7 +15310,7 @@ const articles = [
         "Election Fraud",
         "Islam-Muslim"
     ],
-    "page": 55,
+    "page": 56,
     "batchDate": "Mar 26, 2026"
 },
 {
@@ -15029,7 +15324,7 @@ const articles = [
         "Foreign Policy",
         "Government"
     ],
-    "page": 55,
+    "page": 56,
     "batchDate": "Mar 26, 2026"
 },
 {
@@ -15040,9 +15335,9 @@ const articles = [
     "imageUrl": "https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/2026-03-25_080820_7142a129.jpg",
     "tags": [
         "Hate",
-        "Israel"
+        "Israel-Jews"
     ],
-    "page": 55,
+    "page": 56,
     "batchDate": "Mar 26, 2026"
 },
 {
@@ -15055,7 +15350,7 @@ const articles = [
         "Business Climate",
         "Immigration"
     ],
-    "page": 55,
+    "page": 56,
     "batchDate": "Mar 26, 2026"
 },
 {
@@ -15070,7 +15365,7 @@ const articles = [
         "Nicholas Kristof",
         "Politics"
     ],
-    "page": 55,
+    "page": 56,
     "batchDate": "Mar 26, 2026"
 },
 {
@@ -15083,7 +15378,7 @@ const articles = [
         "CBP-DHS-ICE",
         "National Security"
     ],
-    "page": 55,
+    "page": 56,
     "batchDate": "Mar 26, 2026"
 },
 {
@@ -15096,7 +15391,7 @@ const articles = [
         "New York",
         "Zohran Mamdani"
     ],
-    "page": 55,
+    "page": 56,
     "batchDate": "Mar 26, 2026"
 },
 {
@@ -15109,7 +15404,7 @@ const articles = [
         "Immigration",
         "Violent Crime"
     ],
-    "page": 55,
+    "page": 56,
     "batchDate": "Mar 26, 2026"
 },
 {
@@ -15122,7 +15417,7 @@ const articles = [
         "Immigration",
         "Terrorism"
     ],
-    "page": 55,
+    "page": 56,
     "batchDate": "Mar 26, 2026"
 },
 {
@@ -15136,7 +15431,7 @@ const articles = [
         "Education Policy",
         "LGBTQ"
     ],
-    "page": 55,
+    "page": 56,
     "batchDate": "Mar 26, 2026"
 },
 {
@@ -15149,7 +15444,7 @@ const articles = [
         "CBP-DHS-ICE",
         "Gun Control"
     ],
-    "page": 55,
+    "page": 56,
     "batchDate": "Mar 26, 2026"
 },
 {
@@ -15164,7 +15459,7 @@ const articles = [
         "Ilhan Omar",
         "Iran"
     ],
-    "page": 55,
+    "page": 56,
     "batchDate": "Mar 26, 2026"
 },
 {
@@ -15177,7 +15472,7 @@ const articles = [
         "Public Safety",
         "Violent Crime"
     ],
-    "page": 55,
+    "page": 56,
     "batchDate": "Mar 26, 2026"
 },
 {
@@ -15191,7 +15486,7 @@ const articles = [
         "Government",
         "Jacob Frey"
     ],
-    "page": 55,
+    "page": 56,
     "batchDate": "Mar 26, 2026"
 },
 {
@@ -15205,7 +15500,7 @@ const articles = [
         "Hakeem Jeffries",
         "Terrorism"
     ],
-    "page": 55,
+    "page": 56,
     "batchDate": "Mar 26, 2026"
 },
 {
@@ -15220,7 +15515,7 @@ const articles = [
         "Joe Biden",
         "Violent Crime"
     ],
-    "page": 55,
+    "page": 56,
     "batchDate": "Mar 26, 2026"
 },
 {
@@ -15233,7 +15528,7 @@ const articles = [
         "Education Policy",
         "Taxation"
     ],
-    "page": 55,
+    "page": 56,
     "batchDate": "Mar 26, 2026"
 },
 {
@@ -15247,7 +15542,7 @@ const articles = [
         "Mark Kelly",
         "Media Bias"
     ],
-    "page": 55,
+    "page": 56,
     "batchDate": "Mar 26, 2026"
 },
 {
@@ -15261,7 +15556,7 @@ const articles = [
         "James Talarico",
         "Texas"
     ],
-    "page": 56,
+    "page": 57,
     "batchDate": "Feb 21, 2026"
 },
 {
@@ -15274,7 +15569,7 @@ const articles = [
         "Culture War",
         "Education Policy"
     ],
-    "page": 56,
+    "page": 57,
     "batchDate": "Feb 21, 2026"
 },
 {
@@ -15288,7 +15583,7 @@ const articles = [
         "Government",
         "Taxation"
     ],
-    "page": 56,
+    "page": 57,
     "batchDate": "Feb 21, 2026"
 },
 {
@@ -15301,7 +15596,7 @@ const articles = [
         "DOJ",
         "FBI"
     ],
-    "page": 56,
+    "page": 57,
     "batchDate": "Feb 21, 2026"
 },
 {
@@ -15314,7 +15609,7 @@ const articles = [
         "California",
         "Silicon Valley"
     ],
-    "page": 56,
+    "page": 57,
     "batchDate": "Feb 21, 2026"
 },
 {
@@ -15327,7 +15622,7 @@ const articles = [
         "CBP-DHS-ICE",
         "Immigration"
     ],
-    "page": 56,
+    "page": 57,
     "batchDate": "Feb 21, 2026"
 },
 {
@@ -15341,7 +15636,7 @@ const articles = [
         "Jennifer Welch",
         "Joe Biden"
     ],
-    "page": 56,
+    "page": 57,
     "batchDate": "Feb 21, 2026"
 },
 {
@@ -15355,7 +15650,7 @@ const articles = [
         "Immigration",
         "Law Enforcement"
     ],
-    "page": 56,
+    "page": 57,
     "batchDate": "Feb 21, 2026"
 },
 {
@@ -15369,7 +15664,7 @@ const articles = [
         "Texas",
         "U.S. Congress"
     ],
-    "page": 56,
+    "page": 57,
     "batchDate": "Feb 21, 2026"
 },
 {
@@ -15382,7 +15677,7 @@ const articles = [
         "Judiciary-Judicial",
         "Politics"
     ],
-    "page": 56,
+    "page": 57,
     "batchDate": "Feb 21, 2026"
 },
 {
@@ -15396,7 +15691,7 @@ const articles = [
         "CBP-DHS-ICE",
         "Violent Crime"
     ],
-    "page": 56,
+    "page": 57,
     "batchDate": "Feb 21, 2026"
 },
 {
@@ -15410,7 +15705,7 @@ const articles = [
         "Immigration",
         "Violent Crime"
     ],
-    "page": 56,
+    "page": 57,
     "batchDate": "Feb 21, 2026"
 },
 {
@@ -15424,7 +15719,7 @@ const articles = [
         "Chuck Schumer",
         "Politics"
     ],
-    "page": 56,
+    "page": 57,
     "batchDate": "Feb 21, 2026"
 },
 {
@@ -15438,7 +15733,7 @@ const articles = [
         "Gavin Newsom",
         "Taxation"
     ],
-    "page": 56,
+    "page": 57,
     "batchDate": "Feb 21, 2026"
 },
 {
@@ -15453,7 +15748,7 @@ const articles = [
         "James Talarico",
         "Texas"
     ],
-    "page": 56,
+    "page": 57,
     "batchDate": "Feb 21, 2026"
 },
 {
@@ -15467,7 +15762,7 @@ const articles = [
         "Gun Control",
         "Virginia"
     ],
-    "page": 56,
+    "page": 57,
     "batchDate": "Feb 21, 2026"
 },
 {
@@ -15481,7 +15776,7 @@ const articles = [
         "COVID-19",
         "Ohio"
     ],
-    "page": 56,
+    "page": 57,
     "batchDate": "Feb 21, 2026"
 },
 {
@@ -15494,7 +15789,7 @@ const articles = [
         "Election Fraud",
         "North Carolina"
     ],
-    "page": 56,
+    "page": 57,
     "batchDate": "Feb 21, 2026"
 },
 {
@@ -15508,7 +15803,7 @@ const articles = [
         "Energy Policy",
         "Taxation"
     ],
-    "page": 56,
+    "page": 57,
     "batchDate": "Feb 21, 2026"
 },
 {
@@ -15523,7 +15818,7 @@ const articles = [
         "JB Pritzker",
         "Violent Crime"
     ],
-    "page": 56,
+    "page": 57,
     "batchDate": "Feb 21, 2026"
 },
 {
@@ -15536,7 +15831,7 @@ const articles = [
         "Election Fraud",
         "Racial Issues"
     ],
-    "page": 57,
+    "page": 58,
     "batchDate": "Feb 21, 2026"
 },
 {
@@ -15551,7 +15846,7 @@ const articles = [
         "Fairfax County",
         "Israel Flores Ortiz"
     ],
-    "page": 57,
+    "page": 58,
     "batchDate": "Feb 21, 2026"
 },
 {
@@ -15564,7 +15859,7 @@ const articles = [
         "Jasmine Crockett",
         "Law Enforcement"
     ],
-    "page": 57,
+    "page": 58,
     "batchDate": "Feb 21, 2026"
 },
 {
@@ -15577,7 +15872,7 @@ const articles = [
         "Gavin Newsom",
         "Racial Issues"
     ],
-    "page": 57,
+    "page": 58,
     "batchDate": "Feb 21, 2026"
 },
 {
@@ -15591,7 +15886,7 @@ const articles = [
         "Politics",
         "Racial Issues"
     ],
-    "page": 57,
+    "page": 58,
     "batchDate": "Feb 21, 2026"
 },
 {
@@ -15606,7 +15901,7 @@ const articles = [
         "Gun Control",
         "Virginia"
     ],
-    "page": 57,
+    "page": 58,
     "batchDate": "Feb 21, 2026"
 },
 {
@@ -15621,7 +15916,7 @@ const articles = [
         "Incompetence",
         "Las Vegas"
     ],
-    "page": 57,
+    "page": 58,
     "batchDate": "Feb 21, 2026"
 },
 {
@@ -15634,7 +15929,7 @@ const articles = [
         "Education Policy",
         "Unions"
     ],
-    "page": 57,
+    "page": 58,
     "batchDate": "Feb 21, 2026"
 },
 {
@@ -15648,7 +15943,7 @@ const articles = [
         "Letitia James",
         "LGBTQ"
     ],
-    "page": 57,
+    "page": 58,
     "batchDate": "Feb 21, 2026"
 },
 {
@@ -15662,7 +15957,7 @@ const articles = [
         "Culture War",
         "Judiciary-Judicial"
     ],
-    "page": 57,
+    "page": 58,
     "batchDate": "Feb 21, 2026"
 },
 {
@@ -15675,7 +15970,7 @@ const articles = [
         "2026 Elections",
         "U.S. Congress"
     ],
-    "page": 57,
+    "page": 58,
     "batchDate": "Feb 21, 2026"
 },
 {
@@ -15689,7 +15984,7 @@ const articles = [
         "Election Fraud",
         "Polling"
     ],
-    "page": 57,
+    "page": 58,
     "batchDate": "Feb 21, 2026"
 },
 {
@@ -15703,7 +15998,7 @@ const articles = [
         "Immigration",
         "Sexual Misconduct"
     ],
-    "page": 57,
+    "page": 58,
     "batchDate": "Feb 21, 2026"
 },
 {
@@ -15717,7 +16012,7 @@ const articles = [
         "NYC",
         "Violence"
     ],
-    "page": 57,
+    "page": 58,
     "batchDate": "Feb 21, 2026"
 },
 {
@@ -15730,7 +16025,7 @@ const articles = [
         "Tim Walz",
         "U.S. Congress"
     ],
-    "page": 57,
+    "page": 58,
     "batchDate": "Feb 21, 2026"
 },
 {
@@ -15745,7 +16040,7 @@ const articles = [
         "Taxation",
         "Zohran Mamdani"
     ],
-    "page": 57,
+    "page": 58,
     "batchDate": "Feb 21, 2026"
 },
 {
@@ -15760,7 +16055,7 @@ const articles = [
         "Media Bias",
         "Texas"
     ],
-    "page": 57,
+    "page": 58,
     "batchDate": "Feb 21, 2026"
 },
 {
@@ -15773,7 +16068,7 @@ const articles = [
         "Idaho",
         "Violence"
     ],
-    "page": 57,
+    "page": 58,
     "batchDate": "Feb 21, 2026"
 },
 {
@@ -15788,7 +16083,7 @@ const articles = [
         "Israel Flores Ortiz",
         "Virginia"
     ],
-    "page": 57,
+    "page": 58,
     "batchDate": "Feb 21, 2026"
 },
 {
@@ -15802,7 +16097,7 @@ const articles = [
         "Illinois",
         "Politics"
     ],
-    "page": 57,
+    "page": 58,
     "batchDate": "Feb 21, 2026"
 },
 {
@@ -15817,7 +16112,7 @@ const articles = [
         "Iran",
         "U.S. Congress"
     ],
-    "page": 58,
+    "page": 59,
     "batchDate": "Feb 21, 2026"
 },
 {
@@ -15831,7 +16126,7 @@ const articles = [
         "Sexual Misconduct",
         "Unions"
     ],
-    "page": 58,
+    "page": 59,
     "batchDate": "Feb 21, 2026"
 },
 {
@@ -15845,7 +16140,7 @@ const articles = [
         "Immigration",
         "Massachusetts"
     ],
-    "page": 58,
+    "page": 59,
     "batchDate": "Feb 21, 2026"
 },
 {
@@ -15858,7 +16153,7 @@ const articles = [
         "Culture War",
         "LGBTQ"
     ],
-    "page": 58,
+    "page": 59,
     "batchDate": "Feb 21, 2026"
 },
 {
@@ -15871,7 +16166,7 @@ const articles = [
         "Judiciary-Judicial",
         "Texas"
     ],
-    "page": 58,
+    "page": 59,
     "batchDate": "Feb 21, 2026"
 },
 {
@@ -15885,7 +16180,7 @@ const articles = [
         "Foreign Policy",
         "Virginia"
     ],
-    "page": 58,
+    "page": 59,
     "batchDate": "Feb 21, 2026"
 },
 {
@@ -15897,9 +16192,9 @@ const articles = [
     "tags": [
         "Culture War",
         "Gun Control",
-        "Israel"
+        "Israel-Jews"
     ],
-    "page": 58,
+    "page": 59,
     "batchDate": "Feb 21, 2026"
 },
 {
@@ -15913,7 +16208,7 @@ const articles = [
         "New York",
         "Zohran Mamdani"
     ],
-    "page": 58,
+    "page": 59,
     "batchDate": "Feb 21, 2026"
 },
 {
@@ -15927,7 +16222,7 @@ const articles = [
         "Politics",
         "Sexual Misconduct"
     ],
-    "page": 58,
+    "page": 59,
     "batchDate": "Feb 21, 2026"
 },
 {
@@ -15940,7 +16235,7 @@ const articles = [
         "Immigration",
         "Washington"
     ],
-    "page": 58,
+    "page": 59,
     "batchDate": "Feb 21, 2026"
 },
 {
@@ -15953,7 +16248,7 @@ const articles = [
         "Arizona",
         "Law Enforcement"
     ],
-    "page": 58,
+    "page": 59,
     "batchDate": "Feb 21, 2026"
 },
 {
@@ -15966,7 +16261,7 @@ const articles = [
         "Los Angeles",
         "Racial Issues"
     ],
-    "page": 58,
+    "page": 59,
     "batchDate": "Feb 21, 2026"
 },
 {
@@ -15981,7 +16276,7 @@ const articles = [
         "LGBTQ",
         "Sexual Misconduct"
     ],
-    "page": 58,
+    "page": 59,
     "batchDate": "Feb 21, 2026"
 },
 {
@@ -15994,7 +16289,7 @@ const articles = [
         "FBI",
         "Immigration"
     ],
-    "page": 58,
+    "page": 59,
     "batchDate": "Feb 21, 2026"
 },
 {
@@ -16008,7 +16303,7 @@ const articles = [
         "Chuck Schumer",
         "Homeland Security"
     ],
-    "page": 58,
+    "page": 59,
     "batchDate": "Feb 21, 2026"
 },
 {
@@ -16021,7 +16316,7 @@ const articles = [
         "DOJ",
         "James Boasberg"
     ],
-    "page": 58,
+    "page": 59,
     "batchDate": "Feb 21, 2026"
 },
 {
@@ -16034,7 +16329,7 @@ const articles = [
         "California",
         "Taxation"
     ],
-    "page": 58,
+    "page": 59,
     "batchDate": "Feb 21, 2026"
 },
 {
@@ -16048,7 +16343,7 @@ const articles = [
         "Economic Policy",
         "Jemele Hill"
     ],
-    "page": 58,
+    "page": 59,
     "batchDate": "Feb 21, 2026"
 },
 {
@@ -16061,7 +16356,7 @@ const articles = [
         "Left-Wing",
         "Politics"
     ],
-    "page": 58,
+    "page": 59,
     "batchDate": "Feb 21, 2026"
 },
 {
@@ -16075,7 +16370,7 @@ const articles = [
         "Election Fraud",
         "Immigration"
     ],
-    "page": 58,
+    "page": 59,
     "batchDate": "Feb 21, 2026"
 },
 {
@@ -16088,7 +16383,7 @@ const articles = [
         "Economic Policy",
         "Politics"
     ],
-    "page": 59,
+    "page": 60,
     "batchDate": "Feb 21, 2026"
 },
 {
@@ -16102,7 +16397,7 @@ const articles = [
         "Immigration",
         "U.S. Congress"
     ],
-    "page": 59,
+    "page": 60,
     "batchDate": "Feb 21, 2026"
 },
 {
@@ -16115,7 +16410,7 @@ const articles = [
         "Incompetence",
         "Los Angeles"
     ],
-    "page": 59,
+    "page": 60,
     "batchDate": "Feb 21, 2026"
 },
 {
@@ -16128,7 +16423,7 @@ const articles = [
         "Media Bias",
         "Politics"
     ],
-    "page": 59,
+    "page": 60,
     "batchDate": "Feb 21, 2026"
 },
 {
@@ -16141,7 +16436,7 @@ const articles = [
         "Government",
         "Wes Moore"
     ],
-    "page": 59,
+    "page": 60,
     "batchDate": "Feb 21, 2026"
 },
 {
@@ -16155,7 +16450,7 @@ const articles = [
         "Culture War",
         "Politics"
     ],
-    "page": 59,
+    "page": 60,
     "batchDate": "Feb 21, 2026"
 },
 {
@@ -16168,7 +16463,7 @@ const articles = [
         "Media Bias",
         "Susan Rice"
     ],
-    "page": 59,
+    "page": 60,
     "batchDate": "Feb 21, 2026"
 },
 {
@@ -16182,7 +16477,7 @@ const articles = [
         "California",
         "Texas"
     ],
-    "page": 59,
+    "page": 60,
     "batchDate": "Feb 21, 2026"
 },
 {
@@ -16196,7 +16491,7 @@ const articles = [
         "Rashida Tlaib",
         "State of the Union"
     ],
-    "page": 59,
+    "page": 60,
     "batchDate": "Feb 21, 2026"
 },
 {
@@ -16209,7 +16504,7 @@ const articles = [
         "Crime",
         "Law Enforcement"
     ],
-    "page": 59,
+    "page": 60,
     "batchDate": "Feb 21, 2026"
 },
 {
@@ -16222,7 +16517,7 @@ const articles = [
         "CBP-DHS-ICE",
         "North Carolina"
     ],
-    "page": 59,
+    "page": 60,
     "batchDate": "Feb 21, 2026"
 },
 {
@@ -16236,7 +16531,7 @@ const articles = [
         "Education Policy",
         "LGBTQ"
     ],
-    "page": 59,
+    "page": 60,
     "batchDate": "Feb 21, 2026"
 },
 {
@@ -16249,7 +16544,7 @@ const articles = [
         "Christianity",
         "Media Bias"
     ],
-    "page": 59,
+    "page": 60,
     "batchDate": "Feb 21, 2026"
 },
 {
@@ -16263,7 +16558,7 @@ const articles = [
         "Immigration",
         "State of the Union"
     ],
-    "page": 59,
+    "page": 60,
     "batchDate": "Feb 21, 2026"
 },
 {
@@ -16276,7 +16571,7 @@ const articles = [
         "Corruption-Fraud",
         "Pennsylvania"
     ],
-    "page": 59,
+    "page": 60,
     "batchDate": "Feb 21, 2026"
 },
 {
@@ -16289,7 +16584,7 @@ const articles = [
         "Don Lemon",
         "Patriotism"
     ],
-    "page": 59,
+    "page": 60,
     "batchDate": "Feb 21, 2026"
 },
 {
@@ -16303,7 +16598,7 @@ const articles = [
         "Illinois",
         "Obama Presidential Center"
     ],
-    "page": 59,
+    "page": 60,
     "batchDate": "Feb 21, 2026"
 },
 {
@@ -16318,7 +16613,7 @@ const articles = [
         "Minnesota",
         "Reparations"
     ],
-    "page": 59,
+    "page": 60,
     "batchDate": "Feb 21, 2026"
 },
 {
@@ -16331,7 +16626,7 @@ const articles = [
         "Judiciary-Judicial",
         "Susan Rice"
     ],
-    "page": 59,
+    "page": 60,
     "batchDate": "Feb 21, 2026"
 },
 {
@@ -16345,7 +16640,7 @@ const articles = [
         "Gavin Newsom",
         "Healthcare Policy"
     ],
-    "page": 59,
+    "page": 60,
     "batchDate": "Feb 21, 2026"
 },
 {
@@ -16360,7 +16655,7 @@ const articles = [
         "NYC",
         "Zohran Mamdani"
     ],
-    "page": 60,
+    "page": 61,
     "batchDate": "Feb 21, 2026"
 },
 {
@@ -16373,7 +16668,7 @@ const articles = [
         "Abigail Spanberger",
         "Virginia"
     ],
-    "page": 60,
+    "page": 61,
     "batchDate": "Feb 21, 2026"
 },
 {
@@ -16388,7 +16683,7 @@ const articles = [
         "Culture War",
         "Education Policy"
     ],
-    "page": 60,
+    "page": 61,
     "batchDate": "Feb 21, 2026"
 },
 {
@@ -16401,7 +16696,7 @@ const articles = [
         "Censorship",
         "Media Bias"
     ],
-    "page": 60,
+    "page": 61,
     "batchDate": "Feb 21, 2026"
 },
 {
@@ -16414,7 +16709,7 @@ const articles = [
         "LGBTQ",
         "Violent Crime"
     ],
-    "page": 60,
+    "page": 61,
     "batchDate": "Feb 21, 2026"
 },
 {
@@ -16427,7 +16722,7 @@ const articles = [
         "2026 Elections",
         "State of the Union"
     ],
-    "page": 60,
+    "page": 61,
     "batchDate": "Feb 21, 2026"
 },
 {
@@ -16440,7 +16735,7 @@ const articles = [
         "COVID-19",
         "JB Pritzker"
     ],
-    "page": 60,
+    "page": 61,
     "batchDate": "Feb 21, 2026"
 },
 {
@@ -16454,7 +16749,7 @@ const articles = [
         "Business Climate",
         "Left-Wing"
     ],
-    "page": 60,
+    "page": 61,
     "batchDate": "Feb 21, 2026"
 },
 {
@@ -16467,7 +16762,7 @@ const articles = [
         "Karen Bass",
         "Los Angeles"
     ],
-    "page": 60,
+    "page": 61,
     "batchDate": "Feb 21, 2026"
 },
 {
@@ -16481,7 +16776,7 @@ const articles = [
         "Politics",
         "Unions"
     ],
-    "page": 60,
+    "page": 61,
     "batchDate": "Feb 21, 2026"
 },
 {
@@ -16494,7 +16789,7 @@ const articles = [
         "Foreign Policy",
         "Islam-Muslim"
     ],
-    "page": 60,
+    "page": 61,
     "batchDate": "Feb 21, 2026"
 },
 {
@@ -16507,7 +16802,7 @@ const articles = [
         "California",
         "Gavin Newsom"
     ],
-    "page": 60,
+    "page": 61,
     "batchDate": "Feb 21, 2026"
 },
 {
@@ -16521,7 +16816,7 @@ const articles = [
         "State of the Union",
         "Violent Crime"
     ],
-    "page": 60,
+    "page": 61,
     "batchDate": "Feb 21, 2026"
 },
 {
@@ -16535,7 +16830,7 @@ const articles = [
         "Homeless",
         "San Francisco"
     ],
-    "page": 60,
+    "page": 61,
     "batchDate": "Feb 21, 2026"
 },
 {
@@ -16549,7 +16844,7 @@ const articles = [
         "Gavin Newsom",
         "Immigration"
     ],
-    "page": 60,
+    "page": 61,
     "batchDate": "Feb 21, 2026"
 },
 {
@@ -16563,7 +16858,7 @@ const articles = [
         "Illinois",
         "JB Pritzker"
     ],
-    "page": 60,
+    "page": 61,
     "batchDate": "Feb 21, 2026"
 },
 {
@@ -16577,7 +16872,7 @@ const articles = [
         "Immigration",
         "Transportation Policy"
     ],
-    "page": 60,
+    "page": 61,
     "batchDate": "Feb 21, 2026"
 },
 {
@@ -16590,7 +16885,7 @@ const articles = [
         "CBP-DHS-ICE",
         "Education Policy"
     ],
-    "page": 60,
+    "page": 61,
     "batchDate": "Feb 21, 2026"
 },
 {
@@ -16603,7 +16898,7 @@ const articles = [
         "Censorship",
         "LGBTQ"
     ],
-    "page": 60,
+    "page": 61,
     "batchDate": "Feb 21, 2026"
 },
 {
@@ -16616,7 +16911,7 @@ const articles = [
         "Corruption-Fraud",
         "Immigration"
     ],
-    "page": 60,
+    "page": 61,
     "batchDate": "Feb 21, 2026"
 },
 {
@@ -16630,7 +16925,7 @@ const articles = [
         "Corruption-Fraud",
         "Election Fraud"
     ],
-    "page": 61,
+    "page": 62,
     "batchDate": "Feb 21, 2026"
 },
 {
@@ -16643,7 +16938,7 @@ const articles = [
         "Election Fraud",
         "Jon Ossoff"
     ],
-    "page": 61,
+    "page": 62,
     "batchDate": "Feb 21, 2026"
 },
 {
@@ -16656,7 +16951,7 @@ const articles = [
         "Election Fraud",
         "Polling"
     ],
-    "page": 61,
+    "page": 62,
     "batchDate": "Feb 21, 2026"
 },
 {
@@ -16670,7 +16965,7 @@ const articles = [
         "Election Fraud",
         "Ohio"
     ],
-    "page": 61,
+    "page": 62,
     "batchDate": "Feb 21, 2026"
 },
 {
@@ -16683,7 +16978,7 @@ const articles = [
         "Election Fraud",
         "Virginia"
     ],
-    "page": 61,
+    "page": 62,
     "batchDate": "Feb 21, 2026"
 },
 {
@@ -16696,7 +16991,7 @@ const articles = [
         "Politics",
         "State of the Union"
     ],
-    "page": 61,
+    "page": 62,
     "batchDate": "Feb 21, 2026"
 },
 {
@@ -16710,7 +17005,7 @@ const articles = [
         "Education Policy",
         "LGBTQ"
     ],
-    "page": 61,
+    "page": 62,
     "batchDate": "Feb 21, 2026"
 },
 {
@@ -16724,7 +17019,7 @@ const articles = [
         "Gavin Newsom",
         "Media Bias"
     ],
-    "page": 61,
+    "page": 62,
     "batchDate": "Feb 21, 2026"
 },
 {
@@ -16738,7 +17033,7 @@ const articles = [
         "Tim Walz",
         "U.S. Congress"
     ],
-    "page": 61,
+    "page": 62,
     "batchDate": "Feb 21, 2026"
 },
 {
@@ -16751,7 +17046,7 @@ const articles = [
         "Election Fraud",
         "New York"
     ],
-    "page": 61,
+    "page": 62,
     "batchDate": "Feb 21, 2026"
 },
 {
@@ -16764,7 +17059,7 @@ const articles = [
         "Corruption-Fraud",
         "NYC"
     ],
-    "page": 61,
+    "page": 62,
     "batchDate": "Feb 21, 2026"
 },
 {
@@ -16777,7 +17072,7 @@ const articles = [
         "Politics",
         "State of the Union"
     ],
-    "page": 61,
+    "page": 62,
     "batchDate": "Feb 21, 2026"
 },
 {
@@ -16790,7 +17085,7 @@ const articles = [
         "Bill Gates",
         "Epstein"
     ],
-    "page": 61,
+    "page": 62,
     "batchDate": "Feb 21, 2026"
 },
 {
@@ -16803,7 +17098,7 @@ const articles = [
         "Immigration",
         "State of the Union"
     ],
-    "page": 61,
+    "page": 62,
     "batchDate": "Feb 21, 2026"
 },
 {
@@ -16817,7 +17112,7 @@ const articles = [
         "Taxation",
         "Tom Steyer"
     ],
-    "page": 61,
+    "page": 62,
     "batchDate": "Feb 21, 2026"
 },
 {
@@ -16832,7 +17127,7 @@ const articles = [
         "State of the Union",
         "Virginia"
     ],
-    "page": 61,
+    "page": 62,
     "batchDate": "Feb 21, 2026"
 },
 {
@@ -16846,7 +17141,7 @@ const articles = [
         "Culture War",
         "Virginia"
     ],
-    "page": 61,
+    "page": 62,
     "batchDate": "Feb 21, 2026"
 },
 {
@@ -16860,7 +17155,7 @@ const articles = [
         "Fani Willis",
         "January 6 Protest"
     ],
-    "page": 61,
+    "page": 62,
     "batchDate": "Feb 21, 2026"
 },
 {
@@ -16873,7 +17168,7 @@ const articles = [
         "Business Climate",
         "Florida"
     ],
-    "page": 61,
+    "page": 62,
     "batchDate": "Feb 21, 2026"
 },
 {
@@ -16887,7 +17182,7 @@ const articles = [
         "Joe Biden",
         "Norm Eisen"
     ],
-    "page": 61,
+    "page": 62,
     "batchDate": "Feb 21, 2026"
 },
 {
@@ -16901,7 +17196,7 @@ const articles = [
         "Illinois",
         "Immigration"
     ],
-    "page": 62,
+    "page": 63,
     "batchDate": "Feb 21, 2026"
 },
 {
@@ -16916,7 +17211,7 @@ const articles = [
         "JB Pritzker",
         "Media Bias"
     ],
-    "page": 62,
+    "page": 63,
     "batchDate": "Feb 21, 2026"
 },
 {
@@ -16929,7 +17224,7 @@ const articles = [
         "Culture War",
         "Violent Crime"
     ],
-    "page": 62,
+    "page": 63,
     "batchDate": "Feb 21, 2026"
 },
 {
@@ -16942,7 +17237,7 @@ const articles = [
         "National Security",
         "Politics"
     ],
-    "page": 62,
+    "page": 63,
     "batchDate": "Feb 21, 2026"
 },
 {
@@ -16956,7 +17251,7 @@ const articles = [
         "Corruption-Fraud",
         "Taxation"
     ],
-    "page": 62,
+    "page": 63,
     "batchDate": "Feb 21, 2026"
 },
 {
@@ -16970,7 +17265,7 @@ const articles = [
         "Monica Torres",
         "Politics"
     ],
-    "page": 62,
+    "page": 63,
     "batchDate": "Feb 21, 2026"
 },
 {
@@ -16985,7 +17280,7 @@ const articles = [
         "Obama Presidential Center",
         "Taxation"
     ],
-    "page": 62,
+    "page": 63,
     "batchDate": "Feb 21, 2026"
 },
 {
@@ -16998,7 +17293,7 @@ const articles = [
         "Politics",
         "Susan Rice"
     ],
-    "page": 62,
+    "page": 63,
     "batchDate": "Feb 21, 2026"
 },
 {
@@ -17012,7 +17307,7 @@ const articles = [
         "Education Policy",
         "Racial Issues"
     ],
-    "page": 62,
+    "page": 63,
     "batchDate": "Feb 21, 2026"
 },
 {
@@ -17025,7 +17320,7 @@ const articles = [
         "2026 Elections",
         "Oregon"
     ],
-    "page": 62,
+    "page": 63,
     "batchDate": "Feb 21, 2026"
 },
 {
@@ -17038,7 +17333,7 @@ const articles = [
         "New Jersey",
         "Sexual Misconduct"
     ],
-    "page": 62,
+    "page": 63,
     "batchDate": "Feb 21, 2026"
 },
 {
@@ -17052,7 +17347,7 @@ const articles = [
         "Mikie Sherrill",
         "New Jersey"
     ],
-    "page": 62,
+    "page": 63,
     "batchDate": "Feb 21, 2026"
 },
 {
@@ -17065,7 +17360,7 @@ const articles = [
         "2026 Elections",
         "Election Fraud"
     ],
-    "page": 62,
+    "page": 63,
     "batchDate": "Feb 21, 2026"
 },
 {
@@ -17078,7 +17373,7 @@ const articles = [
         "Abigail Spanberger",
         "Virginia"
     ],
-    "page": 62,
+    "page": 63,
     "batchDate": "Feb 21, 2026"
 },
 {
@@ -17092,7 +17387,7 @@ const articles = [
         "Entertainment Industry",
         "Politics"
     ],
-    "page": 62,
+    "page": 63,
     "batchDate": "Feb 21, 2026"
 },
 {
@@ -17105,7 +17400,7 @@ const articles = [
         "CBP-DHS-ICE",
         "Immigration"
     ],
-    "page": 62,
+    "page": 63,
     "batchDate": "Feb 21, 2026"
 },
 {
@@ -17119,7 +17414,7 @@ const articles = [
         "Taxation",
         "Zohran Mamdani"
     ],
-    "page": 62,
+    "page": 63,
     "batchDate": "Feb 21, 2026"
 },
 {
@@ -17133,7 +17428,7 @@ const articles = [
         "Los Angeles",
         "Sexual Misconduct"
     ],
-    "page": 62,
+    "page": 63,
     "batchDate": "Feb 21, 2026"
 },
 {
@@ -17145,7 +17440,7 @@ const articles = [
     "tags": [
         "Trump-Derangement"
     ],
-    "page": 62,
+    "page": 63,
     "batchDate": "Feb 21, 2026"
 },
 {
@@ -17159,7 +17454,7 @@ const articles = [
         "Los Angeles",
         "New York"
     ],
-    "page": 62,
+    "page": 63,
     "batchDate": "Feb 21, 2026"
 },
 {
@@ -17173,7 +17468,7 @@ const articles = [
         "Gavin Newsom",
         "Racial Issues"
     ],
-    "page": 63,
+    "page": 64,
     "batchDate": "Feb 21, 2026"
 },
 {
@@ -17188,7 +17483,7 @@ const articles = [
         "Homeland Security",
         "Immigration"
     ],
-    "page": 63,
+    "page": 64,
     "batchDate": "Feb 21, 2026"
 },
 {
@@ -17202,7 +17497,7 @@ const articles = [
         "Left-Wing",
         "Monica Torres"
     ],
-    "page": 63,
+    "page": 64,
     "batchDate": "Feb 21, 2026"
 },
 {
@@ -17217,7 +17512,7 @@ const articles = [
         "Justin Pearson",
         "U.S. Congress"
     ],
-    "page": 63,
+    "page": 64,
     "batchDate": "Feb 21, 2026"
 },
 {
@@ -17230,7 +17525,7 @@ const articles = [
         "Illinois",
         "JB Pritzker"
     ],
-    "page": 63,
+    "page": 64,
     "batchDate": "Feb 21, 2026"
 },
 {
@@ -17243,7 +17538,7 @@ const articles = [
         "Media Bias",
         "Politics"
     ],
-    "page": 63,
+    "page": 64,
     "batchDate": "Feb 21, 2026"
 },
 {
@@ -17257,7 +17552,7 @@ const articles = [
         "Politics",
         "Polling"
     ],
-    "page": 63,
+    "page": 64,
     "batchDate": "Feb 21, 2026"
 },
 {
@@ -17270,7 +17565,7 @@ const articles = [
         "Alexandria Ocasio-Cortez",
         "Politics"
     ],
-    "page": 63,
+    "page": 64,
     "batchDate": "Feb 21, 2026"
 },
 {
@@ -17283,7 +17578,7 @@ const articles = [
         "Judiciary-Judicial",
         "Violent Crime"
     ],
-    "page": 63,
+    "page": 64,
     "batchDate": "Feb 21, 2026"
 },
 {
@@ -17297,7 +17592,7 @@ const articles = [
         "Illinois",
         "JB Pritzker"
     ],
-    "page": 63,
+    "page": 64,
     "batchDate": "Feb 21, 2026"
 },
 {
@@ -17310,7 +17605,7 @@ const articles = [
         "January 6 Protest",
         "Politics"
     ],
-    "page": 63,
+    "page": 64,
     "batchDate": "Feb 21, 2026"
 },
 {
@@ -17323,7 +17618,7 @@ const articles = [
         "Katie Porter",
         "Politics"
     ],
-    "page": 63,
+    "page": 64,
     "batchDate": "Feb 21, 2026"
 },
 {
@@ -17338,7 +17633,7 @@ const articles = [
         "Kathy Hochul",
         "New York"
     ],
-    "page": 63,
+    "page": 64,
     "batchDate": "Feb 21, 2026"
 },
 {
@@ -17352,7 +17647,7 @@ const articles = [
         "Hakeem Jeffries",
         "Texas"
     ],
-    "page": 63,
+    "page": 64,
     "batchDate": "Feb 21, 2026"
 },
 {
@@ -17366,7 +17661,7 @@ const articles = [
         "Foreign Policy",
         "Politics"
     ],
-    "page": 63,
+    "page": 64,
     "batchDate": "Feb 21, 2026"
 },
 {
@@ -17381,7 +17676,7 @@ const articles = [
         "Joe Rogan",
         "Zohran Mamdani"
     ],
-    "page": 63,
+    "page": 64,
     "batchDate": "Feb 21, 2026"
 },
 {
@@ -17394,7 +17689,7 @@ const articles = [
         "Taxation",
         "U.S. Congress"
     ],
-    "page": 63,
+    "page": 64,
     "batchDate": "Feb 21, 2026"
 },
 {
@@ -17408,7 +17703,7 @@ const articles = [
         "Gavin Newsom",
         "Jim Clyburn"
     ],
-    "page": 63,
+    "page": 64,
     "batchDate": "Feb 21, 2026"
 },
 {
@@ -17421,7 +17716,7 @@ const articles = [
         "Politics",
         "Robert De Niro"
     ],
-    "page": 63,
+    "page": 64,
     "batchDate": "Feb 21, 2026"
 },
 {
@@ -17434,7 +17729,7 @@ const articles = [
         "Politics",
         "Trump-Derangement"
     ],
-    "page": 63,
+    "page": 64,
     "batchDate": "Feb 21, 2026"
 },
 {
@@ -17447,7 +17742,7 @@ const articles = [
         "New York",
         "Zohran Mamdani"
     ],
-    "page": 64,
+    "page": 65,
     "batchDate": "Feb 21, 2026"
 },
 {
@@ -17460,7 +17755,7 @@ const articles = [
         "CBP-DHS-ICE",
         "Immigration"
     ],
-    "page": 64,
+    "page": 65,
     "batchDate": "Feb 21, 2026"
 },
 {
@@ -17474,7 +17769,7 @@ const articles = [
         "LGBTQ",
         "Texas"
     ],
-    "page": 64,
+    "page": 65,
     "batchDate": "Feb 21, 2026"
 },
 {
@@ -17488,7 +17783,7 @@ const articles = [
         "Immigration",
         "Polling"
     ],
-    "page": 64,
+    "page": 65,
     "batchDate": "Feb 21, 2026"
 },
 {
@@ -17501,7 +17796,7 @@ const articles = [
         "California",
         "Gavin Newsom"
     ],
-    "page": 64,
+    "page": 65,
     "batchDate": "Feb 21, 2026"
 },
 {
@@ -17514,7 +17809,7 @@ const articles = [
         "Globalism",
         "Patriotism"
     ],
-    "page": 64,
+    "page": 65,
     "batchDate": "Feb 21, 2026"
 },
 {
@@ -17528,7 +17823,7 @@ const articles = [
         "Culture War",
         "LGBTQ"
     ],
-    "page": 64,
+    "page": 65,
     "batchDate": "Feb 21, 2026"
 },
 {
@@ -17541,7 +17836,7 @@ const articles = [
         "Affordability",
         "Los Angeles"
     ],
-    "page": 64,
+    "page": 65,
     "batchDate": "Feb 21, 2026"
 },
 {
@@ -17554,7 +17849,7 @@ const articles = [
         "Economic Policy",
         "Vermont"
     ],
-    "page": 64,
+    "page": 65,
     "batchDate": "Feb 21, 2026"
 },
 {
@@ -17567,7 +17862,7 @@ const articles = [
         "Journalism",
         "Media Bias"
     ],
-    "page": 64,
+    "page": 65,
     "batchDate": "Feb 21, 2026"
 },
 {
@@ -17580,7 +17875,7 @@ const articles = [
         "Education Policy",
         "Racial Issues"
     ],
-    "page": 64,
+    "page": 65,
     "batchDate": "Feb 21, 2026"
 },
 {
@@ -17593,7 +17888,7 @@ const articles = [
         "Culture War",
         "Polling"
     ],
-    "page": 64,
+    "page": 65,
     "batchDate": "Feb 21, 2026"
 },
 {
@@ -17606,7 +17901,7 @@ const articles = [
         "California",
         "Mental Health"
     ],
-    "page": 64,
+    "page": 65,
     "batchDate": "Feb 21, 2026"
 },
 {
@@ -17620,7 +17915,7 @@ const articles = [
         "Education Policy",
         "Immigration"
     ],
-    "page": 64,
+    "page": 65,
     "batchDate": "Feb 21, 2026"
 },
 {
@@ -17633,7 +17928,7 @@ const articles = [
         "Media Bias",
         "Politics"
     ],
-    "page": 64,
+    "page": 65,
     "batchDate": "Feb 21, 2026"
 },
 {
@@ -17646,7 +17941,7 @@ const articles = [
         "Corruption-Fraud",
         "Minnesota"
     ],
-    "page": 64,
+    "page": 65,
     "batchDate": "Feb 21, 2026"
 },
 {
@@ -17659,7 +17954,7 @@ const articles = [
         "Culture War",
         "Incompetence"
     ],
-    "page": 64,
+    "page": 65,
     "batchDate": "Feb 21, 2026"
 },
 {
@@ -17672,7 +17967,7 @@ const articles = [
         "Business Climate",
         "Business Relocation"
     ],
-    "page": 64,
+    "page": 65,
     "batchDate": "Feb 21, 2026"
 },
 {
@@ -17685,7 +17980,7 @@ const articles = [
         "James Talarico",
         "Stephen Colbert"
     ],
-    "page": 64,
+    "page": 65,
     "batchDate": "Feb 21, 2026"
 },
 {
@@ -17699,7 +17994,7 @@ const articles = [
         "Election Fraud",
         "Virginia"
     ],
-    "page": 64,
+    "page": 65,
     "batchDate": "Feb 21, 2026"
 },
 {
@@ -17713,7 +18008,7 @@ const articles = [
         "Gavin Newsom",
         "Government"
     ],
-    "page": 65,
+    "page": 66,
     "batchDate": "Feb 21, 2026"
 },
 {
@@ -17728,7 +18023,7 @@ const articles = [
         "Left-Wing",
         "Politics"
     ],
-    "page": 65,
+    "page": 66,
     "batchDate": "Feb 21, 2026"
 },
 {
@@ -17741,7 +18036,7 @@ const articles = [
         "Healthcare Policy",
         "LGBTQ"
     ],
-    "page": 65,
+    "page": 66,
     "batchDate": "Feb 21, 2026"
 },
 {
@@ -17754,7 +18049,7 @@ const articles = [
         "Drug Crime",
         "Washington"
     ],
-    "page": 65,
+    "page": 66,
     "batchDate": "Feb 21, 2026"
 },
 {
@@ -17767,7 +18062,7 @@ const articles = [
         "Jeffrey Toobin",
         "Judiciary-Judicial"
     ],
-    "page": 65,
+    "page": 66,
     "batchDate": "Feb 21, 2026"
 },
 {
@@ -17780,7 +18075,7 @@ const articles = [
         "California",
         "Retail Crime"
     ],
-    "page": 65,
+    "page": 66,
     "batchDate": "Feb 21, 2026"
 },
 {
@@ -17794,7 +18089,7 @@ const articles = [
         "Harry Enten",
         "Media Bias"
     ],
-    "page": 65,
+    "page": 66,
     "batchDate": "Feb 21, 2026"
 },
 {
@@ -17807,7 +18102,7 @@ const articles = [
         "California",
         "Election Fraud"
     ],
-    "page": 65,
+    "page": 66,
     "batchDate": "Feb 21, 2026"
 },
 {
@@ -17820,7 +18115,7 @@ const articles = [
         "Robert Dorgan",
         "Violent Crime"
     ],
-    "page": 65,
+    "page": 66,
     "batchDate": "Feb 21, 2026"
 },
 {
@@ -17833,7 +18128,7 @@ const articles = [
         "Judiciary-Judicial",
         "Violent Crime"
     ],
-    "page": 65,
+    "page": 66,
     "batchDate": "Feb 21, 2026"
 },
 {
@@ -17848,7 +18143,7 @@ const articles = [
         "New York",
         "Zohran Mamdani"
     ],
-    "page": 65,
+    "page": 66,
     "batchDate": "Feb 21, 2026"
 },
 {
@@ -17862,7 +18157,7 @@ const articles = [
         "The View",
         "Whoopi Goldberg"
     ],
-    "page": 65,
+    "page": 66,
     "batchDate": "Feb 21, 2026"
 },
 {
@@ -17877,7 +18172,7 @@ const articles = [
         "Homeless",
         "Kamala Harris"
     ],
-    "page": 65,
+    "page": 66,
     "batchDate": "Feb 21, 2026"
 },
 {
@@ -17891,7 +18186,7 @@ const articles = [
         "Elissa Slotkin",
         "National Security"
     ],
-    "page": 65,
+    "page": 66,
     "batchDate": "Feb 21, 2026"
 },
 {
@@ -17906,7 +18201,7 @@ const articles = [
         "Taxation",
         "Texas"
     ],
-    "page": 65,
+    "page": 66,
     "batchDate": "Feb 21, 2026"
 },
 {
@@ -17919,7 +18214,7 @@ const articles = [
         "Alexandria Ocasio-Cortez",
         "Politics"
     ],
-    "page": 65,
+    "page": 66,
     "batchDate": "Feb 21, 2026"
 },
 {
@@ -17933,7 +18228,7 @@ const articles = [
         "Culture War",
         "Racial Issues"
     ],
-    "page": 65,
+    "page": 66,
     "batchDate": "Feb 21, 2026"
 },
 {
@@ -17947,7 +18242,7 @@ const articles = [
         "Robert Dorgan",
         "Violent Crime"
     ],
-    "page": 65,
+    "page": 66,
     "batchDate": "Feb 21, 2026"
 },
 {
@@ -17960,7 +18255,7 @@ const articles = [
         "LGBTQ",
         "Seth Moulton"
     ],
-    "page": 65,
+    "page": 66,
     "batchDate": "Feb 21, 2026"
 },
 {
@@ -17973,7 +18268,7 @@ const articles = [
         "Epstein",
         "JB Pritzker"
     ],
-    "page": 65,
+    "page": 66,
     "batchDate": "Feb 21, 2026"
 },
 {
@@ -17988,7 +18283,7 @@ const articles = [
         "Taxation",
         "Zohran Mamdani"
     ],
-    "page": 66,
+    "page": 67,
     "batchDate": "Feb 21, 2026"
 },
 {
@@ -18002,7 +18297,7 @@ const articles = [
         "Immigration",
         "Unions"
     ],
-    "page": 66,
+    "page": 67,
     "batchDate": "Feb 21, 2026"
 },
 {
@@ -18016,7 +18311,7 @@ const articles = [
         "Censorship",
         "Oregon"
     ],
-    "page": 66,
+    "page": 67,
     "batchDate": "Feb 21, 2026"
 },
 {
@@ -18030,7 +18325,7 @@ const articles = [
         "Gun Control",
         "Hawaii"
     ],
-    "page": 66,
+    "page": 67,
     "batchDate": "Feb 21, 2026"
 },
 {
@@ -18044,7 +18339,7 @@ const articles = [
         "Epstein",
         "National Security"
     ],
-    "page": 66,
+    "page": 67,
     "batchDate": "Feb 21, 2026"
 },
 {
@@ -18057,7 +18352,7 @@ const articles = [
         "Immigration",
         "Minneapolis"
     ],
-    "page": 66,
+    "page": 67,
     "batchDate": "Feb 21, 2026"
 },
 {
@@ -18070,7 +18365,7 @@ const articles = [
         "Retail Crime",
         "Violent Crime"
     ],
-    "page": 66,
+    "page": 67,
     "batchDate": "Feb 21, 2026"
 },
 {
@@ -18085,7 +18380,7 @@ const articles = [
         "Government",
         "Politics"
     ],
-    "page": 66,
+    "page": 67,
     "batchDate": "Feb 21, 2026"
 },
 {
@@ -18098,7 +18393,7 @@ const articles = [
         "Culture War",
         "Left-Wing"
     ],
-    "page": 66,
+    "page": 67,
     "batchDate": "Feb 21, 2026"
 },
 {
@@ -18111,7 +18406,7 @@ const articles = [
         "California",
         "Taxation"
     ],
-    "page": 66,
+    "page": 67,
     "batchDate": "Feb 21, 2026"
 },
 {
@@ -18125,7 +18420,7 @@ const articles = [
         "John Fetterman",
         "National Security"
     ],
-    "page": 66,
+    "page": 67,
     "batchDate": "Feb 21, 2026"
 },
 {
@@ -18139,7 +18434,7 @@ const articles = [
         "Massachusetts",
         "Politics"
     ],
-    "page": 66,
+    "page": 67,
     "batchDate": "Feb 21, 2026"
 },
 {
@@ -18154,7 +18449,7 @@ const articles = [
         "Politics",
         "Racial Issues"
     ],
-    "page": 66,
+    "page": 67,
     "batchDate": "Feb 21, 2026"
 },
 {
@@ -18168,7 +18463,7 @@ const articles = [
         "Incompetence",
         "Maryland"
     ],
-    "page": 66,
+    "page": 67,
     "batchDate": "Feb 21, 2026"
 },
 {
@@ -18183,7 +18478,7 @@ const articles = [
         "Culture War",
         "Journalism"
     ],
-    "page": 66,
+    "page": 67,
     "batchDate": "Feb 21, 2026"
 },
 {
@@ -18197,7 +18492,7 @@ const articles = [
         "Education Policy",
         "New York"
     ],
-    "page": 66,
+    "page": 67,
     "batchDate": "Feb 21, 2026"
 },
 {
@@ -18210,7 +18505,7 @@ const articles = [
         "CBP-DHS-ICE",
         "Government"
     ],
-    "page": 66,
+    "page": 67,
     "batchDate": "Feb 21, 2026"
 },
 {
@@ -18223,7 +18518,7 @@ const articles = [
         "Business Climate",
         "Washington"
     ],
-    "page": 66,
+    "page": 67,
     "batchDate": "Feb 21, 2026"
 },
 {
@@ -18237,7 +18532,7 @@ const articles = [
         "Kathy Hochul",
         "New York"
     ],
-    "page": 66,
+    "page": 67,
     "batchDate": "Feb 21, 2026"
 },
 {
@@ -18250,7 +18545,7 @@ const articles = [
         "Business Climate",
         "Taxation"
     ],
-    "page": 66,
+    "page": 67,
     "batchDate": "Feb 21, 2026"
 },
 {
@@ -18264,7 +18559,7 @@ const articles = [
         "Immigration",
         "Unions"
     ],
-    "page": 67,
+    "page": 68,
     "batchDate": "Feb 20, 2026"
 },
 {
@@ -18278,7 +18573,7 @@ const articles = [
         "Economic Policy",
         "Energy Policy"
     ],
-    "page": 67,
+    "page": 68,
     "batchDate": "Feb 20, 2026"
 },
 {
@@ -18292,7 +18587,7 @@ const articles = [
         "Homeland Security",
         "Shri Thanedar"
     ],
-    "page": 67,
+    "page": 68,
     "batchDate": "Feb 20, 2026"
 },
 {
@@ -18308,7 +18603,7 @@ const articles = [
         "Maine",
         "Virtue Signaling"
     ],
-    "page": 67,
+    "page": 68,
     "batchDate": "Feb 20, 2026"
 },
 {
@@ -18322,7 +18617,7 @@ const articles = [
         "Culture War",
         "Gavin Newsom"
     ],
-    "page": 67,
+    "page": 68,
     "batchDate": "Feb 20, 2026"
 },
 {
@@ -18336,7 +18631,7 @@ const articles = [
         "Politics",
         "Ro Khanna"
     ],
-    "page": 67,
+    "page": 68,
     "batchDate": "Feb 20, 2026"
 },
 {
@@ -18350,7 +18645,7 @@ const articles = [
         "Gavin Newsom",
         "Incompetence"
     ],
-    "page": 67,
+    "page": 68,
     "batchDate": "Feb 20, 2026"
 },
 {
@@ -18365,7 +18660,7 @@ const articles = [
         "Taxation",
         "Tim Walz"
     ],
-    "page": 67,
+    "page": 68,
     "batchDate": "Feb 20, 2026"
 },
 {
@@ -18378,7 +18673,7 @@ const articles = [
         "Education Policy",
         "Immigration"
     ],
-    "page": 67,
+    "page": 68,
     "batchDate": "Feb 20, 2026"
 },
 {
@@ -18392,7 +18687,7 @@ const articles = [
         "Foreign Policy",
         "Left-Wing"
     ],
-    "page": 67,
+    "page": 68,
     "batchDate": "Feb 20, 2026"
 },
 {
@@ -18405,7 +18700,7 @@ const articles = [
         "Homeless",
         "New York"
     ],
-    "page": 67,
+    "page": 68,
     "batchDate": "Feb 20, 2026"
 },
 {
@@ -18418,7 +18713,7 @@ const articles = [
         "Alternative & Social Media",
         "Left-Wing"
     ],
-    "page": 67,
+    "page": 68,
     "batchDate": "Feb 20, 2026"
 },
 {
@@ -18432,7 +18727,7 @@ const articles = [
         "Florida",
         "Taxation"
     ],
-    "page": 67,
+    "page": 68,
     "batchDate": "Feb 20, 2026"
 },
 {
@@ -18446,7 +18741,7 @@ const articles = [
         "Media Bias",
         "Politics"
     ],
-    "page": 67,
+    "page": 68,
     "batchDate": "Feb 20, 2026"
 },
 {
@@ -18461,7 +18756,7 @@ const articles = [
         "Immigration",
         "Politics"
     ],
-    "page": 67,
+    "page": 68,
     "batchDate": "Feb 20, 2026"
 },
 {
@@ -18474,7 +18769,7 @@ const articles = [
         "Immigration",
         "Violent Crime"
     ],
-    "page": 67,
+    "page": 68,
     "batchDate": "Feb 20, 2026"
 },
 {
@@ -18487,7 +18782,7 @@ const articles = [
         "2026 Elections",
         "Election Fraud"
     ],
-    "page": 67,
+    "page": 68,
     "batchDate": "Feb 20, 2026"
 },
 {
@@ -18501,7 +18796,7 @@ const articles = [
         "Steven Spielberg",
         "Taxation"
     ],
-    "page": 67,
+    "page": 68,
     "batchDate": "Feb 20, 2026"
 },
 {
@@ -18515,7 +18810,7 @@ const articles = [
         "Energy Policy",
         "Politics"
     ],
-    "page": 67,
+    "page": 68,
     "batchDate": "Feb 20, 2026"
 },
 {
@@ -18530,7 +18825,7 @@ const articles = [
         "James Talarico",
         "LGBTQ"
     ],
-    "page": 67,
+    "page": 68,
     "batchDate": "Feb 20, 2026"
 },
 {
@@ -18544,7 +18839,7 @@ const articles = [
         "Corruption-Fraud",
         "Election Fraud"
     ],
-    "page": 68,
+    "page": 69,
     "batchDate": "Feb 21, 2026"
 },
 {
@@ -18559,7 +18854,7 @@ const articles = [
         "Joe Rogan",
         "Violent Crime"
     ],
-    "page": 68,
+    "page": 69,
     "batchDate": "Feb 21, 2026"
 },
 {
@@ -18573,7 +18868,7 @@ const articles = [
         "Election Fraud",
         "Georgia"
     ],
-    "page": 68,
+    "page": 69,
     "batchDate": "Feb 21, 2026"
 },
 {
@@ -18586,7 +18881,7 @@ const articles = [
         "Epstein",
         "Ilhan Omar"
     ],
-    "page": 68,
+    "page": 69,
     "batchDate": "Feb 21, 2026"
 },
 {
@@ -18599,7 +18894,7 @@ const articles = [
         "Economic Policy",
         "Unions"
     ],
-    "page": 68,
+    "page": 69,
     "batchDate": "Feb 21, 2026"
 },
 {
@@ -18614,7 +18909,7 @@ const articles = [
         "Chicago",
         "Law Enforcement"
     ],
-    "page": 68,
+    "page": 69,
     "batchDate": "Feb 21, 2026"
 },
 {
@@ -18628,7 +18923,7 @@ const articles = [
         "Gretchen Whitmer",
         "Taxation"
     ],
-    "page": 68,
+    "page": 69,
     "batchDate": "Feb 21, 2026"
 },
 {
@@ -18641,7 +18936,7 @@ const articles = [
         "Culture War",
         "Michigan"
     ],
-    "page": 68,
+    "page": 69,
     "batchDate": "Feb 21, 2026"
 },
 {
@@ -18655,7 +18950,7 @@ const articles = [
         "Culture War",
         "Illinois"
     ],
-    "page": 68,
+    "page": 69,
     "batchDate": "Feb 21, 2026"
 },
 {
@@ -18669,7 +18964,7 @@ const articles = [
         "Gavin Newsom",
         "Taxation"
     ],
-    "page": 68,
+    "page": 69,
     "batchDate": "Feb 21, 2026"
 },
 {
@@ -18683,7 +18978,7 @@ const articles = [
         "NYC",
         "Racial Issues"
     ],
-    "page": 68,
+    "page": 69,
     "batchDate": "Feb 21, 2026"
 },
 {
@@ -18696,7 +18991,7 @@ const articles = [
         "California",
         "Taxation"
     ],
-    "page": 68,
+    "page": 69,
     "batchDate": "Feb 21, 2026"
 },
 {
@@ -18710,7 +19005,7 @@ const articles = [
         "Politics",
         "Violent Crime"
     ],
-    "page": 68,
+    "page": 69,
     "batchDate": "Feb 21, 2026"
 },
 {
@@ -18725,7 +19020,7 @@ const articles = [
         "Stacey Plaskett",
         "Virgin Islands"
     ],
-    "page": 68,
+    "page": 69,
     "batchDate": "Feb 21, 2026"
 },
 {
@@ -18739,7 +19034,7 @@ const articles = [
         "California",
         "Energy Policy"
     ],
-    "page": 68,
+    "page": 69,
     "batchDate": "Feb 21, 2026"
 },
 {
@@ -18753,7 +19048,7 @@ const articles = [
         "Jasmine Crockett",
         "Politics"
     ],
-    "page": 68,
+    "page": 69,
     "batchDate": "Feb 21, 2026"
 },
 {
@@ -18767,7 +19062,7 @@ const articles = [
         "California",
         "Corruption-Fraud"
     ],
-    "page": 68,
+    "page": 69,
     "batchDate": "Feb 21, 2026"
 },
 {
@@ -18780,7 +19075,7 @@ const articles = [
         "Kathy Hochul",
         "New York"
     ],
-    "page": 68,
+    "page": 69,
     "batchDate": "Feb 21, 2026"
 },
 {
@@ -18795,7 +19090,7 @@ const articles = [
         "Left-Wing",
         "Violent Crime"
     ],
-    "page": 68,
+    "page": 69,
     "batchDate": "Feb 21, 2026"
 },
 {
@@ -18809,7 +19104,7 @@ const articles = [
         "Taxation",
         "Washington"
     ],
-    "page": 68,
+    "page": 69,
     "batchDate": "Feb 21, 2026"
 },
 {
@@ -18822,7 +19117,7 @@ const articles = [
         "Election Fraud",
         "Law Enforcement"
     ],
-    "page": 69,
+    "page": 70,
     "batchDate": "Feb 21, 2026"
 },
 {
@@ -18836,7 +19131,7 @@ const articles = [
         "Election Fraud",
         "North Carolina"
     ],
-    "page": 69,
+    "page": 70,
     "batchDate": "Feb 21, 2026"
 },
 {
@@ -18850,7 +19145,7 @@ const articles = [
         "Politics",
         "Racial Issues"
     ],
-    "page": 69,
+    "page": 70,
     "batchDate": "Feb 21, 2026"
 },
 {
@@ -18863,7 +19158,7 @@ const articles = [
         "Brandon Johnson",
         "Violent Crime"
     ],
-    "page": 69,
+    "page": 70,
     "batchDate": "Feb 21, 2026"
 },
 {
@@ -18876,7 +19171,7 @@ const articles = [
         "CBP-DHS-ICE",
         "Jimmy Kimmel"
     ],
-    "page": 69,
+    "page": 70,
     "batchDate": "Feb 21, 2026"
 },
 {
@@ -18891,7 +19186,7 @@ const articles = [
         "Portland",
         "Violent Crime"
     ],
-    "page": 69,
+    "page": 70,
     "batchDate": "Feb 21, 2026"
 },
 {
@@ -18904,7 +19199,7 @@ const articles = [
         "California",
         "Taxation"
     ],
-    "page": 69,
+    "page": 70,
     "batchDate": "Feb 21, 2026"
 },
 {
@@ -18917,7 +19212,7 @@ const articles = [
         "Corruption-Fraud",
         "Gavin Newsom"
     ],
-    "page": 69,
+    "page": 70,
     "batchDate": "Feb 21, 2026"
 },
 {
@@ -18931,7 +19226,7 @@ const articles = [
         "Reid Hoffman",
         "Silicon Valley"
     ],
-    "page": 69,
+    "page": 70,
     "batchDate": "Feb 21, 2026"
 },
 {
@@ -18944,7 +19239,7 @@ const articles = [
         "2026 Elections",
         "Election Fraud"
     ],
-    "page": 69,
+    "page": 70,
     "batchDate": "Feb 21, 2026"
 },
 {
@@ -18957,7 +19252,7 @@ const articles = [
         "Economic Policy",
         "Government"
     ],
-    "page": 69,
+    "page": 70,
     "batchDate": "Feb 21, 2026"
 },
 {
@@ -18970,7 +19265,7 @@ const articles = [
         "California",
         "Illinois"
     ],
-    "page": 69,
+    "page": 70,
     "batchDate": "Feb 21, 2026"
 },
 {
@@ -18985,7 +19280,7 @@ const articles = [
         "U.S. Constitution",
         "Virginia"
     ],
-    "page": 69,
+    "page": 70,
     "batchDate": "Feb 21, 2026"
 },
 {
@@ -18998,7 +19293,7 @@ const articles = [
         "California",
         "Corruption-Fraud"
     ],
-    "page": 69,
+    "page": 70,
     "batchDate": "Feb 21, 2026"
 },
 {
@@ -19013,7 +19308,7 @@ const articles = [
         "Kathy Hochul",
         "New York"
     ],
-    "page": 69,
+    "page": 70,
     "batchDate": "Feb 21, 2026"
 },
 {
@@ -19027,7 +19322,7 @@ const articles = [
         "Gretchen Whitmer",
         "Michigan"
     ],
-    "page": 69,
+    "page": 70,
     "batchDate": "Feb 21, 2026"
 },
 {
@@ -19041,7 +19336,7 @@ const articles = [
         "Criminal Justice",
         "Immigration"
     ],
-    "page": 69,
+    "page": 70,
     "batchDate": "Feb 21, 2026"
 },
 {
@@ -19054,7 +19349,7 @@ const articles = [
         "DOJ",
         "Elissa Slotkin"
     ],
-    "page": 69,
+    "page": 70,
     "batchDate": "Feb 21, 2026"
 },
 {
@@ -19068,7 +19363,7 @@ const articles = [
         "Epstein",
         "Obama"
     ],
-    "page": 69,
+    "page": 70,
     "batchDate": "Feb 21, 2026"
 },
 {
@@ -19082,7 +19377,7 @@ const articles = [
         "Corruption-Fraud",
         "Ilhan Omar"
     ],
-    "page": 69,
+    "page": 70,
     "batchDate": "Feb 21, 2026"
 },
 {
@@ -19097,7 +19392,7 @@ const articles = [
         "Left-Wing",
         "Violent Crime"
     ],
-    "page": 70,
+    "page": 71,
     "batchDate": "Feb 21, 2026"
 },
 {
@@ -19111,7 +19406,7 @@ const articles = [
         "Taxation",
         "Washington"
     ],
-    "page": 70,
+    "page": 71,
     "batchDate": "Feb 21, 2026"
 },
 {
@@ -19125,7 +19420,7 @@ const articles = [
         "Epstein",
         "Left-Wing"
     ],
-    "page": 70,
+    "page": 71,
     "batchDate": "Feb 21, 2026"
 },
 {
@@ -19139,7 +19434,7 @@ const articles = [
         "Immigration",
         "Media Bias"
     ],
-    "page": 70,
+    "page": 71,
     "batchDate": "Feb 21, 2026"
 },
 {
@@ -19153,7 +19448,7 @@ const articles = [
         "DOJ",
         "Epstein"
     ],
-    "page": 70,
+    "page": 71,
     "batchDate": "Feb 21, 2026"
 },
 {
@@ -19167,7 +19462,7 @@ const articles = [
         "Immigration",
         "Law Enforcement"
     ],
-    "page": 70,
+    "page": 71,
     "batchDate": "Feb 21, 2026"
 },
 {
@@ -19181,7 +19476,7 @@ const articles = [
         "Politics",
         "Texas"
     ],
-    "page": 70,
+    "page": 71,
     "batchDate": "Feb 21, 2026"
 },
 {
@@ -19195,7 +19490,7 @@ const articles = [
         "COVID-19",
         "DOJ"
     ],
-    "page": 70,
+    "page": 71,
     "batchDate": "Feb 21, 2026"
 },
 {
@@ -19209,7 +19504,7 @@ const articles = [
         "Judiciary-Judicial",
         "Left-Wing"
     ],
-    "page": 70,
+    "page": 71,
     "batchDate": "Feb 21, 2026"
 },
 {
@@ -19223,7 +19518,7 @@ const articles = [
         "Gun Control",
         "Virginia"
     ],
-    "page": 70,
+    "page": 71,
     "batchDate": "Feb 21, 2026"
 },
 {
@@ -19236,7 +19531,7 @@ const articles = [
         "2026 Elections",
         "Epstein"
     ],
-    "page": 70,
+    "page": 71,
     "batchDate": "Feb 21, 2026"
 },
 {
@@ -19251,7 +19546,7 @@ const articles = [
         "Gavin Newsom",
         "Taxation"
     ],
-    "page": 70,
+    "page": 71,
     "batchDate": "Feb 21, 2026"
 },
 {
@@ -19264,7 +19559,7 @@ const articles = [
         "Chuck Schumer",
         "Election Fraud"
     ],
-    "page": 70,
+    "page": 71,
     "batchDate": "Feb 21, 2026"
 },
 {
@@ -19278,7 +19573,7 @@ const articles = [
         "Left-Wing",
         "Virginia"
     ],
-    "page": 70,
+    "page": 71,
     "batchDate": "Feb 21, 2026"
 },
 {
@@ -19293,7 +19588,7 @@ const articles = [
         "Eric Swalwell",
         "Foreign Policy"
     ],
-    "page": 70,
+    "page": 71,
     "batchDate": "Feb 21, 2026"
 },
 {
@@ -19307,7 +19602,7 @@ const articles = [
         "Law Enforcement",
         "Violent Crime"
     ],
-    "page": 70,
+    "page": 71,
     "batchDate": "Feb 21, 2026"
 },
 {
@@ -19321,7 +19616,7 @@ const articles = [
         "Left-Wing",
         "Media Bias"
     ],
-    "page": 70,
+    "page": 71,
     "batchDate": "Feb 21, 2026"
 },
 {
@@ -19336,7 +19631,7 @@ const articles = [
         "Healthcare Policy",
         "Left-Wing"
     ],
-    "page": 70,
+    "page": 71,
     "batchDate": "Feb 21, 2026"
 },
 {
@@ -19350,7 +19645,7 @@ const articles = [
         "Epstein",
         "Left-Wing"
     ],
-    "page": 70,
+    "page": 71,
     "batchDate": "Feb 21, 2026"
 },
 {
@@ -19364,7 +19659,7 @@ const articles = [
         "Left-Wing",
         "Virginia"
     ],
-    "page": 70,
+    "page": 71,
     "batchDate": "Feb 21, 2026"
 }
 ];

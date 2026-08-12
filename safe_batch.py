@@ -335,6 +335,30 @@ def validate_batch(ledger: dict[str, Any], batch: list[dict[str, Any]], xlsx_pat
     return normalized
 
 
+def apply_tag_plan(batch: list[dict[str, Any]], tag_plan: dict[str, Any], ledger: dict[str, Any]) -> list[dict[str, Any]]:
+    """Apply a reviewed NUM-to-tags plan and reject incomplete or unapproved assignments."""
+    plan = {int(num): tags for num, tags in tag_plan.get("tags", {}).items()}
+    allowed_five = {int(num) for num in tag_plan.get("allowFiveTagNums", [])}
+    batch_nums = {int(article["num"]) for article in batch}
+    if set(plan) != batch_nums:
+        missing, extra = sorted(batch_nums - set(plan)), sorted(set(plan) - batch_nums)
+        raise ValueError(f"Tag plan NUMs do not match batch (missing={missing}, extra={extra})")
+    tagged = copy.deepcopy(batch)
+    for article in tagged:
+        tags = plan[int(article["num"])]
+        maximum = 5 if int(article["num"]) in allowed_five else 4
+        if not isinstance(tags, list) or not 2 <= len(tags) <= maximum:
+            exception = " (five tags explicitly approved)" if maximum == 5 else ""
+            raise ValueError(f"NUM {article['num']}: tag plan must contain two to {maximum} approved tags{exception}")
+        if len(tags) != len(set(tags)):
+            raise ValueError(f"NUM {article['num']}: tag plan contains duplicate tags")
+        unknown = [tag for tag in tags if tag not in ledger["tagMetadata"]]
+        if unknown:
+            raise ValueError(f"NUM {article['num']}: tag plan uses unapproved tags: {', '.join(unknown)}")
+        article["tags"] = tags
+    return tagged
+
+
 def combine_batch(ledger: dict[str, Any], batch: list[dict[str, Any]], batch_date: str) -> dict[str, Any]:
     combined = copy.deepcopy(ledger)
     for item in batch:
@@ -509,6 +533,16 @@ def apply_command(args: argparse.Namespace) -> None:
     print("Run verify_safe_site.py and pnpm run build before GitHub commit or Cloudflare deployment.")
 
 
+def apply_tag_plan_command(args: argparse.Namespace) -> None:
+    """Create the final publication batch JSON from a reviewed tag-plan record."""
+    ledger = load_ledger(Path(args.ledger))
+    batch = json.loads(Path(args.draft_json).read_text(encoding="utf-8"))
+    tag_plan = json.loads(Path(args.tag_plan).read_text(encoding="utf-8"))
+    tagged = apply_tag_plan(batch, tag_plan, ledger)
+    Path(args.output).write_text(json.dumps(tagged, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
+    print(f"TAGGED: {len(tagged)} batch articles written to {args.output}")
+
+
 def sync_indexes_command(args: argparse.Namespace) -> None:
     """Synchronize both typed tag indexes from the canonical ledger without rewriting pages."""
     ledger = load_ledger(Path(args.ledger))
@@ -610,6 +644,12 @@ def main() -> None:
         command.add_argument("--xlsx")
         command.add_argument("--ledger", default=str(LEDGER))
         command.set_defaults(func=handler)
+    tag_plan = commands.add_parser("apply-tag-plan", help="Apply a reviewed NUM-to-tags plan to a prepared batch draft")
+    tag_plan.add_argument("draft_json")
+    tag_plan.add_argument("tag_plan")
+    tag_plan.add_argument("output")
+    tag_plan.add_argument("--ledger", default=str(LEDGER))
+    tag_plan.set_defaults(func=apply_tag_plan_command)
     sync = commands.add_parser("sync-indexes", help="Synchronize both typed tag indexes from the canonical ledger")
     sync.add_argument("--ledger", default=str(LEDGER))
     sync.set_defaults(func=sync_indexes_command)

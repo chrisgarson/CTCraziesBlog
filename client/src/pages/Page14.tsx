@@ -8,147 +8,147 @@ export default function Page14() {
       <PageHeader />
       <div className="space-y-12">
       <ArticleBlock
-        headline="Virginia&#x27;s Democrat Gov. Abigail Spanberger Simply Allows a Dangerous Illegal Alien Child Abuser to Walk Free"
-        tinyUrl="https://tinyurl.com/4wdkx7w2"
-        xPostUrl="https://x.com/C3Heditor/status/2069963220723319092"
-        imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-06-24_205828.jpg"
-        tags={["Abigail Spanberger", "Immigration", "Violent Crime", "Virginia"]}
+        headline="North Carolina&#x27;s Roy Cooper&#x27;s Tough-On-Crime Claim Is a Gigantic Democrat Lie"
+        tinyUrl="https://tinyurl.com/4x6j33n3"
+        xPostUrl="https://x.com/C3Heditor/status/2071702652170436881"
+        imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-06-29_161124.jpg"
+        tags={["North Carolina", "Roy Cooper", "Violent Crime"]}
       />
       <ArticleBlock
-        headline="Major Network Outlets Ignore That the Foiled UFC Drone Terrorist Mastermind Was an Illegal Alien"
-        tinyUrl="https://tinyurl.com/35pu3vn8"
-        xPostUrl="https://x.com/C3Heditor/status/2069962351487430700"
-        imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-06-24_205455.jpg"
-        tags={["Immigration", "Media Bias", "National Security", "Terrorism"]}
+        headline="Democrat Strategist James Carville: Dems Must Bar Fringe-Left NYC Candidate From the Democrat Caucus Over Her Anti-Interracial Dating Opinions"
+        tinyUrl="https://tinyurl.com/55t4jm6r"
+        xPostUrl="https://x.com/C3Heditor/status/2071702056755466651"
+        imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-06-29_160743.jpg"
+        tags={["James Carville", "New York", "Racial Issues"]}
       />
       <ArticleBlock
-        headline="Democrats Continue the Battle for &#x27;Open Borders&#x27; by Fighting Against Wall Construction in Texas"
-        tinyUrl="https://tinyurl.com/ysmpv3t3"
-        xPostUrl="https://x.com/C3Heditor/status/2069909133323538772"
-        imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-06-24_172323.jpg"
-        tags={["CBP-DHS-ICE", "Immigration", "Texas"]}
+        headline="California Gov. Gavin Newsom&#x27;s $12M DiaperGate Deal Tied to His Wife&#x27;s Organization is Blasted by Democrats"
+        tinyUrl="https://tinyurl.com/dvnh7rc7"
+        xPostUrl="https://x.com/C3Heditor/status/2071701081583915457"
+        imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-06-29_160353.jpg"
+        tags={["California", "Corruption-Fraud", "Gavin Newsom"]}
       />
       <ArticleBlock
-        headline="Senate Minority Leader Chuck Schumer Suggests Democrats Inserted 25 Million Illegitimate Voters in U.S. Voter Rolls"
-        tinyUrl="https://tinyurl.com/ssby7z8v"
-        xPostUrl="https://x.com/C3Heditor/status/2069906603784978449"
-        imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-06-24_171407.jpg"
-        tags={["Chuck Schumer", "Election Fraud", "Immigration"]}
-      />
-      <ArticleBlock
-        headline="Majority of Democrats Support Zero Restrictions on Abortion, New Poll Reveals"
-        tinyUrl="https://tinyurl.com/z8vsyd5a"
-        xPostUrl="https://x.com/C3Heditor/status/2069903659446554789"
-        imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-06-24_171024.jpg"
-        tags={["Culture War", "Polling"]}
-      />
-      <ArticleBlock
-        headline="Fraud Allegations Prompt Federal Government to Pause Funding to LA&#x27;s Democrat Controlled Homeless Agency"
-        tinyUrl="https://tinyurl.com/msd5m975"
-        xPostUrl="https://x.com/C3Heditor/status/2069902959836557791"
-        imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-06-24_165849.jpg"
-        tags={["California", "Corruption-Fraud", "Homeless"]}
-      />
-      <ArticleBlock
-        headline="California&#x27;s Democrat Gov. Gavin Newsom&#x27;s Now Wants to Tax Online Software Used on Home Computers"
-        tinyUrl="https://tinyurl.com/yt4y8uc2"
-        xPostUrl="https://x.com/C3Heditor/status/2069901792171704810"
-        imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-06-24_165409.jpg"
-        tags={["California", "Economic Policy", "Gavin Newsom"]}
-      />
-      <ArticleBlock
-        headline="Illinois Democrats Are Forcing Taxpayers to Fund $1.4 Billion in Tuition for Non-Citizens"
-        tinyUrl="https://tinyurl.com/vfvs7m3u"
-        xPostUrl="https://x.com/C3Heditor/status/2069898011593855124"
-        imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-06-24_132844.jpg"
-        tags={["Education Policy", "Illinois", "Immigration"]}
-      />
-      <ArticleBlock
-        headline="Democrats&#x27; California Billionaire Tax Qualifies to Appear on the November Ballot"
-        tinyUrl="https://tinyurl.com/mt439dav"
-        xPostUrl="https://x.com/C3Heditor/status/2069892265560957171"
-        imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-06-24_162311.jpg"
-        tags={["California", "Communism-Socialism", "Economic Policy"]}
-      />
-      <ArticleBlock
-        headline="Chicago&#x27;s Obama Presidential Center Owes Millions to Minority Democrat Subcontractors That Now Are on the Brink of Ruin"
-        tinyUrl="https://tinyurl.com/53c6e5ju"
-        xPostUrl="https://x.com/C3Heditor/status/2069886653087244411"
-        imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-06-24_155406.jpg"
-        tags={["Chicago", "Corruption-Fraud", "Obama Presidential Center"]}
-      />
-      <ArticleBlock
-        headline="Fifteen Members of Democrats&#x27; Antifa Protest Army Are Hit With Federal DOJ Charges After ICE Violence in Minneapolis"
-        tinyUrl="https://tinyurl.com/2m5dh7ea"
-        xPostUrl="https://x.com/C3Heditor/status/2069885370611671492"
-        imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-06-24_154859.jpg"
-        tags={["DOJ", "Immigration", "Left-Wing", "Violence"]}
-      />
-      <ArticleBlock
-        headline="While North Carolina&#x27;s Governor, Democrat Roy Cooper Paid Out $47.2M in Fraudulent Unemployment Payments, Including to Illegal Aliens"
-        tinyUrl="https://tinyurl.com/4uc58d38"
-        xPostUrl="https://x.com/C3Heditor/status/2069884771048562963"
-        imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-06-24_154644.jpg"
-        tags={["Corruption-Fraud", "Immigration", "Roy Cooper"]}
-      />
-      <ArticleBlock
-        headline="Virginia Democrats Inject Non-White Race Bias Into State&#x27;s New Tourism Promotion Campaign, All in the Name of DEI"
-        tinyUrl="https://tinyurl.com/44y4xhvh"
-        xPostUrl="https://x.com/C3Heditor/status/2069883424806961312"
-        imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-06-24_154112.jpg"
-        tags={["Culture War", "Racial Issues", "Virginia"]}
-      />
-      <ArticleBlock
-        headline="The Democrat-Activist Vandals of Washington DC&#x27;s Reflecting Pool Will &quot;Be Fully Prosecuted&quot;, Say Feds"
-        tinyUrl="https://tinyurl.com/ymakc29b"
-        xPostUrl="https://x.com/C3Heditor/status/2069882548335903198"
-        imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-06-24_153811.jpg"
-        tags={["Crime", "DOJ", "Left-Wing"]}
-      />
-      <ArticleBlock
-        headline="More Controversy Hits Maine Democrat Senate Hopeful, Graham Platner, Over His Ugly, Graphic, Reddit Posts"
-        tinyUrl="https://tinyurl.com/4y42a6nm"
-        xPostUrl="https://x.com/C3Heditor/status/2069881278288044529"
-        imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-06-24_153347.jpg"
-        tags={["2026 Elections", "Graham Platner", "Maine"]}
-      />
-      <ArticleBlock
-        headline="60,000 Wisconsin Students at Risk as Democrat Candidate for Governor, Francesca Hong, Wants to Abolish School Choice"
-        tinyUrl="https://tinyurl.com/4dtjk52v"
-        xPostUrl="https://x.com/C3Heditor/status/2069857416234024997"
-        imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-06-24_135758.jpg"
-        tags={["2026 Elections", "Education Policy", "Francesca Hong", "Wisconsin"]}
-      />
-      <ArticleBlock
-        headline="The Democrats&#x27; Six-Gender Texas U.S. Senate Candidate, James Talarico, Drops a Bombshell: He Is a &#x27;Christian Who Hates Christianity&#x27;"
-        tinyUrl="https://tinyurl.com/3rha9te9"
-        xPostUrl="https://x.com/C3Heditor/status/2069856606532088181"
-        imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-06-24_135450.jpg"
+        headline="Texas Democrats&#x27; Wild New Ad: &#x27;We&#x27;re All Trans, Gay, Vegan - and Going to Hell for James Talarico&#x27;"
+        tinyUrl="https://tinyurl.com/2326rxy4"
+        xPostUrl="https://x.com/C3Heditor/status/2071700398168211466"
+        imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-06-29_160106.jpg"
         tags={["2026 Elections", "James Talarico", "LGBTQ", "Texas"]}
       />
       <ArticleBlock
-        headline="Disgraced Eric Swalwell&#x27;s Wingman, Arizona Democrat Sen. Ruben Gallego, Is Neck Deep in a Donor Cash Corruption Scandal"
-        tinyUrl="https://tinyurl.com/vyazdcem"
-        xPostUrl="https://x.com/C3Heditor/status/2069855317630861665"
-        imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-06-24_134936.jpg"
-        tags={["Arizona", "Corruption-Fraud", "Eric Swalwell", "Ruben Gallego"]}
+        headline="Pennsylvania&#x27;s Democrat Congressional Candidate, Paige Cognetti, Caught Posing With Crips Gang Operators Months After City Cop Was Shot"
+        tinyUrl="https://tinyurl.com/2s4jrwv3"
+        xPostUrl="https://x.com/C3Heditor/status/2071699788148654508"
+        imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-06-29_155840.jpg"
+        tags={["2026 Elections", "Law Enforcement", "Paige Cognetti", "Pennsylvania"]}
       />
       <ArticleBlock
-        headline="Hating Trump Trumps Everything - Democrats Were Against Trump&#x27;s Iran War But Now They&#x27;re Against Trump&#x27;s Peace With Iran"
-        tinyUrl="https://tinyurl.com/v2fjs2zd"
-        xPostUrl="https://x.com/C3Heditor/status/2069854496184795536"
-        imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-06-24_134616.jpg"
-        tags={["Foreign Policy", "Iran"]}
+        headline="NepoDem-Sleaze: Democrat NY Senator Gillibrand&#x27;s 22-Year-Old Son&#x27;s &quot;Success&quot; Raises Eyebrows After VC&#x27;s Give Him $30 Million a Few Days After Graduation"
+        tinyUrl="https://tinyurl.com/4mehan58"
+        xPostUrl="https://x.com/C3Heditor/status/2071698618571215254"
+        imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-06-29_155412.jpg"
+        tags={["Corruption-Fraud", "Kirsten Gillibrand", "New York"]}
       />
       <ArticleBlock
-        headline="New York City&#x27;s Primary Sweep by Anti-Israel Democrat-Socialists Leaves Moderate Democrats Stunned and Shaken to the Core"
-        tinyUrl="https://tinyurl.com/3ad7zj8p"
-        xPostUrl="https://x.com/C3Heditor/status/2069853604693877108"
-        imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-06-24_134310.jpg"
+        headline="Black Democrats Slam White-Privileged Dem Rep. Wasserman Schultz for Running in a Majority-Black District"
+        tinyUrl="https://tinyurl.com/54cmth5a"
+        xPostUrl="https://x.com/C3Heditor/status/2071696498841243909"
+        imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-06-29_154540.jpg"
+        tags={["Debbie Wasserman Schultz", "Racial Issues"]}
+      />
+      <ArticleBlock
+        headline="Democrats Think Campaigning On Far-Left&#x27;s &#x27;More Green Taxes&#x27; Is Winning Strategy"
+        tinyUrl="https://tinyurl.com/y75k4mam"
+        xPostUrl="https://x.com/C3Heditor/status/2071695731816345803"
+        imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-06-29_154258.jpg"
+        tags={["Climate Change", "Economic Policy", "Left-Wing"]}
+      />
+      <ArticleBlock
+        headline="&#x27;This isn&#x27;t our land, but we&#x27;re keeping it&#x27;: The Virtue Signaling by Democrats is Hypocrisy on Steroids"
+        tinyUrl="https://tinyurl.com/45p34ruc"
+        xPostUrl="https://x.com/C3Heditor/status/2071694912823984362"
+        imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-06-29_153928.jpg"
+        tags={["Culture War", "Racial Issues", "Virtue Signaling"]}
+      />
+      <ArticleBlock
+        headline="Adding to to Avalanche of Scandals, Maine Democrat Senate Candidate, Graham Platner, Now Reveals He Used to Get Checked for STDs"
+        tinyUrl="https://tinyurl.com/mr24hfw9"
+        xPostUrl="https://x.com/C3Heditor/status/2071693768613351587"
+        imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-06-29_153454.jpg"
+        tags={["2026 Elections", "Graham Platner", "Maine"]}
+      />
+      <ArticleBlock
+        headline="Journalist Attacked by Massachusetts&#x27; Democrat Rep. Seth Moulton Over a Question About Dem Senate Candidate Graham Platner"
+        tinyUrl="https://tinyurl.com/3vzbexvp"
+        xPostUrl="https://x.com/C3Heditor/status/2071692953001640299"
+        imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-06-29_153157.jpg"
+        tags={["Graham Platner", "Massachusetts", "Media Bias", "Seth Moulton"]}
+      />
+      <ArticleBlock
+        headline="NYC&#x27;s Democrat Socialist Sweep Unveils the True New Dem Slogan: &#x27;We Hate America&#x27; Can Win"
+        tinyUrl="https://tinyurl.com/v6j4wptn"
+        xPostUrl="https://x.com/C3Heditor/status/2071691856182694209"
+        imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-06-29_152742.jpg"
         tags={["2026 Elections", "Communism-Socialism", "New York"]}
       />
+      <ArticleBlock
+        headline="Most Democrats Want Illegal Aliens to Remain in the U.S., Seek Citizenship for Voting Purposes"
+        tinyUrl="https://tinyurl.com/5n23sdc4"
+        xPostUrl="https://x.com/C3Heditor/status/2071690925932183708"
+        imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-06-29_152350.jpg"
+        tags={["Election Fraud", "Immigration", "Polling"]}
+      />
+      <ArticleBlock
+        headline="California Democrats Vote to Increase Healthcare Premiums by 97 Percent - Increase Pays for Illegals&#x27; Free Healthcare"
+        tinyUrl="https://tinyurl.com/2ektbspu"
+        xPostUrl="https://x.com/C3Heditor/status/2071690461253664869"
+        imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-06-29_152047.jpg"
+        tags={["California", "Healthcare Policy", "Immigration"]}
+      />
+      <ArticleBlock
+        headline="From &#x27;Millions Will Die&#x27; Fearmongering to Calling the GOP the Party of Fear: Meet The Democrat Brain of Silliness"
+        tinyUrl="https://tinyurl.com/a9ff2psf"
+        xPostUrl="https://x.com/C3Heditor/status/2071689140014367057"
+        imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-06-29_151626.jpg"
+        tags={["Media Bias", "Politics"]}
+      />
+      <ArticleBlock
+        headline="Wacky Congressional Candidate, Backed by Democrat-Socialist Mayor Zohran Mamdani, Calls for &#x27;Eradication of the West&#x27;"
+        tinyUrl="https://tinyurl.com/37h75jpe"
+        xPostUrl="https://x.com/C3Heditor/status/2071687714982736363"
+        imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-06-29_151046.jpg"
+        tags={["2026 Elections", "Communism-Socialism", "Left-Wing", "Zohran Mamdani"]}
+      />
+      <ArticleBlock
+        headline="Outraged Chicago Democrats Turn on Their Mayor, Brandon Johnson, After He Blames a Deadly, Murderous Weekend on Slavery"
+        tinyUrl="https://tinyurl.com/y9cbnvap"
+        xPostUrl="https://x.com/C3Heditor/status/2071687258281746597"
+        imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-06-29_150618.jpg"
+        tags={["Brandon Johnson", "Chicago", "Violent Crime"]}
+      />
+      <ArticleBlock
+        headline="Democrats Are Furious After Trump Admin Sends Women to Pregnancy Centers for Help &amp; Support"
+        tinyUrl="https://tinyurl.com/njxzbb3f"
+        xPostUrl="https://x.com/C3Heditor/status/2071686265108320691"
+        imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-06-29_145747.jpg"
+        tags={["Culture War", "Politics"]}
+      />
+      <ArticleBlock
+        headline="Supreme Court Packing Calls Increase Among Democrats After SCOTUS Backs U.S.&#x27;s Deportation Power"
+        tinyUrl="https://tinyurl.com/ykewd34t"
+        xPostUrl="https://x.com/C3Heditor/status/2071683779559616637"
+        imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-06-29_145525.jpg"
+        tags={["Immigration", "Judiciary-Judicial"]}
+      />
+      <ArticleBlock
+        headline="A New Poll Suggests Democrats&#x27; Years of Weaponizing Race May Finally Be Backfiring on Them"
+        tinyUrl="https://tinyurl.com/ys2hkpw2"
+        xPostUrl="https://x.com/C3Heditor/status/2071682870439981170"
+        imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-06-29_145130.jpg"
+        tags={["Polling", "Racial Issues"]}
+      />
       </div>
-      <Pagination currentPage={14} totalPages={70} />
+      <Pagination currentPage={14} totalPages={71} />
 
     </div>
   );

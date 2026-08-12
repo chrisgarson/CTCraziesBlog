@@ -2,7 +2,7 @@
 
 import unittest
 
-from safe_batch import ARTICLES_PER_PAGE, assign_pages, combine_batch, declare_tag, rename_tag, render_article, render_search, validate_batch
+from safe_batch import ARTICLES_PER_PAGE, apply_tag_plan, assign_pages, combine_batch, declare_tag, rename_tag, render_article, render_search, validate_batch
 
 
 def article(num: int) -> dict:
@@ -83,6 +83,35 @@ class SafeBatchTests(unittest.TestCase):
         self.assertIn('"num": 20', search)
         block = render_article(item)
         self.assertIn("Headline With &quot;Quoted&quot; Text", block)
+
+    def test_tag_plan_requires_every_batch_num_and_only_approved_tags(self):
+        ledger = {
+            "schemaVersion": 1,
+            "articlesPerPage": ARTICLES_PER_PAGE,
+            "tagMetadata": {"Existing": {"type": "topic", "keywords": []}, "Person": {"type": "person", "keywords": []}},
+            "articles": assign_pages([article(num) for num in range(20, 0, -1)]),
+        }
+        batch = [article(21)]
+        batch[0]["imageName"] = "image.jpg"
+        valid = apply_tag_plan(batch, {"tags": {"21": ["Existing", "Person"]}}, ledger)
+        self.assertEqual(valid[0]["tags"], ["Existing", "Person"])
+        with self.assertRaises(ValueError):
+            apply_tag_plan(batch, {"tags": {"22": ["Existing", "Person"]}}, ledger)
+
+    def test_tag_plan_allows_five_tags_only_for_an_explicitly_approved_num(self):
+        ledger = {
+            "schemaVersion": 1,
+            "articlesPerPage": ARTICLES_PER_PAGE,
+            "tagMetadata": {str(index): {"type": "topic", "keywords": []} for index in range(5)},
+            "articles": assign_pages([article(num) for num in range(20, 0, -1)]),
+        }
+        batch = [article(21)]
+        batch[0]["imageName"] = "image.jpg"
+        tags = [str(index) for index in range(5)]
+        valid = apply_tag_plan(batch, {"tags": {"21": tags}, "allowFiveTagNums": [21]}, ledger)
+        self.assertEqual(valid[0]["tags"], tags)
+        with self.assertRaises(ValueError):
+            apply_tag_plan(batch, {"tags": {"21": tags}}, ledger)
 
 
 if __name__ == "__main__":

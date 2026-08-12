@@ -478,3 +478,10 @@
 ## Topic Tag Rename (August 11, 2026)
 - [x] Rename the active topic tag Lies to Gaslight-Lies while preserving all existing associations
 - [x] Rebuild, verify, and publish the renamed typed tag index
+
+## August 12, 2026 Safeguarded Article Batch
+- [x] Extract and validate the CTC Info workbook and all supplied image files
+- [x] Present and obtain approval for two-to-four existing topic tags per article
+- [x] Create approved person tags, rename Milat Kiros to Melat Kiros, rename Israel to Israel-Jews, and create the approved Seattle topic tag
+- [x] Add approved batch images and apply the canonical 20-article page update
+- [ ] Pass page-order, Search, tag-index, build, and live-deployment verification gates
