@@ -489,4 +489,4 @@
 ## August 12 Topic Tag Updates
 - [x] Validate all Column A source tags and Column B requested updates against the current typed tag index
 - [x] Apply the approved topic-tag updates through the canonical ledger and preserve metadata
-- [ ] Verify, deploy, and document the reduced topic-tag index
+- [x] Verify, deploy, and document the reduced topic-tag index
