@@ -175,8 +175,8 @@ export default function Pagination({ currentPage, totalPages }: PaginationProps)
         </button>
       </form>
 
-      {/* Search link row */}
-      <div style={{ display: 'flex', justifyContent: 'center', marginTop: '14px' }}>
+      {/* Search and tag-browsing links */}
+      <div style={{ display: 'flex', flexWrap: 'wrap', justifyContent: 'center', gap: '10px', marginTop: '14px' }}>
         <a
           href="/search"
           style={{
@@ -193,6 +193,23 @@ export default function Pagination({ currentPage, totalPages }: PaginationProps)
           }}
         >
           🔍 Search All Articles
+        </a>
+        <a
+          href="/tags"
+          style={{
+            display: 'inline-flex',
+            alignItems: 'center',
+            gap: '6px',
+            fontFamily: "'Roboto Slab', serif",
+            fontSize: '14px',
+            color: '#800000',
+            textDecoration: 'none',
+            border: '1px solid #800000',
+            borderRadius: '4px',
+            padding: '5px 14px',
+          }}
+        >
+          Browse Tags
         </a>
       </div>
     </div>
