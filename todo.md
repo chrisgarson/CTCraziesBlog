@@ -526,3 +526,10 @@
 
 ## Browse Tags Bottom Navigation (August 13, 2026)
 - [x] Add and verify a clickable Browse Tags link beside the bottom navigation and search controls on every article page
+
+## August 13, 2026 Safeguarded Article Batch
+- [x] Review the safeguarded workflow and create a non-publishing draft from the supplied workbook and images
+- [x] Declare approved person tags Peggy Flanagan and Joe Scarborough plus topic tags Science and 2nd Amendment
+- [x] Apply the user-approved August 13 per-article tag assignments and modifications
+- [x] Apply the approved 20-article canonical ledger update and retain the page-order safeguards
+- [ ] Verify, publish, and conduct the agreed post-publication sampling audit
