@@ -532,4 +532,8 @@
 - [x] Declare approved person tags Peggy Flanagan and Joe Scarborough plus topic tags Science and 2nd Amendment
 - [x] Apply the user-approved August 13 per-article tag assignments and modifications
 - [x] Apply the approved 20-article canonical ledger update and retain the page-order safeguards
-- [ ] Verify, publish, and conduct the agreed post-publication sampling audit
+- [x] Verify, publish, and conduct the agreed post-publication sampling audit
+
+## August 13 Fresh 100-Article Sampling Audit
+- [x] Create a new reproducible 100-record sample that excludes all NUMs used in the August 12 audit
+- [x] Compare the fresh sample's NUM, headline, and assigned page with the live CTCrazies site and document the results
