@@ -525,4 +525,4 @@
 - [x] Verify GitHub and live-site integrity after the cleanup
 
 ## Browse Tags Bottom Navigation (August 13, 2026)
-- [ ] Add and verify a clickable Browse Tags link beside the bottom navigation and search controls on every article page
+- [x] Add and verify a clickable Browse Tags link beside the bottom navigation and search controls on every article page
