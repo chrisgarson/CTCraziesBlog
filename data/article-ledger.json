@@ -1263,11 +1263,9 @@
     },
     "Virtue Signaling": {
       "type": "topic",
-      "keywords": []
-    },
-    "Virtue-Signaling": {
-      "type": "topic",
-      "keywords": []
+      "keywords": [
+        "Virtue-Signaling"
+      ]
     },
     "Wajahat Ali": {
       "type": "person",
@@ -1787,7 +1785,7 @@
         "Hypocrisy",
         "Racial Issues",
         "Sheldon Whitehouse",
-        "Virtue-Signaling"
+        "Virtue Signaling"
       ],
       "batchDate": "2026-08-07",
       "linkOrigin": "source-url",

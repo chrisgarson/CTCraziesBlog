@@ -1,0 +1,13 @@
+{
+  "typeChanges": [],
+  "renames": [],
+  "merges": [
+    {
+      "sources": [
+        "Virtue-Signaling"
+      ],
+      "target": "Virtue Signaling",
+      "type": "topic"
+    }
+  ]
+}

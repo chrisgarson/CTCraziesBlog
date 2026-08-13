@@ -61,7 +61,7 @@ export default function Page2() {
         tinyUrl="https://townhall.com/news/amy-curtis/2026/08/02/sheldon-whitehouse-dhs-used-white-supremacist-materials-n2680512"
         xPostUrl="https://x.com/C3Heditor/status/2085808703941361758"
         imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-08-07_142240.jpg"
-        tags={["Hypocrisy", "Racial Issues", "Sheldon Whitehouse", "Virtue-Signaling"]}
+        tags={["Hypocrisy", "Racial Issues", "Sheldon Whitehouse", "Virtue Signaling"]}
       />
       <ArticleBlock
         headline="Michigan&#x27;s Black Communities Are Reminded of Democrat Bigotry As Muslim-Dem Senate Candidate Abdul El-Sayed Exposes His Own Wife As a Bigot"

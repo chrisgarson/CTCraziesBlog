@@ -490,3 +490,20 @@
 - [x] Validate all Column A source tags and Column B requested updates against the current typed tag index
 - [x] Apply the approved topic-tag updates through the canonical ledger and preserve metadata
 - [x] Verify, deploy, and document the reduced topic-tag index
+
+## Current Typed Tag CSV Exports (August 12, 2026)
+- [x] Generate separate current person-tag and topic-tag CSV files from the typed tag index
+
+## 100-Article Spreadsheet-to-Live-Site Sampling Audit (August 12, 2026)
+- [x] Randomly sample 100 supplied article records and verify NUM, headline, and visitor-facing page number against CTCrazies.com
+- [x] Validate the sample results and deliver an auditable report
+
+## Batch Process Script Mapping (August 12, 2026)
+- [x] Map each supplied batch-to-publication process step to the active CTCrazies script or command
+
+## Landscape Script-Mapping PDF (August 12, 2026)
+- [x] Recreate the process-to-script mapping PDF in landscape orientation with a readable output column
+
+## Virtue Signaling Topic-Tag Consolidation (August 12, 2026)
+- [x] Validate and merge Virtue-Signaling into Virtue Signaling through the canonical ledger
+- [ ] Verify and publish the Virtue Signaling topic-tag consolidation

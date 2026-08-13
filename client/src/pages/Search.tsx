@@ -405,7 +405,7 @@ const articles = [
         "Hypocrisy",
         "Racial Issues",
         "Sheldon Whitehouse",
-        "Virtue-Signaling"
+        "Virtue Signaling"
     ],
     "page": 2,
     "batchDate": "2026-08-07"
