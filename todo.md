@@ -537,3 +537,6 @@
 ## August 13 Fresh 100-Article Sampling Audit
 - [x] Create a new reproducible 100-record sample that excludes all NUMs used in the August 12 audit
 - [x] Compare the fresh sample's NUM, headline, and assigned page with the live CTCrazies site and document the results
+
+## Headline Sampling-Audit Remediation Threshold
+- [x] Record the approved rule that headline corrections are not addressed when the sampled workbook-to-site match rate is at least 90%

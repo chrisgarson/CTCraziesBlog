@@ -41,3 +41,7 @@ The validator rejects a batch that is not a positive multiple of 20, whose NUMs 
 The apply step recalculates every visitor-facing page from descending NUM order. The shift equals `incoming article count ÷ 20`: a 20-article batch shifts existing content by one page; a 40-article batch shifts it by two pages.
 
 `verify_safe_site.py` is a publication gate. It must pass before GitHub commit or Cloudflare deployment. It verifies page sizes and order, Search page assignments, both typed tag-index copies, retained tag metadata/keywords, and all page/tag routes.
+
+## Post-publication sampled headline-audit policy
+
+When an authoritative complete-list workbook is supplied after publication, perform the reproducible spreadsheet-to-live-site sampling audit and report all NUM, page, and headline findings. A sampled headline match rate of **90% or greater** does not require corrective action or a correction recommendation. Differences must still be documented for the user, but no headline change is made unless the user separately directs it. If the sampled headline match rate is below 90%, prepare the discrepancy list for user review before making any correction.
