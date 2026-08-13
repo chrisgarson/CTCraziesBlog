@@ -109,3 +109,6 @@ temp/
 # Webdev artifacts (checkpoint zips, migrations, etc.)
 .webdev/
 article-images/
+
+# Local project configuration: never commit
+.project-config.json
