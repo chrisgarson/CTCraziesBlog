@@ -507,3 +507,19 @@
 ## Virtue Signaling Topic-Tag Consolidation (August 12, 2026)
 - [x] Validate and merge Virtue-Signaling into Virtue Signaling through the canonical ledger
 - [x] Verify and publish the Virtue Signaling topic-tag consolidation
+
+## GitHub Repository Visibility Assessment (August 13, 2026)
+- [x] Assess whether the public CTCrazies repository should be made private, considering exposed content and operational dependencies
+
+## AWS Secret-Scanning Alert Assessment (August 13, 2026)
+- [x] Verify the reported public AWS credential exposure scope without disclosing credentials
+- [x] Provide containment and cleanup recommendations for the reported AWS alerts
+
+## Project Configuration Cleanup Impact Review (August 13, 2026)
+- [x] Prepare and verify the expected impact of removing the exposed project configuration file from repository history without making any remediation changes
+
+## Project Configuration History Cleanup (August 13, 2026)
+- [x] Create and verify an isolated recovery copy before history cleanup
+- [x] Remove the exposed project configuration file from the cleaned repository history and add an ignore safeguard
+- [x] Force-push only the verified cleaned history to GitHub main
+- [ ] Verify GitHub and live-site integrity after the cleanup
