@@ -44,4 +44,6 @@ The apply step recalculates every visitor-facing page from descending NUM order.
 
 ## Post-publication sampled headline-audit policy
 
-When an authoritative complete-list workbook is supplied after publication, perform the reproducible spreadsheet-to-live-site sampling audit and report all NUM, page, and headline findings. A sampled headline match rate of **90% or greater** does not require corrective action or a correction recommendation. Differences must still be documented for the user, but no headline change is made unless the user separately directs it. If the sampled headline match rate is below 90%, prepare the discrepancy list for user review before making any correction.
+When an authoritative complete-list workbook is supplied after publication, perform the reproducible spreadsheet-to-live-site sampling audit and report all NUM, page, and headline findings. Review headline differences **one title at a time**, not as an aggregate sample percentage. Ignore differences limited to punctuation, quotation-mark or apostrophe style, spacing, capitalization, and other minor wording variations that do not make the two titles clearly poor matches.
+
+Flag a title for user review only when the workbook and live versions are clearly not a good match—generally when substantive additions, omissions, or replacements appear to exceed roughly 10% of that individual title. This is a review flag, not an automatic correction rule: no headline change is made unless the user separately directs it.

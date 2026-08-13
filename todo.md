@@ -540,3 +540,6 @@
 
 ## Headline Sampling-Audit Remediation Threshold
 - [x] Record the approved rule that headline corrections are not addressed when the sampled workbook-to-site match rate is at least 90%
+
+## Per-Title Headline Audit Review Rule
+- [x] Replace the aggregate match-rate rule with the clarified per-title substantive-match review standard
