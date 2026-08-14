@@ -614,6 +614,24 @@ def declare_tag(ledger: dict[str, Any], tag: str, tag_type: str, keywords: list[
     return ledger
 
 
+def replace_tag_keywords(ledger: dict[str, Any], tag: str, tag_type: str, keywords: list[str]) -> dict[str, Any]:
+    """Replace one reviewed tag's keyword list without altering its type or article associations."""
+    tag = tag.strip()
+    if tag not in ledger["tagMetadata"]:
+        raise ValueError(f"Active tag {tag!r} does not exist for keyword replacement")
+    if ledger["tagMetadata"][tag]["type"] != tag_type:
+        raise ValueError(f"Active tag {tag!r} has incompatible type for keyword replacement")
+    cleaned: list[str] = []
+    for keyword in keywords:
+        value = keyword.strip()
+        if not value:
+            raise ValueError(f"Tag {tag!r} has a blank replacement keyword")
+        if value not in cleaned:
+            cleaned.append(value)
+    ledger["tagMetadata"][tag]["keywords"] = cleaned
+    return ledger
+
+
 def declare_tag_command(args: argparse.Namespace) -> None:
     """Record a user-approved new person or topic tag before it can be used in a batch."""
     ledger_path = Path(args.ledger)
@@ -685,6 +703,8 @@ def apply_tag_update_plan(ledger: dict[str, Any], plan: dict[str, Any]) -> dict[
     updated = copy.deepcopy(ledger)
     for item in plan.get("typeChanges", []):
         set_tag_type(updated, item["tag"], item["type"])
+    for item in plan.get("keywordReplacements", []):
+        replace_tag_keywords(updated, item["tag"], item["type"], item.get("keywords", []))
     for item in plan.get("keywordAdditions", []):
         tag = item["tag"].strip()
         tag_type = item["type"]

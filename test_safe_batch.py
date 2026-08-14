@@ -108,6 +108,21 @@ class SafeBatchTests(unittest.TestCase):
         })
         self.assertEqual(updated["tagMetadata"]["Jane Doe"], {"type": "person", "keywords": ["Jane", "Doe", "Governor Doe"]})
 
+    def test_tag_update_plan_replaces_keywords_without_changing_articles(self):
+        ledger = {
+            "schemaVersion": 1,
+            "articlesPerPage": ARTICLES_PER_PAGE,
+            "tagMetadata": {"Left-Wing": {"type": "topic", "keywords": ["Old Keyword", "Retired Alias"]}},
+            "articles": [article(1)],
+        }
+        ledger["articles"][0]["tags"] = ["Left-Wing"]
+        updated = apply_tag_update_plan(ledger, {
+            "keywordReplacements": [{"tag": "Left-Wing", "type": "topic", "keywords": ["Democrat", "Leftism", "Democrat"]}],
+        })
+        self.assertEqual(updated["tagMetadata"]["Left-Wing"], {"type": "topic", "keywords": ["Democrat", "Leftism"]})
+        self.assertEqual(updated["articles"][0]["tags"], ["Left-Wing"])
+        self.assertEqual(ledger["tagMetadata"]["Left-Wing"]["keywords"], ["Old Keyword", "Retired Alias"])
+
     def test_generated_search_records_retain_num_and_rendered_quotes_are_valid_jsx(self):
         item = article(20)
         item["headline"] = 'Headline With "Quoted" Text'
