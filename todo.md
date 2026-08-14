@@ -553,4 +553,5 @@
 
 ## Eighteen Topic-Tag Keyword Updates
 - [x] Create approved topic tags Assassination and Non-Profit, then add the supplied keywords to all eighteen specified topic tags
+- [x] Update the tag browser to refresh the typed tag index after deployment
 - [ ] Verify and publish the synchronized typed tag-index update

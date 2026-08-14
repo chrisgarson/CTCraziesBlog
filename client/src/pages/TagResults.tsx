@@ -31,7 +31,9 @@ export default function TagResults() {
   const [error, setError] = useState('');
 
   useEffect(() => {
-    fetch('/tag-index.json')
+    // The tag index changes independently of the compiled JavaScript bundle.
+    // Bypass browser caching so a newly deployed tag update is visible immediately.
+    fetch('/tag-index.json', { cache: 'no-store' })
       .then((r) => {
         if (!r.ok) throw new Error('Failed to load tag index');
         return r.json();
