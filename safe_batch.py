@@ -685,6 +685,12 @@ def apply_tag_update_plan(ledger: dict[str, Any], plan: dict[str, Any]) -> dict[
     updated = copy.deepcopy(ledger)
     for item in plan.get("typeChanges", []):
         set_tag_type(updated, item["tag"], item["type"])
+    for item in plan.get("keywordAdditions", []):
+        tag = item["tag"].strip()
+        tag_type = item["type"]
+        if tag not in updated["tagMetadata"]:
+            raise ValueError(f"Active tag {tag!r} does not exist for keyword additions")
+        declare_tag(updated, tag, tag_type, item.get("keywords", []))
     for item in plan.get("renames", []):
         rename_tag(updated, item["from"], item["to"])
     for item in plan.get("merges", []):

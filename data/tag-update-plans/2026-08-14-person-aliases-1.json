@@ -1,0 +1,543 @@
+{
+  "keywordAdditions": [
+    {
+      "tag": "Abdul El-Sayed",
+      "type": "person",
+      "keywords": [
+        "El-Sayed"
+      ]
+    },
+    {
+      "tag": "Adelita Grijalva",
+      "type": "person",
+      "keywords": [
+        "Grijalva"
+      ]
+    },
+    {
+      "tag": "Alexi Giannoulias",
+      "type": "person",
+      "keywords": [
+        "Giannoulias"
+      ]
+    },
+    {
+      "tag": "Ali Velshi",
+      "type": "person",
+      "keywords": [
+        "Velshi"
+      ]
+    },
+    {
+      "tag": "Amy Acton",
+      "type": "person",
+      "keywords": [
+        "Acton"
+      ]
+    },
+    {
+      "tag": "Andrew Gillum",
+      "type": "person",
+      "keywords": [
+        "Gillum"
+      ]
+    },
+    {
+      "tag": "Becca Balint",
+      "type": "person",
+      "keywords": [
+        "Balint"
+      ]
+    },
+    {
+      "tag": "Bill de Blasio",
+      "type": "person",
+      "keywords": [
+        "de Blasio"
+      ]
+    },
+    {
+      "tag": "Bill Gates",
+      "type": "person",
+      "keywords": [
+        "Gates"
+      ]
+    },
+    {
+      "tag": "Bill Maher",
+      "type": "person",
+      "keywords": [
+        "Maher"
+      ]
+    },
+    {
+      "tag": "Claire Valdez",
+      "type": "person",
+      "keywords": [
+        "Valdez"
+      ]
+    },
+    {
+      "tag": "Dan Osborn",
+      "type": "person",
+      "keywords": [
+        "Osborn"
+      ]
+    },
+    {
+      "tag": "Darializa Avila Chevalier",
+      "type": "person",
+      "keywords": [
+        "Avila Chevalier",
+        "Chevalier"
+      ]
+    },
+    {
+      "tag": "David Crowley",
+      "type": "person",
+      "keywords": [
+        "Crowley"
+      ]
+    },
+    {
+      "tag": "David Hogg",
+      "type": "person",
+      "keywords": [
+        "Hogg"
+      ]
+    },
+    {
+      "tag": "David Jolly",
+      "type": "person",
+      "keywords": [
+        "Jolly"
+      ]
+    },
+    {
+      "tag": "Don Lemon",
+      "type": "person",
+      "keywords": [
+        "Lemon"
+      ]
+    },
+    {
+      "tag": "Dr. Anthony Fauci",
+      "type": "person",
+      "keywords": [
+        "Anthony Fauci",
+        "Fauci"
+      ]
+    },
+    {
+      "tag": "Elaine Luria",
+      "type": "person",
+      "keywords": [
+        "Luria"
+      ]
+    },
+    {
+      "tag": "Enrique Sanchez",
+      "type": "person",
+      "keywords": [
+        "Sanchez"
+      ]
+    },
+    {
+      "tag": "Eric Swalwell",
+      "type": "person",
+      "keywords": [
+        "Swalwell"
+      ]
+    },
+    {
+      "tag": "Fani Willis",
+      "type": "person",
+      "keywords": [
+        "Willis"
+      ]
+    },
+    {
+      "tag": "Fareed Zakaria",
+      "type": "person",
+      "keywords": [
+        "Zakaria"
+      ]
+    },
+    {
+      "tag": "Francesca Hong",
+      "type": "person",
+      "keywords": [
+        "Hong"
+      ]
+    },
+    {
+      "tag": "Gabe Vasquez",
+      "type": "person",
+      "keywords": [
+        "Vasquez"
+      ]
+    },
+    {
+      "tag": "George Soros",
+      "type": "person",
+      "keywords": [
+        "Soros"
+      ]
+    },
+    {
+      "tag": "Graham Platner",
+      "type": "person",
+      "keywords": [
+        "Platner"
+      ]
+    },
+    {
+      "tag": "Hakeem Jeffries",
+      "type": "person",
+      "keywords": [
+        "Jeffries"
+      ]
+    },
+    {
+      "tag": "Harry Enten",
+      "type": "person",
+      "keywords": [
+        "Enten"
+      ]
+    },
+    {
+      "tag": "Hasan Piker",
+      "type": "person",
+      "keywords": [
+        "Piker"
+      ]
+    },
+    {
+      "tag": "Hunter Biden",
+      "type": "person",
+      "keywords": [
+        "Hunter"
+      ]
+    },
+    {
+      "tag": "Ilhan Omar",
+      "type": "person",
+      "keywords": [
+        "Ilhan",
+        "Omar"
+      ]
+    },
+    {
+      "tag": "Israel Flores Ortiz",
+      "type": "person",
+      "keywords": [
+        "Flores Ortiz",
+        "Ortiz"
+      ]
+    },
+    {
+      "tag": "Jacob Frey",
+      "type": "person",
+      "keywords": [
+        "Frey"
+      ]
+    },
+    {
+      "tag": "James Boasberg",
+      "type": "person",
+      "keywords": [
+        "Boasberg"
+      ]
+    },
+    {
+      "tag": "James Carville",
+      "type": "person",
+      "keywords": [
+        "Carville"
+      ]
+    },
+    {
+      "tag": "James Talarico",
+      "type": "person",
+      "keywords": [
+        "Talarico"
+      ]
+    },
+    {
+      "tag": "Jasmine Crockett",
+      "type": "person",
+      "keywords": [
+        "Crockett"
+      ]
+    },
+    {
+      "tag": "Jen Psaki",
+      "type": "person",
+      "keywords": [
+        "Psaki"
+      ]
+    },
+    {
+      "tag": "Jim Clyburn",
+      "type": "person",
+      "keywords": [
+        "Clyburn"
+      ]
+    },
+    {
+      "tag": "Jimmy Kimmel",
+      "type": "person",
+      "keywords": [
+        "Kimmel"
+      ]
+    },
+    {
+      "tag": "JoAnna Mendoza",
+      "type": "person",
+      "keywords": [
+        "Mendoza"
+      ]
+    },
+    {
+      "tag": "Jocelyn Benson",
+      "type": "person",
+      "keywords": [
+        "Benson"
+      ]
+    },
+    {
+      "tag": "Josh Turek",
+      "type": "person",
+      "keywords": [
+        "Turek"
+      ]
+    },
+    {
+      "tag": "Joy Behar",
+      "type": "person",
+      "keywords": [
+        "Behar"
+      ]
+    },
+    {
+      "tag": "Kathy Hochul",
+      "type": "person",
+      "keywords": [
+        "Hochul",
+        "Governor Hochul"
+      ]
+    },
+    {
+      "tag": "Keith Ellison",
+      "type": "person",
+      "keywords": [
+        "Ellison"
+      ]
+    },
+    {
+      "tag": "Mark Hamill",
+      "type": "person",
+      "keywords": [
+        "Hamill"
+      ]
+    },
+    {
+      "tag": "Mary Peltola",
+      "type": "person",
+      "keywords": [
+        "Peltola"
+      ]
+    },
+    {
+      "tag": "Maxine Waters",
+      "type": "person",
+      "keywords": [
+        "Waters"
+      ]
+    },
+    {
+      "tag": "Melat Kiros",
+      "type": "person",
+      "keywords": [
+        "Kiros"
+      ]
+    },
+    {
+      "tag": "Merrick Garland",
+      "type": "person",
+      "keywords": [
+        "Garland"
+      ]
+    },
+    {
+      "tag": "Nate Willems",
+      "type": "person",
+      "keywords": [
+        "Willems"
+      ]
+    },
+    {
+      "tag": "Nicholas Kristof",
+      "type": "person",
+      "keywords": [
+        "Kristof"
+      ]
+    },
+    {
+      "tag": "Nikole Hannah-Jones",
+      "type": "person",
+      "keywords": [
+        "Hannah-Jones"
+      ]
+    },
+    {
+      "tag": "Norm Eisen",
+      "type": "person",
+      "keywords": [
+        "Eisen"
+      ]
+    },
+    {
+      "tag": "Paige Cognetti",
+      "type": "person",
+      "keywords": [
+        "Cognetti"
+      ]
+    },
+    {
+      "tag": "Peggy Flanagan",
+      "type": "person",
+      "keywords": [
+        "Flanagan"
+      ]
+    },
+    {
+      "tag": "Pete Buttigieg",
+      "type": "person",
+      "keywords": [
+        "Buttigieg"
+      ]
+    },
+    {
+      "tag": "Pramila Jayapal",
+      "type": "person",
+      "keywords": [
+        "Jayapal"
+      ]
+    },
+    {
+      "tag": "Rahm Emanuel",
+      "type": "person",
+      "keywords": [
+        "Emanuel"
+      ]
+    },
+    {
+      "tag": "Rashida Tlaib",
+      "type": "person",
+      "keywords": [
+        "Tlaib"
+      ]
+    },
+    {
+      "tag": "Ro Khanna",
+      "type": "person",
+      "keywords": [
+        "Khanna"
+      ]
+    },
+    {
+      "tag": "Rob Bonta",
+      "type": "person",
+      "keywords": [
+        "Bonta"
+      ]
+    },
+    {
+      "tag": "Sarah Trone Garriott",
+      "type": "person",
+      "keywords": [
+        "Trone Garriott"
+      ]
+    },
+    {
+      "tag": "Scott Wiener",
+      "type": "person",
+      "keywords": [
+        "Wiener"
+      ]
+    },
+    {
+      "tag": "Seth Moulton",
+      "type": "person",
+      "keywords": [
+        "Moulton"
+      ]
+    },
+    {
+      "tag": "Shri Thanedar",
+      "type": "person",
+      "keywords": [
+        "Thanedar"
+      ]
+    },
+    {
+      "tag": "Stacey Abrams",
+      "type": "person",
+      "keywords": [
+        "Abrams"
+      ]
+    },
+    {
+      "tag": "Sunny Hostin",
+      "type": "person",
+      "keywords": [
+        "Hostin"
+      ]
+    },
+    {
+      "tag": "Tim Walz",
+      "type": "person",
+      "keywords": [
+        "Walz",
+        "Governor Tim Walz"
+      ]
+    },
+    {
+      "tag": "Troy Jackson",
+      "type": "person",
+      "keywords": [
+        "Jackson"
+      ]
+    },
+    {
+      "tag": "Valerie Jarrett",
+      "type": "person",
+      "keywords": [
+        "Jarrett"
+      ]
+    },
+    {
+      "tag": "Whoopi Goldberg",
+      "type": "person",
+      "keywords": [
+        "Goldberg"
+      ]
+    },
+    {
+      "tag": "Xavier Becerra",
+      "type": "person",
+      "keywords": [
+        "Becerra"
+      ]
+    },
+    {
+      "tag": "Zohran Mamdani",
+      "type": "person",
+      "keywords": [
+        "Mamdani",
+        "Mayor Mamdani"
+      ]
+    }
+  ]
+}

@@ -42,7 +42,9 @@
     },
     "Abdul El-Sayed": {
       "type": "person",
-      "keywords": []
+      "keywords": [
+        "El-Sayed"
+      ]
     },
     "Abdul Saleh": {
       "type": "person",
@@ -66,7 +68,9 @@
     },
     "Adelita Grijalva": {
       "type": "person",
-      "keywords": []
+      "keywords": [
+        "Grijalva"
+      ]
     },
     "Affordability": {
       "type": "topic",
@@ -98,11 +102,15 @@
     },
     "Alexi Giannoulias": {
       "type": "person",
-      "keywords": []
+      "keywords": [
+        "Giannoulias"
+      ]
     },
     "Ali Velshi": {
       "type": "person",
-      "keywords": []
+      "keywords": [
+        "Velshi"
+      ]
     },
     "Alternative & Social Media": {
       "type": "topic",
@@ -110,11 +118,15 @@
     },
     "Amy Acton": {
       "type": "person",
-      "keywords": []
+      "keywords": [
+        "Acton"
+      ]
     },
     "Andrew Gillum": {
       "type": "person",
-      "keywords": []
+      "keywords": [
+        "Gillum"
+      ]
     },
     "Andy Beshear": {
       "type": "person",
@@ -134,7 +146,9 @@
     },
     "Becca Balint": {
       "type": "person",
-      "keywords": []
+      "keywords": [
+        "Balint"
+      ]
     },
     "Bernie Sanders": {
       "type": "person",
@@ -146,15 +160,21 @@
     },
     "Bill de Blasio": {
       "type": "person",
-      "keywords": []
+      "keywords": [
+        "de Blasio"
+      ]
     },
     "Bill Gates": {
       "type": "person",
-      "keywords": []
+      "keywords": [
+        "Gates"
+      ]
     },
     "Bill Maher": {
       "type": "person",
-      "keywords": []
+      "keywords": [
+        "Maher"
+      ]
     },
     "Blue States": {
       "type": "topic",
@@ -265,7 +285,9 @@
     },
     "Claire Valdez": {
       "type": "person",
-      "keywords": []
+      "keywords": [
+        "Valdez"
+      ]
     },
     "Climate Change": {
       "type": "topic",
@@ -364,7 +386,9 @@
     },
     "Dan Osborn": {
       "type": "person",
-      "keywords": []
+      "keywords": [
+        "Osborn"
+      ]
     },
     "Dana Nessel": {
       "type": "person",
@@ -376,11 +400,16 @@
     },
     "Darializa Avila Chevalier": {
       "type": "person",
-      "keywords": []
+      "keywords": [
+        "Avila Chevalier",
+        "Chevalier"
+      ]
     },
     "David Jolly": {
       "type": "person",
-      "keywords": []
+      "keywords": [
+        "Jolly"
+      ]
     },
     "David Paterson": {
       "type": "person",
@@ -400,11 +429,16 @@
     },
     "Don Lemon": {
       "type": "person",
-      "keywords": []
+      "keywords": [
+        "Lemon"
+      ]
     },
     "Dr. Anthony Fauci": {
       "type": "person",
-      "keywords": []
+      "keywords": [
+        "Anthony Fauci",
+        "Fauci"
+      ]
     },
     "Drug Crime": {
       "type": "topic",
@@ -422,7 +456,9 @@
     },
     "Elaine Luria": {
       "type": "person",
-      "keywords": []
+      "keywords": [
+        "Luria"
+      ]
     },
     "Election Fraud": {
       "type": "topic",
@@ -484,7 +520,9 @@
     },
     "Enrique Sanchez": {
       "type": "person",
-      "keywords": []
+      "keywords": [
+        "Sanchez"
+      ]
     },
     "Entertainment Industry": {
       "type": "topic",
@@ -499,7 +537,9 @@
     },
     "Eric Swalwell": {
       "type": "person",
-      "keywords": []
+      "keywords": [
+        "Swalwell"
+      ]
     },
     "Ethics-Morals": {
       "type": "topic",
@@ -514,11 +554,15 @@
     },
     "Fani Willis": {
       "type": "person",
-      "keywords": []
+      "keywords": [
+        "Willis"
+      ]
     },
     "Fareed Zakaria": {
       "type": "person",
-      "keywords": []
+      "keywords": [
+        "Zakaria"
+      ]
     },
     "FBI": {
       "type": "topic",
@@ -538,11 +582,15 @@
     },
     "Francesca Hong": {
       "type": "person",
-      "keywords": []
+      "keywords": [
+        "Hong"
+      ]
     },
     "Gabe Vasquez": {
       "type": "person",
-      "keywords": []
+      "keywords": [
+        "Vasquez"
+      ]
     },
     "Gavin Newsom": {
       "type": "person",
@@ -550,7 +598,9 @@
     },
     "George Soros": {
       "type": "person",
-      "keywords": []
+      "keywords": [
+        "Soros"
+      ]
     },
     "Georgia": {
       "type": "topic",
@@ -570,7 +620,9 @@
     },
     "Graham Platner": {
       "type": "person",
-      "keywords": []
+      "keywords": [
+        "Platner"
+      ]
     },
     "Gretchen Whitmer": {
       "type": "person",
@@ -582,7 +634,9 @@
     },
     "Hakeem Jeffries": {
       "type": "person",
-      "keywords": []
+      "keywords": [
+        "Jeffries"
+      ]
     },
     "Haley Stevens": {
       "type": "person",
@@ -590,11 +644,15 @@
     },
     "Harry Enten": {
       "type": "person",
-      "keywords": []
+      "keywords": [
+        "Enten"
+      ]
     },
     "Hasan Piker": {
       "type": "person",
-      "keywords": []
+      "keywords": [
+        "Piker"
+      ]
     },
     "Hawaii": {
       "type": "topic",
@@ -627,7 +685,9 @@
     },
     "Hunter Biden": {
       "type": "person",
-      "keywords": []
+      "keywords": [
+        "Hunter"
+      ]
     },
     "Hypocrisy": {
       "type": "topic",
@@ -639,7 +699,10 @@
     },
     "Ilhan Omar": {
       "type": "person",
-      "keywords": []
+      "keywords": [
+        "Ilhan",
+        "Omar"
+      ]
     },
     "Illinois": {
       "type": "topic",
@@ -704,23 +767,34 @@
     },
     "Israel Flores Ortiz": {
       "type": "person",
-      "keywords": []
+      "keywords": [
+        "Flores Ortiz",
+        "Ortiz"
+      ]
     },
     "Jacob Frey": {
       "type": "person",
-      "keywords": []
+      "keywords": [
+        "Frey"
+      ]
     },
     "James Boasberg": {
       "type": "person",
-      "keywords": []
+      "keywords": [
+        "Boasberg"
+      ]
     },
     "James Carville": {
       "type": "person",
-      "keywords": []
+      "keywords": [
+        "Carville"
+      ]
     },
     "James Talarico": {
       "type": "person",
-      "keywords": []
+      "keywords": [
+        "Talarico"
+      ]
     },
     "Janeese Lewis George": {
       "type": "person",
@@ -736,7 +810,9 @@
     },
     "Jasmine Crockett": {
       "type": "person",
-      "keywords": []
+      "keywords": [
+        "Crockett"
+      ]
     },
     "JB Pritzker": {
       "type": "person",
@@ -752,7 +828,9 @@
     },
     "Jen Psaki": {
       "type": "person",
-      "keywords": []
+      "keywords": [
+        "Psaki"
+      ]
     },
     "Jennifer Welch": {
       "type": "person",
@@ -764,7 +842,9 @@
     },
     "Jim Clyburn": {
       "type": "person",
-      "keywords": []
+      "keywords": [
+        "Clyburn"
+      ]
     },
     "Jimmy Gomez": {
       "type": "person",
@@ -772,15 +852,21 @@
     },
     "Jimmy Kimmel": {
       "type": "person",
-      "keywords": []
+      "keywords": [
+        "Kimmel"
+      ]
     },
     "JoAnna Mendoza": {
       "type": "person",
-      "keywords": []
+      "keywords": [
+        "Mendoza"
+      ]
     },
     "Jocelyn Benson": {
       "type": "person",
-      "keywords": []
+      "keywords": [
+        "Benson"
+      ]
     },
     "Joe Biden": {
       "type": "person",
@@ -808,11 +894,15 @@
     },
     "Josh Turek": {
       "type": "person",
-      "keywords": []
+      "keywords": [
+        "Turek"
+      ]
     },
     "Joy Behar": {
       "type": "person",
-      "keywords": []
+      "keywords": [
+        "Behar"
+      ]
     },
     "Joy Reid": {
       "type": "person",
@@ -875,7 +965,8 @@
     "Kathy Hochul": {
       "type": "person",
       "keywords": [
-        "Governor Hochul"
+        "Governor Hochul",
+        "Hochul"
       ]
     },
     "Katie Porter": {
@@ -884,7 +975,9 @@
     },
     "Keith Ellison": {
       "type": "person",
-      "keywords": []
+      "keywords": [
+        "Ellison"
+      ]
     },
     "Ken Martin": {
       "type": "person",
@@ -986,7 +1079,9 @@
     },
     "Mark Hamill": {
       "type": "person",
-      "keywords": []
+      "keywords": [
+        "Hamill"
+      ]
     },
     "Mark Kelly": {
       "type": "person",
@@ -994,7 +1089,9 @@
     },
     "Mary Peltola": {
       "type": "person",
-      "keywords": []
+      "keywords": [
+        "Peltola"
+      ]
     },
     "Maryland": {
       "type": "topic",
@@ -1006,7 +1103,9 @@
     },
     "Maxine Waters": {
       "type": "person",
-      "keywords": []
+      "keywords": [
+        "Waters"
+      ]
     },
     "Mental Health": {
       "type": "topic",
@@ -1014,7 +1113,9 @@
     },
     "Merrick Garland": {
       "type": "person",
-      "keywords": []
+      "keywords": [
+        "Garland"
+      ]
     },
     "Mia Farrow": {
       "type": "person",
@@ -1050,7 +1151,9 @@
     },
     "Nate Willems": {
       "type": "person",
-      "keywords": []
+      "keywords": [
+        "Willems"
+      ]
     },
     "National Security": {
       "type": "topic",
@@ -1080,15 +1183,21 @@
     },
     "Nicholas Kristof": {
       "type": "person",
-      "keywords": []
+      "keywords": [
+        "Kristof"
+      ]
     },
     "Nikole Hannah-Jones": {
       "type": "person",
-      "keywords": []
+      "keywords": [
+        "Hannah-Jones"
+      ]
     },
     "Norm Eisen": {
       "type": "person",
-      "keywords": []
+      "keywords": [
+        "Eisen"
+      ]
     },
     "North Carolina": {
       "type": "topic",
@@ -1132,7 +1241,9 @@
     },
     "Paige Cognetti": {
       "type": "person",
-      "keywords": []
+      "keywords": [
+        "Cognetti"
+      ]
     },
     "Pandering": {
       "type": "topic",
@@ -1148,7 +1259,9 @@
     },
     "Pete Buttigieg": {
       "type": "person",
-      "keywords": []
+      "keywords": [
+        "Buttigieg"
+      ]
     },
     "Philadelphia": {
       "type": "topic",
@@ -1225,7 +1338,9 @@
     },
     "Pramila Jayapal": {
       "type": "person",
-      "keywords": []
+      "keywords": [
+        "Jayapal"
+      ]
     },
     "Public Safety": {
       "type": "topic",
@@ -1246,7 +1361,9 @@
     },
     "Rahm Emanuel": {
       "type": "person",
-      "keywords": []
+      "keywords": [
+        "Emanuel"
+      ]
     },
     "Raphael Warnock": {
       "type": "person",
@@ -1254,7 +1371,9 @@
     },
     "Rashida Tlaib": {
       "type": "person",
-      "keywords": []
+      "keywords": [
+        "Tlaib"
+      ]
     },
     "Reid Hoffman": {
       "type": "person",
@@ -1278,11 +1397,15 @@
     },
     "Ro Khanna": {
       "type": "person",
-      "keywords": []
+      "keywords": [
+        "Khanna"
+      ]
     },
     "Rob Bonta": {
       "type": "person",
-      "keywords": []
+      "keywords": [
+        "Bonta"
+      ]
     },
     "Robert De Niro": {
       "type": "person",
@@ -1306,11 +1429,15 @@
     },
     "Sarah Trone Garriott": {
       "type": "person",
-      "keywords": []
+      "keywords": [
+        "Trone Garriott"
+      ]
     },
     "Scott Wiener": {
       "type": "person",
-      "keywords": []
+      "keywords": [
+        "Wiener"
+      ]
     },
     "Senator Mark Warner": {
       "type": "person",
@@ -1318,7 +1445,9 @@
     },
     "Seth Moulton": {
       "type": "person",
-      "keywords": []
+      "keywords": [
+        "Moulton"
+      ]
     },
     "Sex Crimes": {
       "type": "topic",
@@ -1342,7 +1471,9 @@
     },
     "Shri Thanedar": {
       "type": "person",
-      "keywords": []
+      "keywords": [
+        "Thanedar"
+      ]
     },
     "Silicon Valley": {
       "type": "topic",
@@ -1366,7 +1497,9 @@
     },
     "Stacey Abrams": {
       "type": "person",
-      "keywords": []
+      "keywords": [
+        "Abrams"
+      ]
     },
     "Stacey Plaskett": {
       "type": "person",
@@ -1398,7 +1531,9 @@
     },
     "Sunny Hostin": {
       "type": "person",
-      "keywords": []
+      "keywords": [
+        "Hostin"
+      ]
     },
     "Susan Rice": {
       "type": "person",
@@ -1448,7 +1583,8 @@
     "Tim Walz": {
       "type": "person",
       "keywords": [
-        "Governor Tim Walz"
+        "Governor Tim Walz",
+        "Walz"
       ]
     },
     "Tina McKinnor": {
@@ -1471,7 +1607,9 @@
     },
     "Troy Jackson": {
       "type": "person",
-      "keywords": []
+      "keywords": [
+        "Jackson"
+      ]
     },
     "Trump-Derangement": {
       "type": "topic",
@@ -1506,7 +1644,9 @@
     },
     "Valerie Jarrett": {
       "type": "person",
-      "keywords": []
+      "keywords": [
+        "Jarrett"
+      ]
     },
     "Vermont": {
       "type": "topic",
@@ -1565,7 +1705,9 @@
     },
     "Whoopi Goldberg": {
       "type": "person",
-      "keywords": []
+      "keywords": [
+        "Goldberg"
+      ]
     },
     "Wisconsin": {
       "type": "topic",
@@ -1573,11 +1715,16 @@
     },
     "Xavier Becerra": {
       "type": "person",
-      "keywords": []
+      "keywords": [
+        "Becerra"
+      ]
     },
     "Zohran Mamdani": {
       "type": "person",
-      "keywords": []
+      "keywords": [
+        "Mamdani",
+        "Mayor Mamdani"
+      ]
     },
     "Gaslight-Lies": {
       "type": "topic",
@@ -1585,7 +1732,9 @@
     },
     "David Crowley": {
       "type": "person",
-      "keywords": []
+      "keywords": [
+        "Crowley"
+      ]
     },
     "Katie Hobbs": {
       "type": "person",
@@ -1597,7 +1746,9 @@
     },
     "David Hogg": {
       "type": "person",
-      "keywords": []
+      "keywords": [
+        "Hogg"
+      ]
     },
     "Seattle": {
       "type": "topic",
@@ -1605,7 +1756,9 @@
     },
     "Melat Kiros": {
       "type": "person",
-      "keywords": []
+      "keywords": [
+        "Kiros"
+      ]
     },
     "Israel-Jews": {
       "type": "topic",
@@ -1636,7 +1789,9 @@
     },
     "Peggy Flanagan": {
       "type": "person",
-      "keywords": []
+      "keywords": [
+        "Flanagan"
+      ]
     },
     "Joe Scarborough": {
       "type": "person",

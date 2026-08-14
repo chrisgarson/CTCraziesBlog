@@ -96,6 +96,18 @@ class SafeBatchTests(unittest.TestCase):
         self.assertIn("AOC", updated["tagMetadata"]["Alexandria Ocasio-Cortez"]["keywords"])
         self.assertEqual(updated["articles"][0]["tags"], ["Alexandria Ocasio-Cortez", "Enrique Sanchez"])
 
+    def test_tag_update_plan_adds_keywords_to_existing_person_tag(self):
+        ledger = {
+            "schemaVersion": 1,
+            "articlesPerPage": ARTICLES_PER_PAGE,
+            "tagMetadata": {"Jane Doe": {"type": "person", "keywords": ["Jane"]}},
+            "articles": [article(1)],
+        }
+        updated = apply_tag_update_plan(ledger, {
+            "keywordAdditions": [{"tag": "Jane Doe", "type": "person", "keywords": ["Doe", "Governor Doe", "Jane"]}],
+        })
+        self.assertEqual(updated["tagMetadata"]["Jane Doe"], {"type": "person", "keywords": ["Jane", "Doe", "Governor Doe"]})
+
     def test_generated_search_records_retain_num_and_rendered_quotes_are_valid_jsx(self):
         item = article(20)
         item["headline"] = 'Headline With "Quoted" Text'

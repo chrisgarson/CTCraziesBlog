@@ -573,3 +573,7 @@
 - [x] Merge Governor Tim Walz into Tim Walz and preserve Governor Tim Walz as an alias
 - [x] Create Bob Ferguson as a person tag, merge Governor Ferguson into it, and preserve Governor Ferguson as an alias
 - [x] Verify and publish the consolidated typed person-tag index
+
+## Person Tag Alias and Keyword Updates
+- [x] Validate and add the supplied aliases and keywords to the specified existing person tags
+- [ ] Verify and publish the synchronized typed person-tag index update
