@@ -560,4 +560,4 @@
 - [x] Identify only the articles returned by the supplied Assassination and Non-Profit search-result URLs
 - [x] Add a reusable canonical-ledger command for reviewed existing-article tag-assignment plans
 - [x] Add only the corresponding topic tag to each identified article through the canonical ledger
-- [ ] Verify and publish the two-topic article-assignment update
+- [x] Verify and publish the two-topic article-assignment update
