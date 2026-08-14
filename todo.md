@@ -572,4 +572,4 @@
 - [x] Merge Governor Hochul into Kathy Hochul and preserve Governor Hochul as an alias
 - [x] Merge Governor Tim Walz into Tim Walz and preserve Governor Tim Walz as an alias
 - [x] Create Bob Ferguson as a person tag, merge Governor Ferguson into it, and preserve Governor Ferguson as an alias
-- [ ] Verify and publish the consolidated typed person-tag index
+- [x] Verify and publish the consolidated typed person-tag index
