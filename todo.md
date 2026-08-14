@@ -561,3 +561,6 @@
 - [x] Add a reusable canonical-ledger command for reviewed existing-article tag-assignment plans
 - [x] Add only the corresponding topic tag to each identified article through the canonical ledger
 - [x] Verify and publish the two-topic article-assignment update
+
+## Person Tag Aliases and Keywords CSV Export
+- [x] Generate an updated Person-tag CSV that includes each tag's aliases and keywords
