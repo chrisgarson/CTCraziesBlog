@@ -546,3 +546,7 @@
 
 ## Topic Tag Keyword CSV Export
 - [x] Generate a two-column CSV of current topic tags and their associated keywords
+
+## Seven Topic-Tag Keyword Updates
+- [x] Validate and add the supplied keywords to the seven specified existing topic tags
+- [ ] Verify and publish the synchronized typed tag-index update
