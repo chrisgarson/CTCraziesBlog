@@ -145,7 +145,7 @@ export default function Page26() {
         tinyUrl="https://tinyurl.com/yc8bnavb"
         xPostUrl="https://x.com/C3Heditor/status/2060387501592695250"
         imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-05-29_104817_9ab7b074.jpg"
-        tags={["2026 Elections", "California", "Corruption-Fraud"]}
+        tags={["2026 Elections", "California", "Corruption-Fraud", "Non-Profit"]}
       />
       </div>
       <Pagination currentPage={26} totalPages={72} />

@@ -61,7 +61,7 @@ export default function Page33() {
         tinyUrl="https://tinyurl.com/yc5cx9cw"
         xPostUrl="https://x.com/C3Heditor/status/2052040184200335453"
         imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/NaYMpBvEdEazljdM.jpg"
-        tags={["Left-Wing", "The View", "Trump-Derangement"]}
+        tags={["Left-Wing", "The View", "Trump-Derangement", "Assassination"]}
       />
       <ArticleBlock
         headline="911 Emergency Call System Is Close To Collapse Due To Incompetent Govt In Democrat Los Angeles"

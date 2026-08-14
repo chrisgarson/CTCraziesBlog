@@ -1272,7 +1272,8 @@ const articles = [
     "tags": [
         "Abdul El-Sayed",
         "Corruption-Fraud",
-        "Michigan"
+        "Michigan",
+        "Non-Profit"
     ],
     "page": 5,
     "batchDate": "2026-08-05"
@@ -7333,7 +7334,8 @@ const articles = [
     "tags": [
         "2026 Elections",
         "California",
-        "Corruption-Fraud"
+        "Corruption-Fraud",
+        "Non-Profit"
     ],
     "page": 26,
     "batchDate": "May 29, 2026"
@@ -7957,7 +7959,8 @@ const articles = [
     "imageUrl": "https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-05-26_153200_4053c682.jpg",
     "tags": [
         "Left-Wing",
-        "Journalism-MediaBias"
+        "Journalism-MediaBias",
+        "Assassination"
     ],
     "page": 29,
     "batchDate": "May 26, 2026"
@@ -9099,7 +9102,8 @@ const articles = [
     "tags": [
         "Left-Wing",
         "The View",
-        "Trump-Derangement"
+        "Trump-Derangement",
+        "Assassination"
     ],
     "page": 33,
     "batchDate": "May 06, 2026"
@@ -9831,7 +9835,8 @@ const articles = [
     "tags": [
         "Journalism-MediaBias",
         "Trump-Derangement",
-        "Violent Crime"
+        "Violent Crime",
+        "Assassination"
     ],
     "page": 36,
     "batchDate": "Apr 27, 2026"
@@ -9857,7 +9862,8 @@ const articles = [
     "imageUrl": "https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/bVcQklAyFYEdWCSO.jpg",
     "tags": [
         "SPLC",
-        "Trump-Derangement"
+        "Trump-Derangement",
+        "Assassination"
     ],
     "page": 36,
     "batchDate": "Apr 27, 2026"
@@ -9911,7 +9917,8 @@ const articles = [
     "imageUrl": "https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/MRcKIAUqxUabhZhL.jpg",
     "tags": [
         "Trump-Derangement",
-        "Wisconsin"
+        "Wisconsin",
+        "Assassination"
     ],
     "page": 36,
     "batchDate": "Apr 27, 2026"
@@ -12705,7 +12712,8 @@ const articles = [
     "imageUrl": "https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/2026-04-12_153508_857f309b.jpg",
     "tags": [
         "Politics",
-        "Trump-Derangement"
+        "Trump-Derangement",
+        "Assassination"
     ],
     "page": 46,
     "batchDate": "Apr 12, 2026"
@@ -17728,7 +17736,8 @@ const articles = [
     "xPostUrl": "https://x.com/C3Heditor/status/2026398005608227076",
     "imageUrl": "https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/post162_clean_6d9c52d3.jpg",
     "tags": [
-        "Trump-Derangement"
+        "Trump-Derangement",
+        "Assassination"
     ],
     "page": 64,
     "batchDate": "Feb 21, 2026"
@@ -18017,7 +18026,8 @@ const articles = [
     "imageUrl": "https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/post141_clean_7a7d815c.jpg",
     "tags": [
         "Politics",
-        "Trump-Derangement"
+        "Trump-Derangement",
+        "Assassination"
     ],
     "page": 65,
     "batchDate": "Feb 21, 2026"

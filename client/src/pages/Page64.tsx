@@ -138,7 +138,7 @@ export default function Page64() {
         tinyUrl="https://tinyurl.com/yc3eacw9"
         xPostUrl="https://x.com/C3Heditor/status/2026398005608227076"
         imageSrc="https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/post162_clean_6d9c52d3.jpg"
-        tags={["Trump-Derangement"]}
+        tags={["Trump-Derangement", "Assassination"]}
       />
       <ArticleBlock
         headline="Blue Cities&#x27; Chaos Triggers CNN: Host says Democrats cannot be trusted to run cities like NYC and LA"

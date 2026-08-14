@@ -145,7 +145,7 @@ export default function Page65() {
         tinyUrl="https://tinyurl.com/fxa3cxyy"
         xPostUrl="https://x.com/C3Heditor/status/2026294095946092876"
         imageSrc="https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/post141_clean_7a7d815c.jpg"
-        tags={["Politics", "Trump-Derangement"]}
+        tags={["Politics", "Trump-Derangement", "Assassination"]}
       />
       </div>
       <Pagination currentPage={65} totalPages={72} />

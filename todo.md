@@ -555,3 +555,9 @@
 - [x] Create approved topic tags Assassination and Non-Profit, then add the supplied keywords to all eighteen specified topic tags
 - [x] Update the tag browser to refresh the typed tag index after deployment
 - [x] Verify and publish the synchronized typed tag-index update
+
+## Assassination and Non-Profit Article Tag Assignments
+- [x] Identify only the articles returned by the supplied Assassination and Non-Profit search-result URLs
+- [x] Add a reusable canonical-ledger command for reviewed existing-article tag-assignment plans
+- [x] Add only the corresponding topic tag to each identified article through the canonical ledger
+- [ ] Verify and publish the two-topic article-assignment update

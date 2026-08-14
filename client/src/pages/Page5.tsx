@@ -68,7 +68,7 @@ export default function Page5() {
         tinyUrl="https://tinyurl.com/3c5py2e6"
         xPostUrl="https://x.com/C3Heditor/status/2084730256674730201"
         imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-08-04_145714.jpg"
-        tags={["Abdul El-Sayed", "Corruption-Fraud", "Michigan"]}
+        tags={["Abdul El-Sayed", "Corruption-Fraud", "Michigan", "Non-Profit"]}
       />
       <ArticleBlock
         headline="Not a Good Look For The Radical Texas Senate Candidate, James Talarico, as Another Texas Democrat Hides Talarico&#x27;s Endorsement"

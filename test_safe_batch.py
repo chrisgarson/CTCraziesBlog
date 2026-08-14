@@ -2,7 +2,7 @@
 
 import unittest
 
-from safe_batch import ARTICLES_PER_PAGE, apply_tag_plan, apply_tag_update_plan, assign_pages, combine_batch, declare_tag, rename_tag, render_article, render_search, validate_batch
+from safe_batch import ARTICLES_PER_PAGE, apply_existing_article_tag_plan, apply_tag_plan, apply_tag_update_plan, assign_pages, combine_batch, declare_tag, rename_tag, render_article, render_search, validate_batch
 
 
 def article(num: int) -> dict:
@@ -133,6 +133,29 @@ class SafeBatchTests(unittest.TestCase):
         self.assertEqual(valid[0]["tags"], tags)
         with self.assertRaises(ValueError):
             apply_tag_plan(batch, {"tags": {"21": tags}}, ledger)
+
+    def test_existing_article_tag_plan_adds_only_the_approved_tag_by_xpost_url(self):
+        ledger = {
+            "schemaVersion": 1,
+            "articlesPerPage": ARTICLES_PER_PAGE,
+            "tagMetadata": {
+                "Existing": {"type": "topic", "keywords": []},
+                "Assassination": {"type": "topic", "keywords": []},
+            },
+            "articles": assign_pages([article(num) for num in range(20, 0, -1)]),
+        }
+        target = ledger["articles"][0]
+        updated, changes = apply_existing_article_tag_plan(ledger, {
+            "expectedAssignmentCount": 1,
+            "assignments": [{"xPostUrl": target["xPostUrl"], "tag": "Assassination"}],
+        })
+        self.assertEqual(updated["articles"][0]["tags"], ["Topic", "Assassination"])
+        self.assertEqual(changes[0]["num"], 20)
+        self.assertEqual(ledger["articles"][0]["tags"], ["Topic"])
+        with self.assertRaisesRegex(ValueError, "unapproved tag"):
+            apply_existing_article_tag_plan(ledger, {
+                "assignments": [{"xPostUrl": target["xPostUrl"], "tag": "Missing"}],
+            })
 
 
 if __name__ == "__main__":

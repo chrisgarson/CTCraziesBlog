@@ -1,0 +1,20 @@
+{
+  "description": "Add only the user-approved topic tag to each article returned by the corresponding live CTCrazies search URL on 2026-08-14.",
+  "sourceSearches": {
+    "Assassination": "https://ctcrazies.com/search?q=assassination",
+    "Non-Profit": "https://ctcrazies.com/search?q=non-profit"
+  },
+  "expectedAssignmentCount": 10,
+  "assignments": [
+    {"xPostUrl": "https://x.com/C3Heditor/status/2059371846357729311", "tag": "Assassination"},
+    {"xPostUrl": "https://x.com/C3Heditor/status/2026294095946092876", "tag": "Assassination"},
+    {"xPostUrl": "https://x.com/C3Heditor/status/2048862126463479875", "tag": "Assassination"},
+    {"xPostUrl": "https://x.com/C3Heditor/status/2043427514815545654", "tag": "Assassination"},
+    {"xPostUrl": "https://x.com/C3Heditor/status/2026398005608227076", "tag": "Assassination"},
+    {"xPostUrl": "https://x.com/C3Heditor/status/2048866523692081583", "tag": "Assassination"},
+    {"xPostUrl": "https://x.com/C3Heditor/status/2048857906787873188", "tag": "Assassination"},
+    {"xPostUrl": "https://x.com/C3Heditor/status/2052040184200335453", "tag": "Assassination"},
+    {"xPostUrl": "https://x.com/C3Heditor/status/2060387501592695250", "tag": "Non-Profit"},
+    {"xPostUrl": "https://x.com/C3Heditor/status/2084730256674730201", "tag": "Non-Profit"}
+  ]
+}

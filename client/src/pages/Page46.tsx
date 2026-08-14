@@ -82,7 +82,7 @@ export default function Page46() {
         tinyUrl="https://tinyurl.com/yc4k8wbh"
         xPostUrl="https://x.com/C3Heditor/status/2043427514815545654"
         imageSrc="https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/2026-04-12_153508_857f309b.jpg"
-        tags={["Politics", "Trump-Derangement"]}
+        tags={["Politics", "Trump-Derangement", "Assassination"]}
       />
       <ArticleBlock
         headline="Utility Bills On Long Island Spike 20%, Leaving Residents Feeling The Financial Strain of Democrat Energy Policies"

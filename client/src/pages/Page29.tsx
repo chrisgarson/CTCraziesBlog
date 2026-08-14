@@ -40,7 +40,7 @@ export default function Page29() {
         tinyUrl="https://tinyurl.com/324ny4u2"
         xPostUrl="https://x.com/C3Heditor/status/2059371846357729311"
         imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-05-26_153200_4053c682.jpg"
-        tags={["Left-Wing", "Journalism-MediaBias"]}
+        tags={["Left-Wing", "Journalism-MediaBias", "Assassination"]}
       />
       <ArticleBlock
         headline="Democrat California Congressional Candidate Turns Back On Flag, Refuses To Say Pledge Of Allegiance"

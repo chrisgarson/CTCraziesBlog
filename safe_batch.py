@@ -359,6 +359,41 @@ def apply_tag_plan(batch: list[dict[str, Any]], tag_plan: dict[str, Any], ledger
     return tagged
 
 
+def apply_existing_article_tag_plan(ledger: dict[str, Any], plan: dict[str, Any]) -> tuple[dict[str, Any], list[dict[str, Any]]]:
+    """Add only reviewed existing tags to articles identified by immutable X-post URLs."""
+    assignments = plan.get("assignments")
+    if not isinstance(assignments, list) or not assignments:
+        raise ValueError("Existing-article tag plan requires one or more assignments")
+    expected_count = plan.get("expectedAssignmentCount")
+    if expected_count is not None and int(expected_count) != len(assignments):
+        raise ValueError("Existing-article tag plan assignment count does not match expectedAssignmentCount")
+
+    updated = copy.deepcopy(ledger)
+    seen: set[tuple[str, str]] = set()
+    changes: list[dict[str, Any]] = []
+    for assignment in assignments:
+        if not isinstance(assignment, dict):
+            raise ValueError("Each existing-article tag assignment must be an object")
+        xpost_url = str(assignment.get("xPostUrl") or "").strip()
+        tag = str(assignment.get("tag") or "").strip()
+        if not xpost_url or not tag:
+            raise ValueError("Each existing-article tag assignment requires xPostUrl and tag")
+        key = (xpost_url, tag)
+        if key in seen:
+            raise ValueError(f"Duplicate existing-article tag assignment: {tag} for {xpost_url}")
+        seen.add(key)
+        if tag not in updated["tagMetadata"]:
+            raise ValueError(f"Existing-article tag plan uses unapproved tag: {tag}")
+        matches = [article for article in updated["articles"] if article.get("xPostUrl") == xpost_url]
+        if len(matches) != 1:
+            raise ValueError(f"Expected exactly one canonical article for existing-article assignment: {xpost_url}")
+        article = matches[0]
+        if tag not in article["tags"]:
+            article["tags"].append(tag)
+            changes.append({"num": article["num"], "headline": article["headline"], "tag": tag})
+    return updated, changes
+
+
 def combine_batch(ledger: dict[str, Any], batch: list[dict[str, Any]], batch_date: str) -> dict[str, Any]:
     combined = copy.deepcopy(ledger)
     for item in batch:
@@ -543,6 +578,17 @@ def apply_tag_plan_command(args: argparse.Namespace) -> None:
     print(f"TAGGED: {len(tagged)} batch articles written to {args.output}")
 
 
+def apply_existing_article_tag_plan_command(args: argparse.Namespace) -> None:
+    """Apply a reviewed existing-article tag plan and regenerate all derived source files."""
+    ledger_path = Path(args.ledger)
+    plan = json.loads(Path(args.plan).read_text(encoding="utf-8"))
+    ledger, changes = apply_existing_article_tag_plan(load_ledger(ledger_path), plan)
+    latest_date = ledger["articles"][0].get("batchDate") or date.today().isoformat()
+    write_project_from_ledger(ledger, latest_date)
+    write_ledger(ledger, ledger_path)
+    print(f"APPLIED EXISTING-ARTICLE TAG PLAN: {len(changes)} new tag associations; run verify_safe_site.py before publishing")
+
+
 def sync_indexes_command(args: argparse.Namespace) -> None:
     """Synchronize both typed tag indexes from the canonical ledger without rewriting pages."""
     ledger = load_ledger(Path(args.ledger))
@@ -713,6 +759,10 @@ def main() -> None:
     tag_plan.add_argument("output")
     tag_plan.add_argument("--ledger", default=str(LEDGER))
     tag_plan.set_defaults(func=apply_tag_plan_command)
+    existing_tag_plan = commands.add_parser("apply-existing-article-tag-plan", help="Add reviewed existing tags to articles identified by immutable X-post URLs")
+    existing_tag_plan.add_argument("plan")
+    existing_tag_plan.add_argument("--ledger", default=str(LEDGER))
+    existing_tag_plan.set_defaults(func=apply_existing_article_tag_plan_command)
     sync = commands.add_parser("sync-indexes", help="Synchronize both typed tag indexes from the canonical ledger")
     sync.add_argument("--ledger", default=str(LEDGER))
     sync.set_defaults(func=sync_indexes_command)
