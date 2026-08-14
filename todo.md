@@ -576,4 +576,4 @@
 
 ## Person Tag Alias and Keyword Updates
 - [x] Validate and add the supplied aliases and keywords to the specified existing person tags
-- [ ] Verify and publish the synchronized typed person-tag index update
+- [x] Verify and publish the synchronized typed person-tag index update
