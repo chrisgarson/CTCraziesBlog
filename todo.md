@@ -543,3 +543,6 @@
 
 ## Per-Title Headline Audit Review Rule
 - [x] Replace the aggregate match-rate rule with the clarified per-title substantive-match review standard
+
+## Topic Tag Keyword CSV Export
+- [x] Generate a two-column CSV of current topic tags and their associated keywords
