@@ -577,3 +577,9 @@
 ## Person Tag Alias and Keyword Updates
 - [x] Validate and add the supplied aliases and keywords to the specified existing person tags
 - [x] Verify and publish the synchronized typed person-tag index update
+
+## Title-Plus-Surname Person Tag Rule
+- [x] Record the rule to use the clear canonical full-name person tag for title-plus-surname headlines and request clarification only when identity is genuinely uncertain
+
+## Refreshed Two-Column Person Tag Export
+- [x] Generate the current Person-tag CSV with Person Tag in Column A and Aliases / Keywords in Column B

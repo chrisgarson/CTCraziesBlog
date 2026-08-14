@@ -42,6 +42,10 @@ The apply step recalculates every visitor-facing page from descending NUM order.
 
 `verify_safe_site.py` is a publication gate. It must pass before GitHub commit or Cloudflare deployment. It verifies page sizes and order, Search page assignments, both typed tag-index copies, retained tag metadata/keywords, and all page/tag routes.
 
+## Title-plus-surname person-tag rule
+
+When a headline identifies a person by an office title plus surname—such as `Senator Klobuchar` or `Governor Newsom`—assign the existing canonical full-name person tag when the intended person is clear from the headline context. Do not create a separate title-form tag. If the identity is genuinely uncertain, request user clarification before assigning a person tag.
+
 ## Post-publication sampled headline-audit policy
 
 When an authoritative complete-list workbook is supplied after publication, perform the reproducible spreadsheet-to-live-site sampling audit and report all NUM, page, and headline findings. Review headline differences **one title at a time**, not as an aggregate sample percentage. Ignore differences limited to punctuation, quotation-mark or apostrophe style, spacing, capitalization, and other minor wording variations that do not make the two titles clearly poor matches.
