@@ -592,7 +592,7 @@
 
 ## Left-Wing Exact Keyword Replacement
 - [x] Replace the Left-Wing topic tag's keywords with the exact 24 user-supplied values while preserving its article associations
-- [ ] Verify and publish the synchronized typed topic-tag index update
+- [x] Verify and publish the synchronized typed topic-tag index update
 
 ## Refreshed Two-Column Person Tag Export
 - [x] Generate the current Person-tag CSV with Person Tag in Column A and Aliases / Keywords in Column B
