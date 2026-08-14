@@ -33,7 +33,7 @@ export default function Page46() {
         tinyUrl="https://tinyurl.com/4bmr5ybt"
         xPostUrl="https://x.com/C3Heditor/status/2043434843866849405"
         imageSrc="https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/2026-04-12_160441_1cb1f739.jpg"
-        tags={["Barack Obama", "Joe Biden", "LGBTQ"]}
+        tags={["Obama", "Joe Biden", "LGBTQ"]}
       />
       <ArticleBlock
         headline="Back To Pro-Woke, Anti-White Governance: Virginia DEI Office Revived By Democrat Governor"

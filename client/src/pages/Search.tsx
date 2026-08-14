@@ -8757,7 +8757,7 @@ const articles = [
     "xPostUrl": "https://x.com/C3Heditor/status/2052858650490765760",
     "imageUrl": "https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-05-08_161136_6928836c.jpg",
     "tags": [
-        "Barack Obama",
+        "Obama",
         "DOJ",
         "Weaponization"
     ],
@@ -12008,7 +12008,7 @@ const articles = [
     "xPostUrl": "https://x.com/C3Heditor/status/2044547947061244157",
     "imageUrl": "https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/2026-04-15_174501_b6afccd8.jpg",
     "tags": [
-        "Barack Obama",
+        "Obama",
         "Culture War",
         "Journalism-MediaBias"
     ],
@@ -12613,7 +12613,7 @@ const articles = [
     "xPostUrl": "https://x.com/C3Heditor/status/2043434843866849405",
     "imageUrl": "https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/2026-04-12_160441_1cb1f739.jpg",
     "tags": [
-        "Barack Obama",
+        "Obama",
         "Joe Biden",
         "LGBTQ"
     ],
@@ -15126,7 +15126,7 @@ const articles = [
     "xPostUrl": "https://x.com/C3Heditor/status/2037163390678810794",
     "imageUrl": "https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/2026-03-26_084519_5e8f5166.jpg",
     "tags": [
-        "Barack Obama",
+        "Obama",
         "Racial Issues"
     ],
     "page": 55,

@@ -140,10 +140,6 @@
       "type": "topic",
       "keywords": []
     },
-    "Barack Obama": {
-      "type": "person",
-      "keywords": []
-    },
     "Becca Balint": {
       "type": "person",
       "keywords": [
@@ -152,7 +148,9 @@
     },
     "Bernie Sanders": {
       "type": "person",
-      "keywords": []
+      "keywords": [
+        "Bernie"
+      ]
     },
     "Biden Administration": {
       "type": "topic",
@@ -1225,7 +1223,9 @@
     },
     "Obama": {
       "type": "person",
-      "keywords": []
+      "keywords": [
+        "Barack Obama"
+      ]
     },
     "Obama Presidential Center": {
       "type": "topic",
@@ -1831,6 +1831,10 @@
       "keywords": [
         "Governor Ferguson"
       ]
+    },
+    "Michelle Obama": {
+      "type": "person",
+      "keywords": []
     }
   },
   "articles": [
@@ -11210,7 +11214,7 @@
       "xPostUrl": "https://x.com/C3Heditor/status/2052858650490765760",
       "imageUrl": "https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-05-08_161136_6928836c.jpg",
       "tags": [
-        "Barack Obama",
+        "Obama",
         "DOJ",
         "Weaponization"
       ],
@@ -14698,7 +14702,7 @@
       "xPostUrl": "https://x.com/C3Heditor/status/2044547947061244157",
       "imageUrl": "https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/2026-04-15_174501_b6afccd8.jpg",
       "tags": [
-        "Barack Obama",
+        "Obama",
         "Culture War",
         "Journalism-MediaBias"
       ],
@@ -15347,7 +15351,7 @@
       "xPostUrl": "https://x.com/C3Heditor/status/2043434843866849405",
       "imageUrl": "https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/2026-04-12_160441_1cb1f739.jpg",
       "tags": [
-        "Barack Obama",
+        "Obama",
         "Joe Biden",
         "LGBTQ"
       ],
@@ -18044,7 +18048,7 @@
       "xPostUrl": "https://x.com/C3Heditor/status/2037163390678810794",
       "imageUrl": "https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/2026-03-26_084519_5e8f5166.jpg",
       "tags": [
-        "Barack Obama",
+        "Obama",
         "Racial Issues"
       ],
       "batchDate": "Mar 26, 2026",

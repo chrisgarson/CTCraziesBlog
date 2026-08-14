@@ -2649,43 +2649,6 @@
       "White House Correspondents' Dinner"
     ]
   },
-  "Barack Obama": {
-    "type": "person",
-    "articles": [
-      {
-        "headline": "Major Projection Alert: Democrat Obama, Conveniently Forgetting About His Wingman's DOJ, Accuses Trump of Using DOJ To Target Political Enemies",
-        "tinyUrl": "https://tinyurl.com/bdh9k9w2",
-        "xPostUrl": "https://x.com/C3Heditor/status/2052858650490765760",
-        "imageUrl": "https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-05-08_161136_6928836c.jpg",
-        "page": 32,
-        "batchDate": "May 08, 2026"
-      },
-      {
-        "headline": "Their Outrage Is Mighty Selective: Democrats Said Nothing When Obama Was Depicted As Jesus Christ",
-        "tinyUrl": "https://tinyurl.com/7rxkc4a3",
-        "xPostUrl": "https://x.com/C3Heditor/status/2044547947061244157",
-        "imageUrl": "https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/2026-04-15_174501_b6afccd8.jpg",
-        "page": 43,
-        "batchDate": "Apr 16, 2026"
-      },
-      {
-        "headline": "Humiliation: Joe Biden Is Erased From Democrats' Easter Message As His Own Party Tries To Move On",
-        "tinyUrl": "https://tinyurl.com/4bmr5ybt",
-        "xPostUrl": "https://x.com/C3Heditor/status/2043434843866849405",
-        "imageUrl": "https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/2026-04-12_160441_1cb1f739.jpg",
-        "page": 46,
-        "batchDate": "Apr 12, 2026"
-      },
-      {
-        "headline": "What A Surprise! Obama Delivered a Race-Baiting Eulogy at the Funeral of a Lifelong Democrat Race Hustler",
-        "tinyUrl": "https://tinyurl.com/3xkzc2r5",
-        "xPostUrl": "https://x.com/C3Heditor/status/2037163390678810794",
-        "imageUrl": "https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/2026-03-26_084519_5e8f5166.jpg",
-        "page": 55,
-        "batchDate": "Mar 26, 2026"
-      }
-    ]
-  },
   "Becca Balint": {
     "type": "person",
     "articles": [
@@ -2761,6 +2724,9 @@
         "page": 69,
         "batchDate": "Feb 20, 2026"
       }
+    ],
+    "keywords": [
+      "Bernie"
     ]
   },
   "Biden Administration": {
@@ -24151,6 +24117,10 @@
       }
     ]
   },
+  "Michelle Obama": {
+    "type": "person",
+    "articles": []
+  },
   "Michelle Wu": {
     "type": "person",
     "articles": [
@@ -26238,6 +26208,38 @@
     "type": "person",
     "articles": [
       {
+        "headline": "Major Projection Alert: Democrat Obama, Conveniently Forgetting About His Wingman's DOJ, Accuses Trump of Using DOJ To Target Political Enemies",
+        "tinyUrl": "https://tinyurl.com/bdh9k9w2",
+        "xPostUrl": "https://x.com/C3Heditor/status/2052858650490765760",
+        "imageUrl": "https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-05-08_161136_6928836c.jpg",
+        "page": 32,
+        "batchDate": "May 08, 2026"
+      },
+      {
+        "headline": "Their Outrage Is Mighty Selective: Democrats Said Nothing When Obama Was Depicted As Jesus Christ",
+        "tinyUrl": "https://tinyurl.com/7rxkc4a3",
+        "xPostUrl": "https://x.com/C3Heditor/status/2044547947061244157",
+        "imageUrl": "https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/2026-04-15_174501_b6afccd8.jpg",
+        "page": 43,
+        "batchDate": "Apr 16, 2026"
+      },
+      {
+        "headline": "Humiliation: Joe Biden Is Erased From Democrats' Easter Message As His Own Party Tries To Move On",
+        "tinyUrl": "https://tinyurl.com/4bmr5ybt",
+        "xPostUrl": "https://x.com/C3Heditor/status/2043434843866849405",
+        "imageUrl": "https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/2026-04-12_160441_1cb1f739.jpg",
+        "page": 46,
+        "batchDate": "Apr 12, 2026"
+      },
+      {
+        "headline": "What A Surprise! Obama Delivered a Race-Baiting Eulogy at the Funeral of a Lifelong Democrat Race Hustler",
+        "tinyUrl": "https://tinyurl.com/3xkzc2r5",
+        "xPostUrl": "https://x.com/C3Heditor/status/2037163390678810794",
+        "imageUrl": "https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/2026-03-26_084519_5e8f5166.jpg",
+        "page": 55,
+        "batchDate": "Mar 26, 2026"
+      },
+      {
         "headline": "Obama Counsel Ruemmler Got Lavish Gifts from Epstein",
         "tinyUrl": "https://tinyurl.com/5h79t9dx",
         "xPostUrl": "https://x.com/C3Heditor/status/2020253732890615847",
@@ -26245,6 +26247,9 @@
         "page": 71,
         "batchDate": "Feb 21, 2026"
       }
+    ],
+    "keywords": [
+      "Barack Obama"
     ]
   },
   "Obama Presidential Center": {

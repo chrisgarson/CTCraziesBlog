@@ -1,0 +1,20 @@
+{
+  "keywordAdditions": [
+    {
+      "tag": "Bernie Sanders",
+      "type": "person",
+      "keywords": [
+        "Bernie"
+      ]
+    }
+  ],
+  "merges": [
+    {
+      "sources": [
+        "Barack Obama"
+      ],
+      "target": "Obama",
+      "type": "person"
+    }
+  ]
+}

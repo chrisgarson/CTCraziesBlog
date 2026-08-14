@@ -581,5 +581,11 @@
 ## Title-Plus-Surname Person Tag Rule
 - [x] Record the rule to use the clear canonical full-name person tag for title-plus-surname headlines and request clarification only when identity is genuinely uncertain
 
+## Obama and Sanders Person Tag Updates
+- [x] Create Michelle Obama as a person tag
+- [x] Consolidate Barack Obama into canonical Obama and preserve Barack Obama as an alias
+- [x] Add Bernie as an alias for Bernie Sanders
+- [ ] Verify and publish the updated typed person-tag index
+
 ## Refreshed Two-Column Person Tag Export
 - [x] Generate the current Person-tag CSV with Person Tag in Column A and Aliases / Keywords in Column B

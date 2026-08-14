@@ -26,7 +26,7 @@ export default function Page32() {
         tinyUrl="https://tinyurl.com/bdh9k9w2"
         xPostUrl="https://x.com/C3Heditor/status/2052858650490765760"
         imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-05-08_161136_6928836c.jpg"
-        tags={["Barack Obama", "DOJ", "Weaponization"]}
+        tags={["Obama", "DOJ", "Weaponization"]}
       />
       <ArticleBlock
         headline="Bombshell SPLC Indictment Reveals Partisan Activists Were Secretly Running The FBI Terror Program"

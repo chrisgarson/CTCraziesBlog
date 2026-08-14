@@ -61,7 +61,7 @@ export default function Page55() {
         tinyUrl="https://tinyurl.com/3xkzc2r5"
         xPostUrl="https://x.com/C3Heditor/status/2037163390678810794"
         imageSrc="https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/2026-03-26_084519_5e8f5166.jpg"
-        tags={["Barack Obama", "Racial Issues"]}
+        tags={["Obama", "Racial Issues"]}
       />
       <ArticleBlock
         headline="Another Case of Democrat Ugliness: Candidate for Congress Makes a Disgusting Sex Remark Targeting Melania Trump"

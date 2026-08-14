@@ -145,7 +145,7 @@ export default function Page43() {
         tinyUrl="https://tinyurl.com/7rxkc4a3"
         xPostUrl="https://x.com/C3Heditor/status/2044547947061244157"
         imageSrc="https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/2026-04-15_174501_b6afccd8.jpg"
-        tags={["Barack Obama", "Culture War", "Journalism-MediaBias"]}
+        tags={["Obama", "Culture War", "Journalism-MediaBias"]}
       />
       </div>
       <Pagination currentPage={43} totalPages={72} />
