@@ -2552,6 +2552,20 @@
       }
     ]
   },
+  "Assassination": {
+    "type": "topic",
+    "articles": [],
+    "keywords": [
+      "Assassination Attempt",
+      "Assassination Attempts",
+      "Assassination Joke",
+      "Assassination Plot",
+      "WHCD",
+      "WHCD Shooter",
+      "White House Correspondents",
+      "White House Correspondents' Dinner"
+    ]
+  },
   "Barack Obama": {
     "type": "person",
     "articles": [
@@ -5501,6 +5515,33 @@
         "page": 72,
         "batchDate": "Feb 21, 2026"
       }
+    ],
+    "keywords": [
+      "Abolish ICE",
+      "Air Travel",
+      "Airport Security",
+      "Border Security",
+      "Commercial Driver's License",
+      "DHS",
+      "DHS Arrests",
+      "DHS Employee",
+      "DHS Funding",
+      "DHS Investigation",
+      "DHS Shutdown",
+      "Deportation",
+      "ICE",
+      "ICE Enforcement",
+      "Naturalization Fraud",
+      "Naturalization Process",
+      "TSA Agents",
+      "TSA Defunding",
+      "TSA Employees",
+      "TSA Escorts",
+      "TSA Funding",
+      "TSA Officers",
+      "TSA Policy",
+      "TSA Staffing",
+      "Transportation Security Administration"
     ]
   },
   "Censorship": {
@@ -5754,6 +5795,13 @@
         "page": 71,
         "batchDate": "Feb 21, 2026"
       }
+    ],
+    "keywords": [
+      "Campus Issues",
+      "Cancel Culture",
+      "FACE Act",
+      "First Amendment",
+      "Hate Speech Laws"
     ]
   },
   "Cesar Chavez": {
@@ -6152,6 +6200,9 @@
         "page": 69,
         "batchDate": "Feb 20, 2026"
       }
+    ],
+    "keywords": [
+      "Anti-Christian Bias"
     ]
   },
   "Chuck Schumer": {
@@ -11597,6 +11648,47 @@
         "page": 72,
         "batchDate": "Feb 21, 2026"
       }
+    ],
+    "keywords": [
+      "Ballot System",
+      "Ballots",
+      "Dead Voters",
+      "Election Anti-Fraud",
+      "Election Denial",
+      "Election Farce",
+      "Election Integrity",
+      "Election Machine",
+      "Election Machinery",
+      "Election Machines",
+      "Election Meddling",
+      "Election Official",
+      "Election Rigging",
+      "Forged Signatures",
+      "Fulton County",
+      "Homeless Voters",
+      "Illegal Alien Registered",
+      "Illegal Alien Voting",
+      "Insecure Election",
+      "Legal Right To Vote",
+      "Mail-In Ballots",
+      "Mail-In Voting",
+      "SAVE Act",
+      "SAVE America Act",
+      "Unregistered Voters",
+      "Voter Database",
+      "Voter Fraud",
+      "Voter Fraudster",
+      "Voter ID",
+      "Voter Identification",
+      "Voter Photo ID",
+      "Voter Photo-ID",
+      "Voter Rolls",
+      "Voter Suppression",
+      "Voter Treatment",
+      "Voter Verification",
+      "Voter Verifications",
+      "Voting Official",
+      "Voting Rights"
     ]
   },
   "Elissa Slotkin": {
@@ -12070,6 +12162,10 @@
         "page": 72,
         "batchDate": "Feb 21, 2026"
       }
+    ],
+    "keywords": [
+      "Pedophile",
+      "Pedophile Associate"
     ]
   },
   "Eric Swalwell": {
@@ -18182,6 +18278,11 @@
         "page": 60,
         "batchDate": "Feb 21, 2026"
       }
+    ],
+    "keywords": [
+      "Synagogue Attack",
+      "Temple Israel",
+      "Zionists"
     ]
   },
   "Jacob Frey": {
@@ -18612,6 +18713,11 @@
         "page": 65,
         "batchDate": "Feb 21, 2026"
       }
+    ],
+    "keywords": [
+      "January 6 Capitol Attack",
+      "January 6 Committee",
+      "January 6th Capitol"
     ]
   },
   "Jasmine Crockett": {
@@ -22461,6 +22567,26 @@
         "page": 72,
         "batchDate": "Feb 21, 2026"
       }
+    ],
+    "keywords": [
+      "Anti-American Protesters",
+      "Antifa",
+      "Antifa-Democrats",
+      "Code Pink",
+      "CodePink",
+      "Collectivism",
+      "Leftism",
+      "Liberal Ideology",
+      "Molotov Cocktails",
+      "Molotov cocktail attack",
+      "Political Violence",
+      "Progressive-Democrat",
+      "Progressive-Left",
+      "Radical Left",
+      "Radical Politics",
+      "Soros",
+      "Soros-Democrat",
+      "White Liberals"
     ]
   },
   "Letitia James": {
@@ -22967,6 +23093,14 @@
         "page": 69,
         "batchDate": "Feb 20, 2026"
       }
+    ],
+    "keywords": [
+      "Bathroom Policies",
+      "Conversion Therapy",
+      "Gender Affirming Care",
+      "Gender Issues",
+      "Girls Sports",
+      "Transgender"
     ]
   },
   "Lindsay James": {
@@ -25489,6 +25623,15 @@
       }
     ]
   },
+  "Non-Profit": {
+    "type": "topic",
+    "articles": [],
+    "keywords": [
+      "Non-Profit Abuse",
+      "Nonprofit Accountability",
+      "Nonprofit Funding"
+    ]
+  },
   "Norm Eisen": {
     "type": "person",
     "articles": [
@@ -25835,6 +25978,15 @@
         "page": 70,
         "batchDate": "Feb 21, 2026"
       }
+    ],
+    "keywords": [
+      "Mamdani Administration",
+      "NYC Childcare",
+      "NYC Council",
+      "NYC Grocery Stores",
+      "NYC Squatters",
+      "NYPD",
+      "New York City"
     ]
   },
   "Oakland": {
@@ -27775,7 +27927,43 @@
       "Travel Delays",
       "Turning Point USA",
       "Twitchy Politics",
-      "US Politics"
+      "US Politics",
+      "Political Accountability",
+      "Political Affiliation",
+      "Political Agenda",
+      "Political Alliances",
+      "Political Attacks",
+      "Political Bias",
+      "Political Bills",
+      "Political Candidate",
+      "Political Commentary",
+      "Political Controversy",
+      "Political Correctness",
+      "Political Corruption",
+      "Political Debanking",
+      "Political Discourse",
+      "Political Extremism",
+      "Political Ideology",
+      "Political Incitement",
+      "Political Investigations",
+      "Political Issue",
+      "Political Lies",
+      "Political Meltdown",
+      "Political Messaging",
+      "Political Migration",
+      "Political Mobilization",
+      "Political Opposition",
+      "Political Overdrive",
+      "Political Pandering",
+      "Political Polarization",
+      "Political Rant",
+      "Political Rhetoric",
+      "Political Scandal",
+      "Political Scandals",
+      "Political Strategy",
+      "Political Threats",
+      "Race Politics",
+      "Racial Politics"
     ]
   },
   "Polling": {
@@ -28686,6 +28874,16 @@
         "page": 71,
         "batchDate": "Feb 21, 2026"
       }
+    ],
+    "keywords": [
+      "Anti-Discrimination Law",
+      "Anti-White Discrimination",
+      "Anti-White Racism",
+      "Black Voters",
+      "Charlottesville Rally",
+      "Civil Rights",
+      "Civil Rights Group",
+      "Civil Rights Lawsuit"
     ]
   },
   "Rahm Emanuel": {
@@ -32305,6 +32503,9 @@
         "page": 65,
         "batchDate": "Feb 21, 2026"
       }
+    ],
+    "keywords": [
+      "Congress"
     ]
   },
   "U.S. Constitution": {
@@ -32435,6 +32636,13 @@
         "page": 70,
         "batchDate": "Feb 21, 2026"
       }
+    ],
+    "keywords": [
+      "AFSCME Union",
+      "Government Unions",
+      "SEIU Local 99",
+      "Teachers Unions",
+      "United Farm Workers"
     ]
   },
   "Utah": {
@@ -33926,6 +34134,9 @@
         "page": 54,
         "batchDate": "Mar 26, 2026"
       }
+    ],
+    "keywords": [
+      "DC Statehood"
     ]
   },
   "Weaponization": {
@@ -34011,6 +34222,13 @@
         "page": 53,
         "batchDate": "Mar 29, 2026"
       }
+    ],
+    "keywords": [
+      "Government Weaponization",
+      "Lawfare",
+      "Maximum Warfare",
+      "Political Weaponization",
+      "Weaponize Government"
     ]
   },
   "Wes Moore": {

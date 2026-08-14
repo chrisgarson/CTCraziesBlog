@@ -550,3 +550,7 @@
 ## Seven Topic-Tag Keyword Updates
 - [x] Validate and add the supplied keywords to the seven specified existing topic tags
 - [x] Verify and publish the synchronized typed tag-index update
+
+## Eighteen Topic-Tag Keyword Updates
+- [x] Create approved topic tags Assassination and Non-Profit, then add the supplied keywords to all eighteen specified topic tags
+- [ ] Verify and publish the synchronized typed tag-index update

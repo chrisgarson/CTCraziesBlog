@@ -189,11 +189,43 @@
     },
     "CBP-DHS-ICE": {
       "type": "topic",
-      "keywords": []
+      "keywords": [
+        "Abolish ICE",
+        "Air Travel",
+        "Airport Security",
+        "Border Security",
+        "Commercial Driver's License",
+        "DHS",
+        "DHS Arrests",
+        "DHS Employee",
+        "DHS Funding",
+        "DHS Investigation",
+        "DHS Shutdown",
+        "Deportation",
+        "ICE",
+        "ICE Enforcement",
+        "Naturalization Fraud",
+        "Naturalization Process",
+        "TSA Agents",
+        "TSA Defunding",
+        "TSA Employees",
+        "TSA Escorts",
+        "TSA Funding",
+        "TSA Officers",
+        "TSA Policy",
+        "TSA Staffing",
+        "Transportation Security Administration"
+      ]
     },
     "Censorship": {
       "type": "topic",
-      "keywords": []
+      "keywords": [
+        "Campus Issues",
+        "Cancel Culture",
+        "FACE Act",
+        "First Amendment",
+        "Hate Speech Laws"
+      ]
     },
     "Cesar Chavez": {
       "type": "person",
@@ -223,7 +255,9 @@
     },
     "Christianity": {
       "type": "topic",
-      "keywords": []
+      "keywords": [
+        "Anti-Christian Bias"
+      ]
     },
     "Chuck Schumer": {
       "type": "person",
@@ -392,7 +426,47 @@
     },
     "Election Fraud": {
       "type": "topic",
-      "keywords": []
+      "keywords": [
+        "Ballot System",
+        "Ballots",
+        "Dead Voters",
+        "Election Anti-Fraud",
+        "Election Denial",
+        "Election Farce",
+        "Election Integrity",
+        "Election Machine",
+        "Election Machinery",
+        "Election Machines",
+        "Election Meddling",
+        "Election Official",
+        "Election Rigging",
+        "Forged Signatures",
+        "Fulton County",
+        "Homeless Voters",
+        "Illegal Alien Registered",
+        "Illegal Alien Voting",
+        "Insecure Election",
+        "Legal Right To Vote",
+        "Mail-In Ballots",
+        "Mail-In Voting",
+        "SAVE Act",
+        "SAVE America Act",
+        "Unregistered Voters",
+        "Voter Database",
+        "Voter Fraud",
+        "Voter Fraudster",
+        "Voter ID",
+        "Voter Identification",
+        "Voter Photo ID",
+        "Voter Photo-ID",
+        "Voter Rolls",
+        "Voter Suppression",
+        "Voter Treatment",
+        "Voter Verification",
+        "Voter Verifications",
+        "Voting Official",
+        "Voting Rights"
+      ]
     },
     "Elissa Slotkin": {
       "type": "person",
@@ -418,7 +492,10 @@
     },
     "Epstein": {
       "type": "topic",
-      "keywords": []
+      "keywords": [
+        "Pedophile",
+        "Pedophile Associate"
+      ]
     },
     "Eric Swalwell": {
       "type": "person",
@@ -663,7 +740,11 @@
     },
     "January 6 Protest": {
       "type": "topic",
-      "keywords": []
+      "keywords": [
+        "January 6 Capitol Attack",
+        "January 6 Committee",
+        "January 6th Capitol"
+      ]
     },
     "Jasmine Crockett": {
       "type": "person",
@@ -849,7 +930,26 @@
     },
     "Left-Wing": {
       "type": "topic",
-      "keywords": []
+      "keywords": [
+        "Anti-American Protesters",
+        "Antifa",
+        "Antifa-Democrats",
+        "Code Pink",
+        "CodePink",
+        "Collectivism",
+        "Leftism",
+        "Liberal Ideology",
+        "Molotov Cocktails",
+        "Molotov cocktail attack",
+        "Political Violence",
+        "Progressive-Democrat",
+        "Progressive-Left",
+        "Radical Left",
+        "Radical Politics",
+        "Soros",
+        "Soros-Democrat",
+        "White Liberals"
+      ]
     },
     "Letitia James": {
       "type": "person",
@@ -857,7 +957,14 @@
     },
     "LGBTQ": {
       "type": "topic",
-      "keywords": []
+      "keywords": [
+        "Bathroom Policies",
+        "Conversion Therapy",
+        "Gender Affirming Care",
+        "Gender Issues",
+        "Girls Sports",
+        "Transgender"
+      ]
     },
     "Lindsay James": {
       "type": "person",
@@ -1003,7 +1110,15 @@
     },
     "NYC": {
       "type": "topic",
-      "keywords": []
+      "keywords": [
+        "Mamdani Administration",
+        "NYC Childcare",
+        "NYC Council",
+        "NYC Grocery Stores",
+        "NYC Squatters",
+        "NYPD",
+        "New York City"
+      ]
     },
     "Oakland": {
       "type": "topic",
@@ -1061,7 +1176,43 @@
         "Travel Delays",
         "Turning Point USA",
         "Twitchy Politics",
-        "US Politics"
+        "US Politics",
+        "Political Accountability",
+        "Political Affiliation",
+        "Political Agenda",
+        "Political Alliances",
+        "Political Attacks",
+        "Political Bias",
+        "Political Bills",
+        "Political Candidate",
+        "Political Commentary",
+        "Political Controversy",
+        "Political Correctness",
+        "Political Corruption",
+        "Political Debanking",
+        "Political Discourse",
+        "Political Extremism",
+        "Political Ideology",
+        "Political Incitement",
+        "Political Investigations",
+        "Political Issue",
+        "Political Lies",
+        "Political Meltdown",
+        "Political Messaging",
+        "Political Migration",
+        "Political Mobilization",
+        "Political Opposition",
+        "Political Overdrive",
+        "Political Pandering",
+        "Political Polarization",
+        "Political Rant",
+        "Political Rhetoric",
+        "Political Scandal",
+        "Political Scandals",
+        "Political Strategy",
+        "Political Threats",
+        "Race Politics",
+        "Racial Politics"
       ]
     },
     "Polling": {
@@ -1092,7 +1243,16 @@
     },
     "Racial Issues": {
       "type": "topic",
-      "keywords": []
+      "keywords": [
+        "Anti-Discrimination Law",
+        "Anti-White Discrimination",
+        "Anti-White Racism",
+        "Black Voters",
+        "Charlottesville Rally",
+        "Civil Rights",
+        "Civil Rights Group",
+        "Civil Rights Lawsuit"
+      ]
     },
     "Rahm Emanuel": {
       "type": "person",
@@ -1330,7 +1490,9 @@
     },
     "U.S. Congress": {
       "type": "topic",
-      "keywords": []
+      "keywords": [
+        "Congress"
+      ]
     },
     "U.S. Constitution": {
       "type": "topic",
@@ -1338,7 +1500,13 @@
     },
     "Unions": {
       "type": "topic",
-      "keywords": []
+      "keywords": [
+        "AFSCME Union",
+        "Government Unions",
+        "SEIU Local 99",
+        "Teachers Unions",
+        "United Farm Workers"
+      ]
     },
     "Utah": {
       "type": "topic",
@@ -1385,11 +1553,19 @@
     },
     "WashingtonDC": {
       "type": "topic",
-      "keywords": []
+      "keywords": [
+        "DC Statehood"
+      ]
     },
     "Weaponization": {
       "type": "topic",
-      "keywords": []
+      "keywords": [
+        "Government Weaponization",
+        "Lawfare",
+        "Maximum Warfare",
+        "Political Weaponization",
+        "Weaponize Government"
+      ]
     },
     "Wes Moore": {
       "type": "person",
@@ -1441,7 +1617,11 @@
     },
     "Israel-Jews": {
       "type": "topic",
-      "keywords": []
+      "keywords": [
+        "Synagogue Attack",
+        "Temple Israel",
+        "Zionists"
+      ]
     },
     "Islam-Muslims": {
       "type": "topic",
@@ -1477,6 +1657,27 @@
     "2nd Amendment": {
       "type": "topic",
       "keywords": []
+    },
+    "Assassination": {
+      "type": "topic",
+      "keywords": [
+        "Assassination Attempt",
+        "Assassination Attempts",
+        "Assassination Joke",
+        "Assassination Plot",
+        "WHCD",
+        "WHCD Shooter",
+        "White House Correspondents",
+        "White House Correspondents' Dinner"
+      ]
+    },
+    "Non-Profit": {
+      "type": "topic",
+      "keywords": [
+        "Non-Profit Abuse",
+        "Nonprofit Accountability",
+        "Nonprofit Funding"
+      ]
     }
   },
   "articles": [
