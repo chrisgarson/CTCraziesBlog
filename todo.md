@@ -587,5 +587,8 @@
 - [x] Add Bernie as an alias for Bernie Sanders
 - [x] Verify and publish the updated typed person-tag index
 
+## Final Current Person and Topic Tag Exports
+- [x] Generate the current two-column Person-tag and Topic-tag CSV files with aliases or keywords
+
 ## Refreshed Two-Column Person Tag Export
 - [x] Generate the current Person-tag CSV with Person Tag in Column A and Aliases / Keywords in Column B
