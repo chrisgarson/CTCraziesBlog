@@ -19,7 +19,7 @@ export default function Page10() {
         tinyUrl="https://tinyurl.com/37587z82"
         xPostUrl="https://x.com/C3Heditor/status/2080030351288627282"
         imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-07-22_154159.jpg"
-        tags={["Economic Policy", "Governor Hochul", "New York"]}
+        tags={["Economic Policy", "Kathy Hochul", "New York"]}
       />
       <ArticleBlock
         headline="New York City Mayor Democrat-Communist Zohran Mamdani&#x27;s Proposed Tax Is Being Called &#x27;The Best Thing for Republicans&#x27; by Former Dem Governor"

@@ -138,7 +138,7 @@ export default function Page7() {
         tinyUrl="https://tinyurl.com/kpc3nzke"
         xPostUrl="https://x.com/C3Heditor/status/2082071568901914884"
         imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-07-28_065225.jpg"
-        tags={["Governor Tim Walz", "Minnesota", "Trump-Derangement", "Hate-Violence"]}
+        tags={["Tim Walz", "Minnesota", "Trump-Derangement", "Hate-Violence"]}
       />
       <ArticleBlock
         headline="‘Friend’ of Jeffrey Epstein, Democrat Representative Stacey Plaskett, Receives Max Donations For Her Gubernatorial Run From Epstein’s Political Fixer"

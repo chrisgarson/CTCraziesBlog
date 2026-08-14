@@ -1974,7 +1974,7 @@ const articles = [
     "xPostUrl": "https://x.com/C3Heditor/status/2082071568901914884",
     "imageUrl": "https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-07-28_065225.jpg",
     "tags": [
-        "Governor Tim Walz",
+        "Tim Walz",
         "Minnesota",
         "Trump-Derangement",
         "Hate-Violence"
@@ -2582,7 +2582,7 @@ const articles = [
     "imageUrl": "https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-07-22_154159.jpg",
     "tags": [
         "Economic Policy",
-        "Governor Hochul",
+        "Kathy Hochul",
         "New York"
     ],
     "page": 10,
@@ -8730,7 +8730,7 @@ const articles = [
     "imageUrl": "https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-05-08_162017_ba8c2d43.jpg",
     "tags": [
         "Government",
-        "Governor Ferguson",
+        "Bob Ferguson",
         "Journalism-MediaBias",
         "Washington"
     ],
@@ -8843,7 +8843,7 @@ const articles = [
     "imageUrl": "https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-05-08_154018_74c0fa52.jpg",
     "tags": [
         "Government",
-        "Governor Hochul",
+        "Kathy Hochul",
         "New York"
     ],
     "page": 32,
@@ -8856,7 +8856,7 @@ const articles = [
     "xPostUrl": "https://x.com/C3Heditor/status/2052849683198865889",
     "imageUrl": "https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-05-08_084053_b55d7b32.jpg",
     "tags": [
-        "Governor Tim Walz",
+        "Tim Walz",
         "Minnesota",
         "Taxation"
     ],

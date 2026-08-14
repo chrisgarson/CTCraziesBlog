@@ -2996,6 +2996,22 @@
       }
     ]
   },
+  "Bob Ferguson": {
+    "type": "person",
+    "articles": [
+      {
+        "headline": "Proof That Democrats Hate Transparency: Washington Governor Eliminates Press Access Across State Agencies",
+        "tinyUrl": "https://tinyurl.com/yh5vba52",
+        "xPostUrl": "https://x.com/C3Heditor/status/2052861351979016616",
+        "imageUrl": "https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-05-08_162017_ba8c2d43.jpg",
+        "page": 32,
+        "batchDate": "May 08, 2026"
+      }
+    ],
+    "keywords": [
+      "Governor Ferguson"
+    ]
+  },
   "Boston": {
     "type": "topic",
     "articles": [
@@ -14255,61 +14271,6 @@
       }
     ]
   },
-  "Governor Ferguson": {
-    "type": "person",
-    "articles": [
-      {
-        "headline": "Proof That Democrats Hate Transparency: Washington Governor Eliminates Press Access Across State Agencies",
-        "tinyUrl": "https://tinyurl.com/yh5vba52",
-        "xPostUrl": "https://x.com/C3Heditor/status/2052861351979016616",
-        "imageUrl": "https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-05-08_162017_ba8c2d43.jpg",
-        "page": 32,
-        "batchDate": "May 08, 2026"
-      }
-    ]
-  },
-  "Governor Hochul": {
-    "type": "person",
-    "articles": [
-      {
-        "headline": "As Wealthy Residents Flee New York, Democrat Governor Hochul Blames Trump and COVID Instead",
-        "tinyUrl": "https://tinyurl.com/37587z82",
-        "xPostUrl": "https://x.com/C3Heditor/status/2080030351288627282",
-        "imageUrl": "https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-07-22_154159.jpg",
-        "page": 10,
-        "batchDate": "July 22, 2026"
-      },
-      {
-        "headline": "Budget Rollout Disaster: New York Leaders Embarrass Incompetent Democrat Governor Hochul",
-        "tinyUrl": "https://tinyurl.com/ymvzfze5",
-        "xPostUrl": "https://x.com/C3Heditor/status/2052850912104702232",
-        "imageUrl": "https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-05-08_154018_74c0fa52.jpg",
-        "page": 32,
-        "batchDate": "May 08, 2026"
-      }
-    ]
-  },
-  "Governor Tim Walz": {
-    "type": "person",
-    "articles": [
-      {
-        "headline": "The Democrat Governor Tim Walz Appointee Who Assassinated Democrat Lawmakers Is Sentenced to Life Imprisonment",
-        "tinyUrl": "https://tinyurl.com/kpc3nzke",
-        "xPostUrl": "https://x.com/C3Heditor/status/2082071568901914884",
-        "imageUrl": "https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-07-28_065225.jpg",
-        "page": 7,
-        "batchDate": "2026-07-28"
-      },
-      {
-        "headline": "Minnesota Democrat Governor Walz Slammed As A Fraud Over Alleged $9 Billion In Taxpayer Theft",
-        "tinyUrl": "https://tinyurl.com/5f5dce9t",
-        "xPostUrl": "https://x.com/C3Heditor/status/2052849683198865889",
-        "imageUrl": "https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-05-08_084053_b55d7b32.jpg",
-        "page": 32,
-        "batchDate": "May 08, 2026"
-      }
-    ]
-  },
   "Graham Platner": {
     "type": "person",
     "articles": [
@@ -20917,12 +20878,28 @@
     "type": "person",
     "articles": [
       {
+        "headline": "As Wealthy Residents Flee New York, Democrat Governor Hochul Blames Trump and COVID Instead",
+        "tinyUrl": "https://tinyurl.com/37587z82",
+        "xPostUrl": "https://x.com/C3Heditor/status/2080030351288627282",
+        "imageUrl": "https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-07-22_154159.jpg",
+        "page": 10,
+        "batchDate": "July 22, 2026"
+      },
+      {
         "headline": "Former NY Governor Democrat David Paterson Rips Fellow Dem Gov Kathy Hochul & Others Over Their Partisan Redistricting Push",
         "tinyUrl": "https://tinyurl.com/y7zcyre9",
         "xPostUrl": "https://x.com/C3Heditor/status/2065505465040007407",
         "imageUrl": "https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-06-12_134451_df74b913.jpg",
         "page": 20,
         "batchDate": "June 12, 2026"
+      },
+      {
+        "headline": "Budget Rollout Disaster: New York Leaders Embarrass Incompetent Democrat Governor Hochul",
+        "tinyUrl": "https://tinyurl.com/ymvzfze5",
+        "xPostUrl": "https://x.com/C3Heditor/status/2052850912104702232",
+        "imageUrl": "https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-05-08_154018_74c0fa52.jpg",
+        "page": 32,
+        "batchDate": "May 08, 2026"
       },
       {
         "headline": "Gov. Hochul Targets Wealthy New Yorkers With New Democrat Tax On 2nd Homes Valued Above Five Million",
@@ -20988,6 +20965,9 @@
         "page": 71,
         "batchDate": "Feb 21, 2026"
       }
+    ],
+    "keywords": [
+      "Governor Hochul"
     ]
   },
   "Katie Hobbs": {
@@ -31912,6 +31892,14 @@
     "type": "person",
     "articles": [
       {
+        "headline": "The Democrat Governor Tim Walz Appointee Who Assassinated Democrat Lawmakers Is Sentenced to Life Imprisonment",
+        "tinyUrl": "https://tinyurl.com/kpc3nzke",
+        "xPostUrl": "https://x.com/C3Heditor/status/2082071568901914884",
+        "imageUrl": "https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-07-28_065225.jpg",
+        "page": 7,
+        "batchDate": "2026-07-28"
+      },
+      {
         "headline": "Minnesota Democrat Gov. Tim Walz Pardons Illegal Alien Who Raped a Child Repeatedly Thus Shielding the Immigrant From Deportation",
         "tinyUrl": "https://tinyurl.com/tnkbf8ru",
         "xPostUrl": "https://x.com/C3Heditor/status/2075541023694991441",
@@ -31942,6 +31930,14 @@
         "imageUrl": "https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-05-29_114853_1bec4a63.jpg",
         "page": 26,
         "batchDate": "May 29, 2026"
+      },
+      {
+        "headline": "Minnesota Democrat Governor Walz Slammed As A Fraud Over Alleged $9 Billion In Taxpayer Theft",
+        "tinyUrl": "https://tinyurl.com/5f5dce9t",
+        "xPostUrl": "https://x.com/C3Heditor/status/2052849683198865889",
+        "imageUrl": "https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-05-08_084053_b55d7b32.jpg",
+        "page": 32,
+        "batchDate": "May 08, 2026"
       },
       {
         "headline": "Minnesota Fraud Hearing Moves Forward Without The Major Fraud Facilitator, The Democrat Governor, Who Refuses To Appear",
@@ -31991,6 +31987,9 @@
         "page": 69,
         "batchDate": "Feb 20, 2026"
       }
+    ],
+    "keywords": [
+      "Governor Tim Walz"
     ]
   },
   "Tina McKinnor": {

@@ -564,3 +564,12 @@
 
 ## Person Tag Aliases and Keywords CSV Export
 - [x] Generate an updated Person-tag CSV that includes each tag's aliases and keywords
+
+## Corrected Two-Column Person Tag Export
+- [x] Recreate the Person-tag CSV with Person Tag in Column A and Aliases / Keywords in Column B only
+
+## Governor-Form Person Tag Consolidations
+- [x] Merge Governor Hochul into Kathy Hochul and preserve Governor Hochul as an alias
+- [x] Merge Governor Tim Walz into Tim Walz and preserve Governor Tim Walz as an alias
+- [x] Create Bob Ferguson as a person tag, merge Governor Ferguson into it, and preserve Governor Ferguson as an alias
+- [ ] Verify and publish the consolidated typed person-tag index

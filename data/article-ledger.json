@@ -568,18 +568,6 @@
       "type": "topic",
       "keywords": []
     },
-    "Governor Ferguson": {
-      "type": "person",
-      "keywords": []
-    },
-    "Governor Hochul": {
-      "type": "person",
-      "keywords": []
-    },
-    "Governor Tim Walz": {
-      "type": "person",
-      "keywords": []
-    },
     "Graham Platner": {
       "type": "person",
       "keywords": []
@@ -886,7 +874,9 @@
     },
     "Kathy Hochul": {
       "type": "person",
-      "keywords": []
+      "keywords": [
+        "Governor Hochul"
+      ]
     },
     "Katie Porter": {
       "type": "person",
@@ -1457,7 +1447,9 @@
     },
     "Tim Walz": {
       "type": "person",
-      "keywords": []
+      "keywords": [
+        "Governor Tim Walz"
+      ]
     },
     "Tina McKinnor": {
       "type": "person",
@@ -1677,6 +1669,12 @@
         "Non-Profit Abuse",
         "Nonprofit Accountability",
         "Nonprofit Funding"
+      ]
+    },
+    "Bob Ferguson": {
+      "type": "person",
+      "keywords": [
+        "Governor Ferguson"
       ]
     }
   },
@@ -3790,7 +3788,7 @@
       "xPostUrl": "https://x.com/C3Heditor/status/2082071568901914884",
       "imageUrl": "https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-07-28_065225.jpg",
       "tags": [
-        "Governor Tim Walz",
+        "Tim Walz",
         "Minnesota",
         "Trump-Derangement",
         "Hate-Violence"
@@ -4441,7 +4439,7 @@
       "imageUrl": "https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-07-22_154159.jpg",
       "tags": [
         "Economic Policy",
-        "Governor Hochul",
+        "Kathy Hochul",
         "New York"
       ],
       "batchDate": "July 22, 2026",
@@ -11028,7 +11026,7 @@
       "imageUrl": "https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-05-08_162017_ba8c2d43.jpg",
       "tags": [
         "Government",
-        "Governor Ferguson",
+        "Bob Ferguson",
         "Journalism-MediaBias",
         "Washington"
       ],
@@ -11149,7 +11147,7 @@
       "imageUrl": "https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-05-08_154018_74c0fa52.jpg",
       "tags": [
         "Government",
-        "Governor Hochul",
+        "Kathy Hochul",
         "New York"
       ],
       "batchDate": "May 08, 2026",
@@ -11163,7 +11161,7 @@
       "xPostUrl": "https://x.com/C3Heditor/status/2052849683198865889",
       "imageUrl": "https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-05-08_084053_b55d7b32.jpg",
       "tags": [
-        "Governor Tim Walz",
+        "Tim Walz",
         "Minnesota",
         "Taxation"
       ],

@@ -12,7 +12,7 @@ export default function Page32() {
         tinyUrl="https://tinyurl.com/yh5vba52"
         xPostUrl="https://x.com/C3Heditor/status/2052861351979016616"
         imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-05-08_162017_ba8c2d43.jpg"
-        tags={["Government", "Governor Ferguson", "Journalism-MediaBias", "Washington"]}
+        tags={["Government", "Bob Ferguson", "Journalism-MediaBias", "Washington"]}
       />
       <ArticleBlock
         headline="Democrat Mob Censorship: Free Speech Emergency That UCLA Is Desperately Trying To Hide"
@@ -68,14 +68,14 @@ export default function Page32() {
         tinyUrl="https://tinyurl.com/ymvzfze5"
         xPostUrl="https://x.com/C3Heditor/status/2052850912104702232"
         imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-05-08_154018_74c0fa52.jpg"
-        tags={["Government", "Governor Hochul", "New York"]}
+        tags={["Government", "Kathy Hochul", "New York"]}
       />
       <ArticleBlock
         headline="Minnesota Democrat Governor Walz Slammed As A Fraud Over Alleged $9 Billion In Taxpayer Theft"
         tinyUrl="https://tinyurl.com/5f5dce9t"
         xPostUrl="https://x.com/C3Heditor/status/2052849683198865889"
         imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-05-08_084053_b55d7b32.jpg"
-        tags={["Governor Tim Walz", "Minnesota", "Taxation"]}
+        tags={["Tim Walz", "Minnesota", "Taxation"]}
       />
       <ArticleBlock
         headline="Activist Chaos At NYC ICE Protest As Police Arrest Nigerian Illegal Alien Who Weaponized His Vehicle Against Agents"

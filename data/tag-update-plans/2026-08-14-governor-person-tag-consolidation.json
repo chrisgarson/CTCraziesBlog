@@ -1,0 +1,19 @@
+{
+  "merges": [
+    {
+      "sources": ["Governor Hochul"],
+      "target": "Kathy Hochul",
+      "type": "person"
+    },
+    {
+      "sources": ["Governor Tim Walz"],
+      "target": "Tim Walz",
+      "type": "person"
+    },
+    {
+      "sources": ["Governor Ferguson"],
+      "target": "Bob Ferguson",
+      "type": "person"
+    }
+  ]
+}
