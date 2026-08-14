@@ -585,7 +585,7 @@
 - [x] Create Michelle Obama as a person tag
 - [x] Consolidate Barack Obama into canonical Obama and preserve Barack Obama as an alias
 - [x] Add Bernie as an alias for Bernie Sanders
-- [ ] Verify and publish the updated typed person-tag index
+- [x] Verify and publish the updated typed person-tag index
 
 ## Refreshed Two-Column Person Tag Export
 - [x] Generate the current Person-tag CSV with Person Tag in Column A and Aliases / Keywords in Column B
