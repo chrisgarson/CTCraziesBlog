@@ -22,7 +22,7 @@ export default function Home() {
         tags={["Abdul El-Sayed", "Michigan", "Communism-Socialism", "Culture War"]}
       />
       <ArticleBlock
-        headline="Mainstream Media Narrative That Wisconsin Democrat David Crowley Is Blatant Misinformation as He Admits His Policies Are Similar to Marxist Francesca Hong&#x27;s"
+        headline="Mainstream Media Narrative That Wisconsin Democrat David Crowley Is a &#x27;Moderate&#x27; Is Blatant Misinformation as He Admits His Policies Are Similar to Marxist Francesca Hong&#x27;s"
         tinyUrl="https://townhall.com/news/amy-curtis/2026/08/13/crowley-i-didnt-stop-the-progressive-wave-n2681169"
         xPostUrl="https://x.com/C3Heditor/status/2088670698294165970"
         imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-08-15_115527.jpg"

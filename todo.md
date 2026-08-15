@@ -611,5 +611,8 @@
 - [x] Apply the approved batch, regenerate every derived page and index, and publish after required verification
 - [ ] Complete the fresh post-publication sampling audit when the authoritative complete-list workbook is available
 
+## NUM 1458 Headline Correction
+- [ ] Replace NUM 1458’s headline with the exact user-supplied wording and republish only that correction
+
 ## Refreshed Two-Column Person Tag Export
 - [x] Generate the current Person-tag CSV with Person Tag in Column A and Aliases / Keywords in Column B

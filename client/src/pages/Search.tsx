@@ -34,7 +34,7 @@ const articles = [
 },
 {
     "num": 1458,
-    "headline": "Mainstream Media Narrative That Wisconsin Democrat David Crowley Is Blatant Misinformation as He Admits His Policies Are Similar to Marxist Francesca Hong's",
+    "headline": "Mainstream Media Narrative That Wisconsin Democrat David Crowley Is a 'Moderate' Is Blatant Misinformation as He Admits His Policies Are Similar to Marxist Francesca Hong's",
     "tinyUrl": "https://townhall.com/news/amy-curtis/2026/08/13/crowley-i-didnt-stop-the-progressive-wave-n2681169",
     "xPostUrl": "https://x.com/C3Heditor/status/2088670698294165970",
     "imageUrl": "https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-08-15_115527.jpg",
