@@ -17,7 +17,15 @@ No TinyURL connector is currently configured for this task.
 
 The user must decide whether this step should run automatically for every future batch or only when explicitly requested. The user must also provide a TinyURL API token or approve configuring a TinyURL connector. The existing publication workflow remains unchanged until those decisions are made.
 
+## IS.gd alternative assessment
+
+IS.gd documents a public HTTPS API at `https://is.gd/create.php`. It accepts a GET or POST request, requires the long URL parameter to be URL encoded, and can return JSON in the form `{ "shorturl": "https://is.gd/..." }`. The published documentation does not require an API token. It warns that the API is primarily intended for low-volume or end-user applications, allows no more than five simultaneous connections, and applies per-IP rate limits. It requires a client that reaches the rate limit to pause before retrying. These constraints are compatible with a 20-article batch only if requests are sequential or tightly limited, with explicit handling for the documented rate-limit and service errors.
+
+IS.gd can therefore serve as an alternative for the separate downloadable short-link list. However, because its links are created without an account credential, the proposed workflow cannot provide account-level link inventory, authenticated management, or the same credential-controlled operational trace offered by TinyURL. The Source URL in the canonical article ledger must remain unchanged regardless of the selected provider.
+
 ## Official sources
 
 - TinyURL OpenAPI documentation: https://api.tinyurl.com/
 - TinyURL API feature overview: https://tinyurl.com/app/features/url-shortener-api
+- IS.gd Developer Section: https://is.gd/developers.php
+- IS.gd URL Shortening API Reference: https://is.gd/apishorteningreference.php

@@ -596,6 +596,7 @@
 
 ## TinyURL Batch Output Assessment
 - [x] Assess a safeguarded TinyURL-generation step that produces a downloadable text file after each article batch
+- [x] Assess whether IS.gd can safely replace TinyURL for the optional shortened-link output
 
 ## Refreshed Two-Column Person Tag Export
 - [x] Generate the current Person-tag CSV with Person Tag in Column A and Aliases / Keywords in Column B
