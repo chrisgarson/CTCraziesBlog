@@ -1,0 +1,29 @@
+{
+  "batchDate": "2026-08-15",
+  "status": "approved-user-edits",
+  "proposedNewPersonTags": ["Chris Matthews", "Chris Rabb", "Maura Healey"],
+  "proposedNewTopicTagsRequiringApproval": [],
+  "allowFiveTagNums": [1458],
+  "tags": {
+    "1460": ["Chris Matthews", "Communism-Socialism", "Left-Wing"],
+    "1459": ["Abdul El-Sayed", "Michigan", "Communism-Socialism", "Culture War"],
+    "1458": ["David Crowley", "Francesca Hong", "Wisconsin", "Journalism-MediaBias", "Communism-Socialism"],
+    "1457": ["JB Pritzker", "Illinois", "Taxation", "Government"],
+    "1456": ["Ro Khanna", "Israel-Jews", "Hate-Violence"],
+    "1455": ["Chris Rabb", "Philadelphia", "Immigration", "Communism-Socialism"],
+    "1454": ["Zohran Mamdani", "NYC", "Government", "Economic Policy"],
+    "1453": ["DOJ", "Government", "Left-Wing"],
+    "1452": ["Maura Healey", "Massachusetts", "Government", "Culture War"],
+    "1451": ["Immigration", "CBP-DHS-ICE", "Hate-Violence"],
+    "1450": ["Hate-Violence", "Left-Wing"],
+    "1449": ["Immigration", "CBP-DHS-ICE", "Corruption-Fraud"],
+    "1448": ["Education Policy", "Left-Wing", "Culture War"],
+    "1447": ["Peggy Flanagan", "Minnesota", "Immigration", "CBP-DHS-ICE"],
+    "1446": ["FBI", "Corruption-Fraud", "Gaslight-Lies", "Government"],
+    "1445": ["Culture War", "Racial Issues", "Left-Wing"],
+    "1444": ["Zohran Mamdani", "NYC", "Government", "Incompetence"],
+    "1443": ["Journalism-MediaBias", "Trump-Derangement", "Healthcare Policy"],
+    "1442": ["Michigan", "2026 Elections", "Left-Wing", "Communism-Socialism"],
+    "1441": ["Racial Issues", "Communism-Socialism", "Culture War", "2026 Elections"]
+  }
+}

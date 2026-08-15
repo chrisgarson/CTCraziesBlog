@@ -597,6 +597,19 @@
 ## TinyURL Batch Output Assessment
 - [x] Assess a safeguarded TinyURL-generation step that produces a downloadable text file after each article batch
 - [x] Assess whether IS.gd can safely replace TinyURL for the optional shortened-link output
+- [x] Run a standalone rate-limited IS.gd test using the 20 Source URLs in CTCInfo08132026.xlsx and deliver the results file
+- [x] Use the user-confirmed Column B NUM and Column E Source URL mapping for the isolated IS.gd test
+- [x] Diagnose the uniform IS.gd "database insert failed" response before drawing a test conclusion
+
+## August 15 2026 Twenty-Article Batch
+- [x] Inspect CTCInfoImages08152026.zip and validate its workbook, NUM sequence, and image package
+- [x] Resolve the mismatch between the workbook's Column E-to-G headers and the actual row data before preparing the batch
+- [x] Validate CTCInfoCorrected08152026.xlsx as the replacement authoritative workbook for this batch
+- [x] Prepare the exact-headline article draft and proposed 2-to-4 tag assignments for review
+- [x] Obtain approval for the August 15 edited tag plan and the NUM 1458 five-tag exception
+- [x] Reconcile the user-edited August 15 tag-review document into the final non-publishing tag plan
+- [ ] Apply the approved batch, regenerate every derived page and index, and publish after required verification
+- [ ] Complete the fresh post-publication sampling audit when the authoritative complete-list workbook is available
 
 ## Refreshed Two-Column Person Tag Export
 - [x] Generate the current Person-tag CSV with Person Tag in Column A and Aliases / Keywords in Column B
