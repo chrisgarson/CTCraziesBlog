@@ -594,5 +594,8 @@
 - [x] Replace the Left-Wing topic tag's keywords with the exact 24 user-supplied values while preserving its article associations
 - [x] Verify and publish the synchronized typed topic-tag index update
 
+## TinyURL Batch Output Assessment
+- [x] Assess a safeguarded TinyURL-generation step that produces a downloadable text file after each article batch
+
 ## Refreshed Two-Column Person Tag Export
 - [x] Generate the current Person-tag CSV with Person Tag in Column A and Aliases / Keywords in Column B
