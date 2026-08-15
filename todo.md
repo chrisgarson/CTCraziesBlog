@@ -608,7 +608,7 @@
 - [x] Prepare the exact-headline article draft and proposed 2-to-4 tag assignments for review
 - [x] Obtain approval for the August 15 edited tag plan and the NUM 1458 five-tag exception
 - [x] Reconcile the user-edited August 15 tag-review document into the final non-publishing tag plan
-- [ ] Apply the approved batch, regenerate every derived page and index, and publish after required verification
+- [x] Apply the approved batch, regenerate every derived page and index, and publish after required verification
 - [ ] Complete the fresh post-publication sampling audit when the authoritative complete-list workbook is available
 
 ## Refreshed Two-Column Person Tag Export
