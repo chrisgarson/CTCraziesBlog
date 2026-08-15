@@ -57,11 +57,11 @@ export default function Home() {
         tags={["Zohran Mamdani", "NYC", "Government", "Economic Policy"]}
       />
       <ArticleBlock
-        headline="&#x27;Debanking&#x27; of Conservatives During Democrat Administrations Results in Major U.S. Banks Being Hit With DOJ Subpoenas"
+        headline="&#x27;Debanking&#x27; of Conservatives During Democrat Administration Weaponizations Results in Major U.S. Banks Being Hit With DOJ Subpoenas"
         tinyUrl="https://justthenews.com/politics-policy/doj-subpoenas-major-us-banks-info-debanking-political-account-closures"
         xPostUrl="https://x.com/C3Heditor/status/2088666585070256391"
         imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-08-15_113840.jpg"
-        tags={["DOJ", "Government", "Left-Wing"]}
+        tags={["DOJ", "Government", "Left-Wing", "Weaponization"]}
       />
       <ArticleBlock
         headline="Massachusetts Democrat Gov. Maura Healey Signs &#x27;Barbaric&#x27; Abortion Bill That Even Dems Are Raising Concerns About"

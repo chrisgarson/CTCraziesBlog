@@ -614,5 +614,8 @@
 ## NUM 1458 Headline Correction
 - [x] Replace NUM 1458’s headline with the exact user-supplied wording and republish only that correction
 
+## NUM 1453 Headline and Tag Correction
+- [ ] Replace NUM 1453’s headline with the exact user-supplied wording, add Weaponization, and republish only those corrections
+
 ## Refreshed Two-Column Person Tag Export
 - [x] Generate the current Person-tag CSV with Person Tag in Column A and Aliases / Keywords in Column B

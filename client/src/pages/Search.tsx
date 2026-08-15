@@ -109,14 +109,15 @@ const articles = [
 },
 {
     "num": 1453,
-    "headline": "'Debanking' of Conservatives During Democrat Administrations Results in Major U.S. Banks Being Hit With DOJ Subpoenas",
+    "headline": "'Debanking' of Conservatives During Democrat Administration Weaponizations Results in Major U.S. Banks Being Hit With DOJ Subpoenas",
     "tinyUrl": "https://justthenews.com/politics-policy/doj-subpoenas-major-us-banks-info-debanking-political-account-closures",
     "xPostUrl": "https://x.com/C3Heditor/status/2088666585070256391",
     "imageUrl": "https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-08-15_113840.jpg",
     "tags": [
         "DOJ",
         "Government",
-        "Left-Wing"
+        "Left-Wing",
+        "Weaponization"
     ],
     "page": 1,
     "batchDate": "2026-08-15"
