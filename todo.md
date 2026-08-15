@@ -617,5 +617,8 @@
 ## NUM 1453 Headline and Tag Correction
 - [x] Replace NUM 1453’s headline with the exact user-supplied wording, add Weaponization, and republish only those corrections
 
+## Future Batch Tag Review Format
+- [x] Use an editable DOCX table with NUM, exact X-Post headline, and proposed tags as the standard review document for future batches
+
 ## Refreshed Two-Column Person Tag Export
 - [x] Generate the current Person-tag CSV with Person Tag in Column A and Aliases / Keywords in Column B
