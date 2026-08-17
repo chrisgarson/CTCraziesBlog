@@ -631,5 +631,8 @@
 ## August 17 Production Rendering Verification
 - [x] Diagnose and resolve the blank production homepage observed immediately after deployment
 
+## NUM 1478 Headline Correction
+- [ ] Replace NUM 1478’s headline with the exact user-supplied wording and republish only that correction
+
 ## Refreshed Two-Column Person Tag Export
 - [x] Generate the current Person-tag CSV with Person Tag in Column A and Aliases / Keywords in Column B

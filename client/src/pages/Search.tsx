@@ -34,7 +34,7 @@ const articles = [
 },
 {
     "num": 1478,
-    "headline": "Anti-White Racist Ro Khanna Promotes 'Multi-Racial New Deal' As He Frames Racist America as Needing a Democrat Solution",
+    "headline": "Anti-White Racist Ro Khanna Promotes 'Multi-Racial New Deal' As He Frames Racist America as Needing a Democrat Final \"Solution\"",
     "tinyUrl": "https://townhall.com/news/josephchalfant/2026/08/16/democrat-ro-khanna-thinks-that-racist-america-needs-a-multi-racial-new-deal-n2681323",
     "xPostUrl": "https://x.com/C3Heditor/status/2089319687939059833",
     "imageUrl": "https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-08-17_065404.jpg",
