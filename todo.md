@@ -625,8 +625,11 @@
 - [x] Prepare an editable DOCX review table with exact headlines and proposed 2-to-4 tag assignments
 - [x] Reconcile the user-edited August 17 DOCX into the final approved tag plan
 - [x] Apply the user-approved edits from EditedAug17_2026_Twenty-Article_Batch_Tag_Review.docx
-- [ ] Apply the user-approved batch, regenerate every derived page and index, and publish after required verification
+- [x] Apply the user-approved batch, regenerate every derived page and index, and publish after required verification
 - [ ] Complete the fresh post-publication sampling audit when the authoritative complete-list workbook is available
+
+## August 17 Production Rendering Verification
+- [x] Diagnose and resolve the blank production homepage observed immediately after deployment
 
 ## Refreshed Two-Column Person Tag Export
 - [x] Generate the current Person-tag CSV with Person Tag in Column A and Aliases / Keywords in Column B
