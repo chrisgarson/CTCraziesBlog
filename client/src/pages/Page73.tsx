@@ -95,7 +95,7 @@ export default function Page73() {
         headline="&quot;Moderate&quot; Democrat VA Governor Spanberger Signs Bills for Abortion &amp; Redistricting Amendments"
         tinyUrl="https://tinyurl.com/4acua8z5"
         xPostUrl="https://x.com/C3Heditor/status/2020245649586016603"
-        imageSrc="https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/2026-02-19_102758_b7a1cf36.jpg"
+        imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/2026-02-19_102758_b7a1cf36.jpg"
         tags={["2026 Elections", "Abigail Spanberger", "U.S. Constitution", "Virginia"]}
       />
       <ArticleBlock
