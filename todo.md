@@ -648,6 +648,9 @@
 ## Future Image Storage Capacity
 - [x] Assess the impact of 1,000 additional 225 KB article images and document the scalable storage safeguard
 
+## Cloudflare R2 Image Hosting Assessment
+- [x] Assess the setup effort, prerequisites, and safe rollout for an R2 bucket with a CTCrazies image subdomain
+
 ## Missing Historical Image Recovery
 - [x] Locate a viable source-page recovery path for the 581 missing historical images
 - [x] Recover 538 missing image assets from article-source metadata and identify the exact-original-asset path for the remainder
