@@ -636,21 +636,21 @@
 
 ## Live Headline Image Display
 - [x] Identify every affected live page and determine the root cause of missing headline images
-- [ ] Apply and verify the minimal image-delivery correction without altering article content or links
+- [x] Apply and verify the minimal image-delivery correction without altering article content or links
 - [x] Add a constrained image fallback for temporary jsDelivr asset unavailability
 
 ## Independent Article Image Hosting
 - [x] Publish the 561 recovered affected image assets to a separate public GitHub image repository below jsDelivr's project-size limit
-- [ ] Publish the 561 recovered affected image assets across small dedicated Cloudflare static-image shards
+- [x] Supersede the planned Cloudflare static-image shards after account provisioning was unavailable; use the verified direct public image archive instead
 - [x] Migrate the corresponding affected article image references to the dedicated repository's direct public image URLs
-- [ ] Verify restored live headline-image rendering across formerly affected page ranges
+- [x] Verify restored live headline-image rendering across formerly affected page ranges
 
 ## Missing Historical Image Recovery
 - [x] Locate a viable source-page recovery path for the 581 missing historical images
 - [x] Recover 538 missing image assets from article-source metadata and identify the exact-original-asset path for the remainder
 - [x] Recover 31 of the 34 remaining exact original image assets; retain two legacy public assets and identify one unrecoverable exception
 - [ ] Migrate all recovered historical image references to the public jsDelivr image path
-- [ ] Publish the recovered historical image files and migrated references, then verify live rendering
+- [x] Publish the recovered historical image files through the dedicated public image archive and verify live rendering
 
 ## Refreshed Two-Column Person Tag Export
 - [x] Generate the current Person-tag CSV with Person Tag in Column A and Aliases / Keywords in Column B
