@@ -653,7 +653,7 @@
 - [x] Publish the recovered historical image files through the dedicated public image archive and verify live rendering
 
 ## NUM 393 Final Image Restoration
-- [ ] Install the user-supplied NUM 393 image under the canonical filename and republish only that correction
+- [x] Install the user-supplied NUM 393 image under the canonical filename and republish only that correction
 
 ## Refreshed Two-Column Person Tag Export
 - [x] Generate the current Person-tag CSV with Person Tag in Column A and Aliases / Keywords in Column B
