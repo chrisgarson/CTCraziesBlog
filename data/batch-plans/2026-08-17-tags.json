@@ -1,0 +1,29 @@
+{
+  "batchDate": "2026-08-17",
+  "status": "approved-user-edits",
+  "proposedNewPersonTags": ["Analilia Mejia", "Adam Hamilton", "Jill Biden"],
+  "proposedNewTopicTagsRequiringApproval": [],
+  "allowFiveTagNums": [1473, 1470, 1469, 1466, 1465, 1462],
+  "tags": {
+    "1480": ["Hasan Piker", "Communism-Socialism", "Left-Wing"],
+    "1479": ["Analilia Mejia", "Immigration", "CBP-DHS-ICE", "Communism-Socialism"],
+    "1478": ["Ro Khanna", "Racial Issues", "Communism-Socialism", "Culture War"],
+    "1477": ["James Talarico", "Texas", "Left-Wing", "Communism-Socialism"],
+    "1476": ["James Talarico", "Texas", "Left-Wing", "Gaslight-Lies"],
+    "1475": ["Darializa Avila Chevalier", "Zohran Mamdani", "NYC", "Communism-Socialism"],
+    "1474": ["Bill Maher", "Darializa Avila Chevalier", "Communism-Socialism", "Culture War"],
+    "1473": ["Adam Hamilton", "Islam-Muslims", "Culture War", "2026 Elections", "Gaslight-Lies"],
+    "1472": ["Hakeem Jeffries", "Judiciary-Judicial", "Government", "U.S. Constitution"],
+    "1471": ["Kamala Harris", "Judiciary-Judicial", "Government", "U.S. Constitution"],
+    "1470": ["Abdul El-Sayed", "Michigan", "Communism-Socialism", "2026 Elections", "Gaslight-Lies"],
+    "1469": ["Troy Jackson", "Maine", "Violent Crime", "2026 Elections", "Communism-Socialism"],
+    "1468": ["Abdul El-Sayed", "Islam-Muslims", "Israel-Jews", "Hate-Violence"],
+    "1467": ["Minnesota", "2026 Elections", "Election Fraud", "Incompetence"],
+    "1466": ["Dr. Anthony Fauci", "Censorship", "Journalism-MediaBias", "Science", "Gaslight-Lies"],
+    "1465": ["Michelle Wu", "Massachusetts", "Violent Crime", "Communism-Socialism", "Incompetence"],
+    "1464": ["California", "Education Policy", "Islam-Muslims", "Culture War"],
+    "1463": ["Jill Biden", "Michigan", "2026 Elections", "Left-Wing"],
+    "1462": ["Peggy Flanagan", "Minnesota", "Immigration", "National Security", "Communism-Socialism"],
+    "1461": ["Gavin Newsom", "California", "Homeless", "Incompetence"]
+  }
+}
