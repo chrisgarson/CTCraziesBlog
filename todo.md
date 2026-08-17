@@ -645,6 +645,9 @@
 - [x] Migrate the corresponding affected article image references to the dedicated repository's direct public image URLs
 - [x] Verify restored live headline-image rendering across formerly affected page ranges
 
+## Future Image Storage Capacity
+- [x] Assess the impact of 1,000 additional 225 KB article images and document the scalable storage safeguard
+
 ## Missing Historical Image Recovery
 - [x] Locate a viable source-page recovery path for the 581 missing historical images
 - [x] Recover 538 missing image assets from article-source metadata and identify the exact-original-asset path for the remainder
