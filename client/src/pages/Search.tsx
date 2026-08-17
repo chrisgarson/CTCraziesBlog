@@ -15172,7 +15172,7 @@ const articles = [
     "headline": "Americans Blast Democrat Gov. Newsom Over the Synagogue Attack — His Own anti-Semitic Rhetoric Is the Problem",
     "tinyUrl": "https://tinyurl.com/asmpbcwn",
     "xPostUrl": "https://x.com/C3Heditor/status/2038339293580583349",
-    "imageUrl": "https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/2026-03-29",
+    "imageUrl": "https://raw.githubusercontent.com/chrisgarson/CTCraziesImageArchive/main/2026-03-291312792630.jpg",
     "tags": [
         "California",
         "Gavin Newsom",

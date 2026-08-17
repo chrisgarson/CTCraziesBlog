@@ -60,7 +60,7 @@ export default function Page55() {
         headline="Americans Blast Democrat Gov. Newsom Over the Synagogue Attack — His Own anti-Semitic Rhetoric Is the Problem"
         tinyUrl="https://tinyurl.com/asmpbcwn"
         xPostUrl="https://x.com/C3Heditor/status/2038339293580583349"
-        imageSrc="https://d2xsxph8kpxj0f.cloudfront.net/310419663027968276/diaZZv9B9aBWPyk7ymHmxE/2026-03-29"
+        imageSrc="https://raw.githubusercontent.com/chrisgarson/CTCraziesImageArchive/main/2026-03-291312792630.jpg"
         tags={["California", "Gavin Newsom", "Israel-Jews"]}
       />
       <ArticleBlock
