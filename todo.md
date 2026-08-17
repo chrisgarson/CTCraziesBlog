@@ -637,6 +637,7 @@
 ## Live Headline Image Display
 - [x] Identify every affected live page and determine the root cause of missing headline images
 - [ ] Apply and verify the minimal image-delivery correction without altering article content or links
+- [x] Add a constrained image fallback for temporary jsDelivr asset unavailability
 
 ## Missing Historical Image Recovery
 - [x] Locate a viable source-page recovery path for the 581 missing historical images

@@ -18,8 +18,9 @@
  *   📋 Copy link → copies tinyUrl to clipboard, flashes "Copied!" for 2 seconds
  */
 
-import { useState } from 'react';
+import { useEffect, useState } from 'react';
 import { useLocation } from 'wouter';
+import { getArticleImageFallbackUrl } from '@/lib/imageFallback';
 
 interface ArticleBlockProps {
   headline: string;
@@ -31,7 +32,12 @@ interface ArticleBlockProps {
 
 export default function ArticleBlock({ headline, tinyUrl, xPostUrl, imageSrc, tags }: ArticleBlockProps) {
   const [copied, setCopied] = useState(false);
+  const [renderedImageSrc, setRenderedImageSrc] = useState(imageSrc);
   const [, navigate] = useLocation();
+
+  useEffect(() => {
+    setRenderedImageSrc(imageSrc);
+  }, [imageSrc]);
 
   const handleCopy = () => {
     navigator.clipboard.writeText(tinyUrl).then(() => {
@@ -63,7 +69,17 @@ export default function ArticleBlock({ headline, tinyUrl, xPostUrl, imageSrc, ta
         rel="noopener noreferrer"
         title="Read original article"
       >
-        <img src={imageSrc} alt={headline} className="w-full rounded-lg shadow-md" />
+        <img
+          src={renderedImageSrc}
+          alt={headline}
+          className="w-full rounded-lg shadow-md"
+          onError={() => {
+            const fallback = getArticleImageFallbackUrl(renderedImageSrc);
+            if (fallback && fallback !== renderedImageSrc) {
+              setRenderedImageSrc(fallback);
+            }
+          }}
+        />
       </a>
 
       {/* Share row */}
