@@ -11,140 +11,140 @@ export default function Page66() {
         headline="Trucking Lobby Funneled $300K to Democrat Official Who Then Issued Illegal Licenses To Non-Citizens"
         tinyUrl="https://tinyurl.com/y2n6y856"
         xPostUrl="https://x.com/C3Heditor/status/2026424418251985298"
-        imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/post180_clean_1afb8d81.jpg"
+        imageSrc="https://raw.githubusercontent.com/chrisgarson/CTCraziesImageArchive/main/post180_clean_1afb8d81.jpg"
         tags={["Alexi Giannoulias", "Illinois", "Immigration"]}
       />
       <ArticleBlock
         headline="Legacy Media Shields Illinois Billionaire Democrat Family From Scrutiny- Pritzker Scandals Censored"
         tinyUrl="https://tinyurl.com/5yu69dft"
         xPostUrl="https://x.com/C3Heditor/status/2026422998958232028"
-        imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/post179_clean_0b94455c.jpg"
+        imageSrc="https://raw.githubusercontent.com/chrisgarson/CTCraziesImageArchive/main/post179_clean_0b94455c.jpg"
         tags={["Epstein", "Illinois", "JB Pritzker", "Journalism-MediaBias"]}
       />
       <ArticleBlock
         headline="Democrat Mayor Awards A Crazed Machete-Wielding Professor For A Lucrative $407K Public Art Commission"
         tinyUrl="https://tinyurl.com/vcne6su9"
         xPostUrl="https://x.com/C3Heditor/status/2026422018283864282"
-        imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/post178_clean_3e6c90c4.jpg"
+        imageSrc="https://raw.githubusercontent.com/chrisgarson/CTCraziesImageArchive/main/post178_clean_3e6c90c4.jpg"
         tags={["Culture War", "Violent Crime"]}
       />
       <ArticleBlock
         headline="19 CIA Reports Retracted After Expert Review Found Deep Leftist/Democrat Political Bias"
         tinyUrl="https://tinyurl.com/y5utbhej"
         xPostUrl="https://x.com/C3Heditor/status/2026421073110081899"
-        imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/post177_clean_a3e8c2b5.jpg"
+        imageSrc="https://raw.githubusercontent.com/chrisgarson/CTCraziesImageArchive/main/post177_clean_a3e8c2b5.jpg"
         tags={["National Security", "Politics"]}
       />
       <ArticleBlock
         headline="Democrats&#x27; California Insurance Fraud Now in the Crosshairs as Trump Deploys a Federal Strike Team"
         tinyUrl="https://tinyurl.com/ytm535jp"
         xPostUrl="https://x.com/C3Heditor/status/2026420336502149576"
-        imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/post176_clean_7ea282b6.jpg"
+        imageSrc="https://raw.githubusercontent.com/chrisgarson/CTCraziesImageArchive/main/post176_clean_7ea282b6.jpg"
         tags={["California", "Corruption-Fraud", "Taxation"]}
       />
       <ArticleBlock
         headline="Small American Business Tells Democrats At HuffPost To Go F**K Themselves Over Its Bashing U.S. Hockey Team Patriotism"
         tinyUrl="https://tinyurl.com/38743amb"
         xPostUrl="https://x.com/C3Heditor/status/2026419137229021417"
-        imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/post175_clean_9296da34.jpg"
+        imageSrc="https://raw.githubusercontent.com/chrisgarson/CTCraziesImageArchive/main/post175_clean_9296da34.jpg"
         tags={["Culture War", "Monica Torres", "Politics"]}
       />
       <ArticleBlock
         headline="Taxpayers Burdened with $200M+ Bill From The Obama Democrat Administration&#x27;s Controversial &#x27;Gift&#x27;"
         tinyUrl="https://tinyurl.com/yc8xsadz"
         xPostUrl="https://x.com/C3Heditor/status/2026418223579615507"
-        imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/post174_clean_2b881631.jpg"
+        imageSrc="https://raw.githubusercontent.com/chrisgarson/CTCraziesImageArchive/main/post174_clean_2b881631.jpg"
         tags={["Chicago", "Government", "Obama Presidential Center", "Taxation"]}
       />
       <ArticleBlock
         headline="Democrat Operative Susan Rice Let&#x27;s Mask Slip: Makes Disturbing, Fascist Threats Against Trump Supporters"
         tinyUrl="https://tinyurl.com/4dzf72h9"
         xPostUrl="https://x.com/C3Heditor/status/2026416016297701670"
-        imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/post173_clean_e4896834.jpg"
+        imageSrc="https://raw.githubusercontent.com/chrisgarson/CTCraziesImageArchive/main/post173_clean_e4896834.jpg"
         tags={["Politics", "Susan Rice"]}
       />
       <ArticleBlock
         headline="Parents Kept In The Dark: Middle School Students Racially Separated by Woke Democrat Administrators"
         tinyUrl="https://tinyurl.com/3ytb5sy9"
         xPostUrl="https://x.com/C3Heditor/status/2026411701420114068"
-        imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/post172_clean_4561e759.jpg"
+        imageSrc="https://raw.githubusercontent.com/chrisgarson/CTCraziesImageArchive/main/post172_clean_4561e759.jpg"
         tags={["Culture War", "Education Policy", "Racial Issues"]}
       />
       <ArticleBlock
         headline="New Proposed Law Protecting Newborns From Infanticide Voted Down by Oregon Democrats"
         tinyUrl="https://tinyurl.com/mbvub6ct"
         xPostUrl="https://x.com/C3Heditor/status/2026412770938298646"
-        imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/post171_clean_59dd004e.jpg"
+        imageSrc="https://raw.githubusercontent.com/chrisgarson/CTCraziesImageArchive/main/post171_clean_59dd004e.jpg"
         tags={["2026 Elections", "Oregon"]}
       />
       <ArticleBlock
         headline="New Jersey Democrat Indicted by Grand Jury in Corruption Investigation"
         tinyUrl="https://tinyurl.com/42r6crzm"
         xPostUrl="https://x.com/C3Heditor/status/2026407222645801343"
-        imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/post170_clean_10edc3d1.jpg"
+        imageSrc="https://raw.githubusercontent.com/chrisgarson/CTCraziesImageArchive/main/post170_clean_10edc3d1.jpg"
         tags={["New Jersey", "Sexual Misconduct"]}
       />
       <ArticleBlock
         headline="Online Reporting Portal for Identifying ICE Enforcement Actions Launched by NJ&#x27;s New Democrat Governor"
         tinyUrl="https://tinyurl.com/4py528pc"
         xPostUrl="https://x.com/C3Heditor/status/2026406143187464381"
-        imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/post169_clean_17cd0978.jpg"
+        imageSrc="https://raw.githubusercontent.com/chrisgarson/CTCraziesImageArchive/main/post169_clean_17cd0978.jpg"
         tags={["CBP-DHS-ICE", "Mikie Sherrill", "New Jersey"]}
       />
       <ArticleBlock
         headline="Democrats Reject Global Consensus That Election Voting Requires Photo Identification For Voters"
         tinyUrl="https://tinyurl.com/44842r4r"
         xPostUrl="https://x.com/C3Heditor/status/2026405151343354304"
-        imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/post168_clean_fba2c586.jpg"
+        imageSrc="https://raw.githubusercontent.com/chrisgarson/CTCraziesImageArchive/main/post168_clean_fba2c586.jpg"
         tags={["2026 Elections", "Election Fraud"]}
       />
       <ArticleBlock
         headline="Defense Industry Giant Quickly Abandons Virginia Following Democrat Gov.  Spanberger&#x27;s Radical Policy Shifts"
         tinyUrl="https://tinyurl.com/2ruu84hu"
         xPostUrl="https://x.com/C3Heditor/status/2026404297190047813"
-        imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/post167_clean_688812ab.jpg"
+        imageSrc="https://raw.githubusercontent.com/chrisgarson/CTCraziesImageArchive/main/post167_clean_688812ab.jpg"
         tags={["Abigail Spanberger", "Virginia"]}
       />
       <ArticleBlock
         headline="Celebrity Goes Full Nuclear on Hollywood&#x27;s Radical Transformation To Far-Left Democrat Orthodoxy"
         tinyUrl="https://tinyurl.com/45hbf42d"
         xPostUrl="https://x.com/C3Heditor/status/2026403386002743792"
-        imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/post166_clean_8d24aa86.jpg"
+        imageSrc="https://raw.githubusercontent.com/chrisgarson/CTCraziesImageArchive/main/post166_clean_8d24aa86.jpg"
         tags={["2026 Elections", "Entertainment Industry", "Politics"]}
       />
       <ArticleBlock
         headline="Child Abuser Finally Apprehended by DHS After Oregon&#x27;s Democrat Officials Released Him Earlier"
         tinyUrl="https://tinyurl.com/ykb3rkaa"
         xPostUrl="https://x.com/C3Heditor/status/2026401115428786417"
-        imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/post165_clean_32d16826.jpg"
+        imageSrc="https://raw.githubusercontent.com/chrisgarson/CTCraziesImageArchive/main/post165_clean_32d16826.jpg"
         tags={["CBP-DHS-ICE", "Immigration"]}
       />
       <ArticleBlock
         headline="NYC Democrat Mayor Mamdani&#x27;s Property Tax Proposal Draws Fierce Criticism from Black New York Homeowners"
         tinyUrl="https://tinyurl.com/494bkkyu"
         xPostUrl="https://x.com/C3Heditor/status/2026400177267875911"
-        imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/post164_clean_ca1d946b.jpg"
+        imageSrc="https://raw.githubusercontent.com/chrisgarson/CTCraziesImageArchive/main/post164_clean_ca1d946b.jpg"
         tags={["New York", "Taxation", "Zohran Mamdani"]}
       />
       <ArticleBlock
         headline="Evil Delivered by Democrats: CA Sacramento&#x27;s Inaction Enables Expansion of LA&#x27;s Horrific Sex Trafficking Corridor"
         tinyUrl="https://tinyurl.com/w6nun3ve"
         xPostUrl="https://x.com/C3Heditor/status/2026399135373373604"
-        imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/post163_clean_e4f8be1e.jpg"
+        imageSrc="https://raw.githubusercontent.com/chrisgarson/CTCraziesImageArchive/main/post163_clean_e4f8be1e.jpg"
         tags={["California", "Los Angeles", "Sexual Misconduct"]}
       />
       <ArticleBlock
         headline="Legacy Democrat-Run Media Outlets Minimize Latest Assassination Attempt Through Coordinated Narrative Control"
         tinyUrl="https://tinyurl.com/yc3eacw9"
         xPostUrl="https://x.com/C3Heditor/status/2026398005608227076"
-        imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/post162_clean_6d9c52d3.jpg"
+        imageSrc="https://raw.githubusercontent.com/chrisgarson/CTCraziesImageArchive/main/post162_clean_6d9c52d3.jpg"
         tags={["Trump-Derangement", "Assassination"]}
       />
       <ArticleBlock
         headline="Blue Cities&#x27; Chaos Triggers CNN: Host says Democrats cannot be trusted to run cities like NYC and LA"
         tinyUrl="https://tinyurl.com/ympwxe8n"
         xPostUrl="https://x.com/C3Heditor/status/2026396953433546914"
-        imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/post161_clean_fb2c426c.jpg"
+        imageSrc="https://raw.githubusercontent.com/chrisgarson/CTCraziesImageArchive/main/post161_clean_fb2c426c.jpg"
         tags={["Fareed Zakaria", "Los Angeles", "New York"]}
       />
       </div>

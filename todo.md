@@ -639,6 +639,12 @@
 - [ ] Apply and verify the minimal image-delivery correction without altering article content or links
 - [x] Add a constrained image fallback for temporary jsDelivr asset unavailability
 
+## Independent Article Image Hosting
+- [x] Publish the 561 recovered affected image assets to a separate public GitHub image repository below jsDelivr's project-size limit
+- [ ] Publish the 561 recovered affected image assets across small dedicated Cloudflare static-image shards
+- [x] Migrate the corresponding affected article image references to the dedicated repository's direct public image URLs
+- [ ] Verify restored live headline-image rendering across formerly affected page ranges
+
 ## Missing Historical Image Recovery
 - [x] Locate a viable source-page recovery path for the 581 missing historical images
 - [x] Recover 538 missing image assets from article-source metadata and identify the exact-original-asset path for the remainder

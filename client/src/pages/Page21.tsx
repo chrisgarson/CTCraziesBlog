@@ -144,7 +144,7 @@ export default function Page21() {
         headline="CNN Does Brutal Takedown of Democrats&#x27; California One-Party Rule Incompetence"
         tinyUrl="https://tinyurl.com/42k3yrxx"
         xPostUrl="https://x.com/C3Heditor/status/2066566439293603842"
-        imageSrc="https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images/YpcPQxVMUHCHfElL.jpg"
+        imageSrc="https://raw.githubusercontent.com/chrisgarson/CTCraziesImageArchive/main/YpcPQxVMUHCHfElL.jpg"
         tags={["California", "Fareed Zakaria", "Journalism-MediaBias"]}
       />
       </div>
