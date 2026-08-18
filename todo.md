@@ -650,7 +650,7 @@
 
 ## Cloudflare R2 Image Hosting Assessment
 - [x] Assess the setup effort, prerequisites, and safe rollout for an R2 bucket with a CTCrazies image subdomain
-- [ ] Implement the authorized R2 image bucket and custom-domain migration for all 1,480 verified article images
+- [x] Implement the authorized R2 image bucket and custom-domain migration for all 1,480 verified article images
 
 ## Controlled R2 Readiness Work
 - [x] Confirm the existing deployment credential lacks R2 bucket-management permission without changing live image references or domain routing
@@ -663,7 +663,7 @@
 ## Complete R2 Image Migration
 - [x] Create the reversible 1,480-image R2 upload manifest and upload the complete verified collection
 - [x] Verify public delivery through the active `images.ctcrazies.com` R2 domain
-- [ ] Migrate all canonical article image references to R2, rebuild, deploy, and verify live rendering
+- [x] Migrate all canonical article image references to R2, rebuild, deploy, and verify live rendering
 
 ## Future Batch R2 Image Safeguard
 - [x] Update the safeguarded batch workflow to upload new batch images to R2 and assign only `images.ctcrazies.com` image references
