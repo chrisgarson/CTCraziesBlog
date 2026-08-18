@@ -11,140 +11,140 @@ export default function Page54() {
         headline="Democrats Vote Down a Simple Voter Photo-ID Amendment Despite Telling Public They Would Support It"
         tinyUrl="https://tinyurl.com/2vydpphm"
         xPostUrl="https://x.com/C3Heditor/status/2038373004837564563"
-        imageSrc="https://raw.githubusercontent.com/chrisgarson/CTCraziesImageArchive/main/2026-03-29_165001_b74762e9.jpg"
+        imageSrc="https://images.ctcrazies.com/article-images/2026-03-29_165001_b74762e9.jpg"
         tags={["Chuck Schumer", "Election Fraud"]}
       />
       <ArticleBlock
         headline="Result of Democrat Immigration Policy: 3 Salvadoran Nationals Busted on Long Island After Cops Find Them With Molotovs"
         tinyUrl="https://tinyurl.com/3srhxnrn"
         xPostUrl="https://x.com/C3Heditor/status/2038371814687072543"
-        imageSrc="https://raw.githubusercontent.com/chrisgarson/CTCraziesImageArchive/main/2026-03-29_164557_297823da.jpg"
+        imageSrc="https://images.ctcrazies.com/article-images/2026-03-29_164557_297823da.jpg"
         tags={["Law Enforcement", "Left-Wing", "Long Island"]}
       />
       <ArticleBlock
         headline="Maryland Democrat Idiocracy: Dems Debate Appropriate Sized Tampons To Be Stocked in Every Public Men&#x27;s Restroom"
         tinyUrl="https://tinyurl.com/mr42xxbv"
         xPostUrl="https://x.com/C3Heditor/status/2038369822296195372"
-        imageSrc="https://raw.githubusercontent.com/chrisgarson/CTCraziesImageArchive/main/2026-03-29_163725_68a04fbd.jpg"
+        imageSrc="https://images.ctcrazies.com/article-images/2026-03-29_163725_68a04fbd.jpg"
         tags={["Culture War", "Maryland"]}
       />
       <ArticleBlock
         headline="Stockholm Syndrome: Trans Activists Using Democrats as Political Hostage-Warriors"
         tinyUrl="https://tinyurl.com/yfvzfnks"
         xPostUrl="https://x.com/C3Heditor/status/2038368866720502201"
-        imageSrc="https://raw.githubusercontent.com/chrisgarson/CTCraziesImageArchive/main/2026-03-29_163423_f538a586.jpg"
+        imageSrc="https://images.ctcrazies.com/article-images/2026-03-29_163423_f538a586.jpg"
         tags={["Corruption-Fraud", "LGBTQ"]}
       />
       <ArticleBlock
         headline="Democrat Senator Throws Hissy-Fit Over ICE At Airport, Comic Calls Him A ‘F*cking P*ssy’"
         tinyUrl="https://tinyurl.com/27dsed4m"
         xPostUrl="https://x.com/C3Heditor/status/2038368016866464142"
-        imageSrc="https://raw.githubusercontent.com/chrisgarson/CTCraziesImageArchive/main/2026-03-29_163006_cc15e036.jpg"
+        imageSrc="https://images.ctcrazies.com/article-images/2026-03-29_163006_cc15e036.jpg"
         tags={["CBP-DHS-ICE", "Cory Booker"]}
       />
       <ArticleBlock
         headline="Moms for Liberty&#x27; a Full Terrorist Organization? That&#x27;s What South Carolina Democrat Claims About &#x27;Parental Rights&#x27; Group"
         tinyUrl="https://tinyurl.com/77byszvj"
         xPostUrl="https://x.com/C3Heditor/status/2038367309836792058"
-        imageSrc="https://raw.githubusercontent.com/chrisgarson/CTCraziesImageArchive/main/2026-03-29_162736_a2071611.jpg"
+        imageSrc="https://images.ctcrazies.com/article-images/2026-03-29_162736_a2071611.jpg"
         tags={["Culture War", "South Carolina"]}
       />
       <ArticleBlock
         headline="Result of Democrat Immigration Policy: NC Cops Arrest Illegal Alien Who Confessed to Two Murders"
         tinyUrl="https://tinyurl.com/4buyuybh"
         xPostUrl="https://x.com/C3Heditor/status/2038365699203010614"
-        imageSrc="https://raw.githubusercontent.com/chrisgarson/CTCraziesImageArchive/main/2026-03-29_162100_94029b7a.jpg"
+        imageSrc="https://images.ctcrazies.com/article-images/2026-03-29_162100_94029b7a.jpg"
         tags={["Immigration", "Law Enforcement", "North Carolina", "Violent Crime"]}
       />
       <ArticleBlock
         headline="FBI Nabs MS-13 Member Tied to a El Salvador Pastor&#x27;s Murder - Arrested In Democrat Connecticut"
         tinyUrl="https://tinyurl.com/4nery9ny"
         xPostUrl="https://x.com/C3Heditor/status/2038362714805092390"
-        imageSrc="https://raw.githubusercontent.com/chrisgarson/CTCraziesImageArchive/main/2026-03-29_160935_805b091f.jpg"
+        imageSrc="https://images.ctcrazies.com/article-images/2026-03-29_160935_805b091f.jpg"
         tags={["Connecticut", "FBI", "Immigration"]}
       />
       <ArticleBlock
         headline="Refugees From Democrat Insanity: Yamaha and Exxon Join the Flood of Businesses Bolting Blue States for Red Ones"
         tinyUrl="https://tinyurl.com/bk9zua7h"
         xPostUrl="https://x.com/C3Heditor/status/2038362070471836061"
-        imageSrc="https://raw.githubusercontent.com/chrisgarson/CTCraziesImageArchive/main/2026-03-29_160634_f9988288.jpg"
+        imageSrc="https://images.ctcrazies.com/article-images/2026-03-29_160634_f9988288.jpg"
         tags={["Business Relocation", "California"]}
       />
       <ArticleBlock
         headline="Texas U.S. Senate Democrat Candidate Says Hanging Ten Commandments in Schools Is Violence"
         tinyUrl="https://tinyurl.com/4cpsvr7s"
         xPostUrl="https://x.com/C3Heditor/status/2038361205698670985"
-        imageSrc="https://raw.githubusercontent.com/chrisgarson/CTCraziesImageArchive/main/2026-03-29_160422_15a7f9bb.jpg"
+        imageSrc="https://images.ctcrazies.com/article-images/2026-03-29_160422_15a7f9bb.jpg"
         tags={["Culture War", "Education Policy", "James Talarico"]}
       />
       <ArticleBlock
         headline="Corruption Is A Democrat Feature Not A Bug: Newsom Uses a Loophole to Funnel Over $4M to His Wife&#x27;s Causes"
         tinyUrl="https://tinyurl.com/mv5kcybc"
         xPostUrl="https://x.com/C3Heditor/status/2038359437631463576"
-        imageSrc="https://raw.githubusercontent.com/chrisgarson/CTCraziesImageArchive/main/2026-03-29_155640_fb5c2004.jpg"
+        imageSrc="https://images.ctcrazies.com/article-images/2026-03-29_155640_fb5c2004.jpg"
         tags={["California", "Corruption-Fraud", "Gavin Newsom", "Politics"]}
       />
       <ArticleBlock
         headline="Obama&#x27;s Democrat Partisan Judge Blocks Trump Deportation Reforms — Critics Are Calling It Judicial Sabotage"
         tinyUrl="https://tinyurl.com/5eaatw9n"
         xPostUrl="https://x.com/C3Heditor/status/2038358690537853179"
-        imageSrc="https://raw.githubusercontent.com/chrisgarson/CTCraziesImageArchive/main/2026-03-29_155312_f7ec8e1a.jpg"
+        imageSrc="https://images.ctcrazies.com/article-images/2026-03-29_155312_f7ec8e1a.jpg"
         tags={["Immigration", "Judiciary-Judicial"]}
       />
       <ArticleBlock
         headline="New Lawsuit: Ohio State University Officials Attacked &#x27;The Whites&#x27; While Running Illegal DEI Programs"
         tinyUrl="https://tinyurl.com/ytp3sbtz"
         xPostUrl="https://x.com/C3Heditor/status/2038357910858657867"
-        imageSrc="https://raw.githubusercontent.com/chrisgarson/CTCraziesImageArchive/main/2026-03-29_155019_ca58f706.jpg"
+        imageSrc="https://images.ctcrazies.com/article-images/2026-03-29_155019_ca58f706.jpg"
         tags={["Censorship", "Culture War", "Journalism-MediaBias"]}
       />
       <ArticleBlock
         headline="Soros Democrat DA Blames the Old Dominion ISIS Attack on Pro-Gun Judges and Republican Lawmakers"
         tinyUrl="https://tinyurl.com/3spmr34k"
         xPostUrl="https://x.com/C3Heditor/status/2038356595671695682"
-        imageSrc="https://raw.githubusercontent.com/chrisgarson/CTCraziesImageArchive/main/2026-03-29_154519_61ffe42d.jpg"
+        imageSrc="https://images.ctcrazies.com/article-images/2026-03-29_154519_61ffe42d.jpg"
         tags={["Foreign Policy", "Gun Control", "Left-Wing"]}
       />
       <ArticleBlock
         headline="A Gang Brawls With Doorman &amp; Then Invades Luxury Apartments In Democrat-Run LA"
         tinyUrl="https://tinyurl.com/2p3ch78j"
         xPostUrl="https://x.com/C3Heditor/status/2038355855188324370"
-        imageSrc="https://raw.githubusercontent.com/chrisgarson/CTCraziesImageArchive/main/2026-03-29_154211_d56fadd5.jpg"
+        imageSrc="https://images.ctcrazies.com/article-images/2026-03-29_154211_d56fadd5.jpg"
         tags={["Los Angeles"]}
       />
       <ArticleBlock
         headline="Democrat Utopia: Elderly Veteran Shoved Onto NYC Subway Tracks — Illegal Alien Charged"
         tinyUrl="https://tinyurl.com/muue6ssv"
         xPostUrl="https://x.com/C3Heditor/status/2038354427946426787"
-        imageSrc="https://raw.githubusercontent.com/chrisgarson/CTCraziesImageArchive/main/2026-03-29_153611_872b56dc.jpg"
+        imageSrc="https://images.ctcrazies.com/article-images/2026-03-29_153611_872b56dc.jpg"
         tags={["Immigration", "New York"]}
       />
       <ArticleBlock
         headline="If Democrats Win the Midterms, Multiple Anti-Trump Investigations Will Immediately Launch"
         tinyUrl="https://tinyurl.com/57xvseee"
         xPostUrl="https://x.com/C3Heditor/status/2038353495393194055"
-        imageSrc="https://raw.githubusercontent.com/chrisgarson/CTCraziesImageArchive/main/2026-03-29_153228_2e2f481e.jpg"
+        imageSrc="https://images.ctcrazies.com/article-images/2026-03-29_153228_2e2f481e.jpg"
         tags={["2026 Elections", "Adam Schiff", "U.S. Congress"]}
       />
       <ArticleBlock
         headline="U.S. House Democrat Demands Reparations For Illegal Immigrants"
         tinyUrl="https://tinyurl.com/228575yh"
         xPostUrl="https://x.com/C3Heditor/status/2038352377120469082"
-        imageSrc="https://raw.githubusercontent.com/chrisgarson/CTCraziesImageArchive/main/2026-03-29_152809_547d766f.jpg"
+        imageSrc="https://images.ctcrazies.com/article-images/2026-03-29_152809_547d766f.jpg"
         tags={["Immigration", "Pramila Jayapal", "Reparations"]}
       />
       <ArticleBlock
         headline="Democrats&#x27; Energy Disasters Have Made the Ongoing Hormuz Strait Crisis Significantly Worse"
         tinyUrl="https://tinyurl.com/yyej2x6x"
         xPostUrl="https://x.com/C3Heditor/status/2038351641863197140"
-        imageSrc="https://raw.githubusercontent.com/chrisgarson/CTCraziesImageArchive/main/2026-03-29_152510_b574173e.jpg"
+        imageSrc="https://images.ctcrazies.com/article-images/2026-03-29_152510_b574173e.jpg"
         tags={["Energy Policy", "Foreign Policy", "Iran"]}
       />
       <ArticleBlock
         headline="Joe Biden&#x27;s Democrat Administration Loosened Abortion Guardrails &amp; Adverse Events Soared, Report Reveals"
         tinyUrl="https://tinyurl.com/46z94s82"
         xPostUrl="https://x.com/C3Heditor/status/2038350965191917706"
-        imageSrc="https://raw.githubusercontent.com/chrisgarson/CTCraziesImageArchive/main/2026-03-29_152230_71985d11.jpg"
+        imageSrc="https://images.ctcrazies.com/article-images/2026-03-29_152230_71985d11.jpg"
         tags={["Biden Administration", "Culture War"]}
       />
       </div>

@@ -650,6 +650,46 @@
 
 ## Cloudflare R2 Image Hosting Assessment
 - [x] Assess the setup effort, prerequisites, and safe rollout for an R2 bucket with a CTCrazies image subdomain
+- [ ] Implement the authorized R2 image bucket and custom-domain migration for all 1,480 verified article images
+
+## Controlled R2 Readiness Work
+- [x] Confirm the existing deployment credential lacks R2 bucket-management permission without changing live image references or domain routing
+- [x] Validate a non-production image upload and retrieval before requesting migration authorization
+- [x] Prepare the limited credential and custom-domain steps for user review
+
+## Pre-Migration Image Inventory
+- [x] Reconcile all 1,480 article records with the currently available headline-image assets before any R2 upload
+
+## Complete R2 Image Migration
+- [x] Create the reversible 1,480-image R2 upload manifest and upload the complete verified collection
+- [x] Verify public delivery through the active `images.ctcrazies.com` R2 domain
+- [ ] Migrate all canonical article image references to R2, rebuild, deploy, and verify live rendering
+
+## Future Batch R2 Image Safeguard
+- [x] Update the safeguarded batch workflow to upload new batch images to R2 and assign only `images.ctcrazies.com` image references
+
+## R2 Public Delivery Validation
+- [x] Determine that the public domain denies HEAD validation while normal browser image GET requests succeed
+- [x] Verify normal public image GET delivery through paced representative requests before deploying any R2 image references
+
+## User-Created R2 Image Bucket
+- [x] Create the isolated `ctcrazies-article-images` R2 bucket without live domain or image-reference changes
+- [x] Validate its bucket-scoped Object Read & Write credential through an isolated test object
+
+## Limited R2 Credential
+- [x] Obtain a bucket-scoped R2 credential with only the permissions required for the isolated image test and later migration
+- [x] Revalidate the corrected bucket-scoped credential before any non-production object test
+
+## Cloudflare R2 Free-Tier Verification
+- [x] Verify the monthly storage and operation allowances against projected CTCrazies image usage
+
+## Private Branded Short Links
+- [x] Assess a private CTCrazies-branded short-link service using a dedicated subdomain
+- [x] Estimate Cloudflare short-link operating costs and maintenance effort at CTCrazies scale
+
+## Source-Page Archival Assessment
+- [x] Assess private CTCrazies source-page archiving and Archive.is bulk-submission feasibility
+- [x] Assess whether a 50-URL-per-day, low-rate Archive.is submission schedule is supported
 
 ## Missing Historical Image Recovery
 - [x] Locate a viable source-page recovery path for the 581 missing historical images

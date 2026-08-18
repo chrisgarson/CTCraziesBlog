@@ -20,7 +20,15 @@ Create a non-publishing draft from the incoming workbook and image folder:
 python3 safe_batch.py prepare <CTC-Info.xlsx> <images-directory> <draft.json>
 ```
 
-Review the exact Column D headlines and proposed tags through an editable DOCX review document. The document must contain a three-column table with **NUM**, the **exact Column D X-Post Headline**, and **Proposed Tags**. The user may edit the tag cells directly and upload the edited DOCX; that uploaded document is the authority for the final reviewed tag plan. Transfer the edited tags into the final plan without changing any headline, source URL, image name, or X-post URL. A user-provided five-tag row is explicit approval for that row's five-tag exception. Obtain approval before any new topic tag is declared; full-name person tags follow the established person-tag rule. Then commit the batch images to `article-images/` so their GitHub CDN URLs are available.
+Review the exact Column D headlines and proposed tags through an editable DOCX review document. The document must contain a three-column table with **NUM**, the **exact Column D X-Post Headline**, and **Proposed Tags**. The user may edit the tag cells directly and upload the edited DOCX; that uploaded document is the authority for the final reviewed tag plan. Transfer the edited tags into the final plan without changing any headline, source URL, image name, or X-post URL. A user-provided five-tag row is explicit approval for that row's five-tag exception. Obtain approval before any new topic tag is declared; full-name person tags follow the established person-tag rule.
+
+All new batch images are stored in the `ctcrazies-article-images` Cloudflare R2 bucket and publicly served from `https://images.ctcrazies.com/article-images/`. Do **not** copy new batch images to `article-images/` or commit them to GitHub. After the final tag plan has been applied to the draft, run the R2 upload command before `apply`. It uploads each locally verified image with checksum validation and produces a local receipt; `apply` is prohibited until that command succeeds for every batch image.
+
+```bash
+python3 safe_batch.py apply-tag-plan <draft.json> <approved-tag-plan.json> <final.json>
+python3 safe_batch.py validate "<batch date>" <final.json> --xlsx <CTC-Info.xlsx>
+python3 safe_batch.py upload-images-r2 <final.json> --xlsx <CTC-Info.xlsx>
+```
 
 Validate the tagged draft against the canonical ledger and original workbook:
 
@@ -31,7 +39,7 @@ python3 safe_batch.py validate "<batch date>" <draft.json> --xlsx <CTC-Info.xlsx
 Apply only after validation succeeds:
 
 ```bash
-python3 safe_batch.py apply "<batch date>" <draft.json> --xlsx <CTC-Info.xlsx>
+python3 safe_batch.py apply "<batch date>" <final.json> --xlsx <CTC-Info.xlsx>
 python3 verify_safe_site.py
 pnpm run build
 ```

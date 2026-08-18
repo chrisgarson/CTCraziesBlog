@@ -2,7 +2,7 @@
 
 import unittest
 
-from safe_batch import ARTICLES_PER_PAGE, apply_existing_article_tag_plan, apply_tag_plan, apply_tag_update_plan, assign_pages, combine_batch, declare_tag, rename_tag, render_article, render_search, validate_batch
+from safe_batch import ARTICLES_PER_PAGE, R2_IMAGE_ORIGIN, apply_existing_article_tag_plan, apply_tag_plan, apply_tag_update_plan, assign_pages, combine_batch, declare_tag, rename_tag, render_article, render_search, validate_batch
 
 
 def article(num: int) -> dict:
@@ -61,6 +61,19 @@ class SafeBatchTests(unittest.TestCase):
         batch = [article(num) for num in range(40, 20, -1)]
         batch[0]["tags"] = ["New Person"]
         self.assertEqual(validate_batch(ledger, batch)[0]["tags"], ["New Person"])
+
+    def test_new_batch_without_an_explicit_image_url_defaults_to_the_r2_image_domain(self):
+        ledger = {
+            "schemaVersion": 1,
+            "articlesPerPage": ARTICLES_PER_PAGE,
+            "tagMetadata": {"Topic": {"type": "topic", "keywords": []}},
+            "articles": assign_pages([article(num) for num in range(20, 0, -1)]),
+        }
+        batch = [article(num) for num in range(40, 20, -1)]
+        for item in batch:
+            item.pop("imageUrl")
+        approved = validate_batch(ledger, batch)
+        self.assertEqual(approved[0]["imageUrl"], f"{R2_IMAGE_ORIGIN}/40.jpg")
 
     def test_tag_rename_retains_type_keywords_and_article_association(self):
         ledger = {

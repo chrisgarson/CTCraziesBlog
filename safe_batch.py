@@ -13,14 +13,22 @@ from __future__ import annotations
 
 import argparse
 import copy
+import hashlib
+import hmac
 import html
 import json
+import mimetypes
+import os
 import re
 import shutil
 import sys
 import tempfile
+import time
+import urllib.error
+import urllib.parse
+import urllib.request
 from collections import defaultdict
-from datetime import date
+from datetime import date, datetime, timezone
 from pathlib import Path
 from typing import Any
 
@@ -34,7 +42,9 @@ APP = PROJECT / "client" / "src" / "App.tsx"
 TAG_SRC = PROJECT / "client" / "src" / "data" / "tag-index.json"
 TAG_PUBLIC = PROJECT / "client" / "public" / "tag-index.json"
 LEDGER = PROJECT / "data" / "article-ledger.json"
-ARTICLE_IMAGES_CDN = "https://cdn.jsdelivr.net/gh/chrisgarson/CTCraziesBlog@main/article-images"
+R2_IMAGE_ORIGIN = "https://images.ctcrazies.com/article-images"
+R2_ACCOUNT_ID = "f7c5978211a6a6db078f3c56ab7ab1cc"
+R2_BUCKET = "ctcrazies-article-images"
 ARTICLES_PER_PAGE = 20
 
 
@@ -315,7 +325,7 @@ def validate_batch(ledger: dict[str, Any], batch: list[dict[str, Any]], xlsx_pat
         if image_path and not Path(image_path).exists():
             raise ValueError(f"NUM {item['num']}: image file not found: {image_path}")
         if not item.get("imageUrl"):
-            item["imageUrl"] = f"{ARTICLE_IMAGES_CDN}/{item['imageName']}"
+            item["imageUrl"] = f"{R2_IMAGE_ORIGIN}/{item['imageName']}"
         normalized.append(item)
     normalized.sort(key=lambda item: int(item["num"]), reverse=True)
     nums = [int(item["num"]) for item in normalized]
@@ -333,6 +343,127 @@ def validate_batch(ledger: dict[str, Any], batch: list[dict[str, Any]], xlsx_pat
             if not xlsx_item or item["headline"] != xlsx_item["headline"] or item["sourceUrl"] != xlsx_item["sourceUrl"]:
                 raise ValueError(f"NUM {item['num']}: batch does not exactly match the CTC Info workbook")
     return normalized
+
+
+def _sha256_bytes(value: bytes) -> str:
+    return hashlib.sha256(value).hexdigest()
+
+
+def _hmac_sha256(key: bytes, value: str) -> bytes:
+    return hmac.new(key, value.encode("utf-8"), hashlib.sha256).digest()
+
+
+def _r2_put_request(key: str, payload: bytes, content_type: str, access_key: str, secret_key: str) -> tuple[str, dict[str, str]]:
+    """Create a bucket-scoped AWS Signature Version 4 request for one R2 image object."""
+    host = f"{R2_BUCKET}.{R2_ACCOUNT_ID}.r2.cloudflarestorage.com"
+    now = datetime.now(timezone.utc)
+    amz_date = now.strftime("%Y%m%dT%H%M%SZ")
+    date_stamp = now.strftime("%Y%m%d")
+    payload_hash = _sha256_bytes(payload)
+    canonical_uri = "/" + urllib.parse.quote(key, safe="/-_.~")
+    headers = {
+        "content-type": content_type,
+        "host": host,
+        "x-amz-content-sha256": payload_hash,
+        "x-amz-date": amz_date,
+    }
+    signed_names = sorted(headers)
+    canonical_headers = "".join(f"{name}:{headers[name]}\n" for name in signed_names)
+    signed_headers = ";".join(signed_names)
+    canonical_request = "\n".join(["PUT", canonical_uri, "", canonical_headers, signed_headers, payload_hash])
+    scope = f"{date_stamp}/auto/s3/aws4_request"
+    string_to_sign = "\n".join([
+        "AWS4-HMAC-SHA256", amz_date, scope, _sha256_bytes(canonical_request.encode("utf-8"))
+    ])
+    signing_key = _hmac_sha256(
+        _hmac_sha256(
+            _hmac_sha256(
+                _hmac_sha256(("AWS4" + secret_key).encode("utf-8"), date_stamp),
+                "auto",
+            ),
+            "s3",
+        ),
+        "aws4_request",
+    )
+    signature = _hmac_sha256(signing_key, string_to_sign).hex()
+    headers["Authorization"] = (
+        f"AWS4-HMAC-SHA256 Credential={access_key}/{scope}, "
+        f"SignedHeaders={signed_headers}, Signature={signature}"
+    )
+    return f"https://{host}{canonical_uri}", headers
+
+
+def upload_batch_images_to_r2(batch: list[dict[str, Any]], receipt_path: Path) -> dict[str, Any]:
+    """Upload approved batch image files before ledger application, retaining a local receipt."""
+    access_key = os.environ.get("R2_ACCESS_KEY_ID")
+    secret_key = os.environ.get("R2_SECRET_ACCESS_KEY")
+    if not access_key or not secret_key:
+        raise ValueError("R2_ACCESS_KEY_ID and R2_SECRET_ACCESS_KEY are required for image upload")
+    if not batch:
+        raise ValueError("No batch images supplied for R2 upload")
+
+    receipt: list[dict[str, Any]] = []
+    seen_keys: set[str] = set()
+    for article in sorted(batch, key=lambda item: int(item["num"]), reverse=True):
+        image_name = str(article.get("imageName", "")).strip()
+        image_path = Path(str(article.get("imagePath", "")))
+        if not image_name or not image_path.exists():
+            raise ValueError(f"NUM {article.get('num', '?')}: missing verified image file for R2 upload")
+        key = f"article-images/{image_name}"
+        expected_url = f"{R2_IMAGE_ORIGIN}/{image_name}"
+        if article.get("imageUrl") != expected_url:
+            raise ValueError(f"NUM {article['num']}: image URL must be the canonical R2 URL before upload")
+        if key in seen_keys:
+            raise ValueError(f"Duplicate batch image filename: {image_name}")
+        seen_keys.add(key)
+        payload = image_path.read_bytes()
+        content_type = mimetypes.guess_type(image_name)[0] or "application/octet-stream"
+        last_error: Exception | None = None
+        for attempt in range(1, 4):
+            url, headers = _r2_put_request(key, payload, content_type, access_key, secret_key)
+            request = urllib.request.Request(url, data=payload, headers=headers, method="PUT")
+            try:
+                with urllib.request.urlopen(request, timeout=60) as response:
+                    if not 200 <= response.status < 300:
+                        raise RuntimeError(f"Unexpected R2 upload response: {response.status}")
+                receipt.append({
+                    "num": int(article["num"]),
+                    "r2Key": key,
+                    "imageUrl": expected_url,
+                    "bytes": len(payload),
+                    "sha256": _sha256_bytes(payload),
+                    "attempts": attempt,
+                })
+                break
+            except (urllib.error.URLError, urllib.error.HTTPError, TimeoutError, RuntimeError) as error:
+                last_error = error
+                if attempt < 3:
+                    time.sleep(attempt * 2)
+        else:
+            raise RuntimeError(f"NUM {article['num']}: R2 image upload failed: {last_error}")
+
+    receipt_payload = {
+        "bucket": R2_BUCKET,
+        "publicOrigin": R2_IMAGE_ORIGIN,
+        "uploaded": sorted(receipt, key=lambda item: item["num"], reverse=True),
+    }
+    receipt_path.parent.mkdir(parents=True, exist_ok=True)
+    receipt_path.write_text(json.dumps(receipt_payload, indent=2) + "\n", encoding="utf-8")
+    return receipt_payload
+
+
+def upload_images_r2_command(args: argparse.Namespace) -> None:
+    """Upload a validated, reviewed final batch's local images to R2 before `apply`."""
+    batch_path = Path(args.batch_json)
+    batch_payload = json.loads(batch_path.read_text(encoding="utf-8"))
+    batch = batch_payload.get("articles") if isinstance(batch_payload, dict) else batch_payload
+    if not isinstance(batch, list):
+        raise ValueError("Batch JSON must be an article list or an object containing articles")
+    ledger = load_ledger(Path(args.ledger))
+    validated = validate_batch(ledger, batch, args.xlsx)
+    receipt_path = Path(args.receipt) if args.receipt else batch_path.with_name(f"{batch_path.stem}-r2-upload-receipt.json")
+    receipt = upload_batch_images_to_r2(validated, receipt_path)
+    print(f"R2 UPLOAD COMPLETE: {len(receipt['uploaded'])} images; receipt: {receipt_path}")
 
 
 def apply_tag_plan(batch: list[dict[str, Any]], tag_plan: dict[str, Any], ledger: dict[str, Any]) -> list[dict[str, Any]]:
@@ -815,6 +946,12 @@ def main() -> None:
     headline.add_argument("headline")
     headline.add_argument("--ledger", default=str(LEDGER))
     headline.set_defaults(func=correct_ledger_headline_command)
+    r2_upload = commands.add_parser("upload-images-r2", help="Upload a validated final batch's images to R2 before apply")
+    r2_upload.add_argument("batch_json")
+    r2_upload.add_argument("--xlsx")
+    r2_upload.add_argument("--ledger", default=str(LEDGER))
+    r2_upload.add_argument("--receipt", help="Optional JSON receipt path; defaults beside the batch JSON")
+    r2_upload.set_defaults(func=upload_images_r2_command)
     args = parser.parse_args()
     args.func(args)
 
