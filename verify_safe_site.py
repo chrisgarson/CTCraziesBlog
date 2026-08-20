@@ -10,6 +10,13 @@ from pathlib import Path
 from safe_batch import APP, ARTICLES_PER_PAGE, LEDGER, TAG_PUBLIC, TAG_SRC, article_key, build_tag_index, current_page_articles, load_ledger, page_path, search_records
 
 
+def app_registers_page(app: str, page: int) -> bool:
+    eager_import = rf'import\s+Page{page}\s+from\s+["\']\./pages/Page{page}["\'];'
+    lazy_import = rf'const\s+Page{page}\s+=\s+lazy\(\(\)\s*=>\s*import\(["\']\./pages/Page{page}["\']\)\);'
+    route = rf'<Route\s+path=["\']/page{page}["\']\s+component=\{{Page{page}\}}\s*/>'
+    return bool(re.search(eager_import, app) or re.search(lazy_import, app)) and bool(re.search(route, app))
+
+
 def verify(project: Path, ledger_path: Path) -> list[str]:
     ledger = load_ledger(ledger_path)
     expected = ledger["articles"]
@@ -85,9 +92,7 @@ def verify(project: Path, ledger_path: Path) -> list[str]:
 
     app = (project / "client" / "src" / "App.tsx").read_text(encoding="utf-8")
     for page in range(2, total_pages + 1):
-        import_pattern = rf'import\s+Page{page}\s+from\s+["\']\./pages/Page{page}["\'];'
-        route_pattern = rf'<Route\s+path=["\']/page{page}["\']\s+component=\{{Page{page}\}}\s*/>'
-        if not re.search(import_pattern, app) or not re.search(route_pattern, app):
+        if not app_registers_page(app, page):
             errors.append(f"App.tsx does not register visitor Page {page}")
             break
     for route in ('<Route path="/tags" component={TagsIndex} />', '<Route path="/tag/:tag" component={TagResults} />'):

@@ -2,7 +2,7 @@
 
 import unittest
 
-from safe_batch import ARTICLES_PER_PAGE, R2_IMAGE_ORIGIN, apply_existing_article_tag_plan, apply_tag_plan, apply_tag_update_plan, assign_pages, combine_batch, declare_tag, rename_tag, render_article, render_search, validate_batch
+from safe_batch import ARTICLES_PER_PAGE, R2_IMAGE_ORIGIN, apply_existing_article_tag_plan, apply_tag_plan, apply_tag_update_plan, assign_pages, combine_batch, declare_tag, rename_tag, render_app, render_article, render_search, validate_batch
 
 
 def article(num: int) -> dict:
@@ -144,6 +144,17 @@ class SafeBatchTests(unittest.TestCase):
         self.assertIn('"num": 20', search)
         block = render_article(item)
         self.assertIn("Headline With &quot;Quoted&quot; Text", block)
+
+    def test_generated_app_defers_non_home_routes_until_visited(self):
+        app = render_app(3)
+        self.assertIn('import { lazy, Suspense } from "react";', app)
+        self.assertIn('import Home from "./pages/Home";', app)
+        self.assertIn('const Page2 = lazy(() => import("./pages/Page2"));', app)
+        self.assertIn('const Page3 = lazy(() => import("./pages/Page3"));', app)
+        self.assertIn('const Search = lazy(() => import("./pages/Search"));', app)
+        self.assertIn('const TagsIndex = lazy(() => import("./pages/TagsIndex"));', app)
+        self.assertIn("<Suspense fallback=", app)
+        self.assertNotIn('import Page2 from "./pages/Page2";', app)
 
     def test_tag_plan_requires_every_batch_num_and_only_approved_tags(self):
         ledger = {

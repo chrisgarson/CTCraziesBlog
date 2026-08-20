@@ -594,13 +594,31 @@ def render_page(page: int, articles: list[dict[str, Any]], total_pages: int, bat
 
 
 def render_app(total_pages: int) -> str:
-    imports = ['import { Switch, Route } from "wouter";', 'import Home from "./pages/Home";']
-    imports += [f'import Page{page} from "./pages/Page{page}";' for page in range(2, total_pages + 1)]
-    imports += ['import Search from "./pages/Search";', 'import TagResults from "./pages/TagResults";', 'import TagsIndex from "./pages/TagsIndex";']
+    imports = ['import { lazy, Suspense } from "react";', 'import { Switch, Route } from "wouter";', 'import Home from "./pages/Home";']
+    imports += [f'const Page{page} = lazy(() => import("./pages/Page{page}"));' for page in range(2, total_pages + 1)]
+    imports += [
+        'const Search = lazy(() => import("./pages/Search"));',
+        'const TagResults = lazy(() => import("./pages/TagResults"));',
+        'const TagsIndex = lazy(() => import("./pages/TagsIndex"));',
+    ]
     routes = ['        <Route path="/" component={Home} />']
     routes += [f'        <Route path="/page{page}" component={{Page{page}}} />' for page in range(2, total_pages + 1)]
     routes += ['        <Route path="/search" component={Search} />', '        <Route path="/tags" component={TagsIndex} />', '        <Route path="/tag/:tag" component={TagResults} />']
-    return "\n".join(imports + ["", "function App() {", "  return (", "    <>", "      <Switch>", *routes, "      </Switch>", "    </>", "  );", "}", "", "export default App;", ""])
+    return "\n".join(imports + [
+        "",
+        "function App() {",
+        "  return (",
+        '    <Suspense fallback={<div className="min-h-screen flex items-center justify-center text-gray-500">Loading page…</div>}>',
+        "      <Switch>",
+        *routes,
+        "      </Switch>",
+        "    </Suspense>",
+        "  );",
+        "}",
+        "",
+        "export default App;",
+        "",
+    ])
 
 
 def render_search(articles: list[dict[str, Any],], original: str) -> str:

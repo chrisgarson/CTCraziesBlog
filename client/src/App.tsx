@@ -1,86 +1,87 @@
+import { lazy, Suspense } from "react";
 import { Switch, Route } from "wouter";
 import Home from "./pages/Home";
-import Page2 from "./pages/Page2";
-import Page3 from "./pages/Page3";
-import Page4 from "./pages/Page4";
-import Page5 from "./pages/Page5";
-import Page6 from "./pages/Page6";
-import Page7 from "./pages/Page7";
-import Page8 from "./pages/Page8";
-import Page9 from "./pages/Page9";
-import Page10 from "./pages/Page10";
-import Page11 from "./pages/Page11";
-import Page12 from "./pages/Page12";
-import Page13 from "./pages/Page13";
-import Page14 from "./pages/Page14";
-import Page15 from "./pages/Page15";
-import Page16 from "./pages/Page16";
-import Page17 from "./pages/Page17";
-import Page18 from "./pages/Page18";
-import Page19 from "./pages/Page19";
-import Page20 from "./pages/Page20";
-import Page21 from "./pages/Page21";
-import Page22 from "./pages/Page22";
-import Page23 from "./pages/Page23";
-import Page24 from "./pages/Page24";
-import Page25 from "./pages/Page25";
-import Page26 from "./pages/Page26";
-import Page27 from "./pages/Page27";
-import Page28 from "./pages/Page28";
-import Page29 from "./pages/Page29";
-import Page30 from "./pages/Page30";
-import Page31 from "./pages/Page31";
-import Page32 from "./pages/Page32";
-import Page33 from "./pages/Page33";
-import Page34 from "./pages/Page34";
-import Page35 from "./pages/Page35";
-import Page36 from "./pages/Page36";
-import Page37 from "./pages/Page37";
-import Page38 from "./pages/Page38";
-import Page39 from "./pages/Page39";
-import Page40 from "./pages/Page40";
-import Page41 from "./pages/Page41";
-import Page42 from "./pages/Page42";
-import Page43 from "./pages/Page43";
-import Page44 from "./pages/Page44";
-import Page45 from "./pages/Page45";
-import Page46 from "./pages/Page46";
-import Page47 from "./pages/Page47";
-import Page48 from "./pages/Page48";
-import Page49 from "./pages/Page49";
-import Page50 from "./pages/Page50";
-import Page51 from "./pages/Page51";
-import Page52 from "./pages/Page52";
-import Page53 from "./pages/Page53";
-import Page54 from "./pages/Page54";
-import Page55 from "./pages/Page55";
-import Page56 from "./pages/Page56";
-import Page57 from "./pages/Page57";
-import Page58 from "./pages/Page58";
-import Page59 from "./pages/Page59";
-import Page60 from "./pages/Page60";
-import Page61 from "./pages/Page61";
-import Page62 from "./pages/Page62";
-import Page63 from "./pages/Page63";
-import Page64 from "./pages/Page64";
-import Page65 from "./pages/Page65";
-import Page66 from "./pages/Page66";
-import Page67 from "./pages/Page67";
-import Page68 from "./pages/Page68";
-import Page69 from "./pages/Page69";
-import Page70 from "./pages/Page70";
-import Page71 from "./pages/Page71";
-import Page72 from "./pages/Page72";
-import Page73 from "./pages/Page73";
-import Page74 from "./pages/Page74";
-import Page75 from "./pages/Page75";
-import Search from "./pages/Search";
-import TagResults from "./pages/TagResults";
-import TagsIndex from "./pages/TagsIndex";
+const Page2 = lazy(() => import("./pages/Page2"));
+const Page3 = lazy(() => import("./pages/Page3"));
+const Page4 = lazy(() => import("./pages/Page4"));
+const Page5 = lazy(() => import("./pages/Page5"));
+const Page6 = lazy(() => import("./pages/Page6"));
+const Page7 = lazy(() => import("./pages/Page7"));
+const Page8 = lazy(() => import("./pages/Page8"));
+const Page9 = lazy(() => import("./pages/Page9"));
+const Page10 = lazy(() => import("./pages/Page10"));
+const Page11 = lazy(() => import("./pages/Page11"));
+const Page12 = lazy(() => import("./pages/Page12"));
+const Page13 = lazy(() => import("./pages/Page13"));
+const Page14 = lazy(() => import("./pages/Page14"));
+const Page15 = lazy(() => import("./pages/Page15"));
+const Page16 = lazy(() => import("./pages/Page16"));
+const Page17 = lazy(() => import("./pages/Page17"));
+const Page18 = lazy(() => import("./pages/Page18"));
+const Page19 = lazy(() => import("./pages/Page19"));
+const Page20 = lazy(() => import("./pages/Page20"));
+const Page21 = lazy(() => import("./pages/Page21"));
+const Page22 = lazy(() => import("./pages/Page22"));
+const Page23 = lazy(() => import("./pages/Page23"));
+const Page24 = lazy(() => import("./pages/Page24"));
+const Page25 = lazy(() => import("./pages/Page25"));
+const Page26 = lazy(() => import("./pages/Page26"));
+const Page27 = lazy(() => import("./pages/Page27"));
+const Page28 = lazy(() => import("./pages/Page28"));
+const Page29 = lazy(() => import("./pages/Page29"));
+const Page30 = lazy(() => import("./pages/Page30"));
+const Page31 = lazy(() => import("./pages/Page31"));
+const Page32 = lazy(() => import("./pages/Page32"));
+const Page33 = lazy(() => import("./pages/Page33"));
+const Page34 = lazy(() => import("./pages/Page34"));
+const Page35 = lazy(() => import("./pages/Page35"));
+const Page36 = lazy(() => import("./pages/Page36"));
+const Page37 = lazy(() => import("./pages/Page37"));
+const Page38 = lazy(() => import("./pages/Page38"));
+const Page39 = lazy(() => import("./pages/Page39"));
+const Page40 = lazy(() => import("./pages/Page40"));
+const Page41 = lazy(() => import("./pages/Page41"));
+const Page42 = lazy(() => import("./pages/Page42"));
+const Page43 = lazy(() => import("./pages/Page43"));
+const Page44 = lazy(() => import("./pages/Page44"));
+const Page45 = lazy(() => import("./pages/Page45"));
+const Page46 = lazy(() => import("./pages/Page46"));
+const Page47 = lazy(() => import("./pages/Page47"));
+const Page48 = lazy(() => import("./pages/Page48"));
+const Page49 = lazy(() => import("./pages/Page49"));
+const Page50 = lazy(() => import("./pages/Page50"));
+const Page51 = lazy(() => import("./pages/Page51"));
+const Page52 = lazy(() => import("./pages/Page52"));
+const Page53 = lazy(() => import("./pages/Page53"));
+const Page54 = lazy(() => import("./pages/Page54"));
+const Page55 = lazy(() => import("./pages/Page55"));
+const Page56 = lazy(() => import("./pages/Page56"));
+const Page57 = lazy(() => import("./pages/Page57"));
+const Page58 = lazy(() => import("./pages/Page58"));
+const Page59 = lazy(() => import("./pages/Page59"));
+const Page60 = lazy(() => import("./pages/Page60"));
+const Page61 = lazy(() => import("./pages/Page61"));
+const Page62 = lazy(() => import("./pages/Page62"));
+const Page63 = lazy(() => import("./pages/Page63"));
+const Page64 = lazy(() => import("./pages/Page64"));
+const Page65 = lazy(() => import("./pages/Page65"));
+const Page66 = lazy(() => import("./pages/Page66"));
+const Page67 = lazy(() => import("./pages/Page67"));
+const Page68 = lazy(() => import("./pages/Page68"));
+const Page69 = lazy(() => import("./pages/Page69"));
+const Page70 = lazy(() => import("./pages/Page70"));
+const Page71 = lazy(() => import("./pages/Page71"));
+const Page72 = lazy(() => import("./pages/Page72"));
+const Page73 = lazy(() => import("./pages/Page73"));
+const Page74 = lazy(() => import("./pages/Page74"));
+const Page75 = lazy(() => import("./pages/Page75"));
+const Search = lazy(() => import("./pages/Search"));
+const TagResults = lazy(() => import("./pages/TagResults"));
+const TagsIndex = lazy(() => import("./pages/TagsIndex"));
 
 function App() {
   return (
-    <>
+    <Suspense fallback={<div className="min-h-screen flex items-center justify-center text-gray-500">Loading page…</div>}>
       <Switch>
         <Route path="/" component={Home} />
         <Route path="/page2" component={Page2} />
@@ -161,7 +162,7 @@ function App() {
         <Route path="/tags" component={TagsIndex} />
         <Route path="/tag/:tag" component={TagResults} />
       </Switch>
-    </>
+    </Suspense>
   );
 }
 
