@@ -51,14 +51,14 @@ def verify(project: Path, ledger_path: Path) -> list[str]:
 
     search = search_records(project)
     if len(search) != len(expected):
-        errors.append(f"Search.tsx has {len(search)} unique article records; ledger has {len(expected)}")
+        errors.append(f"Search index has {len(search)} unique article records; ledger has {len(expected)}")
     for article in expected:
         record = search.get(article_key(article))
         if not record:
-            errors.append(f"Search.tsx is missing NUM {article['num']}")
+            errors.append(f"Search index is missing NUM {article['num']}")
             continue
         if record["page"] != article["page"]:
-            errors.append(f"Search.tsx has NUM {article['num']} on Page {record['page']}; expected Page {article['page']}")
+            errors.append(f"Search index has NUM {article['num']} on Page {record['page']}; expected Page {article['page']}")
             break
 
     src = json.loads((project / "client" / "src" / "data" / "tag-index.json").read_text(encoding="utf-8"))

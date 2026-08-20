@@ -38,6 +38,7 @@ from ctc_info_xlsx import read_ctc_info_workbook, write_tagging_draft
 PROJECT = Path(__file__).resolve().parent
 PAGES = PROJECT / "client" / "src" / "pages"
 SEARCH = PAGES / "Search.tsx"
+SEARCH_INDEX = PROJECT / "client" / "public" / "search-index.json"
 APP = PROJECT / "client" / "src" / "App.tsx"
 TAG_SRC = PROJECT / "client" / "src" / "data" / "tag-index.json"
 TAG_PUBLIC = PROJECT / "client" / "public" / "tag-index.json"
@@ -131,26 +132,39 @@ def find_articles_array(content: str) -> tuple[int, int]:
     raise ValueError("Search.tsx articles array is unterminated")
 
 
+def search_records_from_entries(entries: list[dict[str, Any]]) -> dict[tuple[str, str], dict[str, Any]]:
+    """Normalize generated search entries to fields used by the publication gate."""
+    records: dict[tuple[str, str], dict[str, Any]] = {}
+    for entry in entries:
+        source, xpost = str(entry.get("tinyUrl", "")), str(entry.get("xPostUrl", ""))
+        if source or xpost:
+            records[(source, xpost)] = {
+                "headline": str(entry.get("headline", "")),
+                "batchDate": str(entry.get("batchDate", "")),
+                "page": entry.get("page"),
+            }
+    return records
+
+
 def search_records(project: Path = PROJECT) -> dict[tuple[str, str], dict[str, Any]]:
-    """Read only fields needed to carry forward the historic batch date."""
+    """Read publication-gate search records from the generated static index.
+
+    The inline Search.tsx parser remains solely as a conservative historical
+    fallback for recovering older worktrees before the deferred index existed.
+    """
+    index_path = project / "client" / "public" / "search-index.json"
+    if index_path.exists():
+        payload = json.loads(index_path.read_text(encoding="utf-8"))
+        if not isinstance(payload, list):
+            raise ValueError("search-index.json must contain an article array")
+        return search_records_from_entries(payload)
+
     content = (project / "client" / "src" / "pages" / "Search.tsx").read_text(encoding="utf-8")
     start, end = find_articles_array(content)
     section = content[start:end]
-    records: dict[tuple[str, str], dict[str, Any]] = {}
     array_start = section.find("[")
     try:
-        # Safe-generated records are valid JSON and preserve numeric NUM/page
-        # values exactly. Prefer this parser to indentation-sensitive regexes.
-        entries = json.loads(section[array_start:])
-        for entry in entries:
-            source, xpost = str(entry.get("tinyUrl", "")), str(entry.get("xPostUrl", ""))
-            if source or xpost:
-                records[(source, xpost)] = {
-                    "headline": str(entry.get("headline", "")),
-                    "batchDate": str(entry.get("batchDate", "")),
-                    "page": entry.get("page"),
-                }
-        return records
+        return search_records_from_entries(json.loads(section[array_start:]))
     except json.JSONDecodeError:
         pass
     # Legacy records used non-JSON TypeScript syntax; retain a conservative
@@ -622,9 +636,16 @@ def render_app(total_pages: int) -> str:
 
 
 def render_search(articles: list[dict[str, Any],], original: str) -> str:
-    entries = []
+    """Keep the lightweight Search route source stable; data lives in search-index.json."""
+    del articles
+    return original
+
+
+def search_index_entries(articles: list[dict[str, Any]]) -> list[dict[str, Any]]:
+    """Create visitor-search records from the canonical ledger in page order."""
+    entries: list[dict[str, Any]] = []
     for article in articles:
-        entries.append(json.dumps({
+        entries.append({
             "num": article["num"],
             "headline": article["headline"],
             "tinyUrl": article["sourceUrl"],
@@ -633,10 +654,12 @@ def render_search(articles: list[dict[str, Any],], original: str) -> str:
             "tags": article["tags"],
             "page": article["page"],
             "batchDate": article.get("batchDate", ""),
-        }, ensure_ascii=False, indent=4))
-    array = "const articles = [\n" + ",\n".join(entries) + "\n]"
-    start, end = find_articles_array(original)
-    return original[:start] + array + original[end:] 
+        })
+    return entries
+
+
+def render_search_index(articles: list[dict[str, Any]]) -> str:
+    return json.dumps(search_index_entries(articles), ensure_ascii=False, indent=2) + "\n"
 
 
 def build_tag_index(ledger: dict[str, Any]) -> dict[str, Any]:
@@ -674,6 +697,7 @@ def write_project_from_ledger(ledger: dict[str, Any], batch_date: str, project: 
             (staged / ("Home.tsx" if page == 1 else f"Page{page}.tsx")).write_text(render_page(page, groups[page], total_pages, batch_date), encoding="utf-8")
         search_text = render_search(ledger["articles"], (pages_dir / "Search.tsx").read_text(encoding="utf-8"))
         (staged / "Search.tsx").write_text(search_text, encoding="utf-8")
+        (staged / "search-index.json").write_text(render_search_index(ledger["articles"]), encoding="utf-8")
         (staged / "App.tsx").write_text(render_app(total_pages), encoding="utf-8")
         tag_text = json.dumps(build_tag_index(ledger), ensure_ascii=False, indent=2) + "\n"
         (staged / "tag-index.json").write_text(tag_text, encoding="utf-8")
@@ -685,6 +709,7 @@ def write_project_from_ledger(ledger: dict[str, Any], batch_date: str, project: 
             shutil.copy2(source, pages_dir / source.name)
         shutil.copy2(staged / "Home.tsx", pages_dir / "Home.tsx")
         shutil.copy2(staged / "Search.tsx", pages_dir / "Search.tsx")
+        shutil.copy2(staged / "search-index.json", project / "client" / "public" / "search-index.json")
         shutil.copy2(staged / "App.tsx", project / "client" / "src" / "App.tsx")
         shutil.copy2(staged / "tag-index.json", project / "client" / "src" / "data" / "tag-index.json")
         shutil.copy2(staged / "tag-index.json", project / "client" / "public" / "tag-index.json")
@@ -898,7 +923,7 @@ def render_current_command(args: argparse.Namespace) -> None:
     ledger = load_ledger(Path(args.ledger))
     latest_date = ledger["articles"][0].get("batchDate") or date.today().isoformat()
     write_project_from_ledger(ledger, latest_date)
-    print("RENDERED: all pages, Search.tsx, App.tsx, and both typed tag indexes regenerated from the ledger")
+    print("RENDERED: all pages, Search.tsx, search-index.json, App.tsx, and both typed tag indexes regenerated from the ledger")
 
 
 def correct_ledger_headline_command(args: argparse.Namespace) -> None:

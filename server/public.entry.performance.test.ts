@@ -13,4 +13,17 @@ describe("public CTCrazies entry bundle", () => {
     expect(entry).not.toContain("@trpc/client");
     expect(entry).not.toContain("trpc.Provider");
   });
+
+  it("keeps the generated search dataset outside the Search route chunk", () => {
+    const searchPath = resolve(process.cwd(), "client/src/pages/Search.tsx");
+    const searchIndexPath = resolve(process.cwd(), "client/public/search-index.json");
+    const search = readFileSync(searchPath, "utf-8");
+    const searchIndex = JSON.parse(readFileSync(searchIndexPath, "utf-8"));
+
+    expect(search).toContain("fetch('/search-index.json'");
+    expect(search).not.toContain("const articles = [");
+    expect(Array.isArray(searchIndex)).toBe(true);
+    expect(searchIndex).toHaveLength(1500);
+    expect(searchIndex[0]).toMatchObject({ num: 1500, page: 1 });
+  });
 });

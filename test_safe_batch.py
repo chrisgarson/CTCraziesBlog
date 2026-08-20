@@ -2,7 +2,7 @@
 
 import unittest
 
-from safe_batch import ARTICLES_PER_PAGE, R2_IMAGE_ORIGIN, apply_existing_article_tag_plan, apply_tag_plan, apply_tag_update_plan, assign_pages, combine_batch, declare_tag, rename_tag, render_app, render_article, render_search, validate_batch
+from safe_batch import ARTICLES_PER_PAGE, R2_IMAGE_ORIGIN, apply_existing_article_tag_plan, apply_tag_plan, apply_tag_update_plan, assign_pages, combine_batch, declare_tag, rename_tag, render_app, render_article, render_search, render_search_index, search_records, validate_batch
 
 
 def article(num: int) -> dict:
@@ -136,14 +136,30 @@ class SafeBatchTests(unittest.TestCase):
         self.assertEqual(updated["articles"][0]["tags"], ["Left-Wing"])
         self.assertEqual(ledger["tagMetadata"]["Left-Wing"]["keywords"], ["Old Keyword", "Retired Alias"])
 
-    def test_generated_search_records_retain_num_and_rendered_quotes_are_valid_jsx(self):
+    def test_generated_search_index_retains_num_and_rendered_quotes_are_valid_jsx(self):
         item = article(20)
         item["headline"] = 'Headline With "Quoted" Text'
         item["page"] = 1
-        search = render_search([item], "const articles = []\nexport default articles;\n")
-        self.assertIn('"num": 20', search)
+        search_index = render_search_index([item])
+        self.assertIn('"num": 20', search_index)
+        self.assertIn('Headline With \\"Quoted\\" Text', search_index)
         block = render_article(item)
         self.assertIn("Headline With &quot;Quoted&quot; Text", block)
+
+    def test_search_records_reads_generated_public_index(self):
+        from pathlib import Path
+        from tempfile import TemporaryDirectory
+        item = article(20)
+        item["page"] = 1
+        item["batchDate"] = "2026-08-20"
+        with TemporaryDirectory() as directory:
+            root = Path(directory)
+            index_path = root / "client" / "public" / "search-index.json"
+            index_path.parent.mkdir(parents=True)
+            index_path.write_text(render_search_index([item]), encoding="utf-8")
+            records = search_records(root)
+        self.assertEqual(records[(item["sourceUrl"], item["xPostUrl"])]["page"], 1)
+        self.assertEqual(records[(item["sourceUrl"], item["xPostUrl"])]["batchDate"], "2026-08-20")
 
     def test_generated_app_defers_non_home_routes_until_visited(self):
         app = render_app(3)

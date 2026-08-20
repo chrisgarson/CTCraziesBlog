@@ -48,7 +48,7 @@ The validator rejects a batch that is not a positive multiple of 20, whose NUMs 
 
 The apply step recalculates every visitor-facing page from descending NUM order. The shift equals `incoming article count ÷ 20`: a 20-article batch shifts existing content by one page; a 40-article batch shifts it by two pages.
 
-`verify_safe_site.py` is a publication gate. It must pass before GitHub commit or Cloudflare deployment. It verifies page sizes and order, Search page assignments, both typed tag-index copies, retained tag metadata/keywords, and all page/tag routes.
+`verify_safe_site.py` is a publication gate. It must pass before GitHub commit or Cloudflare deployment. It verifies page sizes and order, generated search-index page assignments, both typed tag-index copies, retained tag metadata/keywords, and all page/tag routes. The canonical renderer writes `client/public/search-index.json` from the ledger; the lazy `/search` route fetches it only when visited.
 
 ## Title-plus-surname person-tag rule
 
