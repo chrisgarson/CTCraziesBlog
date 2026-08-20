@@ -29,3 +29,7 @@ Browser resource timing confirmed a successful request for `search-index.json`; 
 ## Measured result
 
 The compiled Search route decreased from 625.94 KB before transfer compression to 27.30 KB (8.54 KB gzip). The same 1,500 canonical records are delivered as a 742,479-byte `search-index.json` asset (155,730 bytes gzip) only after a visitor opens the Search route. The production build completed without the previous large-chunk warning.
+
+## Live verification record
+
+After Cloudflare Pages deployment, the live direct-query route returned the Alexander Vindman result with the same source link, X-post link, Page 1 destination, and batch date. Browser resource timing confirmed the live site retrieved `https://www.ctcrazies.com/search-index.json` successfully.
