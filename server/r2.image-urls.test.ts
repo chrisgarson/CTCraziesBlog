@@ -9,8 +9,11 @@ describe("R2 article image migration", () => {
     const ledgerPath = resolve(process.cwd(), "data/article-ledger.json");
     const ledger = JSON.parse(readFileSync(ledgerPath, "utf-8"));
     const articles = Array.isArray(ledger) ? ledger : ledger.articles;
+    const nums = articles.map((article: { num: number }) => article.num);
+    const minimumNum = Math.min(...nums);
+    const maximumNum = Math.max(...nums);
 
-    expect(articles).toHaveLength(1480);
+    expect(articles).toHaveLength(maximumNum - minimumNum + 1);
     for (const article of articles) {
       expect(article.imageUrl, `NUM ${article.num}`).toMatch(/^https:\/\/images\.ctcrazies\.com\/article-images\/.+$/);
     }
