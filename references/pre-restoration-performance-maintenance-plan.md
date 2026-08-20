@@ -28,3 +28,5 @@ The deferred Search route successfully returned the Alexander Vindman article wi
 The separately deferred browse-tags route loaded the full typed index and displayed 327 active tags, including the new Alexander Vindman, Angie Nixon, and Manny Rutinel tags. This confirms that all three non-home dynamic route classes—Search, a tag result, and the tag browser—remain operational.
 
 The browser console was empty after exercising Home, Page 2, Search, tag-result, and browse-tags routes in the optimized development site.
+
+Following the Cloudflare Pages release, the live Home route retained NUM 1500, its R2 image, approved tags, and the 1,500-article status line. The live deferred Search route returned the approved Alexander Vindman result with its existing Page 1 link. These production checks match the local route-validation results.
