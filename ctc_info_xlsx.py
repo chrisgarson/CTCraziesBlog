@@ -64,6 +64,22 @@ def _column_map(ws: openpyxl.worksheet.worksheet.Worksheet) -> dict[str, int]:
     return {field: actual[key] for field, key in expected.items()}
 
 
+def _image_path(images_dir: str | Path, image_name: str) -> Path:
+    """Prefer an exact image path, then a unique nested match within the submitted package."""
+    root = Path(images_dir)
+    direct = root / image_name
+    if direct.is_file():
+        return direct
+    matches = [path for path in root.rglob(image_name) if path.is_file()]
+    if len(matches) == 1:
+        return matches[0]
+    if len(matches) > 1:
+        raise ValueError(f"ImageName {image_name!r} matches multiple files under {root}")
+    # Preserve the expected direct path so the safeguarded batch validator can
+    # provide its normal missing-image error before any publication operation.
+    return direct
+
+
 def read_ctc_info_workbook(xlsx_path: str | Path, images_dir: str | Path | None = None) -> tuple[list[dict[str, Any]], dict[str, Any]]:
     """Read the new workbook and return a descending-NUM article draft plus metadata.
 
@@ -119,7 +135,7 @@ def read_ctc_info_workbook(xlsx_path: str | Path, images_dir: str | Path | None 
             "sourceRow": row_number,
         }
         if images_dir is not None:
-            article["imagePath"] = str(Path(images_dir) / image_name)
+            article["imagePath"] = str(_image_path(images_dir, image_name))
         articles.append(article)
 
     workbook.close()

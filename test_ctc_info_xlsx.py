@@ -54,6 +54,25 @@ class CTCInfoWorkbookTests(unittest.TestCase):
             ]
             self.assertEqual(xlsx_cross_check(draft, str(xlsx)), [])
 
+    def test_resolves_a_unique_image_name_inside_a_nested_subdirectory(self):
+        with tempfile.TemporaryDirectory() as tmp:
+            root = Path(tmp)
+            xlsx = root / "sample.xlsx"
+            nested_images = root / "CTC Images"
+            nested_images.mkdir()
+            (nested_images / "a.jpg").write_bytes(b"image")
+            workbook = openpyxl.Workbook()
+            sheet = workbook.active
+            sheet["A2"] = "Mandatory Read: use the CTC Info layout."
+            sheet.append([])
+            sheet.append(["DateCaptrd", "Num", "WebPage#", "X-Post Headline", "Source URL", "ImageName", "X-Post Url"])
+            sheet.append(["08-20-26", 1500, 1, "Exact Headline", "https://source.example/a", "a.jpg", "https://x.com/example/a"])
+            workbook.save(xlsx)
+
+            articles, _ = read_ctc_info_workbook(xlsx, root)
+
+            self.assertEqual(articles[0]["imagePath"], str(nested_images / "a.jpg"))
+
 
 if __name__ == "__main__":
     unittest.main()

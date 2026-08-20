@@ -1,0 +1,31 @@
+{
+  "batchDate": "2026-08-20",
+  "status": "approved-user-edits",
+  "reviewedTagDocument": "EditsofAugust_20_2026_Twenty-Article_Batch_Tag_Review.docx",
+  "proposedNewPersonTags": ["Alexander Vindman", "Angie Nixon", "Manny Rutinel"],
+  "proposedNewTopicTagsRequiringApproval": [],
+  "allowFiveTagNums": [1489, 1487, 1484],
+  "allowSixTagNums": [1497],
+  "tags": {
+    "1500": ["James Talarico", "Texas", "China", "2026 Elections"],
+    "1499": ["Michelle Wu", "Boston", "CBP-DHS-ICE", "Communism-Socialism"],
+    "1498": ["Alexander Vindman", "2026 Elections", "Left-Wing", "Communism-Socialism"],
+    "1497": ["Angie Nixon", "Florida", "Immigration", "CBP-DHS-ICE", "Communism-Socialism", "2026 Elections"],
+    "1496": ["Violent Crime", "Immigration", "Government", "Left-Wing"],
+    "1495": ["Dr. Anthony Fauci", "Corruption-Fraud", "Government"],
+    "1494": ["Crime", "Communism-Socialism"],
+    "1493": ["California", "Government", "Economic Policy", "Left-Wing"],
+    "1492": ["Los Angeles", "Government", "Left-Wing", "Incompetence"],
+    "1491": ["Abdul El-Sayed", "Islam-Muslims", "Hate-Violence", "Terrorism"],
+    "1490": ["Manny Rutinel", "Colorado", "Left-Wing"],
+    "1489": ["Ro Khanna", "Racial Issues", "Gaslight-Lies", "Hate-Violence", "Left-Wing"],
+    "1488": ["Joe Biden", "2nd Amendment", "U.S. Constitution", "Judiciary-Judicial"],
+    "1487": ["Texas", "Immigration", "CBP-DHS-ICE", "Law Enforcement", "Left-Wing"],
+    "1486": ["Corruption-Fraud", "Crime", "Ethics-Morals", "Left-Wing"],
+    "1485": ["Education Policy", "Unions", "U.S. Constitution"],
+    "1484": ["Bob Ferguson", "Seattle", "Washington", "Incompetence", "Communism-Socialism"],
+    "1483": ["James Talarico", "Texas", "Corruption-Fraud", "2026 Elections"],
+    "1482": ["Jimmy Gomez", "California", "Ethics-Morals"],
+    "1481": ["Corruption-Fraud", "Government", "Ethics-Morals"]
+  }
+}

@@ -470,6 +470,10 @@ def apply_tag_plan(batch: list[dict[str, Any]], tag_plan: dict[str, Any], ledger
     """Apply a reviewed NUM-to-tags plan and reject incomplete or unapproved assignments."""
     plan = {int(num): tags for num, tags in tag_plan.get("tags", {}).items()}
     allowed_five = {int(num) for num in tag_plan.get("allowFiveTagNums", [])}
+    allowed_six = {int(num) for num in tag_plan.get("allowSixTagNums", [])}
+    if allowed_five & allowed_six:
+        overlap = ", ".join(str(num) for num in sorted(allowed_five & allowed_six))
+        raise ValueError(f"Tag plan NUMs cannot be approved for both five and six tags: {overlap}")
     batch_nums = {int(article["num"]) for article in batch}
     if set(plan) != batch_nums:
         missing, extra = sorted(batch_nums - set(plan)), sorted(set(plan) - batch_nums)
@@ -477,9 +481,10 @@ def apply_tag_plan(batch: list[dict[str, Any]], tag_plan: dict[str, Any], ledger
     tagged = copy.deepcopy(batch)
     for article in tagged:
         tags = plan[int(article["num"])]
-        maximum = 5 if int(article["num"]) in allowed_five else 4
+        num = int(article["num"])
+        maximum = 6 if num in allowed_six else 5 if num in allowed_five else 4
         if not isinstance(tags, list) or not 2 <= len(tags) <= maximum:
-            exception = " (five tags explicitly approved)" if maximum == 5 else ""
+            exception = f" ({maximum} tags explicitly approved)" if maximum > 4 else ""
             raise ValueError(f"NUM {article['num']}: tag plan must contain two to {maximum} approved tags{exception}")
         if len(tags) != len(set(tags)):
             raise ValueError(f"NUM {article['num']}: tag plan contains duplicate tags")

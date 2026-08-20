@@ -174,6 +174,23 @@ class SafeBatchTests(unittest.TestCase):
         with self.assertRaises(ValueError):
             apply_tag_plan(batch, {"tags": {"21": tags}}, ledger)
 
+    def test_tag_plan_allows_six_tags_only_for_an_explicitly_approved_num(self):
+        ledger = {
+            "schemaVersion": 1,
+            "articlesPerPage": ARTICLES_PER_PAGE,
+            "tagMetadata": {str(index): {"type": "topic", "keywords": []} for index in range(6)},
+            "articles": assign_pages([article(num) for num in range(20, 0, -1)]),
+        }
+        batch = [article(21)]
+        batch[0]["imageName"] = "image.jpg"
+        tags = [str(index) for index in range(6)]
+        valid = apply_tag_plan(batch, {"tags": {"21": tags}, "allowSixTagNums": [21]}, ledger)
+        self.assertEqual(valid[0]["tags"], tags)
+        with self.assertRaises(ValueError):
+            apply_tag_plan(batch, {"tags": {"21": tags}}, ledger)
+        with self.assertRaises(ValueError):
+            apply_tag_plan(batch, {"tags": {"21": tags}, "allowFiveTagNums": [21]}, ledger)
+
     def test_existing_article_tag_plan_adds_only_the_approved_tag_by_xpost_url(self):
         ledger = {
             "schemaVersion": 1,

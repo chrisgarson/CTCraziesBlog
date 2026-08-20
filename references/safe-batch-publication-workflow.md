@@ -14,13 +14,13 @@ New spreadsheets do not need a Tiny URL column. Older articles that already have
 
 ## Required sequence
 
-Create a non-publishing draft from the incoming workbook and image folder:
+Create a non-publishing draft from the incoming workbook and image folder. The ingestion step accepts images placed directly in the supplied directory or in one uniquely identifiable nested subdirectory, but rejects ambiguous duplicate filenames:
 
 ```bash
 python3 safe_batch.py prepare <CTC-Info.xlsx> <images-directory> <draft.json>
 ```
 
-Review the exact Column D headlines and proposed tags through an editable DOCX review document. The document must contain a three-column table with **NUM**, the **exact Column D X-Post Headline**, and **Proposed Tags**. The user may edit the tag cells directly and upload the edited DOCX; that uploaded document is the authority for the final reviewed tag plan. Transfer the edited tags into the final plan without changing any headline, source URL, image name, or X-post URL. A user-provided five-tag row is explicit approval for that row's five-tag exception. Obtain approval before any new topic tag is declared; full-name person tags follow the established person-tag rule.
+Review the exact Column D headlines and proposed tags through an editable DOCX review document. The document must contain a three-column table with **NUM**, the **exact Column D X-Post Headline**, and **Proposed Tags**. The user may edit the tag cells directly and upload the edited DOCX; that uploaded document is the authority for the final reviewed tag plan. Transfer the edited tags into the final plan without changing any headline, source URL, image name, or X-post URL. A user-provided five- or six-tag row is explicit approval for that row's documented exception; record five-tag NUMs in `allowFiveTagNums` and six-tag NUMs in `allowSixTagNums`. Obtain approval before any new topic tag is declared; full-name person tags follow the established person-tag rule.
 
 All new batch images are stored in the `ctcrazies-article-images` Cloudflare R2 bucket and publicly served from `https://images.ctcrazies.com/article-images/`. Do **not** copy new batch images to `article-images/` or commit them to GitHub. After the final tag plan has been applied to the draft, run the R2 upload command before `apply`. It uploads each locally verified image with checksum validation and produces a local receipt; `apply` is prohibited until that command succeeds for every batch image.
 
