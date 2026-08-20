@@ -1,4 +1,4 @@
-import { readFileSync } from "node:fs";
+import { readdirSync, readFileSync } from "node:fs";
 import { resolve } from "node:path";
 import { describe, expect, it } from "vitest";
 
@@ -17,5 +17,10 @@ describe("R2 article image migration", () => {
     for (const article of articles) {
       expect(article.imageUrl, `NUM ${article.num}`).toMatch(/^https:\/\/images\.ctcrazies\.com\/article-images\/.+$/);
     }
+
+    const publicDir = resolve(process.cwd(), "client/public");
+    const retainedLocalArticleImages = readdirSync(publicDir, { recursive: true })
+      .filter((entry) => /\.(jpe?g|png|webp)$/i.test(entry) && entry !== "apple-touch-icon.png");
+    expect(retainedLocalArticleImages).toEqual([]);
   });
 });

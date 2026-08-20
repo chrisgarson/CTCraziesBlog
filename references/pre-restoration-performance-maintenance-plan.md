@@ -8,7 +8,7 @@ This maintenance pass preserves the published article ledger, exact headlines, s
 
 The August 20 production build emitted a single primary JavaScript bundle of **2,029,916 bytes** before transfer compression and approximately **479 KB** after gzip compression. The immediate cause is structural: `App.tsx` statically imports all 75 generated article-page components, the 750,615-byte Search component, and tag routes. Consequently, the browser downloads code and the 1,500-record search dataset even when a visitor opens only the home page.
 
-The typed tag index is intentionally delivered as a separate 1,910,960-byte JSON resource and is already fetched only by tag-related routes. It is not the cause of the first-page JavaScript warning. The project also retains 164 legacy images, approximately 17.3 MB, in `client/public`; no active article source reference was found during the initial inventory. These files increase deployment storage and upload work but are not downloaded by a normal home-page visitor.
+The typed tag index is intentionally delivered as a separate 1,910,960-byte JSON resource and is already fetched only by tag-related routes. It is not the cause of the first-page JavaScript warning. The project also retained 163 legacy article images, approximately 17.3 MB, in `client/public`, alongside the required Apple touch icon; no active article source reference was found during the initial inventory. These legacy files increased deployment storage and upload work but were not downloaded by a normal home-page visitor.
 
 | Priority | Improvement | Expected effect | Risk control | Decision |
 |---|---|---|---|---|
@@ -16,6 +16,8 @@ The typed tag index is intentionally delivered as a separate 1,910,960-byte JSON
 | 2 | Retain tag-index JSON as route-fetched data. | Avoids moving a 1.9 MB index into the initial bundle. | Validate `/tags` and a tag result after the route split. | Retain current design. |
 | 3 | Audit legacy `client/public` image files for external/direct-link dependencies before removal. | Could reduce deployment storage and artifact size by approximately 17.3 MB. | Do not delete during this pass without an explicit dependency review and user authorization. | Document only. |
 | 4 | Continue the now-added nested image-folder and six-tag-exception safeguards. | Prevents repetition of two batch-processing interruptions. | Covered by Python regression tests. | Completed in the August 20 batch. |
+
+The pre-removal audit found that 19 legacy local filenames still appear in source only as canonical R2 object names for Page 74 and Search results; none is requested from the local public directory. The remaining 144 article files have no active source mention. The cleanup removes only those redundant local article copies, preserves the Apple touch icon, and adds a regression check that canonical article image delivery relies exclusively on R2.
 
 > The targeted route split is a delivery optimization, not a content rewrite. A visitor opening the home page receives only the home-page code first; the relevant route code is fetched when that route is visited.
 
