@@ -32,3 +32,5 @@ The separately deferred browse-tags route loaded the full typed index and displa
 The browser console was empty after exercising Home, Page 2, Search, tag-result, and browse-tags routes in the optimized development site.
 
 Following the Cloudflare Pages release, the live Home route retained NUM 1500, its R2 image, approved tags, and the 1,500-article status line. The live deferred Search route returned the approved Alexander Vindman result with its existing Page 1 link. These production checks match the local route-validation results.
+
+After the redundant local-image cleanup release, live Page 74 loaded the older canonical R2 image URLs (including `post40_clean.jpg`, `post39_clean.jpg`, and `post38_clean.jpg`) with non-zero dimensions. This confirms that the previously duplicated local image files were not part of live article delivery.
