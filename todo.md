@@ -703,3 +703,8 @@
 
 ## Refreshed Two-Column Person Tag Export
 - [x] Generate the current Person-tag CSV with Person Tag in Column A and Aliases / Keywords in Column B
+
+## Restored-Environment Readiness Check
+- [x] Restore the local Node dependency installation required for the test suite
+- [x] Restore the workspace-only isolated batch simulation utility for the final readiness check
+- [x] Verify restored project files, account prerequisites, tests, build, and publication gate without processing a real batch
