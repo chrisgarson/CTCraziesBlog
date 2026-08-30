@@ -23,7 +23,8 @@ describe("public CTCrazies entry bundle", () => {
     expect(search).toContain("fetch('/search-index.json'");
     expect(search).not.toContain("const articles = [");
     expect(Array.isArray(searchIndex)).toBe(true);
-    expect(searchIndex).toHaveLength(1500);
-    expect(searchIndex[0]).toMatchObject({ num: 1500, page: 1 });
+    const maximumNum = Math.max(...searchIndex.map((article: { num: number }) => article.num));
+    expect(searchIndex).toHaveLength(maximumNum);
+    expect(searchIndex[0]).toMatchObject({ num: maximumNum, page: 1 });
   });
 });

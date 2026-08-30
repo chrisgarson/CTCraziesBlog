@@ -1,0 +1,39 @@
+{
+  "batchDate": "2026-08-30",
+  "status": "approved-user-edits",
+  "reviewedTagDocument": "EditedDoneAugust_30_2026_Twenty-Article_Batch_Tag_Review.docx",
+  "proposedNewPersonTags": [
+    "Ayanna Pressley",
+    "Dan Bilzerian",
+    "LaMonica McIver",
+    "Amish Shah",
+    "Charlie Kirk",
+    "Debbie Dingell",
+    "Steve Descano"
+  ],
+  "proposedNewTopicTagsRequiringApproval": ["Arkansas"],
+  "allowFiveTagNums": [1511, 1505, 1503],
+  "allowSixTagNums": [],
+  "tags": {
+    "1520": ["Ro Khanna", "Hypocrisy", "Left-Wing"],
+    "1519": ["James Talarico", "Texas", "CBP-DHS-ICE", "Gaslight-Lies"],
+    "1518": ["Chris Murphy", "Connecticut", "Immigration", "Gaslight-Lies"],
+    "1517": ["Ayanna Pressley", "Massachusetts", "Culture War", "Gaslight-Lies"],
+    "1516": ["Immigration", "Government", "Incompetence"],
+    "1515": ["Election Fraud", "2026 Elections"],
+    "1514": ["Election Fraud", "Arkansas"],
+    "1513": ["Election Fraud", "Immigration"],
+    "1512": ["Communism-Socialism", "Left-Wing"],
+    "1511": ["Abdul El-Sayed", "Dan Bilzerian", "Michigan", "Israel-Jews", "Islam-Muslims"],
+    "1510": ["Dana Nessel", "Michigan", "Israel-Jews", "Hate-Violence"],
+    "1509": ["California", "Corruption-Fraud", "Crime"],
+    "1508": ["LaMonica McIver", "CBP-DHS-ICE", "Violent Crime"],
+    "1507": ["Amish Shah", "Arizona", "Crime", "Law Enforcement"],
+    "1506": ["Roy Cooper", "North Carolina", "Law Enforcement", "Crime"],
+    "1505": ["Hasan Piker", "Charlie Kirk", "Assassination", "Hate-Violence", "Communism-Socialism"],
+    "1504": ["Debbie Dingell", "Hasan Piker", "Michigan", "Communism-Socialism"],
+    "1503": ["Steve Descano", "Immigration", "Crime", "Corruption-Fraud", "Fairfax County"],
+    "1502": ["David Jolly", "Florida", "Immigration", "2026 Elections"],
+    "1501": ["Pennsylvania", "LGBTQ", "Culture War"]
+  }
+}

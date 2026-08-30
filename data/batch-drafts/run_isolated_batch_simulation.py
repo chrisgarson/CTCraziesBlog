@@ -146,7 +146,8 @@ def run_simulation() -> dict[str, Any]:
         workbook_path = workspace / "CTC Info Simulation.xlsx"
         ledger_path = simulated_project / "data" / "article-ledger.json"
         ledger = load_ledger(ledger_path)
-        numbers = write_simulation_workbook(workbook_path, max(article["num"] for article in ledger["articles"]), images_dir)
+        pre_batch_max_num = max(article["num"] for article in ledger["articles"])
+        numbers = write_simulation_workbook(workbook_path, pre_batch_max_num, images_dir)
 
         draft_path = workspace / "simulation-draft.json"
         metadata = write_tagging_draft(workbook_path, images_dir, draft_path)
@@ -171,13 +172,16 @@ def run_simulation() -> dict[str, Any]:
         actual_page_one = [article["num"] for article in simulated["articles"][:20]]
         if actual_page_one != expected_page_one:
             raise RuntimeError(f"Simulation Page 1 NUM order mismatch: {actual_page_one}")
-        if simulated["articles"][20]["num"] != 1500:
-            raise RuntimeError("Simulation Page 2 did not begin with the previous newest article, NUM 1500")
+        if simulated["articles"][20]["num"] != pre_batch_max_num:
+            raise RuntimeError(
+                f"Simulation Page 2 did not begin with the previous newest article, NUM {pre_batch_max_num}"
+            )
 
         result = {
             "status": "passed",
             "simulationOnly": True,
             "incomingArticles": len(validated),
+            "preBatchMaxNum": pre_batch_max_num,
             "totalArticlesAfterSimulation": len(simulated["articles"]),
             "pagesAfterSimulation": len(simulated["articles"]) // 20,
             "simulatedNums": numbers,

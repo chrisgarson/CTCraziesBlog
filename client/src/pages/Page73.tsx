@@ -8,147 +8,147 @@ export default function Page73() {
       <PageHeader />
       <div className="space-y-12">
       <ArticleBlock
-        headline="Election Fraud Incoming - Social Security Unable to Match 28% of Voter Verifications"
-        tinyUrl="https://tinyurl.com/2hxye7f3"
-        xPostUrl="https://x.com/C3Heditor/status/2022055436011368838"
-        imageSrc="https://images.ctcrazies.com/article-images/post60_clean_7e093ae2.jpg"
-        tags={["2026 Elections", "Corruption-Fraud", "Election Fraud"]}
+        headline="Democrat activists from Los Angeles Teachers&#x27; Union &quot;working&quot; to stymie legal ICE enforcement"
+        tinyUrl="https://tinyurl.com/25r6y3vn"
+        xPostUrl="https://x.com/C3Heditor/status/2023158422649319667"
+        imageSrc="https://images.ctcrazies.com/article-images/2026-02-20_095258_011fbaca.jpg"
+        tags={["CBP-DHS-ICE", "Immigration", "Unions"]}
       />
       <ArticleBlock
-        headline="Biggest Podcaster Blasts Democrats &#x27;Open Borders&#x27; Stupidity"
-        tinyUrl="https://tinyurl.com/343pwa2k"
-        xPostUrl="https://x.com/C3Heditor/status/2022054149098230265"
-        imageSrc="https://images.ctcrazies.com/article-images/post59_clean_bbed2ec1.jpg"
-        tags={["CBP-DHS-ICE", "Immigration", "Joe Rogan", "Violent Crime"]}
+        headline="Democrat Green Energy Policies Skyrockets Electricity Bills In Unaffordable California"
+        tinyUrl="https://tinyurl.com/4v7ekc7w"
+        xPostUrl="https://x.com/C3Heditor/status/2023152638825787575"
+        imageSrc="https://images.ctcrazies.com/article-images/post79_clean_a5ef44f3.jpg"
+        tags={["California", "Economic Policy", "Energy Policy"]}
       />
       <ArticleBlock
-        headline="Georgia 2020 Election: 17,000+ more Biden votes in Fulton County than actual ballots"
-        tinyUrl="https://tinyurl.com/58bj3tmm"
-        xPostUrl="https://x.com/C3Heditor/status/2022052925414191227"
-        imageSrc="https://images.ctcrazies.com/article-images/post58_clean_b666da7e.jpg"
-        tags={["2026 Elections", "Election Fraud", "Georgia"]}
+        headline="Unhinged Rep. Shri Thanedar threatens CBP Commissioner Rodney Scott with future prosecution once Democrats seize power"
+        tinyUrl="https://tinyurl.com/mvfdekau"
+        xPostUrl="https://x.com/C3Heditor/status/2023151530304745725"
+        imageSrc="https://images.ctcrazies.com/article-images/post78_clean_a90186fe.jpg"
+        tags={["CBP-DHS-ICE", "Homeland Security", "Shri Thanedar"]}
       />
       <ArticleBlock
-        headline="Ilhan Omar Provides Further Proof That Democrats&#x27; Lies &amp; Violent Rhetoric Is Their New Normal"
-        tinyUrl="https://tinyurl.com/ycymrpdc"
-        xPostUrl="https://x.com/C3Heditor/status/2021710820598538391"
-        imageSrc="https://images.ctcrazies.com/article-images/post57_clean_02cc892d.jpg"
-        tags={["Epstein", "Ilhan Omar"]}
+        headline="Virtue-Signaling Democrat: ‘I Do Love Gays’ But Then Reveals Not Knowing &#x27;LGBTQIA&#x27; Stands For"
+        tinyUrl="https://tinyurl.com/yehp9w2r"
+        xPostUrl="https://x.com/C3Heditor/status/2023150152773689385"
+        imageSrc="https://images.ctcrazies.com/article-images/post77_clean_01a7f18c.jpg"
+        tags={["Bernie Sanders", "Graham Platner", "LGBTQ", "Maine", "Virtue Signaling"]}
       />
       <ArticleBlock
-        headline="Why do Democrats hate Trump so freaking much? Hint: Look at the chart"
-        tinyUrl="https://tinyurl.com/y8fkjkcn"
-        xPostUrl="https://x.com/C3Heditor/status/2021704657530179835"
-        imageSrc="https://images.ctcrazies.com/article-images/post56_clean_965656da.jpg"
-        tags={["Economic Policy", "Unions"]}
+        headline="Despite California being broke, Democrat governor always has more $$$ for killing babies"
+        tinyUrl="https://tinyurl.com/mrx6e845"
+        xPostUrl="https://x.com/C3Heditor/status/2022078841058103777"
+        imageSrc="https://images.ctcrazies.com/article-images/post76_clean_b46eab4a.jpg"
+        tags={["California", "Culture War", "Gavin Newsom"]}
       />
       <ArticleBlock
-        headline="Chicago&#x27;s top prosecutor is calling out Democrat Mayor Johnson&#x27;s anti-ICE executive order as a &quot;wholly inappropriate&quot; disaster"
-        tinyUrl="https://tinyurl.com/yc2z87cu"
-        xPostUrl="https://x.com/C3Heditor/status/2021702344946167827"
-        imageSrc="https://images.ctcrazies.com/article-images/2026-02-19_144631_165ebe56.jpg"
-        tags={["Brandon Johnson", "CBP-DHS-ICE", "Chicago", "Law Enforcement"]}
+        headline="Even the left-wing Guardian noted this lie: 4 men in unredacted files named by Democrat Rep. Ro Khanna as having ties to Epstein actually had no ties to Epstein"
+        tinyUrl="https://tinyurl.com/yzsrtm8f"
+        xPostUrl="https://x.com/C3Heditor/status/2023149972506693925"
+        imageSrc="https://images.ctcrazies.com/article-images/post75_clean_5428746f.jpg"
+        tags={["Epstein", "Politics", "Ro Khanna"]}
       />
       <ArticleBlock
-        headline="More Democrat Incompetence: Gov. Whitmer Honors Big-Time Day Care Fraudster"
-        tinyUrl="https://tinyurl.com/9je5xzuz"
-        xPostUrl="https://x.com/C3Heditor/status/2021700436709736618"
-        imageSrc="https://images.ctcrazies.com/article-images/post54_clean_5b66412e.jpg"
-        tags={["Corruption-Fraud", "Gretchen Whitmer", "Taxation"]}
+        headline="Poof: Democrat Newsom&#x27;s massive $450 million failure for new &#x27;911&#x27; sysrtem"
+        tinyUrl="https://tinyurl.com/3wxm33bs"
+        xPostUrl="https://x.com/C3Heditor/status/2022082882303611227"
+        imageSrc="https://images.ctcrazies.com/article-images/post74_clean_4f36dcfd.jpg"
+        tags={["FCC", "Gavin Newsom", "Incompetence"]}
       />
       <ArticleBlock
-        headline="Pro-Life Groups Sue Michigan Over Democrats Demands That Pro-Abortion Staff Be Hired"
-        tinyUrl="https://tinyurl.com/49mcjh3b"
-        xPostUrl="https://x.com/C3Heditor/status/2021698463050703050"
-        imageSrc="https://images.ctcrazies.com/article-images/post53_clean_c1ee76f5.jpg"
-        tags={["Culture War", "Michigan"]}
+        headline="Governor Incompetence of Minnesota wants all U.S. citizens to pay for destruction from Democrat&#x27;s Anti-Ice mobs"
+        tinyUrl="https://tinyurl.com/ycyam9hz"
+        xPostUrl="https://x.com/C3Heditor/status/2022082204038574414"
+        imageSrc="https://images.ctcrazies.com/article-images/post73_clean_4815f355.jpg"
+        tags={["CBP-DHS-ICE", "Minnesota", "Taxation", "Tim Walz"]}
       />
       <ArticleBlock
-        headline="Illinois Democrats fast-track deindustrialization &amp; blue collar job destruction with climate change financial liability proposal"
-        tinyUrl="https://tinyurl.com/4tk2vht3"
-        xPostUrl="https://x.com/C3Heditor/status/2021695733091500387"
-        imageSrc="https://images.ctcrazies.com/article-images/post52_clean_9d510d7f.jpg"
-        tags={["Climate Change", "Culture War", "Illinois"]}
+        headline="Illegal Student Enrollment Plunge Has Democrats &amp; Their Shock Troops Very Upset"
+        tinyUrl="https://tinyurl.com/yzfb4kwp"
+        xPostUrl="https://x.com/C3Heditor/status/2022077336724832706"
+        imageSrc="https://images.ctcrazies.com/article-images/post72_clean_7a44a422.jpg"
+        tags={["Education Policy", "Immigration"]}
       />
       <ArticleBlock
-        headline="Gov. Newsom is blasted by critics who call the Democrats&#x27; troubled &amp; long-delayed rail project a boondoggle - costing taxpayers a ludicrous $215 million per mile with no end in sight"
-        tinyUrl="https://tinyurl.com/24xrd293"
-        xPostUrl="https://x.com/C3Heditor/status/2021689853855838667"
-        imageSrc="https://images.ctcrazies.com/article-images/post51_clean_d1956a96.jpg"
-        tags={["California", "Gavin Newsom", "Taxation"]}
+        headline="Major Democrat activist group tied to Chinese Communist Party activities"
+        tinyUrl="https://tinyurl.com/bdt748f3"
+        xPostUrl="https://x.com/C3Heditor/status/2022075822451150879"
+        imageSrc="https://images.ctcrazies.com/article-images/post71_clean_3ea7e46d.jpg"
+        tags={["China", "Foreign Policy", "Left-Wing"]}
       />
       <ArticleBlock
-        headline="Progressive-Democrat Hatred of Whites Does Not Belong In Government"
-        tinyUrl="https://tinyurl.com/ypyp2yab"
-        xPostUrl="https://x.com/C3Heditor/status/2021688005551866354"
-        imageSrc="https://images.ctcrazies.com/article-images/post50_clean_81a6a341.jpg"
-        tags={["Left-Wing", "NYC", "Racial Issues"]}
+        headline="The &#x27;warmth&#x27; of collectivism - not so much: Freezing homeless people in Democrat run NYC didn’t get help in 96% of 311 calls made"
+        tinyUrl="https://tinyurl.com/bdfnddh4"
+        xPostUrl="https://x.com/C3Heditor/status/2023156895310291438"
+        imageSrc="https://images.ctcrazies.com/article-images/post70_clean_3270a6fb.jpg"
+        tags={["Homeless", "New York"]}
       />
       <ArticleBlock
-        headline="The Obvious Result of Democrats&#x27; Stupid Tax Policies:  Affluent Californians escaping to Las Vegas"
-        tinyUrl="https://tinyurl.com/bdchfk9w"
-        xPostUrl="https://x.com/C3Heditor/status/2021684834276372488"
-        imageSrc="https://images.ctcrazies.com/article-images/post49_clean_50c528d6.jpg"
-        tags={["California", "Taxation"]}
+        headline="Apple pushes on left-wing Democrat propaganda on its news app"
+        tinyUrl="https://tinyurl.com/5t5e282j"
+        xPostUrl="https://x.com/C3Heditor/status/2022072863029965073"
+        imageSrc="https://images.ctcrazies.com/article-images/post69_clean_4bf9ee68.jpg"
+        tags={["Alternative & Social Media", "Left-Wing"]}
       />
       <ArticleBlock
-        headline="The Party of Violence: Democrats Incite Teenagers To Plot The Beheading of Law Enforcement Officers"
-        tinyUrl="https://tinyurl.com/2s4yd24j"
-        xPostUrl="https://x.com/C3Heditor/status/2021681662271082800"
-        imageSrc="https://images.ctcrazies.com/article-images/post48_clean_10d60b41.jpg"
-        tags={["Law Enforcement", "Politics", "Violent Crime"]}
+        headline="California Democrats take &#x27;dumb&#x27; to a new level: Another Billionaire Flees"
+        tinyUrl="https://tinyurl.com/4h55sfpe"
+        xPostUrl="https://x.com/C3Heditor/status/2022074125062377562"
+        imageSrc="https://images.ctcrazies.com/article-images/post68_clean_cbaaea54.jpg"
+        tags={["California", "Florida", "Taxation"]}
       />
       <ArticleBlock
-        headline="Collaborating With A Pervert: Democrat Rep Pushed For Funding From Epstein"
-        tinyUrl="https://tinyurl.com/wpp9aehm"
-        xPostUrl="https://x.com/C3Heditor/status/2021683064884097310"
-        imageSrc="https://images.ctcrazies.com/article-images/post47_clean_b58b2c02.jpg"
-        tags={["Election Fraud", "Epstein", "Stacey Plaskett", "Virgin Islands"]}
+        headline="Radical Far-Left Forcing Moderate Demcorats To Self-Immolate"
+        tinyUrl="https://tinyurl.com/9vwjhykz"
+        xPostUrl="https://x.com/C3Heditor/status/2022070745397174432"
+        imageSrc="https://images.ctcrazies.com/article-images/post67_clean_4986c3b0.jpg"
+        tags={["Harry Enten", "Journalism-MediaBias", "Politics"]}
       />
       <ArticleBlock
-        headline="California Democrat Economics: Power bills spike 39% over 6 years — leads the U.S. in unaffordability for families"
-        tinyUrl="https://tinyurl.com/tvnvbxyp"
-        xPostUrl="https://x.com/C3Heditor/status/2021359345305554998"
-        imageSrc="https://images.ctcrazies.com/article-images/post46_clean_d42db62c.jpg"
-        tags={["Affordability", "California", "Energy Policy"]}
+        headline="It Was An Absolute Failure 3 Months Ago But Democrats Think Another Shutdown Is What Americans Are Demanding"
+        tinyUrl="https://tinyurl.com/4x5d8fre"
+        xPostUrl="https://x.com/C3Heditor/status/2022066957139554789"
+        imageSrc="https://images.ctcrazies.com/article-images/post66_clean_de71bedb.jpg"
+        tags={["Government", "Homeland Security", "Immigration", "Politics"]}
       />
       <ArticleBlock
-        headline="Democrat Jasmine Crockett flat-out refuses to apologize for knowingly spreading lies about a Trump official"
-        tinyUrl="https://tinyurl.com/fnuywvu7"
-        xPostUrl="https://x.com/C3Heditor/status/2021358060044996755"
-        imageSrc="https://images.ctcrazies.com/article-images/post45_clean_c6672caf.jpg"
-        tags={["Epstein", "Jasmine Crockett", "Politics"]}
+        headline="How Do American-Hating Democrats Get Elected?"
+        tinyUrl="https://tinyurl.com/yy72upm8"
+        xPostUrl="https://x.com/C3Heditor/status/2022064303998992417"
+        imageSrc="https://images.ctcrazies.com/article-images/post65_clean_2b535352.jpg"
+        tags={["Immigration", "Violent Crime"]}
       />
       <ArticleBlock
-        headline="Democrat Cali-Fraudnia: Small business fraud is immense amounting to billions of $$$$ in the state"
-        tinyUrl="https://tinyurl.com/udmdr2pb"
-        xPostUrl="https://x.com/C3Heditor/status/2021353183579340813"
-        imageSrc="https://images.ctcrazies.com/article-images/post44_clean_b4719c5b.jpg"
-        tags={["Business Climate", "California", "Corruption-Fraud"]}
+        headline="Almost 100% of Democrat Politicians Are Against Election Integrity &amp; Proof of Legal Right To Vote"
+        tinyUrl="https://tinyurl.com/bdehd89c"
+        xPostUrl="https://x.com/C3Heditor/status/2022058251345641948"
+        imageSrc="https://images.ctcrazies.com/article-images/post64_clean_90c9de4a.jpg"
+        tags={["2026 Elections", "Election Fraud"]}
       />
       <ArticleBlock
-        headline="Blue State Blues: NY Democrats serve up costly regulations &amp; red tape for child care centers"
-        tinyUrl="https://tinyurl.com/4bzp5nc5"
-        xPostUrl="https://x.com/C3Heditor/status/2021354564717510745"
-        imageSrc="https://images.ctcrazies.com/article-images/post43_clean_7760650f.jpg"
-        tags={["Kathy Hochul", "New York"]}
+        headline="Nothing like sanctimonious, wealthy Hollywood liberal types showing their true colors"
+        tinyUrl="https://tinyurl.com/jukjn3hd"
+        xPostUrl="https://x.com/C3Heditor/status/2024619847758364799"
+        imageSrc="https://images.ctcrazies.com/article-images/post63_clean_825f15a0.jpg"
+        tags={["California", "Steven Spielberg", "Taxation"]}
       />
       <ArticleBlock
-        headline="Liberal Progressive Judge Reduces Violent Rapist &amp; Kidnapper Criminal’s Sentence, Because He&#x27;s A Young Black Man"
-        tinyUrl="https://tinyurl.com/26r3beck"
-        xPostUrl="https://x.com/C3Heditor/status/2021355009481507057"
-        imageSrc="https://images.ctcrazies.com/article-images/post42_clean_bc31d15d.jpg"
-        tags={["Criminal Justice", "Judiciary-Judicial", "Left-Wing", "Violent Crime"]}
+        headline="Instead of keeping its own refineries open, the &#x27;Great State of Stupid&#x27; does this. It&#x27;s the Democrat Idiocracy on steroids."
+        tinyUrl="https://tinyurl.com/zmvex8m8"
+        xPostUrl="https://x.com/C3Heditor/status/2024607372300189826"
+        imageSrc="https://images.ctcrazies.com/article-images/post62_clean_a073652a.jpg"
+        tags={["Business Climate", "Energy Policy", "Politics"]}
       />
       <ArticleBlock
-        headline="Democrats Love To Tax: Seattle quarterback will pay California taxes greater than his Super Bowl winnings"
-        tinyUrl="https://tinyurl.com/yepvusba"
-        xPostUrl="https://x.com/C3Heditor/status/2021287717129064832"
-        imageSrc="https://images.ctcrazies.com/article-images/post41_clean_12481740.jpg"
-        tags={["California", "Taxation", "Washington"]}
+        headline="Democrats won&#x27;t say they support the mutilation of transgender children so instead they go with &#x27;God supports us Dems&#x27;"
+        tinyUrl="https://tinyurl.com/a9r3t5j3"
+        xPostUrl="https://x.com/C3Heditor/status/2024613995986993631"
+        imageSrc="https://images.ctcrazies.com/article-images/post61_clean_e6725158.jpg"
+        tags={["Christianity", "Culture War", "James Talarico", "LGBTQ"]}
       />
       </div>
-      <Pagination currentPage={73} totalPages={75} />
+      <Pagination currentPage={73} totalPages={76} />
 
     </div>
   );
