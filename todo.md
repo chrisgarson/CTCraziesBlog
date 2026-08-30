@@ -708,3 +708,12 @@
 - [x] Restore the local Node dependency installation required for the test suite
 - [x] Restore the workspace-only isolated batch simulation utility for the final readiness check
 - [x] Verify restored project files, account prerequisites, tests, build, and publication gate without processing a real batch
+
+## August 30 2026 First Post-Restoration Twenty-Article Batch
+- [x] Inspect CTCInfoImages08302026.zip and validate the workbook, NUM sequence, source URLs, and image package without publishing
+- [x] Restore the Python DOCX dependency required for the editable tag-review generator
+- [x] Prepare an editable three-column tag-review proposal using exact workbook headlines and await the user's returned edits
+- [x] Apply the approved tag plan, upload verified images to R2, and publish only after required validation
+- [x] Update the isolated batch simulation to derive its pre-batch maximum NUM dynamically rather than retaining the prior 1500 baseline
+- [x] Update the deferred-search performance regression test to derive the current canonical article count dynamically
+- [x] Restore a Cloudflare Pages deployment token with permission to access the `ctcrazies` project and validate that scope before retrying deployment
