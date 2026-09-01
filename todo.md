@@ -721,4 +721,4 @@
 ## September 1 2026 Twenty-Article Batch
 - [x] Inspect CTCInfoImages09012026.zip and validate the workbook, NUM sequence, source URLs, and image package without publishing
 - [x] Prepare an editable three-column tag-review proposal using exact workbook headlines and await the user's returned edits
-- [ ] Transfer the user-approved tag plan, upload verified images to R2, and publish only after required validation
+- [x] Transfer the user-approved tag plan, upload verified images to R2, and publish only after required validation
