@@ -8,147 +8,147 @@ export default function Page6() {
       <PageHeader />
       <div className="space-y-12">
       <ArticleBlock
-        headline="Cheeseheads Got Brains: Wisconsin Primary Voters Reject Democrat-Socialist, Francesca Hong, Who Hates America, Hates Major Holidays &amp; Hates Whites "
-        tinyUrl="https://nypost.com/2026/08/12/us-news/francesca-hong-loses-tight-race-to-moderate-david-crowley-in-wisconsin-gubernatorial-primary/"
-        xPostUrl="https://x.com/C3Heditor/status/2087577460904972685"
-        imageSrc="https://images.ctcrazies.com/article-images/2026-08-12_113113.jpg"
-        tags={["Francesca Hong", "David Crowley", "Wisconsin", "Communism-Socialism"]}
+        headline="Unfortunately, Wisconsin&#x27;s Democrat &quot;Moderate&quot; For Governor, David Crowley, Is a Rabid Anti-White, Woke-DEI Racist"
+        tinyUrl="https://www.theblaze.com/news/heres-the-unfiltered-truth-about-the-moderate-who-beat-the-america-hating-socialist-in-wisconsin"
+        xPostUrl="https://x.com/C3Heditor/status/2088007449970164099"
+        imageSrc="https://images.ctcrazies.com/article-images/2026-08-13_155938.jpg"
+        tags={["David Crowley", "Wisconsin", "Racial Issues", "Culture War"]}
       />
       <ArticleBlock
-        headline="Video Shows Attack on Jewish Wealthy &#x27;Slumlord&#x27; as Muslim Democrat-Marxist NYC Mayor Zohran Mamdani Backs Squatters&#x27; Rights"
-        tinyUrl="https://freebeacon.com/democrats/mamdani-backs-squatters-rights-in-video-demonizing-billionaire-jewish-slumlord/"
-        xPostUrl="https://x.com/C3Heditor/status/2087576705066291677"
-        imageSrc="https://images.ctcrazies.com/article-images/2026-08-12_112805.jpg"
-        tags={["Zohran Mamdani", "NYC", "Islam-Muslims", "Israel-Jews"]}
+        headline="Democrat-Socialist Peggy Flanagan, Minnesota&#x27;s Candidate for U.S. Senate Does Not Like Federal Police: &#x27;We Need to Rip ICE Apart&#x27;"
+        tinyUrl="https://www.breitbart.com/clips/2026/08/12/peggy-flanagan-we-need-to-rip-ice-apart/"
+        xPostUrl="https://x.com/C3Heditor/status/2088007008066633874"
+        imageSrc="https://images.ctcrazies.com/article-images/2026-08-13_155759.jpg"
+        tags={["Peggy Flanagan", "Minnesota", "2026 Elections", "Left-Wing", "CBP-DHS-ICE"]}
       />
       <ArticleBlock
-        headline="Racist Democrat Summer Lee Wants More Black Doctors, Even If They Lack the Qualifications to Practice Medicine"
-        tinyUrl="https://townhall.com/tipsheet/amy-curtis/2026/07/16/rep-summer-lee-admits-she-wants-more-black-doctors-even-if-theyre-unqualified-n2679560"
-        xPostUrl="https://x.com/C3Heditor/status/2087575881342669107"
-        imageSrc="https://images.ctcrazies.com/article-images/2026-08-12_112512.jpg"
-        tags={["Summer Lee", "Racial Issues", "Government"]}
+        headline="As the Wealthy Flee California&#x27;s High Taxes, Architect of Democrats&#x27; Billionaire Tax Plots National Push"
+        tinyUrl="https://nypost.com/2026/08/11/us-news/californias-billionaire-tax-is-a-national-campaign-says-labor-leader/"
+        xPostUrl="https://x.com/C3Heditor/status/2088006108002603050"
+        imageSrc="https://images.ctcrazies.com/article-images/2026-08-13_155410.jpg"
+        tags={["California", "Taxation", "Left-Wing"]}
       />
       <ArticleBlock
-        headline="Bernie Sanders Urges Young Democrat-Leftists to Hide Their Communist-Marxist Agenda Until After Winning Elections "
-        tinyUrl="https://twitchy.com/justmindy/2026/08/07/dsa-members-socialists-commies-encourage-politicians-not-to-talk-about-what-they-believe-n2431056"
-        xPostUrl="https://x.com/C3Heditor/status/2087577869065302307"
-        imageSrc="https://images.ctcrazies.com/article-images/2026-08-12_113144.jpg"
-        tags={["Bernie Sanders", "2026 Elections", "Communism-Socialism", "Gaslight-Lies"]}
+        headline="&quot;Sharia &#x27;Til I Die&quot; Is Proclamation From Muslim Abdul El-Sayed, Michigan&#x27;s Democrat-Marxist U.S. Senate Candidate"
+        tinyUrl="https://redstate.com/terichristoph/2026/08/11/unearthed-aes-quote-from-nyt-n2205494"
+        xPostUrl="https://x.com/C3Heditor/status/2088005637217112454"
+        imageSrc="https://images.ctcrazies.com/article-images/2026-08-13_155132.jpg"
+        tags={["Abdul El-Sayed", "Michigan", "Islam-Muslims", "2026 Elections"]}
       />
       <ArticleBlock
-        headline="Bernie-Bro Democrat Candidate in Key Ohio District Says He&#x27;d Mislead Voters to Assure Winning"
-        tinyUrl="https://freebeacon.com/democrats/ohio-dem-running-in-swing-district-says-hes-not-a-socialist-but-would-lie-to-the-people-to-get-their-votes-if-he-was/"
-        xPostUrl="https://x.com/C3Heditor/status/2087574899023847644"
-        imageSrc="https://images.ctcrazies.com/article-images/2026-08-12_112055.jpg"
-        tags={["Ohio", "2026 Elections", "Communism-Socialism", "Gaslight-Lies"]}
+        headline="Oath of Democrat-Socialist Advisor to Michigan Dem Candidate Abdul El-Sayed: &quot;We&#x27;re Here To Destroy The White Race&quot;"
+        tinyUrl="https://www.zerohedge.com/political/inflection-point-arrives-dsas-unofficial-america-hating-communist-mascot"
+        xPostUrl="https://x.com/C3Heditor/status/2088004397510844496"
+        imageSrc="https://images.ctcrazies.com/article-images/2026-08-13_154744.jpg"
+        tags={["Abdul El-Sayed", "Michigan", "Racial Issues", "Communism-Socialism"]}
       />
       <ArticleBlock
-        headline="Muslim Democrat-Socialist Influencer, Hasan Piker Demands Democrats Punish Those Who Won&#x27;t Back Michigan&#x27;s Muslim Abdul El-Sayed"
-        tinyUrl="https://slaynews.com/hasan-piker-calls-democrats-refuse-back-socialist-abdul-el-sayed-punished/"
-        xPostUrl="https://x.com/C3Heditor/status/2087573539553448100"
-        imageSrc="https://images.ctcrazies.com/article-images/2026-08-12_111521.jpg"
-        tags={["Hasan Piker", "Abdul El-Sayed", "Michigan", "Islam-Muslims"]}
+        headline="Democrats&#x27; Absurd &quot;Science&quot; Is on Full Display as WNBA Is Unable to Define &#x27;Women&#x27;"
+        tinyUrl="https://justthenews.com/nation/culture/wnba-players-union-paralyzed-how-define-women-nba-veterans-declare-their-draft"
+        xPostUrl="https://x.com/C3Heditor/status/2088003627319239096"
+        imageSrc="https://images.ctcrazies.com/article-images/2026-08-13_154427.jpg"
+        tags={["LGBTQ", "Culture War", "Science"]}
       />
       <ArticleBlock
-        headline="Texas Democrat-Socialist, James Talarico, Involved In An Inappropriate Relationship With A Staff Member"
-        tinyUrl="https://pjmedia.com/matt-margolis/2026/08/07/talarico-confirms-inappropriate-relationship-with-staffer-n4955923"
-        xPostUrl="https://x.com/C3Heditor/status/2087573053240730014"
-        imageSrc="https://images.ctcrazies.com/article-images/2026-08-12_111039.jpg"
-        tags={["James Talarico", "Texas", "Ethics-Morals", "Communism-Socialism"]}
+        headline="Party is “being hijacked by socialists” and is “overrun by antisemitism” per Democrat Representative"
+        tinyUrl="https://www.dailysignal.com/2026/08/10/dem-rep-party-belongs-to-socialists/"
+        xPostUrl="https://x.com/C3Heditor/status/2088003151131513323"
+        imageSrc="https://images.ctcrazies.com/article-images/2026-08-13_154252.jpg"
+        tags={["Communism-Socialism", "Israel-Jews", "Hate-Violence"]}
       />
       <ArticleBlock
-        headline="Turns Out That NYC Mayor Mamdani Seeks Big Bankers&#x27; Help Because His Democrat-Marxist Policies Need Capitalism to Survive"
-        tinyUrl="https://www.zerohedge.com/political/reality-bites-socialist-nyc-mayor-mamdani-turns-capitalist-bankers-help"
-        xPostUrl="https://x.com/C3Heditor/status/2087571056684888465"
-        imageSrc="https://images.ctcrazies.com/article-images/2026-08-12_110532.jpg"
-        tags={["Zohran Mamdani", "NYC", "Communism-Socialism", "Economic Policy"]}
+        headline="NYC Synagogue Vandalism Admittedly Linked to Jew-Hate Rhetoric In Light of Mayor Zohran Mamdani&#x27;s Attacks on Israel&#x27;s Leader"
+        tinyUrl="https://nypost.com/2026/08/08/us-news/mamdani-video-motivated-florida-man-charged-in-antisemitic-hate-crime-cops/"
+        xPostUrl="https://x.com/C3Heditor/status/2088002414414590349"
+        imageSrc="https://images.ctcrazies.com/article-images/2026-08-13_154047.jpg"
+        tags={["Zohran Mamdani", "NYC", "Israel-Jews", "Hate-Violence"]}
       />
       <ArticleBlock
-        headline="Democrat-Socialist Abdul El-Sayed - aka, Muslim Abdulrahman Mohamed El-Sayed - Attacks A Top USA Tourist Attraction Located In Michigan"
-        tinyUrl="https://townhall.com/news/amy-curtis/2026/08/07/abdul-el-sayed-i-hate-mackinac-michigan-n2680879"
-        xPostUrl="https://x.com/C3Heditor/status/2087570301542441091"
-        imageSrc="https://images.ctcrazies.com/article-images/2026-08-12_110235.jpg"
-        tags={["Abdul El-Sayed", "Michigan", "Islam-Muslims", "Communism-Socialism"]}
+        headline="Biden&#x27;s Illegal Gas Stove Rule Struck Down by Federal Appeals Court in Major Court Ruling Against Democrats"
+        tinyUrl="https://justthenews.com/government/courts-law/federal-appeals-court-strikes-down-biden-administration-gas-stove-rule"
+        xPostUrl="https://x.com/C3Heditor/status/2088001487351709726"
+        imageSrc="https://images.ctcrazies.com/article-images/2026-08-13_153551.jpg"
+        tags={["Joe Biden", "Judiciary-Judicial", "Government"]}
       />
       <ArticleBlock
-        headline="Katie Hobbs, Arizona&#x27;s Democrat Governor, Gets Ratioed on &#x27;X&#x27; After Claiming Credit for Trump&#x27;s No Tax Rule That Democrats Voted Against "
-        tinyUrl="https://www.thegatewaypundit.com/2026/07/democrat-arizona-governor-katie-hobbs-ratioed-x-after/"
-        xPostUrl="https://x.com/C3Heditor/status/2087569547003937198"
-        imageSrc="https://images.ctcrazies.com/article-images/2026-08-12_105943.jpg"
-        tags={["Katie Hobbs", "Arizona", "Taxation", "Gaslight-Lies"]}
+        headline="Voters in Virginia Turn Against &quot;Moderate&quot; Democrat Gov. Abigail Spanberger&#x27;s Left-Wing Anti-Gun &amp;  Anti-Affordability Taxes"
+        tinyUrl="https://townhall.com/news/amy-curtis/2026/08/10/abigail-spanberger-booed-n2680978"
+        xPostUrl="https://x.com/C3Heditor/status/2088001081494114403"
+        imageSrc="https://images.ctcrazies.com/article-images/2026-08-13_153310.jpg"
+        tags={["Abigail Spanberger", "Virginia", "Taxation", "2nd Amendment", "Incompetence"]}
       />
       <ArticleBlock
-        headline="‘There’s Nothing More American Than Socialism&#x27; So Claims Democrat-Marxist, Melat Kiros, An Ethiopian Immigrant Running For Congress In Colorado "
-        tinyUrl="https://townhall.com/news/dmitri-bolt/2026/08/06/melat-kiros-theres-nothing-more-american-than-socialsim-n2680665"
-        xPostUrl="https://x.com/C3Heditor/status/2087567860797215207"
-        imageSrc="https://images.ctcrazies.com/article-images/2026-08-12_105316.jpg"
-        tags={["Melat Kiros", "Colorado", "Communism-Socialism", "Gaslight-Lies"]}
+        headline="Dems Slammed by MSNOW&#x27;s Joe Scarborough for Tolerating Unhinged Democrat-Marxists Within Their Midst For Too Long"
+        tinyUrl="https://nypost.com/2026/08/10/media/joe-scarborough-slams-democrats-for-tolerating-unhinged-lefties-too-woke-to-call-out-the-obvious/"
+        xPostUrl="https://x.com/C3Heditor/status/2087998680376709162"
+        imageSrc="https://images.ctcrazies.com/article-images/2026-08-13_152442.jpg"
+        tags={["Joe Scarborough", "Journalism-MediaBias", "Communism-Socialism", "Left-Wing", "Hypocrisy"]}
       />
       <ArticleBlock
-        headline="Crowd Boos and Laughs as Minnesota&#x27;s Open-Border Democrat Senator Amy Klobuchar Brags About Securing the Border That Trump Accomplished"
-        tinyUrl="https://twitchy.com/samj/2026/08/06/crowd-boos-and-laughs-in-amy-klobuchars-face-border-n2431011"
-        xPostUrl="https://x.com/C3Heditor/status/2087567269526188080"
-        imageSrc="https://images.ctcrazies.com/article-images/2026-08-12_105031.jpg"
-        tags={["Amy Klobuchar", "Minnesota", "Immigration", "Gaslight-Lies"]}
+        headline="Portland, Maine Rental Properties Effectively Seized by The Democrat- Socialist &#x27;Rent Board&#x27;"
+        tinyUrl="https://townhall.com/news/amy-curtis/2026/08/10/portland-me-rent-board-application-n2680977"
+        xPostUrl="https://x.com/C3Heditor/status/2087998178784100458"
+        imageSrc="https://images.ctcrazies.com/article-images/2026-08-13_152245.jpg"
+        tags={["Portland", "Maine", "Housing", "Communism-Socialism"]}
       />
       <ArticleBlock
-        headline="Documentation of Democrats&#x27; Gigantic $229.9 Billion Fraud Problem That They Refuse to Address"
-        tinyUrl="https://redstate.com/ben-smith/2026/08/08/democrats-have-a-2299-billion-fraud-problem-and-trump-just-put-it-online-n2205343"
-        xPostUrl="https://x.com/C3Heditor/status/2087565487714529374"
-        imageSrc="https://images.ctcrazies.com/article-images/2026-08-12_104327.jpg"
-        tags={["Corruption-Fraud", "Government", "Incompetence"]}
+        headline="Democrat-Socialists Either Seize Private Property or Squat On It: Years of Unpaid Rent by Advisor for NYC&#x27;s Mayor Zohran Mamdani Administration"
+        tinyUrl="https://townhall.com/news/amy-curtis/2026/08/10/mamdani-advisor-tracy-rosenthal-hasnt-paid-rent-in-years-n2680963"
+        xPostUrl="https://x.com/C3Heditor/status/2087997612305629568"
+        imageSrc="https://images.ctcrazies.com/article-images/2026-08-13_152046.jpg"
+        tags={["Zohran Mamdani", "New York", "Housing", "Communism-Socialism", "Corruption-Fraud"]}
       />
       <ArticleBlock
-        headline="Democrats Embrace Planned Parenthood&#x27;s Sick Rebrand: “Abortion is gender-affirming care”"
-        tinyUrl="https://www.thegatewaypundit.com/2026/08/planned-parenthood-comes-sick-new-euphemism-abortion/"
-        xPostUrl="https://x.com/C3Heditor/status/2087564980442832929"
-        imageSrc="https://images.ctcrazies.com/article-images/2026-08-12_104129.jpg"
-        tags={["LGBTQ", "Culture War"]}
+        headline="Democrat-Run Blue City Utopia: Los Angeles Street Takeovers Unleash Carnage as Out-of-Control Scenes Spread Across City"
+        tinyUrl="https://nypost.com/2026/08/08/us-news/los-angeles-street-takeovers-cause-chaos-early-saturday/"
+        xPostUrl="https://x.com/C3Heditor/status/2087997040139612322"
+        imageSrc="https://images.ctcrazies.com/article-images/2026-08-13_151815.jpg"
+        tags={["Los Angeles", "California", "Violent Crime"]}
       />
       <ArticleBlock
-        headline="Democrat Socialist-Marxist Idiocracy Producing Unsurprising Results: Seattle&#x27;s Corporate Pullback Grows as Google, Zillow, Salesforce Cut Jobs &amp; Flee For Better Biz Climate"
-        tinyUrl="https://thepostmillennial.com/google-zillow-salesforce-slash-jobs-in-washington-state-as-corporate-retreat-from-seattle-area-accelerates"
-        xPostUrl="https://x.com/C3Heditor/status/2087564356707827949"
-        imageSrc="https://images.ctcrazies.com/article-images/2026-08-12_103856.jpg"
-        tags={["Seattle", "Washington", "Business Climate", "Business Relocation", "Economic Policy"]}
+        headline="Memory-Holing Her Own Role, Democrat Representative AOC Calls &#x27;Woke 1&#x27; Crazy Amid Movement&#x27;s Madness She Cheer Leaded "
+        tinyUrl="https://dailycaller.com/2026/08/10/woke-1-was-crazy-aoc-francesca-hong-wisconsin-abolish-the-police-memory-hole"
+        xPostUrl="https://x.com/C3Heditor/status/2087996590795427853"
+        imageSrc="https://images.ctcrazies.com/article-images/2026-08-13_151641.jpg"
+        tags={["Alexandria Ocasio-Cortez", "Gaslight-Lies", "Culture War"]}
       />
       <ArticleBlock
-        headline="Anti-Second Amendment Activist, David Hogg, Says Democrat Party&#x27;s &#x27;Big Tent&#x27; Has No Place for Moderate Voices"
-        tinyUrl="https://twitchy.com/warren-squire/2026/08/08/former-dnc-vice-chair-david-hogg-thinks-that-there-is-no-room-for-moderates-in-the-democrat-party-n2431064"
-        xPostUrl="https://x.com/C3Heditor/status/2087561113676222556"
-        imageSrc="https://images.ctcrazies.com/article-images/2026-08-12_102559.jpg"
-        tags={["David Hogg", "Gun Control", "Culture War", "2026 Elections"]}
+        headline="Democrats Mantra of &#x27;Trust the Science&#x27; Blown Out of Water With Release of Texts Revealing Dr. Anthony Fauci Warned Privately of COVID Vaccine Miscarriage Risks"
+        tinyUrl="https://nypost.com/2026/08/10/us-news/fauci-warned-of-miscarriage-risk-linked-to-covid-vaccine-while-publicly-claiming-no-issues-newly-released-texts-show/"
+        xPostUrl="https://x.com/C3Heditor/status/2087996083385368578"
+        imageSrc="https://images.ctcrazies.com/article-images/2026-08-13_151428.jpg"
+        tags={["Dr. Anthony Fauci", "COVID-19", "Government", "Gaslight-Lies", "Science"]}
       />
       <ArticleBlock
-        headline="Since 2020 the Riots, Looting, and Assassinations Signal Escalating Democrat-Leftist Violence Nationwide"
-        tinyUrl="https://www.thegatewaypundit.com/2026/08/leftist-violence-rising-since-2020-riots-looting-assassinations/"
-        xPostUrl="https://x.com/C3Heditor/status/2087559510818705675"
-        imageSrc="https://images.ctcrazies.com/article-images/2026-08-12_101941.jpg"
-        tags={["Hate-Violence", "Left-Wing"]}
+        headline="Abolishing Police and Prisons Remains a Goal for Democrat-Marxists &amp; Socialists, Despite Their New Claims of &quot;Moderation&quot;"
+        tinyUrl="https://www.dailysignal.com/2026/08/08/dont-let-socialists-fool-you-abolish-police-and-prison/"
+        xPostUrl="https://x.com/C3Heditor/status/2087995487399956806"
+        imageSrc="https://images.ctcrazies.com/article-images/2026-08-13_151214.jpg"
+        tags={["Communism-Socialism", "Left-Wing", "Crime", "Soft-On-Crime"]}
       />
       <ArticleBlock
-        headline="Being Illogical is a Democrat Feature, Not a Bug: Kamala Harris Lost the 2024 Popular Vote, So She Concludes the Electoral College Is Broken"
-        tinyUrl="https://redstate.com/ben-smith/2026/08/08/kamala-harris-lost-so-naturally-the-electoral-college-is-broken-n2205345"
-        xPostUrl="https://x.com/C3Heditor/status/2087558244646408694"
-        imageSrc="https://images.ctcrazies.com/article-images/2026-08-12_101721.jpg"
-        tags={["Kamala Harris", "2024 Election", "Gaslight-Lies", "U.S. Constitution"]}
+        headline="Innocent Man Is Murdered Hours After California Violent Illegal Alien Is Released From Prison by Democrat Justice System"
+        tinyUrl="https://townhall.com/news/amy-curtis/2026/08/10/suspect-accused-of-kiiiing-68-year-old-was-released-from-prison-24-hours-before-crime-n2680972"
+        xPostUrl="https://x.com/C3Heditor/status/2087994701953581492"
+        imageSrc="https://images.ctcrazies.com/article-images/2026-08-13_150909.jpg"
+        tags={["California", "Crime", "Immigration", "Judiciary-Judicial", "Soft-On-Crime"]}
       />
       <ArticleBlock
-        headline="Vehicle Attack by Illegal Alien Gangster on Border Patrol Brings Guilty Plea - Violence That Is a Direct Result of Democrats&#x27; Open Border Policies"
-        tinyUrl="https://thenationalpulse.com/2026/07/28/illegal-alien-gangster-pleads-guilty-to-attacking-border-patrol-with-vehicle/"
-        xPostUrl="https://x.com/C3Heditor/status/2087557340752924873"
-        imageSrc="https://images.ctcrazies.com/article-images/2026-08-12_101253.jpg"
-        tags={["CBP-DHS-ICE", "Immigration", "Crime", "Hate-Violence"]}
+        headline="New York&#x27;s Democrat-Run Justice System Puts Civilians At Risk As a Fourth DWI Conviction Fails to Stop Once-Deported Illegal Immigrant From Release"
+        tinyUrl="https://nypost.com/2026/08/10/us-news/long-island-judge-releases-once-deported-illegal-immigrant-again-despite-fourth-dwi-conviction-da/"
+        xPostUrl="https://x.com/C3Heditor/status/2087993924820299831"
+        imageSrc="https://images.ctcrazies.com/article-images/2026-08-13_150554.jpg"
+        tags={["New York", "Crime", "Immigration", "Judiciary-Judicial", "Soft-On-Crime"]}
       />
       <ArticleBlock
-        headline="Maybe Democrat-Socialist Francesca Hong Lost a Close Wisconsin Primary Due to Video Footage of Her Calling for Violence Against ICE Agents"
-        tinyUrl="https://nalert.blogspot.com/2026/08/watch-democrat-candidate-francesca-hong.html"
-        xPostUrl="https://x.com/C3Heditor/status/2087556939106365520"
-        imageSrc="https://images.ctcrazies.com/article-images/2026-08-12_100723.jpg"
-        tags={["Francesca Hong", "Wisconsin", "2026 Elections", "Hate-Violence"]}
+        headline="‘Outlaw Thanksgiving and Outlaw Boomers’ per Hasan Piker, a Major Marxist-Communist Influencer for Michigan &amp; Wisconsin Democrat Candidates"
+        tinyUrl="https://www.thegatewaypundit.com/2026/08/socialist-streamer-hasan-piker-explodes-after-francesca-hongs/"
+        xPostUrl="https://x.com/C3Heditor/status/2087993538768175402"
+        imageSrc="https://images.ctcrazies.com/article-images/2026-08-13_150417.jpg"
+        tags={["Hasan Piker", "Michigan", "Wisconsin", "Communism-Socialism"]}
       />
       </div>
-      <Pagination currentPage={6} totalPages={76} />
+      <Pagination currentPage={6} totalPages={77} />
 
     </div>
   );

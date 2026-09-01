@@ -8,147 +8,147 @@ export default function Page56() {
       <PageHeader />
       <div className="space-y-12">
       <ArticleBlock
-        headline="Democrats Vote Down a Simple Voter Photo-ID Amendment Despite Telling Public They Would Support It"
-        tinyUrl="https://tinyurl.com/2vydpphm"
-        xPostUrl="https://x.com/C3Heditor/status/2038373004837564563"
-        imageSrc="https://images.ctcrazies.com/article-images/2026-03-29_165001_b74762e9.jpg"
-        tags={["Chuck Schumer", "Election Fraud"]}
+        headline="U.S. House Democrat Swalwell Caught in an Ethics Violation That Sends Shockwaves Through Democrat Party"
+        tinyUrl="https://tinyurl.com/yvky7uka"
+        xPostUrl="https://x.com/C3Heditor/status/2039059874424717750"
+        imageSrc="https://images.ctcrazies.com/article-images/2026-03-31_141945_28c7cc15.jpg"
+        tags={["Eric Swalwell", "U.S. Congress"]}
       />
       <ArticleBlock
-        headline="Result of Democrat Immigration Policy: 3 Salvadoran Nationals Busted on Long Island After Cops Find Them With Molotovs"
-        tinyUrl="https://tinyurl.com/3srhxnrn"
-        xPostUrl="https://x.com/C3Heditor/status/2038371814687072543"
-        imageSrc="https://images.ctcrazies.com/article-images/2026-03-29_164557_297823da.jpg"
-        tags={["Law Enforcement", "Left-Wing", "Long Island"]}
+        headline="Top Democrat Accidentally Reveals Exactly What Her Party Fears Most About SAVE Act - Stopping Dems&#x27; Voter Fraud"
+        tinyUrl="https://tinyurl.com/2krk4nr3"
+        xPostUrl="https://x.com/C3Heditor/status/2039059091855667202"
+        imageSrc="https://images.ctcrazies.com/article-images/2026-03-31_141630_dab34419.jpg"
+        tags={["2026 Elections", "Corruption-Fraud", "Election Fraud"]}
       />
       <ArticleBlock
-        headline="Maryland Democrat Idiocracy: Dems Debate Appropriate Sized Tampons To Be Stocked in Every Public Men&#x27;s Restroom"
-        tinyUrl="https://tinyurl.com/mr42xxbv"
-        xPostUrl="https://x.com/C3Heditor/status/2038369822296195372"
-        imageSrc="https://images.ctcrazies.com/article-images/2026-03-29_163725_68a04fbd.jpg"
-        tags={["Culture War", "Maryland"]}
+        headline="Radical Democrat-Fascists Tell Conservative Students to Die - Use Charlie Kirk Death Imagery as Threats"
+        tinyUrl="https://tinyurl.com/2s7erd3j"
+        xPostUrl="https://x.com/C3Heditor/status/2039058285542670771"
+        imageSrc="https://images.ctcrazies.com/article-images/2026-03-31_141313_c1732f90.jpg"
+        tags={["Censorship", "Education Policy", "Hate-Violence"]}
       />
       <ArticleBlock
-        headline="Stockholm Syndrome: Trans Activists Using Democrats as Political Hostage-Warriors"
-        tinyUrl="https://tinyurl.com/yfvzfnks"
-        xPostUrl="https://x.com/C3Heditor/status/2038368866720502201"
-        imageSrc="https://images.ctcrazies.com/article-images/2026-03-29_163423_f538a586.jpg"
-        tags={["Corruption-Fraud", "LGBTQ"]}
+        headline="Hitler-Groupie Nick Fuentes Is Being Discovered By Appreciative Democrat Lefties"
+        tinyUrl="https://tinyurl.com/54vsaxvx"
+        xPostUrl="https://x.com/C3Heditor/status/2039057216246833340"
+        imageSrc="https://images.ctcrazies.com/article-images/2026-03-31_140915_c0098405.jpg"
+        tags={["Alternative & Social Media", "Racial Issues"]}
       />
       <ArticleBlock
-        headline="Democrat Senator Throws Hissy-Fit Over ICE At Airport, Comic Calls Him A ‘F*cking P*ssy’"
-        tinyUrl="https://tinyurl.com/27dsed4m"
-        xPostUrl="https://x.com/C3Heditor/status/2038368016866464142"
-        imageSrc="https://images.ctcrazies.com/article-images/2026-03-29_163006_cc15e036.jpg"
-        tags={["CBP-DHS-ICE", "Cory Booker"]}
+        headline="NY Democrats Back Energy Plans Designed to Bring 3rd World-Style Blackouts"
+        tinyUrl="https://tinyurl.com/nh56eeta"
+        xPostUrl="https://x.com/C3Heditor/status/2039055253685903686"
+        imageSrc="https://images.ctcrazies.com/article-images/2026-03-31_140121_dfdf5cf4.jpg"
+        tags={["Energy Policy", "New York"]}
       />
       <ArticleBlock
-        headline="Moms for Liberty&#x27; a Full Terrorist Organization? That&#x27;s What South Carolina Democrat Claims About &#x27;Parental Rights&#x27; Group"
-        tinyUrl="https://tinyurl.com/77byszvj"
-        xPostUrl="https://x.com/C3Heditor/status/2038367309836792058"
-        imageSrc="https://images.ctcrazies.com/article-images/2026-03-29_162736_a2071611.jpg"
-        tags={["Culture War", "South Carolina"]}
+        headline="State Trooper Killed by Democrat-Marxist at a Traffic Stop"
+        tinyUrl="https://tinyurl.com/mry7m6me"
+        xPostUrl="https://x.com/C3Heditor/status/2039054035248890094"
+        imageSrc="https://images.ctcrazies.com/article-images/2026-03-31_135622_fcb31b90.jpg"
+        tags={["Law Enforcement", "Violent Crime"]}
       />
       <ArticleBlock
-        headline="Result of Democrat Immigration Policy: NC Cops Arrest Illegal Alien Who Confessed to Two Murders"
-        tinyUrl="https://tinyurl.com/4buyuybh"
-        xPostUrl="https://x.com/C3Heditor/status/2038365699203010614"
-        imageSrc="https://images.ctcrazies.com/article-images/2026-03-29_162100_94029b7a.jpg"
-        tags={["Immigration", "Law Enforcement", "North Carolina", "Violent Crime"]}
+        headline="For The Record Book: Democrats&#x27; DHS Shutdown Is Now the Longest Government Shutdown in American History"
+        tinyUrl="https://tinyurl.com/4su93zu9"
+        xPostUrl="https://x.com/C3Heditor/status/2039052095056122339"
+        imageSrc="https://images.ctcrazies.com/article-images/2026-03-31_134832_9f6c5538.jpg"
+        tags={["CBP-DHS-ICE", "Immigration"]}
       />
       <ArticleBlock
-        headline="FBI Nabs MS-13 Member Tied to a El Salvador Pastor&#x27;s Murder - Arrested In Democrat Connecticut"
-        tinyUrl="https://tinyurl.com/4nery9ny"
-        xPostUrl="https://x.com/C3Heditor/status/2038362714805092390"
-        imageSrc="https://images.ctcrazies.com/article-images/2026-03-29_160935_805b091f.jpg"
-        tags={["Connecticut", "FBI", "Immigration"]}
+        headline="Muslim-Democrat U.S. Senate Candidate Wanted To Defund Police, Compared Cops To &quot;slave catchers&quot;"
+        tinyUrl="https://tinyurl.com/2ffd9zr8"
+        xPostUrl="https://x.com/C3Heditor/status/2039050127118065953"
+        imageSrc="https://images.ctcrazies.com/article-images/2026-03-31_134114_b03cc4ff.jpg"
+        tags={["Abdul El-Sayed", "Law Enforcement", "Michigan"]}
       />
       <ArticleBlock
-        headline="Refugees From Democrat Insanity: Yamaha and Exxon Join the Flood of Businesses Bolting Blue States for Red Ones"
-        tinyUrl="https://tinyurl.com/bk9zua7h"
-        xPostUrl="https://x.com/C3Heditor/status/2038362070471836061"
-        imageSrc="https://images.ctcrazies.com/article-images/2026-03-29_160634_f9988288.jpg"
-        tags={["Business Relocation", "California"]}
+        headline="Even Liberal Media Outlets Are Calling Democrats Out for Their Reckless Wasteful Spending"
+        tinyUrl="https://tinyurl.com/5n9y44j2"
+        xPostUrl="https://x.com/C3Heditor/status/2038999251917668654"
+        imageSrc="https://images.ctcrazies.com/article-images/2026-03-31_101839_11f5199c.jpg"
+        tags={["California", "Government"]}
       />
       <ArticleBlock
-        headline="Texas U.S. Senate Democrat Candidate Says Hanging Ten Commandments in Schools Is Violence"
-        tinyUrl="https://tinyurl.com/4cpsvr7s"
-        xPostUrl="https://x.com/C3Heditor/status/2038361205698670985"
-        imageSrc="https://images.ctcrazies.com/article-images/2026-03-29_160422_15a7f9bb.jpg"
-        tags={["Culture War", "Education Policy", "James Talarico"]}
+        headline="Fanaticism: NYC Democrat Mayor Mamdani&#x27;s Wife Liked Posts Celebrating Hamas&#x27;s October 7 Slaughter of Israeli Civilians"
+        tinyUrl="https://tinyurl.com/yc255dz2"
+        xPostUrl="https://x.com/C3Heditor/status/2038998532053426568"
+        imageSrc="https://images.ctcrazies.com/article-images/2026-03-31_101604_a7b2101b.jpg"
+        tags={["Foreign Policy", "Zohran Mamdani"]}
       />
       <ArticleBlock
-        headline="Corruption Is A Democrat Feature Not A Bug: Newsom Uses a Loophole to Funnel Over $4M to His Wife&#x27;s Causes"
-        tinyUrl="https://tinyurl.com/mv5kcybc"
-        xPostUrl="https://x.com/C3Heditor/status/2038359437631463576"
-        imageSrc="https://images.ctcrazies.com/article-images/2026-03-29_155640_fb5c2004.jpg"
-        tags={["California", "Corruption-Fraud", "Gavin Newsom", "Politics"]}
+        headline="Fraud Charges Filed Against Illegal Alien for Voting in a Key Swing State in the 2024 Election"
+        tinyUrl="https://tinyurl.com/y728sznm"
+        xPostUrl="https://x.com/C3Heditor/status/2038741448720339190"
+        imageSrc="https://images.ctcrazies.com/article-images/2026-03-30_171418_3cb52069.jpg"
+        tags={["Election Fraud", "Immigration"]}
       />
       <ArticleBlock
-        headline="Obama&#x27;s Democrat Partisan Judge Blocks Trump Deportation Reforms — Critics Are Calling It Judicial Sabotage"
-        tinyUrl="https://tinyurl.com/5eaatw9n"
-        xPostUrl="https://x.com/C3Heditor/status/2038358690537853179"
-        imageSrc="https://images.ctcrazies.com/article-images/2026-03-29_155312_f7ec8e1a.jpg"
-        tags={["Immigration", "Judiciary-Judicial"]}
+        headline="State of Corruption: A New Minnesota Democrat Slush Fund Would Siphon Cash Directly From Energy Companies"
+        tinyUrl="https://tinyurl.com/yurk3tus"
+        xPostUrl="https://x.com/C3Heditor/status/2038739226255044866"
+        imageSrc="https://images.ctcrazies.com/article-images/2026-03-30_170536_dee70b5a.jpg"
+        tags={["Corruption-Fraud", "Energy Policy", "Minnesota"]}
       />
       <ArticleBlock
-        headline="New Lawsuit: Ohio State University Officials Attacked &#x27;The Whites&#x27; While Running Illegal DEI Programs"
-        tinyUrl="https://tinyurl.com/ytp3sbtz"
-        xPostUrl="https://x.com/C3Heditor/status/2038357910858657867"
-        imageSrc="https://images.ctcrazies.com/article-images/2026-03-29_155019_ca58f706.jpg"
-        tags={["Censorship", "Culture War", "Journalism-MediaBias"]}
+        headline="Creepy Maine&#x27;s Democrat Senate Hopeful Brags About Wrestling &amp; Beating High School Girls"
+        tinyUrl="https://tinyurl.com/4upwnu9y"
+        xPostUrl="https://x.com/C3Heditor/status/2038738398333001842"
+        imageSrc="https://images.ctcrazies.com/article-images/2026-03-30_170218_b200afeb.jpg"
+        tags={["2026 Elections", "Graham Platner", "Maine"]}
       />
       <ArticleBlock
-        headline="Soros Democrat DA Blames the Old Dominion ISIS Attack on Pro-Gun Judges and Republican Lawmakers"
-        tinyUrl="https://tinyurl.com/3spmr34k"
-        xPostUrl="https://x.com/C3Heditor/status/2038356595671695682"
-        imageSrc="https://images.ctcrazies.com/article-images/2026-03-29_154519_61ffe42d.jpg"
-        tags={["Foreign Policy", "Gun Control", "Left-Wing"]}
+        headline="Democrat-Controlled Intel Buried China 2020 Election Meddling to Hide Their Own Anti-Trump Bias From Public Scrutiny"
+        tinyUrl="https://tinyurl.com/4pht9b89"
+        xPostUrl="https://x.com/C3Heditor/status/2038736752815260098"
+        imageSrc="https://images.ctcrazies.com/article-images/2026-03-30_165703_e0c4a56b.jpg"
+        tags={["China", "Election Fraud"]}
       />
       <ArticleBlock
-        headline="A Gang Brawls With Doorman &amp; Then Invades Luxury Apartments In Democrat-Run LA"
-        tinyUrl="https://tinyurl.com/2p3ch78j"
-        xPostUrl="https://x.com/C3Heditor/status/2038355855188324370"
-        imageSrc="https://images.ctcrazies.com/article-images/2026-03-29_154211_d56fadd5.jpg"
-        tags={["Los Angeles"]}
+        headline="186 U.S. U.S. House Voted to Protect Foreigners Who Defraud the United States"
+        tinyUrl="https://tinyurl.com/yk22hdkj"
+        xPostUrl="https://x.com/C3Heditor/status/2038735873538150495"
+        imageSrc="https://images.ctcrazies.com/article-images/2026-03-30_165205_c8f778a9.jpg"
+        tags={["Election Fraud", "Immigration"]}
       />
       <ArticleBlock
-        headline="Democrat Utopia: Elderly Veteran Shoved Onto NYC Subway Tracks — Illegal Alien Charged"
-        tinyUrl="https://tinyurl.com/muue6ssv"
-        xPostUrl="https://x.com/C3Heditor/status/2038354427946426787"
-        imageSrc="https://images.ctcrazies.com/article-images/2026-03-29_153611_872b56dc.jpg"
-        tags={["Immigration", "New York"]}
+        headline="San Francisco&#x27;s Black Residents Reparations Program Exposes Everything Wrong With the Current Democrats"
+        tinyUrl="https://tinyurl.com/r4a8h7pc"
+        xPostUrl="https://x.com/C3Heditor/status/2038731770837819801"
+        imageSrc="https://images.ctcrazies.com/article-images/2026-03-30_163551_b718fd75.jpg"
+        tags={["Daniel Lurie", "Reparations", "San Francisco"]}
       />
       <ArticleBlock
-        headline="If Democrats Win the Midterms, Multiple Anti-Trump Investigations Will Immediately Launch"
-        tinyUrl="https://tinyurl.com/57xvseee"
-        xPostUrl="https://x.com/C3Heditor/status/2038353495393194055"
-        imageSrc="https://images.ctcrazies.com/article-images/2026-03-29_153228_2e2f481e.jpg"
-        tags={["2026 Elections", "Adam Schiff", "U.S. Congress"]}
+        headline="City&#x27;s Dismal Finances  Doesn&#x27;t Stop NYC Council Democrats To Push Ahead With Scheme to Give Itself a Nice Pay Raise"
+        tinyUrl="https://tinyurl.com/3nju2fze"
+        xPostUrl="https://x.com/C3Heditor/status/2038730878617051207"
+        imageSrc="https://images.ctcrazies.com/article-images/2026-03-30_163307_4f223724.jpg"
+        tags={["Ethics-Morals", "Government", "NYC"]}
       />
       <ArticleBlock
-        headline="U.S. House Democrat Demands Reparations For Illegal Immigrants"
-        tinyUrl="https://tinyurl.com/228575yh"
-        xPostUrl="https://x.com/C3Heditor/status/2038352377120469082"
-        imageSrc="https://images.ctcrazies.com/article-images/2026-03-29_152809_547d766f.jpg"
-        tags={["Immigration", "Pramila Jayapal", "Reparations"]}
+        headline="California Gov. Newsom Concedes on Kimmel That Democrat-Run California Is Severely Overregulated"
+        tinyUrl="https://tinyurl.com/9mh6smsm"
+        xPostUrl="https://x.com/C3Heditor/status/2038730191451594940"
+        imageSrc="https://images.ctcrazies.com/article-images/2026-03-30_162949_c65bd366.jpg"
+        tags={["Business Climate", "California", "Gavin Newsom", "Jimmy Kimmel"]}
       />
       <ArticleBlock
-        headline="Democrats&#x27; Energy Disasters Have Made the Ongoing Hormuz Strait Crisis Significantly Worse"
-        tinyUrl="https://tinyurl.com/yyej2x6x"
-        xPostUrl="https://x.com/C3Heditor/status/2038351641863197140"
-        imageSrc="https://images.ctcrazies.com/article-images/2026-03-29_152510_b574173e.jpg"
-        tags={["Energy Policy", "Foreign Policy", "Iran"]}
+        headline="Former Illinois Democrat Mayor Calls on Trump to Fight Crime After Her Own Father Gets Shot"
+        tinyUrl="https://tinyurl.com/mtu476dh"
+        xPostUrl="https://x.com/C3Heditor/status/2038729360488693767"
+        imageSrc="https://images.ctcrazies.com/article-images/2026-03-30_162608_7dfb6b47.jpg"
+        tags={["Illinois", "Politics", "Violent Crime"]}
       />
       <ArticleBlock
-        headline="Joe Biden&#x27;s Democrat Administration Loosened Abortion Guardrails &amp; Adverse Events Soared, Report Reveals"
-        tinyUrl="https://tinyurl.com/46z94s82"
-        xPostUrl="https://x.com/C3Heditor/status/2038350965191917706"
-        imageSrc="https://images.ctcrazies.com/article-images/2026-03-29_152230_71985d11.jpg"
-        tags={["Biden Administration", "Culture War"]}
+        headline="San Diego&#x27;s Democrat School Board Members Vote Themselves a 400% Pay Raise as Furious Staff Look On"
+        tinyUrl="https://tinyurl.com/4xjf35dw"
+        xPostUrl="https://x.com/C3Heditor/status/2038728466019840070"
+        imageSrc="https://images.ctcrazies.com/article-images/2026-03-30_162331_772a7f09.jpg"
+        tags={["California", "Culture War", "Education Policy", "Ethics-Morals"]}
       />
       </div>
-      <Pagination currentPage={56} totalPages={76} />
+      <Pagination currentPage={56} totalPages={77} />
 
     </div>
   );

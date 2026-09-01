@@ -1,0 +1,33 @@
+{
+  "batchDate": "2026-09-01",
+  "status": "approved-user-edits",
+  "reviewedTagDocument": "DoneEditedSeptember_1_2026_Twenty-Article_Batch_Tag_Review.docx",
+  "proposedNewPersonTags": [
+    "Ketanji Brown Jackson"
+  ],
+  "proposedNewTopicTagsRequiringApproval": [],
+  "allowFiveTagNums": [],
+  "allowSixTagNums": [],
+  "tags": {
+    "1540": ["James Talarico", "Texas", "2nd Amendment", "Gaslight-Lies"],
+    "1539": ["Angie Nixon", "Florida", "Communism-Socialism", "Hate-Violence"],
+    "1538": ["Zohran Mamdani", "New York", "Education Policy", "Communism-Socialism"],
+    "1537": ["Joe Biden", "Weaponization", "Law Enforcement", "Culture War"],
+    "1536": ["California", "Election Fraud", "Immigration"],
+    "1535": ["California", "Immigration", "Election Fraud"],
+    "1534": ["Immigration", "CBP-DHS-ICE", "Government"],
+    "1533": ["Gavin Newsom", "California", "Islam-Muslims", "Government"],
+    "1532": ["Business Climate", "Left-Wing"],
+    "1531": ["Immigration", "Government", "Left-Wing"],
+    "1530": ["Abigail Spanberger", "Gaslight-Lies", "Government", "Virginia"],
+    "1529": ["Kathy Hochul", "New York", "Islam-Muslims", "Hypocrisy"],
+    "1528": ["Abdul El-Sayed", "Racial Issues", "Islam-Muslims", "Michigan"],
+    "1527": ["Dan Osborn", "Communism-Socialism", "Gaslight-Lies", "Nebraska"],
+    "1526": ["Letitia James", "Corruption-Fraud", "Weaponization"],
+    "1525": ["Ketanji Brown Jackson", "Judiciary-Judicial", "Science"],
+    "1524": ["Ro Khanna", "Hasan Piker", "Communism-Socialism", "Left-Wing"],
+    "1523": ["David Jolly", "Florida", "2nd Amendment", "Communism-Socialism"],
+    "1522": ["Josh Shapiro", "Pennsylvania", "Gaslight-Lies", "Science"],
+    "1521": ["Los Angeles", "Incompetence", "Government"]
+  }
+}

@@ -1,0 +1,166 @@
+{
+  "bucket": "ctcrazies-article-images",
+  "publicOrigin": "https://images.ctcrazies.com/article-images",
+  "uploaded": [
+    {
+      "num": 1540,
+      "r2Key": "article-images/2026-09-01_075213.jpg",
+      "imageUrl": "https://images.ctcrazies.com/article-images/2026-09-01_075213.jpg",
+      "bytes": 542144,
+      "sha256": "3d944a2709062dc4355195ae6b039445177f195f4f0b08eb3bdf267dd152190c",
+      "attempts": 1
+    },
+    {
+      "num": 1539,
+      "r2Key": "article-images/2026-09-01_074027.jpg",
+      "imageUrl": "https://images.ctcrazies.com/article-images/2026-09-01_074027.jpg",
+      "bytes": 204326,
+      "sha256": "486682194ebfec1f429e68a8507f59afc39d0ddf0738d584992b253eae8efcd1",
+      "attempts": 1
+    },
+    {
+      "num": 1538,
+      "r2Key": "article-images/2026-09-01_073459.jpg",
+      "imageUrl": "https://images.ctcrazies.com/article-images/2026-09-01_073459.jpg",
+      "bytes": 121483,
+      "sha256": "b4f8ac98fad010f22656179243c3d30e5c54a69987ca6e210a310fb4df6d534b",
+      "attempts": 1
+    },
+    {
+      "num": 1537,
+      "r2Key": "article-images/2026-09-01_072551.jpg",
+      "imageUrl": "https://images.ctcrazies.com/article-images/2026-09-01_072551.jpg",
+      "bytes": 172541,
+      "sha256": "9ebd351ab9da204ef6d4634fe18ff1ed852f148bbc7103db4d2b35afe1cd076f",
+      "attempts": 1
+    },
+    {
+      "num": 1536,
+      "r2Key": "article-images/2026-09-01_072029.jpg",
+      "imageUrl": "https://images.ctcrazies.com/article-images/2026-09-01_072029.jpg",
+      "bytes": 222467,
+      "sha256": "75c05aa0d0dfabe03d4ca50360aa9acfa33e808a0b8575f567bd614945b62c4a",
+      "attempts": 1
+    },
+    {
+      "num": 1535,
+      "r2Key": "article-images/2026-09-01_071633.jpg",
+      "imageUrl": "https://images.ctcrazies.com/article-images/2026-09-01_071633.jpg",
+      "bytes": 102341,
+      "sha256": "b6344a8b48647277ea4758f98a000d88d0271efe4f156a0a50af225947295fd9",
+      "attempts": 1
+    },
+    {
+      "num": 1534,
+      "r2Key": "article-images/2026-09-01_071442.jpg",
+      "imageUrl": "https://images.ctcrazies.com/article-images/2026-09-01_071442.jpg",
+      "bytes": 263578,
+      "sha256": "41e03fcf2144cb352d51713621b41f2efa15b9860ba740e71e2a429a74a3e025",
+      "attempts": 1
+    },
+    {
+      "num": 1533,
+      "r2Key": "article-images/2026-09-01_070839.jpg",
+      "imageUrl": "https://images.ctcrazies.com/article-images/2026-09-01_070839.jpg",
+      "bytes": 177667,
+      "sha256": "72a7f105389714a79ec3eaa0149d5d0a7b31b663970df0ce5a21de23b11d379e",
+      "attempts": 1
+    },
+    {
+      "num": 1532,
+      "r2Key": "article-images/2026-09-01_070418.jpg",
+      "imageUrl": "https://images.ctcrazies.com/article-images/2026-09-01_070418.jpg",
+      "bytes": 189859,
+      "sha256": "ec8ce97ae50803a8ad7e5e678ab68ff75522dd91ed42b256f3048bf30efde89e",
+      "attempts": 1
+    },
+    {
+      "num": 1531,
+      "r2Key": "article-images/2026-09-01_065543.jpg",
+      "imageUrl": "https://images.ctcrazies.com/article-images/2026-09-01_065543.jpg",
+      "bytes": 548995,
+      "sha256": "a0d9e5cad9aac9d6d54d842f6fc85472e54f037173b90b3226d3ff31fffcdd1c",
+      "attempts": 1
+    },
+    {
+      "num": 1530,
+      "r2Key": "article-images/2026-09-01_065024.jpg",
+      "imageUrl": "https://images.ctcrazies.com/article-images/2026-09-01_065024.jpg",
+      "bytes": 159529,
+      "sha256": "22511e83271c24c86ae9696d138ca59abf7755fc4ad7905ff69ba1cd111c6ecc",
+      "attempts": 1
+    },
+    {
+      "num": 1529,
+      "r2Key": "article-images/2026-09-01_064233.jpg",
+      "imageUrl": "https://images.ctcrazies.com/article-images/2026-09-01_064233.jpg",
+      "bytes": 136920,
+      "sha256": "47234affeb4267aa3eb3d74894f697136cec553cce2673eb631561207838d91b",
+      "attempts": 1
+    },
+    {
+      "num": 1528,
+      "r2Key": "article-images/2026-09-01_063922.jpg",
+      "imageUrl": "https://images.ctcrazies.com/article-images/2026-09-01_063922.jpg",
+      "bytes": 175845,
+      "sha256": "7ff357e9d7c0270024fdeec40a9ac267b6e8a545c1299fca3f7564d8b142c589",
+      "attempts": 1
+    },
+    {
+      "num": 1527,
+      "r2Key": "article-images/2026-09-01_063431.jpg",
+      "imageUrl": "https://images.ctcrazies.com/article-images/2026-09-01_063431.jpg",
+      "bytes": 217687,
+      "sha256": "46378a7403bc6ce85282d7fb703f73096333e27896ef991cc443149ebd9bd09c",
+      "attempts": 1
+    },
+    {
+      "num": 1526,
+      "r2Key": "article-images/2026-09-01_063052.jpg",
+      "imageUrl": "https://images.ctcrazies.com/article-images/2026-09-01_063052.jpg",
+      "bytes": 245167,
+      "sha256": "76fe0e2f767b887d59a8e0073f9c12be10f507c5dfcb330fd0be372ddb70f4a0",
+      "attempts": 1
+    },
+    {
+      "num": 1525,
+      "r2Key": "article-images/2026-08-31_171502.jpg",
+      "imageUrl": "https://images.ctcrazies.com/article-images/2026-08-31_171502.jpg",
+      "bytes": 169624,
+      "sha256": "98ca0067cc0bdc47172614b8ea40bd9cbb9e40ee9098cf2ded16061809962fa8",
+      "attempts": 1
+    },
+    {
+      "num": 1524,
+      "r2Key": "article-images/2026-08-31_170711.jpg",
+      "imageUrl": "https://images.ctcrazies.com/article-images/2026-08-31_170711.jpg",
+      "bytes": 408033,
+      "sha256": "e052b595dc797b1fede82cc568b961a512fd1494757c096ee6dc45c2323a3750",
+      "attempts": 1
+    },
+    {
+      "num": 1523,
+      "r2Key": "article-images/2026-08-31_170119.jpg",
+      "imageUrl": "https://images.ctcrazies.com/article-images/2026-08-31_170119.jpg",
+      "bytes": 201572,
+      "sha256": "e5578c9606333c0b78e8fe30820e47c3f79444b0aedfd06c6f450e2a62882b83",
+      "attempts": 1
+    },
+    {
+      "num": 1522,
+      "r2Key": "article-images/2026-08-31_165917.jpg",
+      "imageUrl": "https://images.ctcrazies.com/article-images/2026-08-31_165917.jpg",
+      "bytes": 186061,
+      "sha256": "12429d3ad3468e3fd281642412a2a4a4a1276c21411a2eb328bfbab3eff963a8",
+      "attempts": 1
+    },
+    {
+      "num": 1521,
+      "r2Key": "article-images/2026-08-31_165707.jpg",
+      "imageUrl": "https://images.ctcrazies.com/article-images/2026-08-31_165707.jpg",
+      "bytes": 248657,
+      "sha256": "f03525eeeef62ab552b6d20fa0b8a160987c4044400f4532c8aebe2bc62c92fe",
+      "attempts": 1
+    }
+  ]
+}
