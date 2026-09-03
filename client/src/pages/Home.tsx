@@ -11,7 +11,7 @@ export default function Home() {
         headline="James Talarico Named the &#x27;Texas Trotsky&#x27; as He Declared Capitalism Is Oppressive &amp; Must Be Dismantled"
         tinyUrl="https://www.zerohedge.com/markets/texas-trotsky-talarico-declares-capitalism-oppressive-system-must-be-dismantled"
         xPostUrl="https://x.com/C3Heditor/status/2095545570349965356"
-        imageSrc="https://images.ctcrazies.com/article-images/2026-09-03_111425.jpg"
+        imageSrc="https://images.ctcrazies.com/article-images/2026-09-03_111425.jpg?revision=f67794c810a21a33"
         tags={["James Talarico", "Texas", "Communism-Socialism", "Economic Policy"]}
       />
       <ArticleBlock

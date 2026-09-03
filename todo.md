@@ -729,3 +729,6 @@
 - [x] Prepare an editable three-column tag-review proposal using exact workbook headlines and await the user's returned edits
 - [x] Transfer and validate the user-approved September 3 tag plan from the returned DOCX
 - [x] Apply the approved tag plan, upload verified images to R2, and publish only after required validation
+
+## NUM 1560 Corrected Image Replacement
+- [ ] Replace only NUM 1560's R2 image with the corrected user-supplied `2026-09-03_145510.jpg` file and verify the live Home-page result

@@ -1,0 +1,21 @@
+{
+  "correction": "Replace only NUM 1560's existing R2 image object",
+  "num": 1560,
+  "headline": "James Talarico Named the 'Texas Trotsky' as He Declared Capitalism Is Oppressive & Must Be Dismantled",
+  "sourceFile": "2026-09-03_145510.jpg",
+  "sourceSha256": "f67794c810a21a33d71825335414d4e75779b43f596c8faa044158cd3508c92d",
+  "replacedObjectKey": "article-images/2026-09-03_111425.jpg",
+  "imageUrl": "https://images.ctcrazies.com/article-images/2026-09-03_111425.jpg",
+  "publishedImageUrl": "https://images.ctcrazies.com/article-images/2026-09-03_111425.jpg?revision=f67794c810a21a33",
+  "uploadedBytes": 744187,
+  "uploadedSha256": "f67794c810a21a33d71825335414d4e75779b43f596c8faa044158cd3508c92d",
+  "uploadAttempts": 1,
+  "unchangedFields": [
+    "headline",
+    "sourceUrl",
+    "xPostUrl",
+    "tags",
+    "batchDate",
+    "page"
+  ]
+}
