@@ -1,0 +1,37 @@
+{
+  "batchDate": "2026-09-03",
+  "status": "approved-from-doneEditedSeptember_3_2026_Twenty-Article_Batch_Tag_Review.docx",
+  "proposedNewPersonTags": [
+    "Christian Schilder",
+    "Hallie Shoffner",
+    "Rosie O'Donnell",
+    "James Clyburn",
+    "Nancy Pelosi",
+    "Bobby Pulido"
+  ],
+  "proposedNewTopicTagsRequiringApproval": [],
+  "allowFiveTagNums": [],
+  "allowSixTagNums": [],
+  "tags": {
+    "1560": ["James Talarico", "Texas", "Communism-Socialism", "Economic Policy"],
+    "1559": ["Left-Wing", "Communism-Socialism", "U.S. Constitution"],
+    "1558": ["Bernie Sanders", "Government", "Communism-Socialism", "Economic Policy"],
+    "1557": ["Gaslight-Lies", "Election Fraud"],
+    "1556": ["Christian Schilder", "Colorado", "Crime"],
+    "1555": ["Brandon Johnson", "Chicago", "Violent Crime", "Gaslight-Lies"],
+    "1554": ["Abdul El-Sayed", "Michigan", "Islam-Muslims", "Israel-Jews"],
+    "1553": ["Hallie Shoffner", "Arkansas", "CBP-DHS-ICE", "Gaslight-Lies"],
+    "1552": ["Racial Issues", "Culture War", "Gaslight-Lies"],
+    "1551": ["Hasan Piker", "Gaslight-Lies", "Left-Wing"],
+    "1550": ["Rosie O'Donnell", "CBP-DHS-ICE", "Gaslight-Lies", "Culture War"],
+    "1549": ["Government", "Economic Policy"],
+    "1548": ["Joe Biden", "Immigration", "CBP-DHS-ICE", "Violent Crime"],
+    "1547": ["Kathy Hochul", "New York", "Immigration", "CBP-DHS-ICE"],
+    "1546": ["Peggy Flanagan", "Minnesota", "Culture War", "Left-Wing"],
+    "1545": ["James Clyburn", "Racial Issues", "Culture War", "Hate-Violence"],
+    "1544": ["Nancy Pelosi", "Ro Khanna", "Hypocrisy", "Economic Policy"],
+    "1543": ["California", "Judiciary-Judicial", "Culture War"],
+    "1542": ["Islam-Muslims", "Hate-Violence", "Left-Wing"],
+    "1541": ["Bobby Pulido", "James Talarico", "Texas", "Culture War"]
+  }
+}

@@ -8,147 +8,147 @@ export default function Page3() {
       <PageHeader />
       <div className="space-y-12">
       <ArticleBlock
-        headline="Texas Democrat Senate Candidate James Talarico Voted Against Popular Legislation That Would Bar Chinese Nationals From Buying Farmland"
-        tinyUrl="https://freebeacon.com/latest-news/james-talarico-voted-against-bills-targeting-ccp-influence-in-texas-including-popular-measure-barring-chinese-nationals-from-buying-farmland/"
-        xPostUrl="https://x.com/C3Heditor/status/2090401672635793675"
-        imageSrc="https://images.ctcrazies.com/article-images/2026-08-20_063319.jpg"
-        tags={["James Talarico", "Texas", "China", "2026 Elections"]}
+        headline="His Net Worth Zooms to $167 Million From Stock Trades While Hypocrite Democrat Representative Ro Khanna Rants About Wealthy ‘Oligarchs’ "
+        tinyUrl="https://slaynews.com/democrat-rep-ro-khanna-oligarchs-net-worth-skyrockets-167-million-disclosure-shows/"
+        xPostUrl="https://x.com/C3Heditor/status/2094096134117454289"
+        imageSrc="https://images.ctcrazies.com/article-images/2026-08-30_111447.jpg"
+        tags={["Ro Khanna", "Hypocrisy", "Left-Wing"]}
       />
       <ArticleBlock
-        headline="Michelle Wu, Boston&#x27;s Democrat-Socialist Mayor, Goes Full Gestapo in Attempts to Identify Property Owners Who Leased Parking Spaces to ICE"
-        tinyUrl="https://redstate.com/bobhoge/2026/08/18/wu-wants-your-name-boston-mayor-targets-law-abiding-locals-who-support-ice-n2205763"
-        xPostUrl="https://x.com/C3Heditor/status/2090400514324263291"
-        imageSrc="https://images.ctcrazies.com/article-images/2026-08-20_062909.jpg"
-        tags={["Michelle Wu", "Boston", "CBP-DHS-ICE", "Communism-Socialism"]}
+        headline="James Talarico, Texas Democrat Senate Candidate, Misleads Voters With Manipulative &amp; Deceptive Propaganda In His Vendetta Against ICE"
+        tinyUrl="https://www.newsbusters.org/blogs/cnsnews/craig-bannister/2026/08/28/talaricos-manipulative-deceptive-pandering-photo-posts"
+        xPostUrl="https://x.com/C3Heditor/status/2094095603038896305"
+        imageSrc="https://images.ctcrazies.com/article-images/2026-08-30_111012.jpg"
+        tags={["James Talarico", "Texas", "CBP-DHS-ICE", "Gaslight-Lies"]}
       />
       <ArticleBlock
-        headline="Democrat Alexander Vindman&#x27;s Crusade to Impeach Trump Again Fails Big-Time As Dem Primary Voters Choose Fringe Socialist-Marxist Instead "
-        tinyUrl="https://www.theblaze.com/news/trump-parades-on-grave-of-impeachment-zealot-alexander-vindmans-political-career"
-        xPostUrl="https://x.com/C3Heditor/status/2090397009849016603"
-        imageSrc="https://images.ctcrazies.com/article-images/2026-08-20_061509.jpg"
-        tags={["Alexander Vindman", "2026 Elections", "Left-Wing", "Communism-Socialism"]}
+        headline="Americans Are More Dangerous Than Illegal Aliens Claims Connecticut&#x27;s Democrat Senator Chris Murphy"
+        tinyUrl="https://slaynews.com/democrat-senator-americans-more-dangerous-illegal-aliens/"
+        xPostUrl="https://x.com/C3Heditor/status/2094094775762776333"
+        imageSrc="https://images.ctcrazies.com/article-images/2026-08-30_110831.jpg"
+        tags={["Chris Murphy", "Connecticut", "Immigration", "Gaslight-Lies"]}
       />
       <ArticleBlock
-        headline="Florida Democrat-Socialist Senate Hopeful, Angie Nixon, Calls for Abolishing ICE and Swift Amnesty for Illegal Aliens"
-        tinyUrl="https://www.breitbart.com/politics/2026/08/19/floridas-socialist-senate-candidate-angie-nixon-campaigns-on-abolishing-ice-granting-swift-amnesty/"
-        xPostUrl="https://x.com/C3Heditor/status/2090182112594817099"
-        imageSrc="https://images.ctcrazies.com/article-images/2026-08-19_160114.jpg"
-        tags={["Angie Nixon", "Florida", "Immigration", "CBP-DHS-ICE", "Communism-Socialism", "2026 Elections"]}
+        headline="Massachusetts Democrat Representative, Ayanna Pressley, Compares Trump and MAGA Supporters to the &#x27;Confederacy&#x27;"
+        tinyUrl="https://townhall.com/news/amy-curtis/2026/08/27/ayanna-pressley-trump-and-republicans-are-the-confederacy-n2681984"
+        xPostUrl="https://x.com/C3Heditor/status/2094094142246699093"
+        imageSrc="https://images.ctcrazies.com/article-images/2026-08-30_110557.jpg"
+        tags={["Ayanna Pressley", "Massachusetts", "Culture War", "Gaslight-Lies"]}
       />
       <ArticleBlock
-        headline="Fairfax Woman&#x27;s Killer Was Another Violent Criminal Illegal Alien Hiding In Democrat-Run Metro Area"
-        tinyUrl="https://townhall.com/news/amy-curtis/2026/08/19/illegal-alien-fairfax-county-n2681528"
-        xPostUrl="https://x.com/C3Heditor/status/2090181441502036050"
-        imageSrc="https://images.ctcrazies.com/article-images/2026-08-19_155906.jpg"
-        tags={["Violent Crime", "Immigration", "Government", "Left-Wing"]}
+        headline="Allowing Illegal Alien Truckers Without Proper Licenses or English Skills Defended by Democrats "
+        tinyUrl="https://amac.us/newsline/democrats-fight-to-keep-unqualified-illegal-alien-truckers-on-the-road"
+        xPostUrl="https://x.com/C3Heditor/status/2094093557355180325"
+        imageSrc="https://images.ctcrazies.com/article-images/2026-08-30_110338.jpg"
+        tags={["Immigration", "Government", "Incompetence"]}
       />
       <ArticleBlock
-        headline="Top Aide to Democrats&#x27; Heart-Throb MD, Anthony Fauci, Pleads Guilty to Scheme Evading Public Records &amp; Open Requests"
-        tinyUrl="https://thefederalist.com/2026/08/19/faucis-right-hand-man-pleads-guilty-to-scheme-evading-open-records-requests/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=faucis-right-hand-man-pleads-guilty-to-scheme-evading-open-records-requests"
-        xPostUrl="https://x.com/C3Heditor/status/2090181006905032733"
-        imageSrc="https://images.ctcrazies.com/article-images/2026-08-19_155424.jpg"
-        tags={["Dr. Anthony Fauci", "Corruption-Fraud", "Government"]}
+        headline="Democrat Blue States Sue Again Over Trump&#x27;s Mail-In Election Integrity Voting Reforms"
+        tinyUrl="https://thenationalpulse.com/2026/08/26/democrat-states-launch-another-lawsuit-against-trumps-mail-in-voting-reforms/"
+        xPostUrl="https://x.com/C3Heditor/status/2094092681228046599"
+        imageSrc="https://images.ctcrazies.com/article-images/2026-08-30_110023.jpg"
+        tags={["Election Fraud", "2026 Elections"]}
       />
       <ArticleBlock
-        headline="Crime of Shoplifting for a &#x27;Biological Need&#x27; Should Not Be Illegal, Democrat-Socialist Lawmaker Claims"
-        tinyUrl="https://www.zerohedge.com/political/dsa-lawmaker-claims-shoplifting-biological-need-shouldnt-be-illegal"
-        xPostUrl="https://x.com/C3Heditor/status/2090179064224960655"
-        imageSrc="https://images.ctcrazies.com/article-images/2026-08-19_154906.jpg"
-        tags={["Crime", "Communism-Socialism"]}
+        headline="Arkansas Democrat Clerk&#x27;s Office Employee Avoids Prison For Election Fraud After Illegally Altering 132 Voter Records "
+        tinyUrl="https://www.thegatewaypundit.com/2026/08/democrat-clerks-office-employee-arkansas-gets-zero-prison/"
+        xPostUrl="https://x.com/C3Heditor/status/2094092237277700130"
+        imageSrc="https://images.ctcrazies.com/article-images/2026-08-30_105822.jpg"
+        tags={["Election Fraud", "Arkansas"]}
       />
       <ArticleBlock
-        headline="Big California Backlash Erupts Over the Democrat Control-Freaks&#x27; New Sweeping Tire Rules &amp; Massive Regulatory Overreach"
-        tinyUrl="https://nypost.com/2026/08/18/science/californias-new-tire-rules-spark-outrage-over-regulatory-overreach/"
-        xPostUrl="https://x.com/C3Heditor/status/2090178588326695198"
-        imageSrc="https://images.ctcrazies.com/article-images/2026-08-19_154657.jpg"
-        tags={["California", "Government", "Economic Policy", "Left-Wing"]}
+        headline="Illegal Voting Charges Filed Against a Canadian Citizen in Major Election Fraud Case"
+        tinyUrl="https://www.youtube.com/watch?v=tSneVzKNjtI"
+        xPostUrl="https://x.com/C3Heditor/status/2094091513760296984"
+        imageSrc="https://images.ctcrazies.com/article-images/2026-08-30_105332.jpg"
+        tags={["Election Fraud", "Immigration"]}
       />
       <ArticleBlock
-        headline="Only In LA: Democrat-Controlled Los Angeles County Confronts a Rare Medieval Disease That Has Doctors Raising New Alarms"
-        tinyUrl="https://www.dailysignal.com/2026/08/18/why-is-this-medieval-disease-striking-la-county/"
-        xPostUrl="https://x.com/C3Heditor/status/2090178109068718540"
-        imageSrc="https://images.ctcrazies.com/article-images/2026-08-19_154501.jpg"
-        tags={["Los Angeles", "Government", "Left-Wing", "Incompetence"]}
+        headline="Watchdog Flags Massive $5 Billion of Foreign Money Pouring Into Democrats&#x27; Socialist Political Causes"
+        tinyUrl="https://amac.us/newsline/watchdog-sounds-alarm-on-the-left-s-massive-foreign-money-pipeline"
+        xPostUrl="https://x.com/C3Heditor/status/2094088309899239902"
+        imageSrc="https://images.ctcrazies.com/article-images/2026-08-30_104256.jpg"
+        tags={["Communism-Socialism", "Left-Wing"]}
       />
       <ArticleBlock
-        headline="All-In-the-Family: Terror-Linked Group Employing Muslim-Democrat Abdul El-Sayed&#x27;s Mother Funded Bin Laden &amp; Hamas"
-        tinyUrl="https://www.thegatewaypundit.com/2026/08/bombshell-abdul-el-sayeds-mother-worked-terror-linked/"
-        xPostUrl="https://x.com/C3Heditor/status/2090177191266992610"
-        imageSrc="https://images.ctcrazies.com/article-images/2026-08-19_154139.jpg"
-        tags={["Abdul El-Sayed", "Islam-Muslims", "Hate-Violence", "Terrorism"]}
+        headline="Michigan: Democrat Donors to &#x27;Muslims-First&#x27; Senate Hopeful Abdul El-Sayed&#x27;s Also Backed Hitler-Praising Candidate Dan Bilzerian&#x27;s Campaign"
+        tinyUrl="https://freebeacon.com/elections/exclusive-multiple-abdul-el-sayed-donors-also-gave-thousands-to-hitler-praising-jew-hating-dan-bilzerians-congressional-run/"
+        xPostUrl="https://x.com/C3Heditor/status/2094087428801781990"
+        imageSrc="https://images.ctcrazies.com/article-images/2026-08-30_103913.jpg"
+        tags={["Abdul El-Sayed", "Dan Bilzerian", "Michigan", "Israel-Jews", "Islam-Muslims"]}
       />
       <ArticleBlock
-        headline="Colorado Democrat Manny Rutinel Supports Animal-Rights Activists, Ecoterrorist Radicals &amp; Those Claiming Insects Are Sentient"
-        tinyUrl="https://freebeacon.com/democrats/colorado-dem-manny-rutinel-served-as-fellow-at-university-law-program-tied-to-accused-ecoterrorists-and-claims-of-insect-sentience/"
-        xPostUrl="https://x.com/C3Heditor/status/2090176582589546596"
-        imageSrc="https://images.ctcrazies.com/article-images/2026-08-19_153918.jpg"
-        tags={["Manny Rutinel", "Colorado", "Left-Wing"]}
+        headline="Michigan: Attorney General Dana Nessel, a Jewish Democrat, Skips Dem Convention Over Anti-Israel Fears &amp; Harassment"
+        tinyUrl="https://nypost.com/2026/08/29/us-news/michigan-ag-dana-nessel-skips-democratic-convention-over-israel-antisemitism-fears/"
+        xPostUrl="https://x.com/C3Heditor/status/2094086797567434793"
+        imageSrc="https://images.ctcrazies.com/article-images/2026-08-30_103649.jpg"
+        tags={["Dana Nessel", "Michigan", "Israel-Jews", "Hate-Violence"]}
       />
       <ArticleBlock
-        headline="Learn How Power Hungry Crazed Democrats, Such As Socialist Ro Khanna, Use a Woman&#x27;s Murder to Misinform, Gaslight &amp; Stoke Racial Hatred"
-        tinyUrl="https://townhall.com/news/amy-curtis/2026/08/19/ro-khanna-hangings-need-investigation-n2681478"
-        xPostUrl="https://x.com/C3Heditor/status/2090175420951822528"
-        imageSrc="https://images.ctcrazies.com/article-images/2026-08-19_153425.jpg"
-        tags={["Ro Khanna", "Racial Issues", "Gaslight-Lies", "Hate-Violence", "Left-Wing"]}
+        headline="Two California Democrats Found Guilty of Bribery Corruption Scheme"
+        tinyUrl="https://www.justice.gov/usao-cdca/pr/former-city-councilmen-baldwin-park-and-compton-sentenced-federal-prison-their-roles"
+        xPostUrl="https://x.com/C3Heditor/status/2094086260767723743"
+        imageSrc="https://images.ctcrazies.com/article-images/2026-08-30_103439.jpg"
+        tags={["California", "Corruption-Fraud", "Crime"]}
       />
       <ArticleBlock
-        headline="Court Decision Finds Democrat Joe Biden&#x27;s Ghost-Gun Rule Illegal Under the Constitution &amp; Federal Law "
-        tinyUrl="https://pjmedia.com/catherinesalgado/2026/08/18/judge-deems-biden-ghost-gun-ban-unconstitutional-n4956279"
-        xPostUrl="https://x.com/C3Heditor/status/2090174760181186652"
-        imageSrc="https://images.ctcrazies.com/article-images/2026-08-19_153150.jpg"
-        tags={["Joe Biden", "2nd Amendment", "U.S. Constitution", "Judiciary-Judicial"]}
+        headline="Appeals Court Denies Democrat House Representative LaMonica McIver Immunity From Her Violence During ICE Agent Assault"
+        tinyUrl="https://www.thegatewaypundit.com/2026/08/just-federal-appeals-court-rejects-democrat-rep-lamonica/"
+        xPostUrl="https://x.com/C3Heditor/status/2094085540165345777"
+        imageSrc="https://images.ctcrazies.com/article-images/2026-08-30_103148.jpg"
+        tags={["LaMonica McIver", "CBP-DHS-ICE", "Violent Crime"]}
       />
       <ArticleBlock
-        headline="Texas Democrat Representatives Press South Texas Cities to Cut Their Support of ICE&#x27;s Legal Mandate to Arrest Illegal Aliens"
-        tinyUrl="https://www.breitbart.com/border/2026/08/19/democrat-texas-reps-urge-cities-to-break-state-law-separate-ties-with-ice/"
-        xPostUrl="https://x.com/C3Heditor/status/2090174120092684715"
-        imageSrc="https://images.ctcrazies.com/article-images/2026-08-19_152929.jpg"
-        tags={["Texas", "Immigration", "CBP-DHS-ICE", "Law Enforcement", "Left-Wing"]}
+        headline="Amish Shah, Arizona Democrat House Candidate, Opposed Tougher Sentences for Fentanyl Dealers"
+        tinyUrl="https://townhall.com/news/jeff-charles/2026/08/27/amish-shah-voted-against-ashley-dunn-act-n2681963"
+        xPostUrl="https://x.com/C3Heditor/status/2094085096617783746"
+        imageSrc="https://images.ctcrazies.com/article-images/2026-08-30_103005.jpg"
+        tags={["Amish Shah", "Arizona", "Crime", "Law Enforcement"]}
       />
       <ArticleBlock
-        headline="Top University Corruption Exposed as Democrat-Run Harvard&#x27;s Black Market Sale of Donated Corpses Results in School&#x27;s Lawsuit Payout of $53M"
-        tinyUrl="https://nypost.com/2026/08/19/us-news/harvard-to-pay-53m-in-suit-over-selling-donated-corpses-on-black-market/"
-        xPostUrl="https://x.com/C3Heditor/status/2090173378187428001"
-        imageSrc="https://images.ctcrazies.com/article-images/2026-08-19_152618.jpg"
-        tags={["Corruption-Fraud", "Crime", "Ethics-Morals", "Left-Wing"]}
+        headline="Due to Weak Anti-Crime Record, Law Enforcement Groups Reject Democrat Roy Cooper&#x27;s North Carolina Senate Campaign"
+        tinyUrl="https://www.breitbart.com/politics/2026/08/27/democrat-roy-cooper-shunned-by-law-enforcement-in-north-carolina-senate-run/"
+        xPostUrl="https://x.com/C3Heditor/status/2094084607842959375"
+        imageSrc="https://images.ctcrazies.com/article-images/2026-08-30_102808.jpg"
+        tags={["Roy Cooper", "North Carolina", "Law Enforcement", "Crime"]}
       />
       <ArticleBlock
-        headline="Democrats&#x27; Relentless Attacks on Fundamental Rights of School Choice for Students &amp; Parents Fails In Arizona as Supreme Court Upholds Rights"
-        tinyUrl="https://www.dailysignal.com/2026/08/18/union-attack-on-arizona-school-choice-fails-again/"
-        xPostUrl="https://x.com/C3Heditor/status/2090172859196862945"
-        imageSrc="https://images.ctcrazies.com/article-images/2026-08-19_152431.jpg"
-        tags={["Education Policy", "Unions", "U.S. Constitution"]}
+        headline="Democrats&#x27; Favorite Maoist-Communist Hasan Piker Leads HateFest Mocking of Charlie Kirk&#x27;s Assassination "
+        tinyUrl="https://www.dailysignal.com/2026/08/29/hasan-piker-mocks-charlie-kirk/"
+        xPostUrl="https://x.com/C3Heditor/status/2094084141956427813"
+        imageSrc="https://images.ctcrazies.com/article-images/2026-08-30_102617.jpg"
+        tags={["Hasan Piker", "Charlie Kirk", "Assassination", "Hate-Violence", "Communism-Socialism"]}
       />
       <ArticleBlock
-        headline="Washington State&#x27;s Democrat Governor Turns on the Hapless &amp; Incompetent Seattle Democrat-Socialist Mayor Amid Intensifying Recall Push"
-        tinyUrl="https://www.dailymail.com/news/article-16060817/Seattle-Mayor-Katie-Wilson-Bob-Ferguson-shooting-Ari-Hoffman.html"
-        xPostUrl="https://x.com/C3Heditor/status/2090171038134862253"
-        imageSrc="https://images.ctcrazies.com/article-images/2026-08-19_151658.jpg"
-        tags={["Bob Ferguson", "Seattle", "Washington", "Incompetence", "Communism-Socialism"]}
+        headline="Representative Debbie Dingell, a Michigan U.S. House Democrat, Praises Maoist-Communist Hasan Piker"
+        tinyUrl="https://rairfoundation.com/michigan-democrat-loon-debbie-dingell-swoons-hasan-pikers/"
+        xPostUrl="https://x.com/C3Heditor/status/2094083451716604311"
+        imageSrc="https://images.ctcrazies.com/article-images/2026-08-30_102329.jpg"
+        tags={["Debbie Dingell", "Hasan Piker", "Michigan", "Communism-Socialism"]}
       />
       <ArticleBlock
-        headline="FEC Scrutiny Spotlight is on Texas Democrat James Talarico Donors Over Campaign Finance Rule Breaches"
-        tinyUrl="https://townhall.com/news/josephchalfant/2026/08/17/fec-cracks-down-after-talarico-donors-break-campaign-finance-law-n2681407"
-        xPostUrl="https://x.com/C3Heditor/status/2090169510741393614"
-        imageSrc="https://images.ctcrazies.com/article-images/2026-08-19_151109.jpg"
-        tags={["James Talarico", "Texas", "Corruption-Fraud", "2026 Elections"]}
+        headline="Steve Descano, Virginia&#x27;s Fairfax Democrat Prosecutor, Accused of Obstruction &amp; Blocking a Probe Into His Favoritism Regarding Illegal Alien Criminal Cases"
+        tinyUrl="https://www.breitbart.com/politics/2026/08/27/fairfax-county-democrat-prosecutor-accused-of-obstructing-probe-into-preferential-treatment-for-illegal-alien-defendants/"
+        xPostUrl="https://x.com/C3Heditor/status/2094082800466919646"
+        imageSrc="https://images.ctcrazies.com/article-images/2026-08-30_102050.jpg"
+        tags={["Steve Descano", "Immigration", "Crime", "Corruption-Fraud", "Fairfax County"]}
       />
       <ArticleBlock
-        headline="Ethics Panel Probes California House Democrat Jimmy Gomez Over Inappropriate Sexual Contact With Staff Member"
-        tinyUrl="https://www.thegatewaypundit.com/2026/08/democratic-congressman-ethics-committee-investigation-alleged-inappropriate-sexual/"
-        xPostUrl="https://x.com/C3Heditor/status/2090168823945007388"
-        imageSrc="https://images.ctcrazies.com/article-images/2026-08-19_150827.jpg"
-        tags={["Jimmy Gomez", "California", "Ethics-Morals"]}
+        headline="David Jolly&#x27;s Florida Democrat Governor Campaign Backs Citizenship Path for Undocumented Illegal Aliens"
+        tinyUrl="https://nalert.blogspot.com/2026/07/florida-democrat-governor-candidate.html"
+        xPostUrl="https://x.com/C3Heditor/status/2094082236651855953"
+        imageSrc="https://images.ctcrazies.com/article-images/2026-08-30_100215.jpg"
+        tags={["David Jolly", "Florida", "Immigration", "2026 Elections"]}
       />
       <ArticleBlock
-        headline="Why Are So Many Democrats Being Arrested On Fraud Charges? The Answer is Obvious When One Thinks About It - Corruption"
-        tinyUrl="https://www.zerohedge.com/political/why-are-so-many-democrats-being-arrested-fraud-charges"
-        xPostUrl="https://x.com/C3Heditor/status/2090143579880526241"
-        imageSrc="https://images.ctcrazies.com/article-images/2026-08-19_132820.jpg"
-        tags={["Corruption-Fraud", "Government", "Ethics-Morals"]}
+        headline="Democrats in Pennsylvania Erase &#x27;Mother&#x27; &amp; &#x27;Woman&#x27; From Health Code, Pandering to Fringe Trans-Gender Ideologues "
+        tinyUrl="https://www.thegatewaypundit.com/2026/08/pennsylvania-democrats-erase-mother-woman-state-health-code/"
+        xPostUrl="https://x.com/C3Heditor/status/2094081532793155739"
+        imageSrc="https://images.ctcrazies.com/article-images/2026-08-30_101552.jpg"
+        tags={["Pennsylvania", "LGBTQ", "Culture War"]}
       />
       </div>
-      <Pagination currentPage={3} totalPages={77} />
+      <Pagination currentPage={3} totalPages={78} />
 
     </div>
   );

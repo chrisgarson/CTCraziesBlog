@@ -8,147 +8,147 @@ export default function Page24() {
       <PageHeader />
       <div className="space-y-12">
       <ArticleBlock
-        headline="Fresh Allegations Regarding Democrat U.S. Senate Nominee Graham Platner Emerge as Primary Approaches"
-        tinyUrl="https://tinyurl.com/fmz2rsb7"
-        xPostUrl="https://x.com/C3Heditor/status/2066988337835945570"
-        imageSrc="https://images.ctcrazies.com/article-images/qzkGZqIoZcTOfKMQ.jpg"
-        tags={["2026 Elections", "Graham Platner", "Sexual Misconduct"]}
+        headline="NYC&#x27;s Democrat Congressional Candidate, Darializa Avila Chevalier, Caught Up in FIFA World Cup Unsanctioned Tickets Scheme"
+        tinyUrl="https://tinyurl.com/4khjhu5j"
+        xPostUrl="https://x.com/C3Heditor/status/2068815444417380814"
+        imageSrc="https://images.ctcrazies.com/article-images/2026-06-21_165723.jpg"
+        tags={["Corruption-Fraud", "Darializa Avila Chevalier", "NYC"]}
       />
       <ArticleBlock
-        headline="Jobs Surge Under Trump While Democrat-Run Hollywood Sheds Thousands in Ongoing Industry Collapse"
-        tinyUrl="https://tinyurl.com/4nn4hf4m"
-        xPostUrl="https://x.com/C3Heditor/status/2066987835945570716"
-        imageSrc="https://images.ctcrazies.com/article-images/DgIHArJKfyFMesaV.jpg"
-        tags={["Economic Policy", "Foreign Policy"]}
+        headline="Rooting Against America: Democrats Can&#x27;t Even Seem to Back Their Own Country in the World Cup"
+        tinyUrl="https://tinyurl.com/mr2x2adz"
+        xPostUrl="https://x.com/C3Heditor/status/2068814758761881851"
+        imageSrc="https://images.ctcrazies.com/article-images/2026-06-21_165440.jpg"
+        tags={["Culture War", "Patriotism", "Politics"]}
       />
       <ArticleBlock
-        headline="Biden&#x27;s Democrat Education Department Bureaucrats Defied Court Orders to Keep Pushing Gender Ideology in Schools"
-        tinyUrl="https://tinyurl.com/4nn4hf4m"
-        xPostUrl="https://x.com/C3Heditor/status/2066987135974912285"
-        imageSrc="https://images.ctcrazies.com/article-images/dPpfBwvsHhBdqpeZ.jpg"
-        tags={["Biden Administration", "LGBTQ"]}
+        headline="Army Colonel Demands Maryland&#x27;s Democrat Governor Wes Moore Come Clean as the &#x27;Stolen Valor&#x27; Storm Grows Louder"
+        tinyUrl="https://tinyurl.com/y2v9z6hn"
+        xPostUrl="https://x.com/C3Heditor/status/2068813325161361731"
+        imageSrc="https://images.ctcrazies.com/article-images/2026-06-21_164900.jpg"
+        tags={["Investigation", "Maryland", "Wes Moore"]}
       />
       <ArticleBlock
-        headline="Florida Democrat Governor Nominee&#x27;s Running Mate: Illegal Aliens Should Have Driver&#x27;s Licenses"
-        tinyUrl="https://tinyurl.com/fmz2rsb7"
-        xPostUrl="https://x.com/C3Heditor/status/2066986286498361488"
-        imageSrc="https://images.ctcrazies.com/article-images/NGGChKXQRkRSABCz.jpg"
-        tags={["2026 Elections", "Florida", "Immigration"]}
+        headline="In Democrat Connecticut, Signature Forgery Allegations Land a Pastor Under Arrest Ahead of Democratic Primary"
+        tinyUrl="https://tinyurl.com/ykjvryte"
+        xPostUrl="https://x.com/C3Heditor/status/2068812197665354122"
+        imageSrc="https://images.ctcrazies.com/article-images/2026-06-21_164428.jpg"
+        tags={["Connecticut", "Election Fraud", "Investigation"]}
       />
       <ArticleBlock
-        headline="Seriously, Democrat-Socialist Francesca Hong Wants to Abolish Prisons and Is Running to Be Wisconsin&#x27;s Next Governor"
-        tinyUrl="https://tinyurl.com/ycx3ht6a"
-        xPostUrl="https://x.com/C3Heditor/status/2066985770020126857"
-        imageSrc="https://images.ctcrazies.com/article-images/uxuruayASAomVwTV.jpg"
-        tags={["2026 Elections", "Francesca Hong", "Left-Wing", "Wisconsin"]}
+        headline="Cross-Burning in Chicago Once Feared to Be a Racist Threat Turns Out to Be Anti-Trump Democrat&#x27;s Hate-Stunt"
+        tinyUrl="https://tinyurl.com/mrxnp8j7"
+        xPostUrl="https://x.com/C3Heditor/status/2068811137185874387"
+        imageSrc="https://images.ctcrazies.com/article-images/2026-06-21_163832.jpg"
+        tags={["Chicago", "Hate-Violence", "Racial Issues"]}
       />
       <ArticleBlock
-        headline="Champagne Democrat-Socialist Mayor Zohran Mamdani Scores Free Exclusive Tickets to Multiple World Cup Matches"
-        tinyUrl="https://tinyurl.com/yc6nkpw7"
-        xPostUrl="https://x.com/C3Heditor/status/2066984017413415333"
-        imageSrc="https://images.ctcrazies.com/article-images/kdDOaWmZWHfkRMNS.jpg"
-        tags={["NYC", "Zohran Mamdani"]}
+        headline="California Democrats Now Require Proof of Sexual Orientation to Win Taxpayer-Funded Contracts"
+        tinyUrl="https://tinyurl.com/34t8mvs9"
+        xPostUrl="https://x.com/C3Heditor/status/2068810150790529107"
+        imageSrc="https://images.ctcrazies.com/article-images/2026-06-21_163618.jpg"
+        tags={["California", "Economic Policy", "LGBTQ"]}
       />
       <ArticleBlock
-        headline="In Democrat-Controlled Washington State, a High School Female Wrestler Sexually Assaulted by a Transgender Athlete During Official Match"
-        tinyUrl="https://tinyurl.com/4wda9d2y"
-        xPostUrl="https://x.com/C3Heditor/status/2066982814600294717"
-        imageSrc="https://images.ctcrazies.com/article-images/hHFDoGIIxxeFathS.jpg"
-        tags={["LGBTQ", "Sexual Misconduct", "Washington"]}
+        headline="Democrats&#x27; First Transgender Lawmaker in New Hampshire Sentenced to 33 Years for Child Exploitation"
+        tinyUrl="https://tinyurl.com/5489eu8c"
+        xPostUrl="https://x.com/C3Heditor/status/2068809693967856029"
+        imageSrc="https://images.ctcrazies.com/article-images/2026-06-21_163430.jpg"
+        tags={["LGBTQ", "Sexual Misconduct", "Violent Crime"]}
       />
       <ArticleBlock
-        headline="California Sh^thole: New Survey Ranks Democrat-Run Los Angeles Among the DEADEST Downtowns in the Entire World"
-        tinyUrl="https://tinyurl.com/4m9a945p"
-        xPostUrl="https://x.com/C3Heditor/status/2066982232128962991"
-        imageSrc="https://images.ctcrazies.com/article-images/JDlSzEoOhqSizOnS.jpg"
-        tags={["California", "Los Angeles"]}
+        headline="Democrat Activists Socialists&#x27; Platform Openly Calls for Abolishing the Senate, SCOTUS &amp; the Presidency"
+        tinyUrl="https://tinyurl.com/5akcjrhv"
+        xPostUrl="https://x.com/C3Heditor/status/2068808467888955850"
+        imageSrc="https://images.ctcrazies.com/article-images/2026-06-21_162950.jpg"
+        tags={["Communism-Socialism", "Politics", "U.S. Constitution"]}
       />
       <ArticleBlock
-        headline="Democrat Candidate Abdul El-Sayed&#x27;s MI U.S. Senate Bid Is Overshadowed by a Resurging Detroit Animal Shelter Scandal"
-        tinyUrl="https://tinyurl.com/4bp8fa9f"
-        xPostUrl="https://x.com/C3Heditor/status/2066981523270627533"
-        imageSrc="https://images.ctcrazies.com/article-images/wnfkQomAUSsrYTkb.jpg"
-        tags={["2026 Elections", "Abdul El-Sayed", "Michigan"]}
+        headline="Gunmakers Keep Fleeing Anti-Job Democrat Blue States, Move To Freedom-Loving Red States"
+        tinyUrl="https://tinyurl.com/mr33pjy4"
+        xPostUrl="https://x.com/C3Heditor/status/2068809024791891993"
+        imageSrc="https://images.ctcrazies.com/article-images/2026-06-21_163153.jpg"
+        tags={["Blue States", "Business Relocation", "Gun Control"]}
       />
       <ArticleBlock
-        headline="Drug &#x27;Zombies&#x27; Haunt a Democrat-Run Philly Neighborhood Just Minutes From the World Cup Stadium"
-        tinyUrl="https://tinyurl.com/4ck6aye6"
-        xPostUrl="https://x.com/C3Heditor/status/2066980729242706219"
-        imageSrc="https://images.ctcrazies.com/article-images/xkzvDanyfYEIsFdY.jpg"
-        tags={["Healthcare Policy", "Pennsylvania", "Philadelphia"]}
+        headline="Court Filing Reveals Democrat AGs Conspired With Fringe Leftist Groups on &#x27;How to Stop Trump&#x27;"
+        tinyUrl="https://tinyurl.com/msfvp7nb"
+        xPostUrl="https://x.com/C3Heditor/status/2068807887082664133"
+        imageSrc="https://images.ctcrazies.com/article-images/2026-06-21_162733.jpg"
+        tags={["DOJ", "Left-Wing", "Weaponization"]}
       />
       <ArticleBlock
-        headline="Result of Democrats&#x27; Open Borders: White Students Fall Below Half of U.S. School Enrollment as Latino Numbers Keep Surging"
-        tinyUrl="https://tinyurl.com/bdh72a5t"
-        xPostUrl="https://x.com/C3Heditor/status/2066978586142142819"
-        imageSrc="https://images.ctcrazies.com/article-images/VUjhxttqsyQSjZEp.jpg"
-        tags={["Immigration", "Racial Issues"]}
+        headline="DHS Blasts Virginia Democrat Governor Spanberger&#x27;s Sanctuary Policies After Illegal Alien Pedophile Gets Low Bond"
+        tinyUrl="https://tinyurl.com/4sar63wr"
+        xPostUrl="https://x.com/C3Heditor/status/2068806953229271256"
+        imageSrc="https://images.ctcrazies.com/article-images/2026-06-21_162404.jpg"
+        tags={["Abigail Spanberger", "CBP-DHS-ICE", "Immigration", "Virginia"]}
       />
       <ArticleBlock
-        headline="Democrats&#x27; Illegal Aliens Hit With Federal Charges in a Migrant Child Smuggling Operation"
-        tinyUrl="https://tinyurl.com/4rpa9bjs"
-        xPostUrl="https://x.com/C3Heditor/status/2066978140727996600"
-        imageSrc="https://images.ctcrazies.com/article-images/DDesvXefRtijZcAh.jpg"
-        tags={["CBP-DHS-ICE", "Immigration"]}
+        headline="Democrat Sanctuary Illegal Alien Who Raped a New York Teen Had an ICE Removal Order That Was Ignored"
+        tinyUrl="https://tinyurl.com/9tf8njav"
+        xPostUrl="https://x.com/C3Heditor/status/2068806391964315988"
+        imageSrc="https://images.ctcrazies.com/article-images/2026-06-21_162131.jpg"
+        tags={["CBP-DHS-ICE", "Immigration", "New York", "Violent Crime"]}
       />
       <ArticleBlock
-        headline="DOJ Says Over 475K Children Were Trafficked Into U.S. Under Democrat Biden Admin  - 300K Still Missing"
-        tinyUrl="https://tinyurl.com/2e2khzkm"
-        xPostUrl="https://x.com/C3Heditor/status/2066977510709924088"
-        imageSrc="https://images.ctcrazies.com/article-images/YPgdcGzfDlZUducV.jpg"
-        tags={["Biden Administration", "CBP-DHS-ICE", "Immigration"]}
+        headline="Muslim Ally of Democrat-Marxist NYC&#x27;s Mayor Mamdani Arrested Over Alleged Ties to a $38 Million Medicaid Scam"
+        tinyUrl="https://tinyurl.com/3z9x6c8r"
+        xPostUrl="https://x.com/C3Heditor/status/2068805826781806782"
+        imageSrc="https://images.ctcrazies.com/article-images/2026-06-21_161913.jpg"
+        tags={["Corruption-Fraud", "Healthcare Policy", "NYC", "Zohran Mamdani"]}
       />
       <ArticleBlock
-        headline="New Poll Shows Growing Numbers (71%) of Democrats Back Mass Deportation of Criminal Migrants"
-        tinyUrl="https://tinyurl.com/mwcbzsdf"
-        xPostUrl="https://x.com/C3Heditor/status/2066976981011317114"
-        imageSrc="https://images.ctcrazies.com/article-images/jMzOPtLOupvBOQBN.jpg"
-        tags={["CBP-DHS-ICE", "Immigration"]}
+        headline="Arizona&#x27;s Radical-Democrat AG Drops Unconstitutional Weaponized Lawfare Case Against Giuliani and Trump Allies"
+        tinyUrl="https://tinyurl.com/yjnfcnmj"
+        xPostUrl="https://x.com/C3Heditor/status/2068805379689988297"
+        imageSrc="https://images.ctcrazies.com/article-images/2026-06-21_161725.jpg"
+        tags={["Arizona", "Kris Mayes", "Weaponization"]}
       />
       <ArticleBlock
-        headline="Option #1: He Must Be On Crack ==&gt; Hunter Biden Floats Running as Democrat Gavin Newsom&#x27;s VP in a 2028 White House Bid in Stunning Interview"
-        tinyUrl="https://tinyurl.com/2s3wrfe5"
-        xPostUrl="https://x.com/C3Heditor/status/2066976391787094264"
-        imageSrc="https://images.ctcrazies.com/article-images/cZIkVhZosksEMrix.jpg"
-        tags={["Gavin Newsom", "Hunter Biden"]}
+        headline="Fraud Scandal Keeps Haunting Democrats as Minnesota&#x27;s Gov. Tim Walz&#x27;s Approval Sinks to a Record Lower Than Trump&#x27;s"
+        tinyUrl="https://tinyurl.com/5afsaaxr"
+        xPostUrl="https://x.com/C3Heditor/status/2068804896531398920"
+        imageSrc="https://images.ctcrazies.com/article-images/2026-06-21_161528.jpg"
+        tags={["Corruption-Fraud", "Minnesota", "Polling", "Tim Walz"]}
       />
       <ArticleBlock
-        headline="DOJ Will Challenge Virginia&#x27;s Democrat Spanberger In Court Over Her Obvious &#x27;Unconstitutional&#x27; Anti-ICE Laws"
-        tinyUrl="https://tinyurl.com/4uu9es7s"
-        xPostUrl="https://x.com/C3Heditor/status/2066975599344631887"
-        imageSrc="https://images.ctcrazies.com/article-images/EHZItodOGyeaxKKk.jpg"
-        tags={["2026 Elections", "Abigail Spanberger", "CBP-DHS-ICE", "Virginia"]}
+        headline="Gross Incompetence of Democrats JB Pritzker &amp; Brandon Johnson On Full Display as 6 Killed and 28 Wounded in Chicago Shootings"
+        tinyUrl="https://tinyurl.com/yd7kpzd8"
+        xPostUrl="https://x.com/C3Heditor/status/2068804339838124459"
+        imageSrc="https://images.ctcrazies.com/article-images/2026-06-21_161324.jpg"
+        tags={["Brandon Johnson", "Chicago", "JB Pritzker", "Violent Crime"]}
       />
       <ArticleBlock
-        headline="Texas Democrat Hopeful for U.S. Senate, James Talarico, Said Doctors Have a &#x27;Moral Obligation&#x27; to Treat Gender Dysphoria in Children"
-        tinyUrl="https://tinyurl.com/3t7psa64"
-        xPostUrl="https://x.com/C3Heditor/status/2066974461778125267"
-        imageSrc="https://images.ctcrazies.com/article-images/ObGCozbhfJJXjvBK.jpg"
-        tags={["2026 Elections", "James Talarico", "LGBTQ", "Texas"]}
+        headline="Washington D.C. Ravaged by Teen Crime Is About to Be Run by a Soft-On-Crime Democrat-Socialist Janeese Lewis George"
+        tinyUrl="https://tinyurl.com/2cbxnbek"
+        xPostUrl="https://x.com/C3Heditor/status/2068803636935676030"
+        imageSrc="https://images.ctcrazies.com/article-images/2026-06-21_161030.jpg"
+        tags={["Janeese Lewis George", "Violent Crime", "WashingtonDC"]}
       />
       <ArticleBlock
-        headline="Democrat-Muslim Mayor Zohran Mamdani Infuriates Congressional Hispanic Caucus With Endorsement of Darializa Avila Chevalier, a Black Radical-Left Candidate"
-        tinyUrl="https://tinyurl.com/ywaf6w2c"
-        xPostUrl="https://x.com/C3Heditor/status/2066973312052347107"
-        imageSrc="https://images.ctcrazies.com/article-images/RuTNgwppEysFvKny.jpg"
-        tags={["Darializa Avila Chevalier", "Left-Wing", "NYC", "Zohran Mamdani"]}
+        headline="Michigan&#x27;s Muslim Democrat Senate Candidate Abdul El-Sayed Makes Sick Joke About Trump Dying"
+        tinyUrl="https://tinyurl.com/3z5p6wz4"
+        xPostUrl="https://x.com/C3Heditor/status/2068802946721051089"
+        imageSrc="https://images.ctcrazies.com/article-images/2026-06-21_160826.jpg"
+        tags={["Abdul El-Sayed", "Islam-Muslims", "Michigan"]}
       />
       <ArticleBlock
-        headline="No Joke - These Democrat Freakshow Candidates Represent a Real Threat to the Nation"
-        tinyUrl="https://tinyurl.com/2xxk55fh"
-        xPostUrl="https://x.com/C3Heditor/status/2066972192911262140"
-        imageSrc="https://images.ctcrazies.com/article-images/oFmZcCRsgZDaQjXJ.jpg"
-        tags={["2026 Elections", "Left-Wing"]}
+        headline="Gargantuan Hypocrite Dem Ro Khanna Believes Female Accusers of Maine&#x27;s Democrat Senate Hopeful, Graham Platner, But Defends Him Anyway"
+        tinyUrl="https://tinyurl.com/yedjvsch"
+        xPostUrl="https://x.com/C3Heditor/status/2068802359619191005"
+        imageSrc="https://images.ctcrazies.com/article-images/2026-06-21_160529.jpg"
+        tags={["Graham Platner", "Ro Khanna", "Sexual Misconduct"]}
       />
       <ArticleBlock
-        headline="CNN Does Brutal Takedown of Democrats&#x27; California One-Party Rule Incompetence"
-        tinyUrl="https://tinyurl.com/42k3yrxx"
-        xPostUrl="https://x.com/C3Heditor/status/2066566439293603842"
-        imageSrc="https://images.ctcrazies.com/article-images/YpcPQxVMUHCHfElL.jpg"
-        tags={["California", "Fareed Zakaria", "Journalism-MediaBias"]}
+        headline="Even Texas Democrat Jasmine Crockett Thinks Dem James Talarico Is A Bad Choice for Black Voters"
+        tinyUrl="https://tinyurl.com/mrypb27b"
+        xPostUrl="https://x.com/C3Heditor/status/2068801724857376797"
+        imageSrc="https://images.ctcrazies.com/article-images/2026-06-21_160015.jpg"
+        tags={["James Talarico", "Jasmine Crockett", "Racial Issues", "Texas"]}
       />
       </div>
-      <Pagination currentPage={24} totalPages={77} />
+      <Pagination currentPage={24} totalPages={78} />
 
     </div>
   );

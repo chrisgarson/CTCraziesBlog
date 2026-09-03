@@ -722,3 +722,10 @@
 - [x] Inspect CTCInfoImages09012026.zip and validate the workbook, NUM sequence, source URLs, and image package without publishing
 - [x] Prepare an editable three-column tag-review proposal using exact workbook headlines and await the user's returned edits
 - [x] Transfer the user-approved tag plan, upload verified images to R2, and publish only after required validation
+
+## September 3 2026 Twenty-Article Batch
+- [x] Inspect CTCInfoImages09032026.zip and validate the workbook, NUM sequence, source URLs, and image package without publishing
+- [x] Normalize apostrophe variants in the non-publishing tag-review validator for a full-name person tag
+- [x] Prepare an editable three-column tag-review proposal using exact workbook headlines and await the user's returned edits
+- [ ] Transfer and validate the user-approved September 3 tag plan from the returned DOCX
+- [ ] Apply the approved tag plan, upload verified images to R2, and publish only after required validation
