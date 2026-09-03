@@ -20,3 +20,7 @@ The canonical R2 object was overwritten using the established authenticated R2 u
 ## Pre-publication verification
 
 The replacement object was retrieved from the public R2 domain at both the versioned and unversioned URL. Both responses had the expected JPEG content type, 744,187-byte length, and SHA-256 checksum. Focused replacement-guard tests, the canonical site publication gate, R2 image-reference regression test, TypeScript validation, and production build passed before deployment.
+
+## Live verification
+
+After the Cloudflare Pages deployment, the live Home page was checked. NUM 1560 remained the first article with the unchanged headline, source link, X-post link, and four approved tags. Its image reference includes the content-derived revision query, and the page rendered the corrected supplied image from the R2 public image domain.
