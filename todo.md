@@ -742,3 +742,6 @@
 - [x] Retain only Judiciary-Judicial and U.S. Constitution for user-corrected NUM 1574
 - [x] Add the specified Propaganda keyword to Gaslight-Lies and the specified Green Energy, Green Scam, Renewables, and Renewable Energy keywords to Energy Policy
 - [x] Apply the approved tag plan, upload verified images to R2, and publish only after required validation
+
+## NUM 1571 Headline Correction
+- [x] Change only the user-identified word “of” to “on” in NUM 1571’s headline, then validate and verify the live result
