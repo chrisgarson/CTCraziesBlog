@@ -71,7 +71,7 @@ export default function Home() {
         tags={["Angie Nixon", "Florida", "Communism-Socialism", "2026 Elections", "Alexandria Ocasio-Cortez"]}
       />
       <ArticleBlock
-        headline="Jocelyn Benson, Michigan Secretary of State &amp; Democrat Governor Candidate Fights SCOTUS to Keep Dems&#x27; Illegal Aliens of Her Voter Rolls"
+        headline="Jocelyn Benson, Michigan Secretary of State &amp; Democrat Governor Candidate Fights SCOTUS to Keep Dems&#x27; Illegal Aliens on Her Voter Rolls"
         tinyUrl="https://www.thegatewaypundit.com/2026/09/breaking-michigan-sec-state-replies-justice-kavanaugh-gives/"
         xPostUrl="https://x.com/C3Heditor/status/2096233122937356312"
         imageSrc="https://images.ctcrazies.com/article-images/2026-09-05_084539.jpg"
