@@ -732,3 +732,13 @@
 
 ## NUM 1560 Corrected Image Replacement
 - [x] Replace only NUM 1560's R2 image with the corrected user-supplied `2026-09-03_145510.jpg` file and verify the live Home-page result
+
+## September 5 2026 Twenty-Article Batch
+- [x] Inspect CTCInfoImages09052026.zip and validate the workbook, NUM sequence, source URLs, and image package without publishing
+- [x] Correct the user-approved local doubled filename extension for NUM 1574 to match the workbook image name, then revalidate the input package
+- [x] Prepare an editable three-column tag-review proposal using exact workbook headlines and await the user's returned edits
+- [x] Apply the exact user-supplied NUM 1576 and NUM 1567 headline corrections to the final September 5 batch only
+- [x] Transfer and validate the user-approved September 5 tag plan from the returned DOCX
+- [x] Retain only Judiciary-Judicial and U.S. Constitution for user-corrected NUM 1574
+- [x] Add the specified Propaganda keyword to Gaslight-Lies and the specified Green Energy, Green Scam, Renewables, and Renewable Energy keywords to Energy Policy
+- [ ] Apply the approved tag plan, upload verified images to R2, and publish only after required validation

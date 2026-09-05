@@ -1,0 +1,19 @@
+{
+  "status": "user-approved-2026-09-05",
+  "typeChanges": [],
+  "keywordReplacements": [],
+  "keywordAdditions": [
+    {
+      "tag": "Gaslight-Lies",
+      "type": "topic",
+      "keywords": ["Propaganda"]
+    },
+    {
+      "tag": "Energy Policy",
+      "type": "topic",
+      "keywords": ["Green Energy", "Green Scam", "Renewables", "Renewable Energy"]
+    }
+  ],
+  "renames": [],
+  "merges": []
+}

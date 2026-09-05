@@ -1,0 +1,39 @@
+{
+  "batchDate": "2026-09-05",
+  "status": "approved-from-DoneEditedSeptember_5_2026_Twenty-Article_Batch_Tag_Review.docx-with-user-confirmed-num-1574-deduplication",
+  "proposedNewPersonTags": [
+    "Emily Gallagher",
+    "Jamie Ager",
+    "JD Vance"
+  ],
+  "proposedNewTopicTagsRequiringApproval": [],
+  "allowFiveTagNums": [
+    1572,
+    1570,
+    1569,
+    1564
+  ],
+  "allowSixTagNums": [],
+  "tags": {
+    "1580": ["James Talarico", "Communism-Socialism", "Crime"],
+    "1579": ["Abdul El-Sayed", "Michigan", "Islam-Muslims", "Terrorism"],
+    "1578": ["Journalism-MediaBias", "Islam-Muslims", "Communism-Socialism"],
+    "1577": ["Zohran Mamdani", "NYC", "Communism-Socialism", "Gaslight-Lies"],
+    "1576": ["Zohran Mamdani", "NYC", "Violent Crime"],
+    "1575": ["Emily Gallagher", "NYC", "Crime", "Communism-Socialism"],
+    "1574": ["Judiciary-Judicial", "U.S. Constitution"],
+    "1573": ["Immigration", "Election Fraud", "Left-Wing"],
+    "1572": ["Angie Nixon", "Florida", "Communism-Socialism", "2026 Elections", "Alexandria Ocasio-Cortez"],
+    "1571": ["Jocelyn Benson", "Michigan", "Election Fraud", "Judiciary-Judicial"],
+    "1570": ["New York", "Immigration", "CBP-DHS-ICE", "Judiciary-Judicial", "Violent Crime"],
+    "1569": ["Jamie Ager", "North Carolina", "Communism-Socialism", "Energy Policy", "Bernie Sanders"],
+    "1568": ["Affordability", "LGBTQ", "2026 Elections", "Impeachment"],
+    "1567": ["Connecticut", "Immigration", "Law Enforcement", "CBP-DHS-ICE"],
+    "1566": ["Nevada", "Election Fraud", "2026 Elections", "Left-Wing"],
+    "1565": ["Government", "Left-Wing", "Economic Policy"],
+    "1564": ["Angie Nixon", "Florida", "Hypocrisy", "Taxation", "Communism-Socialism"],
+    "1563": ["JD Vance", "Abdul El-Sayed", "Racial Issues", "Islam-Muslims"],
+    "1562": ["Hate-Violence", "Left-Wing"],
+    "1561": ["James Talarico", "Texas", "2nd Amendment", "Communism-Socialism"]
+  }
+}
