@@ -1,0 +1,43 @@
+{
+  "batchDate": "2026-09-09",
+  "status": "user-approved-from-2026-09-09-tag-review-docx",
+  "approvedNewPersonTags": [
+    "Jane Fonda",
+    "Jelly Roll",
+    "George Clooney",
+    "Dolly Parton",
+    "Yassamin Ansari",
+    "Madeleine Dean",
+    "Colin Kaepernick"
+  ],
+  "approvedNewTopicTags": [
+    "Hollywood",
+    "Mexico"
+  ],
+  "allowFiveTagNums": [
+    1581
+  ],
+  "allowSixTagNums": [],
+  "tags": {
+    "1600": ["Jon Ossoff", "James Talarico", "Hypocrisy", "Hollywood"],
+    "1599": ["Whoopi Goldberg", "Hollywood", "Gaslight-Lies"],
+    "1598": ["Jane Fonda", "California", "Housing", "Economic Policy"],
+    "1597": ["Jelly Roll", "Hollywood"],
+    "1596": ["George Clooney", "Hollywood"],
+    "1595": ["Abdul El-Sayed", "Dolly Parton", "Hypocrisy", "Islam-Muslims"],
+    "1594": ["Gretchen Whitmer", "Michigan", "Incompetence", "Education Policy"],
+    "1593": ["Abigail Spanberger", "Virginia", "CBP-DHS-ICE", "Judiciary-Judicial"],
+    "1592": ["Hasan Piker", "Alexandria Ocasio-Cortez", "Communism-Socialism"],
+    "1591": ["Hallie Shoffner", "Arkansas", "Hate-Violence"],
+    "1590": ["JB Pritzker", "Hypocrisy", "Left-Wing", "Communism-Socialism"],
+    "1589": ["Yassamin Ansari", "Trump-Derangement", "2026 Elections", "Left-Wing"],
+    "1588": ["Madeleine Dean", "Trump-Derangement", "2026 Elections", "Left-Wing"],
+    "1587": ["Colin Kaepernick", "Culture War"],
+    "1586": ["Gavin Newsom", "California", "Racial Issues", "Government"],
+    "1585": ["Reparations", "Racial Issues", "Government"],
+    "1584": ["JB Pritzker", "Illinois", "Culture War"],
+    "1583": ["Xavier Becerra", "California", "Immigration", "Mexico"],
+    "1582": ["Abdul El-Sayed", "Michigan", "LGBTQ", "Culture War"],
+    "1581": ["James Talarico", "Jon Ossoff", "Hypocrisy", "Communism-Socialism", "Epstein"]
+  }
+}
