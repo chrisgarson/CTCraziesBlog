@@ -134,7 +134,7 @@ export default function Home() {
         tags={["Xavier Becerra", "California", "Immigration", "Mexico"]}
       />
       <ArticleBlock
-        headline="Michigan&#x27;s Democrat-Socialist Claims Male Infant Circumcision Is the Same as Transgender Mutilations Like Breast Removal &amp; Removal of the Vaginal Canal"
+        headline="Michigan&#x27;s Democrat-Socialist, Abdul El-Sayed, Claims That Transgender Mutilations Such as Breast Removal or Removal of the Vaginal Canal Are the Same as Male Infant Circumcision"
         tinyUrl="https://www.thegatewaypundit.com/2026/08/sick-radical-michigan-senate-candidate-abdul-el-sayed/"
         xPostUrl="https://x.com/C3Heditor/status/2097786976887833029"
         imageSrc="https://images.ctcrazies.com/article-images/2026-09-09_153957.jpg"
