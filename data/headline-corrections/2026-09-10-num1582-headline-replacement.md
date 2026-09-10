@@ -11,3 +11,7 @@ The correction was applied only to NUM 1582 through its immutable X-post URL. Th
 ## Pre-publication validation
 
 The canonical publication gate, Python regression suite, Vitest regression suite, TypeScript check, and production build passed after the correction.
+
+## Live verification
+
+After the Cloudflare Pages deployment, the live `https://www.ctcrazies.com/tag/Abdul%20El-Sayed` route was checked. NUM 1582 displays the exact authorized corrected headline and retains its `Page 1` destination, September 9, 2026 batch date, R2 image, and four approved tags.

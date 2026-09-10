@@ -751,3 +751,6 @@
 - [x] Prepare an editable three-column tag-review proposal using exact workbook headlines and await the user's returned edits
 - [x] Transfer and validate the user-approved September 9 tag plan
 - [x] Apply the approved tag plan, upload verified images to R2, and publish only after required validation
+
+## NUM 1582 Headline Correction
+- [x] Replace only NUM 1582's headline with the user-supplied exact text, then validate and verify the live result
