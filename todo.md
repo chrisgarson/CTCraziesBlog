@@ -745,3 +745,9 @@
 
 ## NUM 1571 Headline Correction
 - [x] Change only the user-identified word “of” to “on” in NUM 1571’s headline, then validate and verify the live result
+
+## September 9 2026 Twenty-Article Batch
+- [x] Inspect CTCInfo09092026.zip and validate the workbook, NUM sequence, source URLs, and image package without publishing
+- [x] Prepare an editable three-column tag-review proposal using exact workbook headlines and await the user's returned edits
+- [x] Transfer and validate the user-approved September 9 tag plan
+- [x] Apply the approved tag plan, upload verified images to R2, and publish only after required validation
