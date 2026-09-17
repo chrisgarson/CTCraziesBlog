@@ -22,7 +22,7 @@ export default function Home() {
         tags={["Abdul El-Sayed", "Michigan", "Soft-On-Crime", "Racial Issues"]}
       />
       <ArticleBlock
-        headline="Sacred 9/11 Ceremony is Denigrated by Giggling Democrat-Socialists, NYC Mayor Mamdan &amp; Rep. AOC"
+        headline="Sacred 9/11 Ceremony is Denigrated by Giggling Democrat-Socialists, NYC Mayor Mamdani &amp; Rep. AOC"
         tinyUrl="https://www.foxnews.com/politics/trump-unloads-aoc-mamdani-laughing-during-sacred-9-11-ceremony-ground-zero"
         xPostUrl="https://x.com/C3Heditor/status/2100584394821906447"
         imageSrc="https://images.ctcrazies.com/article-images/2026-09-17_085552.jpg"
