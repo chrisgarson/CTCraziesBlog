@@ -15,3 +15,9 @@ The source URL, X-post URL, R2 image object (`2026-09-17_085552.jpg`), four appr
 ## Publication controls
 
 The canonical publication gate, Python regression suite, Vitest regression suite, TypeScript check, production build, and live verification are required before publication. No image upload or tag change is part of this correction.
+
+All required controls passed. The correction was committed to GitHub `main` in commit `699db06a6b0be77b21b3d4907109ac616dd0bfac`; the fully synchronized generated page-source set was then committed in `46f7eb5b1963cc89378a202f041f5ec68c31df0a`. The corrected build was deployed successfully to Cloudflare Pages at `https://44cd8634.ctcrazies.pages.dev`.
+
+## Live verification
+
+The production Home page was checked after deployment. NUM 1618 displays the exact authorized `Mamdani` spelling, retains the four approved tags, and renders the existing R2 image. No source URL, X-post URL, R2 object, tag, order, or page assignment was changed.
