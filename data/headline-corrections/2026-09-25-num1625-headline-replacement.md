@@ -17,3 +17,9 @@ The final NUM 1625 record preserves its NUM, source URL, X-post URL, R2 image na
 ## Pre-publication validation
 
 The user-authoritative review document passed NUM-order, tag-duplicate, tag-inventory, and headline-scope checks. The final tagged batch then passed the safeguarded workbook validation using the controlled corrected-workbook copy. The valid batch contains 20 articles (NUMs 1621–1640) and will produce 1,640 articles across 82 pages after application.
+
+## Live verification
+
+The corrected batch was committed to GitHub `main` in commit `0a475cfb8079b987e92f0ade50fbcb6b7315d4f5` and deployed successfully to Cloudflare Pages at `https://3fb4797f.ctcrazies.pages.dev`.
+
+The live `U.S. Constitution` tag route was checked after deployment. NUM 1625 displays the exact authorized corrected headline, continues to link to its original source and X-post URLs, retains its three approved tags and Page 1 placement, and renders its R2 image.
