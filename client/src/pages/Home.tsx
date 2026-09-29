@@ -43,7 +43,7 @@ export default function Home() {
         tags={["Hallie Shoffner", "Arkansas", "Immigration", "2026 Elections"]}
       />
       <ArticleBlock
-        headline="Why Are Democrats Are Furious &amp; Worried? DHS Probes 300K Voter Fraud Cases Involving Fake Voter Rolls"
+        headline="Why Are Democrats Furious &amp; Worried? DHS Probes 300K Voter Fraud Cases Involving Fake Voter Rolls"
         tinyUrl="https://www.thegatewaypundit.com/2026/09/no-wonder-dem-dont-want-give-voter-rolls/"
         xPostUrl="https://x.com/C3Heditor/status/2105030046545248446"
         imageSrc="https://images.ctcrazies.com/article-images/2026-09-29_152127.jpg"
