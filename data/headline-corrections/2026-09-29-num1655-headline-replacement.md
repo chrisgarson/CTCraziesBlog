@@ -21,4 +21,10 @@ The canonical ledger correction used the article’s immutable X-post URL and ma
 
 ## Pre-publication validation
 
-Pending publication gates, build, deployment, and live verification.
+The safeguarded site verifier, 26 Python unit tests, 7 Vitest files / 10 tests, TypeScript check, and production build all passed. The correction was committed to GitHub `main` in commit `d3cba7404c8fe7c5fafabbe413cf6f19723c25a3`.
+
+## Live verification
+
+The validated build was deployed successfully to Cloudflare Pages at `https://7d157869.ctcrazies.pages.dev`.
+
+The live Home page displays the exact authorized NUM 1655 headline. The article remains on Page 1, retains its original source and X-post links, its three approved tags, and its canonical R2 image at `https://images.ctcrazies.com/article-images/2026-09-29_152127.jpg`.
