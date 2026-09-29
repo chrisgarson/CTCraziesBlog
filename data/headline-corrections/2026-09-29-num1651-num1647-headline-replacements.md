@@ -26,4 +26,6 @@ The final 20-article batch (NUMs 1641–1660) passed safeguarded validation usin
 
 ## Live verification
 
-Pending deployment and live verification.
+The batch was committed to GitHub `main` in commit `0888d3f2dd8e480af491b71045397b971f3b47f0` and deployed successfully to Cloudflare Pages at `https://d9fe495b.ctcrazies.pages.dev`.
+
+The live Home page displays the exact authorized NUM 1651 replacement with its original source/X links, approved tags, Page 1 association, and R2 image. The live `Impeachment` tag route displays the exact authorized NUM 1647 replacement—including the curly quotation marks around `Stop-Trump`—with its original source/X links, approved tags, Page 1 association, and R2 image.
