@@ -1,0 +1,145 @@
+{
+  "batchDate": "2026-10-03",
+  "status": "user-approved-from-EditedOctober_3_2026_Twenty-Article_Batch_Tag_Review.docx-with-authorized-Trump-non-tag-removal",
+  "proposedNewPersonTags": [],
+  "proposedNewTopicTagsRequiringApproval": [],
+  "allowFiveTagNums": [
+    1680,
+    1678,
+    1673,
+    1664,
+    1661
+  ],
+  "allowSixTagNums": [],
+  "authorizedIgnoredNonTagEntries": {
+    "Trump": [
+      1674,
+      1669
+    ]
+  },
+  "tags": {
+    "1680": [
+      "James Talarico",
+      "Texas",
+      "LGBTQ",
+      "Culture War",
+      "2026 Elections"
+    ],
+    "1679": [
+      "Abdul El-Sayed",
+      "Michigan",
+      "Immigration",
+      "Communism-Socialism"
+    ],
+    "1678": [
+      "Brandon Johnson",
+      "Chicago",
+      "Soft-On-Crime",
+      "Incompetence",
+      "Communism-Socialism"
+    ],
+    "1677": [
+      "Judiciary-Judicial",
+      "Immigration",
+      "Election Fraud",
+      "U.S. Constitution"
+    ],
+    "1676": [
+      "David Crowley",
+      "Wisconsin",
+      "Affordability",
+      "Taxation"
+    ],
+    "1675": [
+      "Letitia James",
+      "Kathy Hochul",
+      "New York",
+      "Judiciary-Judicial"
+    ],
+    "1674": [
+      "Don Lemon",
+      "Journalism-MediaBias",
+      "Politics"
+    ],
+    "1673": [
+      "Zohran Mamdani",
+      "NYC",
+      "Taxation",
+      "Judiciary-Judicial",
+      "Incompetence"
+    ],
+    "1672": [
+      "Abigail Spanberger",
+      "Virginia",
+      "Soft-On-Crime",
+      "Violent Crime"
+    ],
+    "1671": [
+      "James Talarico",
+      "Texas",
+      "Culture War",
+      "Education Policy"
+    ],
+    "1670": [
+      "Abdul El-Sayed",
+      "Michigan",
+      "Corruption-Fraud",
+      "Government"
+    ],
+    "1669": [
+      "Gavin Newsom",
+      "California",
+      "Hollywood",
+      "Business Climate"
+    ],
+    "1668": [
+      "Corruption-Fraud",
+      "Hypocrisy",
+      "U.S. Congress",
+      "Ethics-Morals"
+    ],
+    "1667": [
+      "Affordability",
+      "Economic Policy",
+      "2026 Elections",
+      "Polling"
+    ],
+    "1666": [
+      "Economic Policy",
+      "Government",
+      "2026 Elections",
+      "Affordability"
+    ],
+    "1665": [
+      "Culture War",
+      "Left-Wing",
+      "Polling"
+    ],
+    "1664": [
+      "Manny Rutinel",
+      "Colorado",
+      "Hypocrisy",
+      "2026 Elections",
+      "Left-Wing"
+    ],
+    "1663": [
+      "Jocelyn Benson",
+      "Michigan",
+      "Gaslight-Lies",
+      "Journalism-MediaBias"
+    ],
+    "1662": [
+      "Abdul El-Sayed",
+      "Michigan",
+      "George Soros",
+      "2026 Elections"
+    ],
+    "1661": [
+      "James Talarico",
+      "Hasan Piker",
+      "Texas",
+      "Left-Wing",
+      "Communism-Socialism"
+    ]
+  }
+}
