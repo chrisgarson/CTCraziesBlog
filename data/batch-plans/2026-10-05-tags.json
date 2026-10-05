@@ -1,0 +1,155 @@
+{
+  "batchDate": "2026-10-05",
+  "status": "user-approved-from-EditDoneOctober_5_2026_Twenty-Article_Batch_Tag_Review.docx-with-authorized-num-1700-tag-separator-normalization",
+  "proposedNewPersonTags": [
+    "Tanya Chutkan"
+  ],
+  "proposedNewTopicTagsRequiringApproval": [
+    "Transparency"
+  ],
+  "declinedProposedPersonTags": [
+    "Michael Jordan",
+    "John H. Johnson",
+    "Charles Barkley"
+  ],
+  "allowFiveTagNums": [
+    1700,
+    1693,
+    1691,
+    1686,
+    1684,
+    1682
+  ],
+  "allowSixTagNums": [],
+  "authorizedTagTextNormalizations": {
+    "1700": {
+      "Communism-Socialism. 2026 Elections": "Communism-Socialism, 2026 Elections"
+    }
+  },
+  "tags": {
+    "1700": [
+      "Abdul El-Sayed",
+      "Michigan",
+      "Racial Issues",
+      "Communism-Socialism",
+      "2026 Elections"
+    ],
+    "1699": [
+      "James Talarico",
+      "Texas",
+      "Communism-Socialism",
+      "2026 Elections"
+    ],
+    "1698": [
+      "Politics",
+      "Left-Wing"
+    ],
+    "1697": [
+      "Iran",
+      "Terrorism",
+      "Foreign Policy",
+      "2026 Elections"
+    ],
+    "1696": [
+      "Mark Kelly",
+      "Arizona",
+      "Affordability",
+      "Taxation"
+    ],
+    "1695": [
+      "Energy Policy",
+      "Affordability",
+      "Hypocrisy",
+      "Foreign Policy"
+    ],
+    "1694": [
+      "Ruben Gallego",
+      "Arizona",
+      "DOJ",
+      "Corruption-Fraud"
+    ],
+    "1693": [
+      "JoAnna Mendoza",
+      "Arizona",
+      "Gaslight-Lies",
+      "Law Enforcement",
+      "2026 Elections"
+    ],
+    "1692": [
+      "Abdul El-Sayed",
+      "Michigan",
+      "Communism-Socialism",
+      "2026 Elections"
+    ],
+    "1691": [
+      "James Talarico",
+      "Texas",
+      "Christianity",
+      "Politics",
+      "2026 Elections"
+    ],
+    "1690": [
+      "Xavier Becerra",
+      "California",
+      "Gaslight-Lies",
+      "2026 Elections"
+    ],
+    "1689": [
+      "Xavier Becerra",
+      "California",
+      "Incompetence",
+      "2026 Elections"
+    ],
+    "1688": [
+      "Tanya Chutkan",
+      "Judiciary-Judicial",
+      "Government",
+      "Transparency"
+    ],
+    "1687": [
+      "Josh Turek",
+      "Iowa",
+      "Epstein",
+      "Corruption-Fraud"
+    ],
+    "1686": [
+      "Gavin Newsom",
+      "California",
+      "Transportation Policy",
+      "Government",
+      "Transparency"
+    ],
+    "1685": [
+      "James Talarico",
+      "Bobby Pulido",
+      "Texas",
+      "Epstein"
+    ],
+    "1684": [
+      "Fareed Zakaria",
+      "Homeless",
+      "Blue States",
+      "Journalism-MediaBias",
+      "Left-Wing"
+    ],
+    "1683": [
+      "Joe Biden",
+      "Michigan",
+      "Corruption-Fraud",
+      "Left-Wing"
+    ],
+    "1682": [
+      "James Talarico",
+      "Texas",
+      "LGBTQ",
+      "Gaslight-Lies",
+      "2026 Elections"
+    ],
+    "1681": [
+      "Abdul El-Sayed",
+      "Michigan",
+      "Gaslight-Lies",
+      "2026 Elections"
+    ]
+  }
+}
