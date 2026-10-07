@@ -110,7 +110,7 @@ export default function Page55() {
         tinyUrl="https://tinyurl.com/4zaw5vr8"
         xPostUrl="https://x.com/C3Heditor/status/2045509855801184538"
         imageSrc="https://images.ctcrazies.com/article-images/dpPobqEUoyKgICsH.jpg"
-        tags={["Eric Swalwell", "Joe Biden", "Journalism-MediaBias", "Politics"]}
+        tags={["Eric Swalwell", "Journalism-MediaBias", "Politics"]}
       />
       <ArticleBlock
         headline="Journalist Reports Eric Swalwell&#x27;s Misconduct &#x27;Was Known&#x27; to Democrats"

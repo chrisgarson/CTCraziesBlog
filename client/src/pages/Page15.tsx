@@ -68,7 +68,7 @@ export default function Page15() {
         tinyUrl="https://justthenews.com/government/courts-law/federal-appeals-court-strikes-down-biden-administration-gas-stove-rule"
         xPostUrl="https://x.com/C3Heditor/status/2088001487351709726"
         imageSrc="https://images.ctcrazies.com/article-images/2026-08-13_153551.jpg"
-        tags={["Joe Biden", "Judiciary-Judicial", "Government"]}
+        tags={["Biden Administration", "Judiciary-Judicial", "Government"]}
       />
       <ArticleBlock
         headline="Voters in Virginia Turn Against &quot;Moderate&quot; Democrat Gov. Abigail Spanberger&#x27;s Left-Wing Anti-Gun &amp;  Anti-Affordability Taxes"

@@ -96,7 +96,7 @@ export default function Page9() {
         tinyUrl="https://www.breitbart.com/politics/2026/09/02/dhs-haitian-illegal-alien-accused-of-murdering-florida-woman-was-released-into-u-s-by-biden-administration/"
         xPostUrl="https://x.com/C3Heditor/status/2095500083596829125"
         imageSrc="https://images.ctcrazies.com/article-images/2026-09-03_081245.jpg"
-        tags={["Joe Biden", "Immigration", "CBP-DHS-ICE", "Violent Crime"]}
+        tags={["Biden Administration", "Immigration", "CBP-DHS-ICE", "Violent Crime"]}
       />
       <ArticleBlock
         headline="Democrat New York Governor Kathy Hochul Sued by 15 County Sheriffs Over Her New Sanctuary Pro-Violent Illegals, Anti-ICE Law"

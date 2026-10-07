@@ -40,7 +40,7 @@ export default function Page47() {
         tinyUrl="https://tinyurl.com/h3wynuay"
         xPostUrl="https://x.com/C3Heditor/status/2052011180839878791"
         imageSrc="https://images.ctcrazies.com/article-images/EqxFknIgSdsrDQtn.jpg"
-        tags={["Joe Biden", "Racial Issues", "SPLC"]}
+        tags={["Racial Issues", "SPLC", "Journalism-MediaBias"]}
       />
       <ArticleBlock
         headline="Democrat Blue States Are In Big Trouble Due To Feds Medicaid Fraud Audits"

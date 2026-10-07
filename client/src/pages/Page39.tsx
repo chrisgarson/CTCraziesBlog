@@ -131,7 +131,7 @@ export default function Page39() {
         tinyUrl="https://tinyurl.com/ycxkuhvr"
         xPostUrl="https://x.com/C3Heditor/status/2060755090877690182"
         imageSrc="https://images.ctcrazies.com/article-images/2026-05-30_110833_45351329.jpg"
-        tags={["Biden Administration", "Joe Biden", "Journalism-MediaBias"]}
+        tags={["Joe Biden", "Journalism-MediaBias"]}
       />
       <ArticleBlock
         headline="Democrats Fear It will Become Common Knowledge for Donors Outside of Texas That Candidate James Talarico Is Considered One Creepy Weirdo by Texans"

@@ -96,7 +96,7 @@ export default function Page12() {
         tinyUrl="https://pjmedia.com/catherinesalgado/2026/08/18/judge-deems-biden-ghost-gun-ban-unconstitutional-n4956279"
         xPostUrl="https://x.com/C3Heditor/status/2090174760181186652"
         imageSrc="https://images.ctcrazies.com/article-images/2026-08-19_153150.jpg"
-        tags={["Joe Biden", "2nd Amendment", "U.S. Constitution", "Judiciary-Judicial"]}
+        tags={["Biden Administration", "2nd Amendment", "U.S. Constitution", "Judiciary-Judicial"]}
       />
       <ArticleBlock
         headline="Texas Democrat Representatives Press South Texas Cities to Cut Their Support of ICE&#x27;s Legal Mandate to Arrest Illegal Aliens"

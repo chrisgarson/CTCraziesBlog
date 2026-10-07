@@ -54,7 +54,7 @@ export default function Page72() {
         tinyUrl="https://tinyurl.com/4vn2dv77"
         xPostUrl="https://x.com/C3Heditor/status/2036442651009098075"
         imageSrc="https://images.ctcrazies.com/article-images/post294_clean_87fb7372.jpg"
-        tags={["January 6 Protest", "Jennifer Welch", "Joe Biden"]}
+        tags={["January 6 Protest", "Jennifer Welch", "Biden Administration"]}
       />
       <ArticleBlock
         headline="Democrats Defunded TSA Workers — Now ICE Agents Are In The Airports Instead - Enjoy the Irony"

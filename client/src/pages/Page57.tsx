@@ -96,7 +96,7 @@ export default function Page57() {
         tinyUrl="https://tinyurl.com/ytku49ad"
         xPostUrl="https://x.com/C3Heditor/status/2044778039536419278"
         imageSrc="https://images.ctcrazies.com/article-images/2026-04-16_090129_08aff67f.jpg"
-        tags={["Censorship", "Joe Biden", "Racial Issues"]}
+        tags={["Joe Biden", "Racial Issues"]}
       />
       <ArticleBlock
         headline="Democrats Do Virtue-Signaling: Chicago Names Playground For Armed Gunman Killed In Justified Shooting"

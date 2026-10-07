@@ -131,7 +131,7 @@ export default function Page71() {
         tinyUrl="https://tinyurl.com/ms6h2m83"
         xPostUrl="https://x.com/C3Heditor/status/2036562963298181373"
         imageSrc="https://images.ctcrazies.com/article-images/2026-03-24_165803_2056e54d.jpg"
-        tags={["Immigration", "JB Pritzker", "Joe Biden", "Violent Crime"]}
+        tags={["Immigration", "JB Pritzker", "Biden Administration", "Violent Crime"]}
       />
       <ArticleBlock
         headline="Taxpayer Funds of $400M for Democrats&#x27; NYC &#x27;Ghost&#x27; Schools That Were Never Opened"

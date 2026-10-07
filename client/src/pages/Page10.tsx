@@ -33,7 +33,7 @@ export default function Page10() {
         tinyUrl="https://amac.us/newsline/fbi-targeted-catholic-priests-and-kept-going-after-memo-was-ordered-deleted"
         xPostUrl="https://x.com/C3Heditor/status/2094763473167159721"
         imageSrc="https://images.ctcrazies.com/article-images/2026-09-01_072551.jpg"
-        tags={["Joe Biden", "Weaponization", "Law Enforcement", "Culture War"]}
+        tags={["Biden Administration", "Weaponization", "Law Enforcement", "Culture War"]}
       />
       <ArticleBlock
         headline="In Democrat-Controlled California, Any Tom, Dick or Rivera Can Vote: Feds Arrest a Honduran on Voter Fraud Charges"

@@ -96,7 +96,7 @@ export default function Page37() {
         tinyUrl="https://tinyurl.com/bdf98yrp"
         xPostUrl="https://x.com/C3Heditor/status/2062277276826263778"
         imageSrc="https://images.ctcrazies.com/article-images/2026-06-03_155727_7aafb6dd.jpg"
-        tags={["Biden Administration", "Joe Biden", "Politics"]}
+        tags={["Biden Administration", "Politics"]}
       />
       <ArticleBlock
         headline="Sheriffs &amp; Prosecutors Push Back Hard Against Democrat VA &amp; MD Governors’ Far-Left Gun Policy Agenda"
