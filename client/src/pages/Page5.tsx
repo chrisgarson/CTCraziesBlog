@@ -8,147 +8,147 @@ export default function Page5() {
       <PageHeader />
       <div className="space-y-12">
       <ArticleBlock
-        headline="Democrat-Socialist James Talarico Does Alfred E. Newman Impersonation: What, Me Lie?"
-        tinyUrl="https://newsopine.com/2026/09/10/what-me-lie-james-talarico-does-alfred-e-newman-impersonation/"
-        xPostUrl="https://x.com/C3Heditor/status/2098147923066540121"
-        imageSrc="https://images.ctcrazies.com/article-images/2026-09-17_090104.jpg"
-        tags={["James Talarico", "Gaslight-Lies", "Texas"]}
+        headline="Texas Democrat-Socialist, James Talarico, Has a Favorite Drag Queen, Who Happens To Really, Really Like Children"
+        tinyUrl="https://www.breitbart.com/politics/2026/09/16/nolte-james-talaricos-favorite-drag-queen-really-really-likes-kids/"
+        xPostUrl="https://x.com/C3Heditor/status/2103584444242444425"
+        imageSrc="https://images.ctcrazies.com/article-images/2026-09-25_153700.jpg"
+        tags={["James Talarico", "LGBTQ", "Texas", "Culture War"]}
       />
       <ArticleBlock
-        headline="Michigan&#x27;s Muslim-Democrat-Marxist, Abdul El-Sayed, Demanded Mass Release of Prisoners &amp; the Scrapping of Cash Bail Because of ‘Racism’"
-        tinyUrl="https://freebeacon.com/democrats/el-sayed-demanded-mass-release-of-prisoners-de-jailing-and-scrapping-cash-bail-because-of-racism-democrat-claims-us-is-a-carceral-state/"
-        xPostUrl="https://x.com/C3Heditor/status/2100585077931458727"
-        imageSrc="https://images.ctcrazies.com/article-images/2026-09-17_085855.jpg"
-        tags={["Abdul El-Sayed", "Michigan", "Soft-On-Crime", "Racial Issues"]}
+        headline="Michigan Muslim-Democrat Senate Candidate, Abdul El-Sayed, Refuses To Return Donations From Groups Directly Linked to Islamic Terrorism"
+        tinyUrl="https://thenationalpulse.com/2026/09/16/abdul-el-sayed-refuses-to-return-donations-from-groups-linked-to-terrorism/"
+        xPostUrl="https://x.com/C3Heditor/status/2103583599459238380"
+        imageSrc="https://images.ctcrazies.com/article-images/2026-09-25_153539.jpg"
+        tags={["Abdul El-Sayed", "Michigan", "Islam-Muslims", "Terrorism"]}
       />
       <ArticleBlock
-        headline="Sacred 9/11 Ceremony is Denigrated by Giggling Democrat-Socialists, NYC Mayor Mamdani &amp; Rep. AOC"
-        tinyUrl="https://www.foxnews.com/politics/trump-unloads-aoc-mamdani-laughing-during-sacred-9-11-ceremony-ground-zero"
-        xPostUrl="https://x.com/C3Heditor/status/2100584394821906447"
-        imageSrc="https://images.ctcrazies.com/article-images/2026-09-17_085552.jpg"
-        tags={["Zohran Mamdani", "Alexandria Ocasio-Cortez", "NYC", "Communism-Socialism"]}
+        headline="NYC&#x27;s Democrat-Marxist Mayor, Zohran Mamdani, Sues Trump Over Policy of Not Handing Out Taxpayer Welfare Dollars to Illegal Aliens"
+        tinyUrl="https://thenationalpulse.com/2026/09/14/mamdani-letitia-james-sue-trump-over-immigrant-welfare-ban/"
+        xPostUrl="https://x.com/C3Heditor/status/2103583599459238380"
+        imageSrc="https://images.ctcrazies.com/article-images/2026-09-25_153336.jpg"
+        tags={["Zohran Mamdani", "NYC", "Immigration", "Communism-Socialism"]}
       />
       <ArticleBlock
-        headline="The Anti-American Democrats Say America Deserved 9/11"
-        tinyUrl="https://townhall.com/news/amy-curtis/2026/09/10/democrats-say-america-deserved-911-they-refuse-to-condemn-n2682643"
-        xPostUrl="https://x.com/C3Heditor/status/2100583350284997110"
-        imageSrc="https://images.ctcrazies.com/article-images/2026-09-17_085200.jpg"
-        tags={["Left-Wing", "Patriotism"]}
+        headline="Revenge Not Affordability Is The Priority For Democrats - Crazy Dem Al Green Gets 145+ Democrats To Vote For Trump&#x27;s 3rd Impeachement"
+        tinyUrl="https://www.breitbart.com/politics/2026/09/15/house-kills-al-green-resolution-to-impeach-trump-147-democrats-vote-to-keep-it-alive/"
+        xPostUrl="https://x.com/C3Heditor/status/2103583201172357481"
+        imageSrc="https://images.ctcrazies.com/article-images/2026-09-25_153211.jpg"
+        tags={["Al Green", "Impeachment", "2026 Elections", "Affordability"]}
       />
       <ArticleBlock
-        headline="A Loyal Voting &#x27;Lifelong Democrat&#x27; Now Is ‘Ashamed’ of Party After Son Killed by Illegal Immigrant"
-        tinyUrl="https://www.foxnews.com/politics/lifelong-democrat-admits-ashamed-party-after-son-killed-illegal-immigrant-crash"
-        xPostUrl="https://x.com/C3Heditor/status/2100582232758845635"
-        imageSrc="https://images.ctcrazies.com/article-images/2026-09-17_084737.jpg"
-        tags={["Immigration", "Left-Wing"]}
+        headline="U.S. Senate Democrats Don&#x27;t Care One Iota About Protecting Female Athletes From Transgender Male Athletes"
+        tinyUrl="https://thedailybs.com/2026/09/24/protection-of-womens-sports-senate-hearing-skipped-by-democrats/"
+        xPostUrl="https://x.com/C3Heditor/status/2103582535511154731"
+        imageSrc="https://images.ctcrazies.com/article-images/2026-09-25_153026.jpg"
+        tags={["LGBTQ", "Culture War", "Left-Wing"]}
       />
       <ArticleBlock
-        headline="California Democrat Governor Gavin Newsom Supports &#x27;Socialists&#x27; Agenda&#x27; Because It Is Now &#x27;Mainstream&#x27; Among Democrats"
-        tinyUrl="https://slaynews.com/newsom-admits-socialists-agenda-mainstream-among-democrats-pretty-aligned/"
-        xPostUrl="https://x.com/C3Heditor/status/2100581466744803370"
-        imageSrc="https://images.ctcrazies.com/article-images/2026-09-17_084415.jpg"
-        tags={["Gavin Newsom", "California", "Communism-Socialism"]}
+        headline="Protecting Girls In Sports Is &quot;Rooted in Hate&quot; Democrat-Independent Nebraska Senate Candidate, Dan Osborn, Tells Daughter &amp; Mother"
+        tinyUrl="https://townhall.com/news/amy-curtis/2026/09/23/everybody-else-can-f-off-dan-osborn-n2683459"
+        xPostUrl="https://x.com/C3Heditor/status/2103582189783068929"
+        imageSrc="https://images.ctcrazies.com/article-images/2026-09-25_152811.jpg"
+        tags={["Dan Osborn", "LGBTQ", "Culture War", "Left-Wing"]}
       />
       <ArticleBlock
-        headline="AOC &amp; Other Democrat-Socialists Peddle Lynching Lies in Attempt To Increase Racial Hate"
-        tinyUrl="https://townhall.com/news/amy-curtis/2026/09/11/aynnay-pressley-hangings-n2682826"
-        xPostUrl="https://x.com/C3Heditor/status/2100581042868400283"
-        imageSrc="https://images.ctcrazies.com/article-images/2026-09-17_084246.jpg"
-        tags={["Alexandria Ocasio-Cortez", "Gaslight-Lies", "Racial Issues", "Hate-Violence"]}
+        headline="Democrats Nationwide Are Pushing for Federal Law Enforcement To Halt the Arrest &amp; Deportation of Future Illegal Voters"
+        tinyUrl="https://thedailybs.com/2026/09/23/democrats-in-texas-ramp-up-anti-ice-rhetoric/"
+        xPostUrl="https://x.com/C3Heditor/status/2103581765948584280"
+        imageSrc="https://images.ctcrazies.com/article-images/2026-09-25_152632.jpg"
+        tags={["Immigration", "CBP-DHS-ICE", "Election Fraud"]}
       />
       <ArticleBlock
-        headline="Democrat-Socialists Are ‘More Racist Than the KKK’ Warns Black Michigan Democrat"
-        tinyUrl="https://slaynews.com/black-michigan-democrat-warns-socialists-more-racist-than-kkk/"
-        xPostUrl="https://x.com/C3Heditor/status/2100580577594290241"
-        imageSrc="https://images.ctcrazies.com/article-images/2026-09-17_084059.jpg"
-        tags={["Michigan", "Communism-Socialism", "Racial Issues"]}
+        headline="Anti-American Democrat, Rep. Delia Ramirez, Says Dems Will Abolish DHS, ICE &amp; CPB To Once Again Allow Unchecked Illegal Alien Invasion"
+        tinyUrl="https://townhall.com/news/amy-curtis/2026/09/24/delia-ramirez-abolish-ice-n2683522"
+        xPostUrl="https://x.com/C3Heditor/status/2103581412532101597"
+        imageSrc="https://images.ctcrazies.com/article-images/2026-09-25_152507.jpg"
+        tags={["Delia Ramirez", "CBP-DHS-ICE", "Immigration", "Government"]}
       />
       <ArticleBlock
-        headline="Seattle-Area Corporate Giants Begin Pushback Against Democrat-Socialist City Hall Policies"
-        tinyUrl="https://townhall.com/news/amy-curtis/2026/09/11/seattle-companies-demand-safety-n2682816"
-        xPostUrl="https://x.com/C3Heditor/status/2100580199242834313"
-        imageSrc="https://images.ctcrazies.com/article-images/2026-09-17_083918.jpg"
-        tags={["Seattle", "Business Climate", "Communism-Socialism"]}
+        headline="Ex-Islam Terrorists Who Peacefully Converted to Christianity Actually Faced Protests Led By Muslim-Democrat Abdul El-Sayed"
+        tinyUrl="https://nypost.com/2026/09/14/us-news/abdul-el-sayed-once-led-protest-against-ex-terrorists/"
+        xPostUrl="https://x.com/C3Heditor/status/2103580889229742589"
+        imageSrc="https://images.ctcrazies.com/article-images/2026-09-25_152315.jpg"
+        tags={["Abdul El-Sayed", "Islam-Muslims", "Terrorism", "Christianity"]}
       />
       <ArticleBlock
-        headline="Potential House Speaker, Hakeem Jeffries, Urges Fellow Democrats To Stand and Fight for Socialism"
-        tinyUrl="https://spectator.org/house-democrat-leader-jeffries-demands-his-party-stand-up-for-socialism/"
-        xPostUrl="https://x.com/C3Heditor/status/2100579156295561398"
-        imageSrc="https://images.ctcrazies.com/article-images/2026-09-17_083519.jpg"
-        tags={["Hakeem Jeffries", "Communism-Socialism", "2026 Elections"]}
+        headline="The Explanation For Democrat-Socialist Being So Freaking Loco? Undercover Footage Shows James Talarico’s Pastor Attacking Christians &amp; Comparing Trump to Hilter"
+        tinyUrl="https://www.theblaze.com/news/exclusive-hidden-camera-footage-captures-talaricos-pastor-saying-evangelical-christians-are-not-smart-and-comparing-trump-to-hitler"
+        xPostUrl="https://x.com/C3Heditor/status/2103580442213441639"
+        imageSrc="https://images.ctcrazies.com/article-images/2026-09-25_152136.jpg"
+        tags={["James Talarico", "Christianity", "Trump-Derangement", "Left-Wing"]}
       />
       <ArticleBlock
-        headline="Hakeem Jeffries Refuses to Rule Out 3rd Trump Impeachment if House Controlled by Democrats"
-        tinyUrl="https://www.zerohedge.com/political/jeffries-refuses-rule-out-trump-impeachment-if-democrats-win-house"
-        xPostUrl="https://x.com/C3Heditor/status/2100572469564149968"
-        imageSrc="https://images.ctcrazies.com/article-images/2026-09-17_080832.jpg"
-        tags={["Hakeem Jeffries", "Impeachment", "2026 Elections", "Trump-Derangement"]}
+        headline="Florida&#x27;s Angie Nixon, Democrat-Socialist Senate Candidate, Hired a Social-Media Guru Who Wants Death for Jewish Supporters of Israel"
+        tinyUrl="https://slaynews.com/socialist-democrat-senate-nominee-hired-staffer-wished-death-jewish-israel-supporters/"
+        xPostUrl="https://x.com/C3Heditor/status/2103579893477118276"
+        imageSrc="https://images.ctcrazies.com/article-images/2026-09-25_151908.jpg"
+        tags={["Angie Nixon", "Florida", "Israel-Jews", "Hate-Violence", "Left-Wing"]}
       />
       <ArticleBlock
-        headline="The Democrat-Marxist Faction of Influencer Hasan Piker Gets a Warm Welcome From Democrats Inside the Party Ranks"
-        tinyUrl="https://thefederalist.com/2026/09/10/democrats-give-a-warm-welcome-to-the-hasan-piker-faction-in-their-party/"
-        xPostUrl="https://x.com/C3Heditor/status/2100572011009327265"
-        imageSrc="https://images.ctcrazies.com/article-images/2026-09-17_080427.jpg"
+        headline="Marxist Hasan Piker, Democrats&#x27; Leading King-Maker, Claims America Is &#x27;Worse&#x27; Than Al-Qaeda"
+        tinyUrl="https://redstate.com/videos/2026/09/17/hasan-piker-goes-rogue-screws-democrats-with-america-worse-than-al-qaeda-comment-n2207054"
+        xPostUrl="https://x.com/C3Heditor/status/2103579492778492105"
+        imageSrc="https://images.ctcrazies.com/article-images/2026-09-25_151718.jpg"
         tags={["Hasan Piker", "Communism-Socialism", "Left-Wing"]}
       />
       <ArticleBlock
-        headline="&quot;Affordability&quot;! Wisconsin Democrats Impose Largest Tax Hike on Citizens in Over Two Decades"
-        tinyUrl="https://townhall.com/news/amy-curtis/2026/09/10/tom-tiffany-wi-tax-levy-n2682743"
-        xPostUrl="https://x.com/C3Heditor/status/2100582855462072820"
-        imageSrc="https://images.ctcrazies.com/article-images/2026-09-17_080227.jpg"
-        tags={["Wisconsin", "Taxation", "Affordability", "Left-Wing"]}
+        headline="It&#x27;s a Tried &amp; Effective Tactic for Politicians With Zero Solutions: Democrats Make Fake Welfare System Promises To Bribe Gullible Voters"
+        tinyUrl="https://www.breitbart.com/clips/2026/09/15/rand-paul-blue-state-democrats-using-welfare-system-to-bribe-people-for-their-vote/"
+        xPostUrl="https://x.com/C3Heditor/status/2103579105149288949"
+        imageSrc="https://images.ctcrazies.com/article-images/2026-09-25_151043.jpg"
+        tags={["Economic Policy", "Affordability", "Government"]}
       />
       <ArticleBlock
-        headline="NY Democrat Governor Kathy Hochul Pardons Convicted Migrant Felon To Stop His Deportation by Feds"
-        tinyUrl="https://thenationalpulse.com/2026/09/15/dem-governor-pardons-migrant-felon-to-stop-his-deportation/"
-        xPostUrl="https://x.com/C3Heditor/status/2100570051988349178"
-        imageSrc="https://images.ctcrazies.com/article-images/2026-09-17_075906.jpg"
-        tags={["Kathy Hochul", "Immigration", "CBP-DHS-ICE", "Public Safety", "New York"]}
+        headline="Democrats Provide More Proof That They Favor Illegal Aliens to the Detriment of All Americans&#x27; Welfare"
+        tinyUrl="https://thefederalist.com/2026/09/16/democrats-admit-they-want-to-bring-third-worlders-to-america-to-put-them-on-welfare/"
+        xPostUrl="https://x.com/C3Heditor/status/2103578014063677798"
+        imageSrc="https://images.ctcrazies.com/article-images/2026-09-25_150843.jpg"
+        tags={["Immigration", "Economic Policy", "Government"]}
       />
       <ArticleBlock
-        headline="Democrat-Woke NJ Governor Mikie Sherrill&#x27;s Sanctuary Governance Is Root Cause of Illegal Alien Injuring Dem Mayor&#x27;s Wife"
-        tinyUrl="https://legalinsurrection.com/2026/09/nj-gov-sherrill-under-fire-after-illegal-alien-injures-democrat-mayors-wife/"
-        xPostUrl="https://x.com/C3Heditor/status/2100569749167972710"
-        imageSrc="https://images.ctcrazies.com/article-images/2026-09-17_075535.jpg"
-        tags={["Mikie Sherrill", "New Jersey", "Immigration", "Public Safety"]}
+        headline="Alaska&#x27;s Democrat-Socialist for Senate, Mary Peltola, Exhibits Abusive Behavior Disorder Towards Her Staffers"
+        tinyUrl="https://www.breitbart.com/politics/2026/09/24/democrat-mary-peltola-accused-of-abusive-behavior-vulgar-outbursts-in-blockbuster-story/"
+        xPostUrl="https://x.com/C3Heditor/status/2103576447122293225"
+        imageSrc="https://images.ctcrazies.com/article-images/2026-09-25_150516.jpg"
+        tags={["Alaska", "Mary Peltola", "2026 Elections"]}
       />
       <ArticleBlock
-        headline="North Carolina Democrat Stands in Front of Ovens at Dachau Concentration Camp and Says That Republican Trump Supporters Belong Here"
-        tinyUrl="https://www.breitbart.com/politics/2026/09/14/democrat-shelly-headen-deactivates-social-media-after-posts-saying-trump-supporters-belong-concentration-camps/"
-        xPostUrl="https://x.com/C3Heditor/status/2100568215638221152"
-        imageSrc="https://images.ctcrazies.com/article-images/2026-09-17_075207.jpg"
-        tags={["North Carolina", "Hate-Violence", "Politics"]}
+        headline="Robert F. Kennedy Jr. States That Democrats Have &#x27;Obliterated Bill of Rights&#x27; of JFK&#x27;s America"
+        tinyUrl="https://justthenews.com/government/federal-agencies/kennedy-slams-democratic-party-democrats-systematically-obliterated"
+        xPostUrl="https://x.com/C3Heditor/status/2103576055693099159"
+        imageSrc="https://images.ctcrazies.com/article-images/2026-09-25_150345.jpg"
+        tags={["U.S. Constitution", "Government", "2026 Elections"]}
       />
       <ArticleBlock
-        headline="Democrat Presidential Hopeful, Pete Buttigieg, Wants To Tilt the Supreme Court Towards Democrats by Packing SCOTUS To Counter Its Supposed Partisan Tilt"
-        tinyUrl="https://www.thegatewaypundit.com/2026/09/pete-buttigieg-says-democrats-have-pack-supreme-court/"
-        xPostUrl="https://x.com/C3Heditor/status/2100567759599919304"
-        imageSrc="https://images.ctcrazies.com/article-images/2026-09-17_075006.jpg"
-        tags={["Pete Buttigieg", "Judiciary-Judicial", "Left-Wing", "2026 Elections"]}
+        headline="Charlie Kirk Statue at TPUSA Is Target of Hateful, Violent Democrat-Jihadis"
+        tinyUrl="https://www.youtube.com/watch?v=42SFGo0hmsc"
+        xPostUrl="https://x.com/C3Heditor/status/2103575289607409719"
+        imageSrc="https://images.ctcrazies.com/article-images/2026-09-25_150045.jpg"
+        tags={["Charlie Kirk", "Hate-Violence", "Left-Wing"]}
       />
       <ArticleBlock
-        headline="Two Democrats Seek Direct Reparations for Every Black NJ Resident"
-        tinyUrl="https://nypost.com/2026/09/12/us-news/two-nj-democrats-demanding-state-re-apologize-for-slavery-and-push-for-reparations-to-all-black-people/"
-        xPostUrl="https://x.com/C3Heditor/status/2100567040117371016"
-        imageSrc="https://images.ctcrazies.com/article-images/2026-09-17_074819.jpg"
-        tags={["Reparations", "Racial Issues", "New Jersey", "Left-Wing"]}
+        headline="Thousands of Sheriffs Go to Court To Fight for Americans: Democrats&#x27; ‘Assault Weapon’ Bans Endanger Law-Abiding Citizens"
+        tinyUrl="https://thedailybs.com/2026/09/03/sheriffs-assault-weapon-bans-endanger-law-abiding-citizens/"
+        xPostUrl="https://x.com/C3Heditor/status/2103572964159758722"
+        imageSrc="https://images.ctcrazies.com/article-images/2026-09-25_145133.jpg"
+        tags={["2nd Amendment", "Judiciary-Judicial", "Gun Control"]}
       />
       <ArticleBlock
-        headline="Reparations Debate Is Not Crazy, Muslim Democrat-Marxist Candidate Abdul El-Sayed Tells Voters"
-        tinyUrl="https://thenationalpulse.com/2026/08/25/radical-dem-candidate-el-sayed-says-discussing-reparations-shouldnt-be-a-crazy-thing/"
-        xPostUrl="https://x.com/C3Heditor/status/2100566679319167068"
-        imageSrc="https://images.ctcrazies.com/article-images/2026-09-17_074535.jpg"
-        tags={["Abdul El-Sayed", "Michigan", "Reparations", "Racial Issues", "Left-Wing"]}
+        headline="Abdul El-Sayed, Michigan&#x27;s Democrat Senate Hopeful, Lobbied Egypt’s Muslim Brotherhood Terroist Group to &#x27;Purge the Media and Police&#x27;"
+        tinyUrl="https://rairfoundation.com/abdul-el-sayed-lobbied-egypts-muslim-brotherhood-purge/"
+        xPostUrl="https://x.com/C3Heditor/status/2103572049465897320"
+        imageSrc="https://images.ctcrazies.com/article-images/2026-09-25_144938.jpg"
+        tags={["Abdul El-Sayed", "Michigan", "Islam-Muslims", "Terrorism"]}
       />
       <ArticleBlock
-        headline="Democrat-Socialist James Talarico&#x27;s Demand for Nanny-State Government Control Over Citizens Stems From &#x27;Aren&#x27;t We All Just Really Big Kindergarteners&#x27; Belief"
-        tinyUrl="https://townhall.com/news/amy-curtis/2026/09/15/talarico-we-should-run-the-usa-like-a-kindergarten-classroom-n2682973"
-        xPostUrl="https://x.com/C3Heditor/status/2100566123465130046"
-        imageSrc="https://images.ctcrazies.com/article-images/2026-09-17_074401.jpg"
-        tags={["James Talarico", "Government", "Communism-Socialism"]}
+        headline="James Talarico Disses Large Donors In Ads While Accepting $11.5 Million From Jeffrey Epstein&#x27;s Pedo-Billionaire Buddy"
+        tinyUrl="https://www.dailysignal.com/2026/09/17/talaricos-senate-jeffrey-epstein/"
+        xPostUrl="https://x.com/C3Heditor/status/2103571880963690545"
+        imageSrc="https://images.ctcrazies.com/article-images/2026-09-25_144820.png"
+        tags={["James Talarico", "Corruption-Fraud", "2026 Elections"]}
       />
       </div>
-      <Pagination currentPage={5} totalPages={85} />
+      <Pagination currentPage={5} totalPages={86} />
 
     </div>
   );

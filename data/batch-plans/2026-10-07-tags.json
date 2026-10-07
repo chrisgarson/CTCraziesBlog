@@ -1,0 +1,144 @@
+{
+  "batchDate": "2026-10-07",
+  "status": "user-approved-from-October_7_2026_DoneEditedTwenty-Article_Batch_Tag.docx",
+  "proposedNewPersonTags": [
+    "Debra Messing",
+    "Susie Wiles"
+  ],
+  "proposedNewTopicTagsRequiringApproval": [],
+  "retainedExistingTopicTags": {
+    "Biden Administration": [
+      1701,
+      1706,
+      1707,
+      1708,
+      1713
+    ]
+  },
+  "allowFiveTagNums": [
+    1701
+  ],
+  "allowSixTagNums": [],
+  "tags": {
+    "1720": [
+      "James Talarico",
+      "Texas",
+      "Law Enforcement",
+      "Soft-On-Crime"
+    ],
+    "1719": [
+      "Abdul El-Sayed",
+      "Michigan",
+      "National Security",
+      "2026 Elections"
+    ],
+    "1718": [
+      "Abigail Spanberger",
+      "Virginia",
+      "Affordability",
+      "Incompetence"
+    ],
+    "1717": [
+      "Zohran Mamdani",
+      "NYC",
+      "Government",
+      "Corruption-Fraud"
+    ],
+    "1716": [
+      "Debra Messing",
+      "Kathy Hochul",
+      "New York",
+      "2026 Elections"
+    ],
+    "1715": [
+      "Peggy Flanagan",
+      "Minnesota",
+      "Incompetence",
+      "Government"
+    ],
+    "1714": [
+      "Keith Ellison",
+      "Minnesota",
+      "Corruption-Fraud",
+      "Ethics-Morals"
+    ],
+    "1713": [
+      "Biden Administration",
+      "DOJ",
+      "Education Policy",
+      "Weaponization"
+    ],
+    "1712": [
+      "Abdul El-Sayed",
+      "Obama",
+      "Michigan",
+      "2026 Elections"
+    ],
+    "1711": [
+      "James Talarico",
+      "Texas",
+      "Racial Issues",
+      "Communism-Socialism"
+    ],
+    "1710": [
+      "Abdul El-Sayed",
+      "Michigan",
+      "2026 Elections",
+      "Communism-Socialism"
+    ],
+    "1709": [
+      "Communism-Socialism",
+      "Left-Wing",
+      "2026 Elections"
+    ],
+    "1708": [
+      "Biden Administration",
+      "Affordability",
+      "Immigration",
+      "Economic Policy"
+    ],
+    "1707": [
+      "Biden Administration",
+      "Immigration",
+      "Violent Crime",
+      "Sex Crimes"
+    ],
+    "1706": [
+      "Biden Administration",
+      "Immigration",
+      "National Security",
+      "Government"
+    ],
+    "1705": [
+      "Ro Khanna",
+      "California",
+      "Taxation",
+      "Communism-Socialism"
+    ],
+    "1704": [
+      "Claire Valdez",
+      "New York",
+      "LGBTQ",
+      "Affordability"
+    ],
+    "1703": [
+      "Rob Bonta",
+      "California",
+      "Election Fraud",
+      "Incompetence"
+    ],
+    "1702": [
+      "Xavier Becerra",
+      "California",
+      "Immigration",
+      "Gaslight-Lies"
+    ],
+    "1701": [
+      "Biden Administration",
+      "Susie Wiles",
+      "Weaponization",
+      "FBI",
+      "Government"
+    ]
+  }
+}
