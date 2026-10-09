@@ -8,147 +8,147 @@ export default function Page3() {
       <PageHeader />
       <div className="space-y-12">
       <ArticleBlock
-        headline="Texas Democrat Suddenly Thinks &#x27;Six Sexes&#x27; Is No Longer a Thing as James Talarico Does Huge Flip-Flop About His Stated Beliefs"
-        tinyUrl="https://www.lifesitenews.com/news/texas-democrat-james-talarico-now-claims-he-doesnt-believe-in-6-sexes/"
-        xPostUrl="https://x.com/C3Heditor/status/2106491636532555963"
-        imageSrc="https://images.ctcrazies.com/article-images/2026-10-03_160925.jpg"
-        tags={["James Talarico", "Texas", "LGBTQ", "Culture War", "2026 Elections"]}
+        headline="Tell That to Oprah or Michael Jordan or John H. Johnson: Muslim-Democrat Abdul El-Sayed Claims Black Americans Never Had Access to Real Capitalism"
+        tinyUrl="https://twitchy.com/samj/2026/10/02/abdul-el-sayed-says-black-americans-have-never-had-access-to-real-capitalism-the-fact-checks-epic-n2432924"
+        xPostUrl="https://x.com/C3Heditor/status/2107202672587870284"
+        imageSrc="https://images.ctcrazies.com/article-images/2026-10-05_151442.jpg"
+        tags={["Abdul El-Sayed", "Michigan", "Racial Issues", "Communism-Socialism", "2026 Elections"]}
       />
       <ArticleBlock
-        headline="Michigan Muslim Democrat-Socialist Declared Immigrants, Refugees, and Undocumented Aliens Are All Americans"
-        tinyUrl="https://twitchy.com/samj/2026/10/01/another-deleted-post-comes-to-light-abdul-el-sayed-americans-illegals-n2432884"
-        xPostUrl="https://x.com/C3Heditor/status/2106490925501530284"
-        imageSrc="https://images.ctcrazies.com/article-images/2026-10-03_160616.jpg"
-        tags={["Abdul El-Sayed", "Michigan", "Immigration", "Communism-Socialism"]}
+        headline="Pro-Socialist, Big-Government Democrat James Talarico&#x27;s Existing Political Record Exposes Host of Problems He Does Not Want To Explain"
+        tinyUrl="https://pjmedia.com/matt-margolis/2026/10/03/is-talarico-hitting-the-panic-button-in-texas-n4957914"
+        xPostUrl="https://x.com/C3Heditor/status/2107202203224252647"
+        imageSrc="https://images.ctcrazies.com/article-images/2026-10-05_151257.jpg"
+        tags={["James Talarico", "Texas", "Communism-Socialism", "2026 Elections"]}
       />
       <ArticleBlock
-        headline="Democrat-Marxist Mayor Brandon Johnson Said This About Chicago Crime Prevention In His City: &#x27;It’s Not My Job&#x27;"
-        tinyUrl="https://townhall.com/news/amy-curtis/2026/10/01/brandon-johnson-finding-criminals-is-not-my-job-n2683927"
-        xPostUrl="https://x.com/C3Heditor/status/2106490404015427982"
-        imageSrc="https://images.ctcrazies.com/article-images/2026-10-03_160410.jpg"
-        tags={["Brandon Johnson", "Chicago", "Soft-On-Crime", "Incompetence", "Communism-Socialism"]}
+        headline="Former NBA Star Charles Barkley Calls Democrats&#x27; Ideas &#x27;Some of the Stupidest Shit He Has Ever Heard&#x27;"
+        tinyUrl="https://www.breitbart.com/sports/2026/10/02/charles-barkley-democrats-have-said-some-of-the-stupidest-s-ive-ever-heard/"
+        xPostUrl="https://x.com/C3Heditor/status/2107200445659676774"
+        imageSrc="https://images.ctcrazies.com/article-images/2026-10-05_150540.jpg"
+        tags={["Politics", "Left-Wing"]}
       />
       <ArticleBlock
-        headline="A Biden-Appointed, Democrat-Partisan Judge Claims It&#x27;s Unconstitutional To Ban Illegal Alien Voting"
-        tinyUrl="https://www.dailysignal.com/2026/10/02/biden-judge-ban-noncitizen-voting/"
-        xPostUrl="https://x.com/C3Heditor/status/2106489805093867795"
-        imageSrc="https://images.ctcrazies.com/article-images/2026-10-03_160152.jpg"
-        tags={["Judiciary-Judicial", "Immigration", "Election Fraud", "U.S. Constitution"]}
+        headline="IRGC’s Midterm Endorsement Proves They Know Democrats Will Allow Their Terrorism &amp; Nuke Bomb Plans"
+        tinyUrl="https://spectator.org/the-irgcs-midterm-endorsement-creates-a-problem-for-democrats/"
+        xPostUrl="https://x.com/C3Heditor/status/2107200049008837116"
+        imageSrc="https://images.ctcrazies.com/article-images/2026-10-05_150413.jpg"
+        tags={["Iran", "Terrorism", "Foreign Policy", "2026 Elections"]}
       />
       <ArticleBlock
-        headline="Democrat-Socialist Candidate for Wisconsin Governor Has Strange Ideas About &#x27;Affordability&#x27; — Raise Taxes &amp; Fees"
-        tinyUrl="https://townhall.com/news/amy-curtis/2026/10/02/david-crowley-charging-for-events-parking-at-parks-n2683999"
-        xPostUrl="https://x.com/C3Heditor/status/2106488420432531887"
-        imageSrc="https://images.ctcrazies.com/article-images/2026-10-03_155621.jpg"
-        tags={["David Crowley", "Wisconsin", "Affordability", "Taxation"]}
+        headline="Democrats Claim They Will Solve Affordability Issue With More Taxes, per AZ Dem Senator Mark Kelly"
+        tinyUrl="https://www.thegatewaypundit.com/2026/10/dem-sen-mark-kelly-says-his-solution-cost/"
+        xPostUrl="https://x.com/C3Heditor/status/2107199405086695676"
+        imageSrc="https://images.ctcrazies.com/article-images/2026-10-05_150159.jpg"
+        tags={["Mark Kelly", "Arizona", "Affordability", "Taxation"]}
       />
       <ArticleBlock
-        headline="How To Lose a Case: Disgraced AG Letitia James Appointed as Cornell Special Prosecutor in Gang Rape Case by NY&#x27;s Democrat Gov. Hochul"
-        tinyUrl="https://www.breitbart.com/politics/2026/10/02/nolte-gov-kathy-hochul-appoints-disgraced-ag-letitia-james-as-cornell-special-prosecutor-in-gang-rape-case/"
-        xPostUrl="https://x.com/C3Heditor/status/2106488088021405777"
-        imageSrc="https://images.ctcrazies.com/article-images/2026-10-03_155505.jpg"
-        tags={["Letitia James", "Kathy Hochul", "New York", "Judiciary-Judicial"]}
+        headline="Democrats Move To Block Lower Energy Costs for Families From Venezuelan Oil Deal While at Same Time Hypocritically Complaining About High Gas Prices"
+        tinyUrl="https://townhall.com/news/amy-curtis/2026/10/02/democrats-venezuelan-oil-n2684003"
+        xPostUrl="https://x.com/C3Heditor/status/2107198772933738529"
+        imageSrc="https://images.ctcrazies.com/article-images/2026-10-05_145916.jpg"
+        tags={["Energy Policy", "Affordability", "Hypocrisy", "Foreign Policy"]}
       />
       <ArticleBlock
-        headline="Democrat Propagandist Don Lemon Makes Admission That Has To Hurt — &#x27;Trump Has Delivered on Nearly Every Major Policy Promise He Made&#x27;"
-        tinyUrl="https://slaynews.com/don-lemon-forced-admit-trump-delivered-pretty-much-every-promise/"
-        xPostUrl="https://x.com/C3Heditor/status/2106487688912097378"
-        imageSrc="https://images.ctcrazies.com/article-images/2026-10-03_155333.jpg"
-        tags={["Don Lemon", "Journalism-MediaBias", "Politics"]}
+        headline="Arizona&#x27;s U.S. Democrat Sen. Ruben Gallego in Big Trouble as Grand Jury Targets His Donor PAC in DOJ Investigation of Alleged Slush Fund"
+        tinyUrl="https://www.breitbart.com/politics/2026/10/03/doj-hits-gallegos-pac-with-grand-jury-subpoena-in-slush-fund-probe/"
+        xPostUrl="https://x.com/C3Heditor/status/2107197827868750231"
+        imageSrc="https://images.ctcrazies.com/article-images/2026-10-05_145534.jpg"
+        tags={["Ruben Gallego", "Arizona", "DOJ", "Corruption-Fraud"]}
       />
       <ArticleBlock
-        headline="NYC Democrat-Marxist Mayor Mamdani&#x27;s Special Property Tax Gets Rejected by NY Supreme Court on Grounds of Incompetence"
-        tinyUrl="https://justthenews.com/nation/states/center-square/judge-orders-mamdani-redo-pied-terre-tax-rollout?utm_source=justthenews.com&amp;utm_medium=feed&amp;utm_campaign=external-news-aggregators"
-        xPostUrl="https://x.com/C3Heditor/status/2106487308807487831"
-        imageSrc="https://images.ctcrazies.com/article-images/2026-10-03_155202.jpg"
-        tags={["Zohran Mamdani", "NYC", "Taxation", "Judiciary-Judicial", "Incompetence"]}
+        headline="As AZ&#x27;s U.S. House Candidate, Democrat JoAnna Mendoza, Tries To Gaslight Voters — Her Deleted Posts Confirm Her Support for Defunding the Police"
+        tinyUrl="https://townhall.com/news/amy-curtis/2026/10/02/joanna-mendoza-debate-n2684036"
+        xPostUrl="https://x.com/C3Heditor/status/2107197038085681407"
+        imageSrc="https://images.ctcrazies.com/article-images/2026-10-05_145221.jpg"
+        tags={["JoAnna Mendoza", "Arizona", "Gaslight-Lies", "Law Enforcement", "2026 Elections"]}
       />
       <ArticleBlock
-        headline="Virginia&#x27;s Soft-on-Crime Democrat Gov. Spanberger Approves Prison Release of 7 Violent People - Rapists, Murderers &amp; Child Abusers"
-        tinyUrl="https://townhall.com/news/amy-curtis/2026/10/02/spanberger-parole-board-7-of-8-felons-released-n2683997"
-        xPostUrl="https://x.com/C3Heditor/status/2106486843025834121"
-        imageSrc="https://images.ctcrazies.com/article-images/2026-10-03_155026.jpg"
-        tags={["Abigail Spanberger", "Virginia", "Soft-On-Crime", "Violent Crime"]}
+        headline="His DSA Ties and Socialist Record Undercut Muslim-Democrat Abdul El-Sayed&#x27;s Bogus Claim To Be a Capitalist"
+        tinyUrl="https://thepostmillennial.com/exposed-abdul-el-sayeds-extreme-socialist-past-dsa-ties-prove-hes-no-capitalist"
+        xPostUrl="https://x.com/C3Heditor/status/2107195944055754947"
+        imageSrc="https://images.ctcrazies.com/article-images/2026-10-05_144829.jpg"
+        tags={["Abdul El-Sayed", "Michigan", "Communism-Socialism", "2026 Elections"]}
       />
       <ArticleBlock
-        headline="Students&#x27; Most Important Lesson in School May Be Sex Education, Texas Democrat Senate Candidate James Talarico Says"
-        tinyUrl="https://www.breitbart.com/politics/2026/09/21/video-james-talarico-called-sex-ed-maybe-the-most-important-topic-students-learn-in-school/"
-        xPostUrl="https://x.com/C3Heditor/status/2106486309904892194"
-        imageSrc="https://images.ctcrazies.com/article-images/2026-10-03_154805.jpg"
-        tags={["James Talarico", "Texas", "Culture War", "Education Policy"]}
+        headline="Bible Scholar Refutes Christian-Hater James Talarico&#x27;s Use of Jesus&#x27; Lessons for His Political Agenda"
+        tinyUrl="https://thedailybs.com/2026/10/03/talarico-says-jesus-backs-his-political-agenda-bible-expert-says-hes-got-the-lesson-backwards/"
+        xPostUrl="https://x.com/C3Heditor/status/2107190964922016219"
+        imageSrc="https://images.ctcrazies.com/article-images/2026-10-05_142804.jpg"
+        tags={["James Talarico", "Texas", "Christianity", "Politics", "2026 Elections"]}
       />
       <ArticleBlock
-        headline="On the Take for Government Welfare: County Taxpayers Paid Muslim-Socialist Democrat Abdul El-Sayed $9,000 Monthly in Consulting Fees During Senate Run"
-        tinyUrl="https://freebeacon.com/democrats/abdul-el-sayed-billed-county-taxpayers-9000-a-month-in-consulting-fees-while-running-for-senate/"
-        xPostUrl="https://x.com/C3Heditor/status/2106485449590182051"
-        imageSrc="https://images.ctcrazies.com/article-images/2026-10-03_154434.jpg"
-        tags={["Abdul El-Sayed", "Michigan", "Corruption-Fraud", "Government"]}
+        headline="Gaslight Questions Mount for Democrat Xavier Becerra Over His $12 Crocodile-Tears Sob Story About His Parents"
+        tinyUrl="https://twitchy.com/samj/2026/10/04/xavier-becerras-sob-origination-story-begins-to-fall-apart-thread-n2432955"
+        xPostUrl="https://x.com/C3Heditor/status/2107190118897393974"
+        imageSrc="https://images.ctcrazies.com/article-images/2026-10-05_142442.jpg"
+        tags={["Xavier Becerra", "California", "Gaslight-Lies", "2026 Elections"]}
       />
       <ArticleBlock
-        headline="Trump, Not California&#x27;s Democrat Gov. Newsom, Is Praised by Netflix Boss for Bringing Jobs Back to Hollywood"
-        tinyUrl="https://slaynews.com/netflix-ceo-praises-trump-fighting-bring-hollywood-jobs-back-america/"
-        xPostUrl="https://x.com/C3Heditor/status/2106485086967431598"
-        imageSrc="https://images.ctcrazies.com/article-images/2026-10-03_154311.jpg"
-        tags={["Gavin Newsom", "California", "Hollywood", "Business Climate"]}
+        headline="Party Insiders Call California&#x27;s Democrat Xavier Becerra Governor Hopeful an Empty Suit &amp; an Idiot"
+        tinyUrl="https://redstate.com/jenniferoo/2026/10/02/the-new-website-bitch-ass-becerra-shows-even-democrats-think-hes-terrible-n2207668"
+        xPostUrl="https://x.com/C3Heditor/status/2107189671801360718"
+        imageSrc="https://images.ctcrazies.com/article-images/2026-10-05_142257.jpg"
+        tags={["Xavier Becerra", "California", "Incompetence", "2026 Elections"]}
       />
       <ArticleBlock
-        headline="Voters Learn the Truth With a Brutal Slap of Hypocrisy: Senate Democrats Vote To Keep Insider Trading, for Themselves"
-        tinyUrl="https://modernity.news/2026/10/01/democrats-vote-down-insider-trading-ban/"
-        xPostUrl="https://x.com/C3Heditor/status/2106484752131719329"
-        imageSrc="https://images.ctcrazies.com/article-images/2026-10-03_154140.jpg"
-        tags={["Corruption-Fraud", "Hypocrisy", "U.S. Congress", "Ethics-Morals"]}
+        headline="Transparency of Big Foreign Donor Names to Elite Universities To Stay Secret After Democrat-Appointed Judge, Tanya Chutkan, Blocks Revelations"
+        tinyUrl="https://www.thegatewaypundit.com/2026/10/obama-judge-tanya-chutkan-blocks-trump-education-department/"
+        xPostUrl="https://x.com/C3Heditor/status/2107189168388407552"
+        imageSrc="https://images.ctcrazies.com/article-images/2026-10-05_142053.jpg"
+        tags={["Tanya Chutkan", "Judiciary-Judicial", "Government", "Transparency"]}
       />
       <ArticleBlock
-        headline="With Trillions of Entitlements Proposed by Dems, GOP Now Has Edge Over Democrats on Affordability in Survey of Swing Voters"
-        tinyUrl="https://justthenews.com/politics-policy/polling/slim-majority-swing-voters-trust-gop-more-democrats-address-affordability?utm_source=justthenews.com&amp;utm_medium=feed&amp;utm_campaign=external-news-aggregators"
-        xPostUrl="https://x.com/C3Heditor/status/2106484001623998646"
-        imageSrc="https://images.ctcrazies.com/article-images/2026-10-03_153854.jpg"
-        tags={["Affordability", "Economic Policy", "2026 Elections", "Polling"]}
+        headline="Donations From Epstein-Linked Sexual Predators Prompt Questions for Iowa&#x27;s Self-Proclaimed &#x27;Anti-Corruption&#x27; Democrat, Josh Turek"
+        tinyUrl="https://townhall.com/news/jeff-charles/2026/10/02/why-would-an-anti-corruption-democrat-take-money-from-sexual-predators-n2684020"
+        xPostUrl="https://x.com/C3Heditor/status/2107188668398006502"
+        imageSrc="https://images.ctcrazies.com/article-images/2026-10-05_141856.jpg"
+        tags={["Josh Turek", "Iowa", "Epstein", "Corruption-Fraud"]}
       />
       <ArticleBlock
-        headline="Uncontrolled Spending of Trillions in New Entitlements Could Prove Unsustainable Under Proposed House Democrats&#x27; Plan"
-        tinyUrl="https://thefederalist.com/2026/10/01/house-democrats-propose-trillions-of-dollars-in-unsustainable-entitlements/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=house-democrats-propose-trillions-of-dollars-in-unsustainable-entitlements"
-        xPostUrl="https://x.com/C3Heditor/status/2106483808534954054"
-        imageSrc="https://images.ctcrazies.com/article-images/2026-10-03_153544.jpg"
-        tags={["Economic Policy", "Government", "2026 Elections", "Affordability"]}
+        headline="California&#x27;s Gov. Gavin Newsom Vetoes Greater Transparency on High-Speed Rail Fiasco"
+        tinyUrl="https://nypost.com/2026/10/02/us-news/gavin-newsom-vetoes-bill-giving-high-speed-rail-watchdog-more-power/"
+        xPostUrl="https://x.com/C3Heditor/status/2107188300754923967"
+        imageSrc="https://images.ctcrazies.com/article-images/2026-10-05_141729.jpg"
+        tags={["Gavin Newsom", "California", "Transportation Policy", "Government", "Transparency"]}
       />
       <ArticleBlock
-        headline="Why of Course! Survey Finds Most Young Democrat Women Blame Men for Their Personal Problems"
-        tinyUrl="https://www.breitbart.com/pre-viral/2026/09/30/poll-majority-young-democrat-women-blame-men-problems/"
-        xPostUrl="https://x.com/C3Heditor/status/2106482247792791698"
-        imageSrc="https://images.ctcrazies.com/article-images/2026-10-03_153155.jpg"
-        tags={["Culture War", "Left-Wing", "Polling"]}
+        headline="Big Fundraising Haul From Democrats Backs Talarico&#x27;s Pedo-Buddy Congressional Candidate, Bobby Pulido, Who Has History of Protecting Pedophiles"
+        tinyUrl="https://townhall.com/news/josephchalfant/2026/10/02/democrats-just-raised-huge-money-for-this-pedophile-protecting-candidate-n2684022"
+        xPostUrl="https://x.com/C3Heditor/status/2107187673538404450"
+        imageSrc="https://images.ctcrazies.com/article-images/2026-10-05_141453.jpg"
+        tags={["James Talarico", "Bobby Pulido", "Texas", "Epstein"]}
       />
       <ArticleBlock
-        headline="Vegan Activist Changes Stripes? Colorado Democrat Manny Rutinel Targeted Meat Companies With Lawsuits but Now He Wants To Represent a Ranching District"
-        tinyUrl="https://freebeacon.com/democrats/colorado-dem-manny-rutinel-running-in-a-district-where-ranching-is-central-once-said-his-entire-job-was-to-sue-meat-corporations-for-all-theyre-worth/"
-        xPostUrl="https://x.com/C3Heditor/status/2106481625534280066"
-        imageSrc="https://images.ctcrazies.com/article-images/2026-10-03_152945.jpg"
-        tags={["Manny Rutinel", "Colorado", "Hypocrisy", "2026 Elections", "Left-Wing"]}
+        headline="Is the Homeless Problem a Lot Bigger in Democrat-Run Blue Cities? Yes, Confirms CNN’s Fareed Zakaria"
+        tinyUrl="https://www.thegatewaypundit.com/2026/10/cnns-fareed-zakaria-admits-homeless-problems-are-worst/"
+        xPostUrl="https://x.com/C3Heditor/status/2107187139557445948"
+        imageSrc="https://images.ctcrazies.com/article-images/2026-10-05_141253.jpg"
+        tags={["Fareed Zakaria", "Homeless", "Blue States", "Journalism-MediaBias", "Left-Wing"]}
       />
       <ArticleBlock
-        headline="Legacy MSM Ignore Fact-Checks of Three Big Lies by Michigan Democrat Governor Candidate Jocelyn Benson"
-        tinyUrl="https://www.thegatewaypundit.com/2026/10/here-they-are-ai-confirms-3-huge-lies/"
-        xPostUrl="https://x.com/C3Heditor/status/2106481277670953252"
-        imageSrc="https://images.ctcrazies.com/article-images/2026-10-03_152758.jpg"
-        tags={["Jocelyn Benson", "Michigan", "Gaslight-Lies", "Journalism-MediaBias"]}
+        headline="Victims Lose $1 Million to Scam by Michigan Woman Previously Honored by Democrat President Joe Biden"
+        tinyUrl="https://americanwirenews.com/michigan-woman-honored-by-biden-scams-victims-out-of-1m/"
+        xPostUrl="https://x.com/C3Heditor/status/2107186763747975314"
+        imageSrc="https://images.ctcrazies.com/article-images/2026-10-05_141127.jpg"
+        tags={["Joe Biden", "Michigan", "Corruption-Fraud", "Left-Wing"]}
       />
       <ArticleBlock
-        headline="Billionaire Soros Joins Wealthy Supporters Backing the &#x27;Anti-Billionaire&#x27; Abdul El-Sayed, List Shows"
-        tinyUrl="https://www.newsweek.com/anti-billionaire-abdul-el-sayed-backed-by-soros-list-of-wealthy-supporters-12513820"
-        xPostUrl="https://x.com/C3Heditor/status/2106480770743214229"
-        imageSrc="https://images.ctcrazies.com/article-images/2026-10-03_152557.jpg"
-        tags={["Abdul El-Sayed", "Michigan", "George Soros", "2026 Elections"]}
+        headline="LGBTQ Group Gives More Cash to Democrat-Radical James Talarico Knowing Full-Well His Recent 180° Flip on Gender Mutilation Is a Lie"
+        tinyUrl="https://nypost.com/2026/10/03/us-news/texas-democratic-senate-hopeful-james-talarico-takes-lgbtq-groups-cash/"
+        xPostUrl="https://x.com/C3Heditor/status/2107186437095297363"
+        imageSrc="https://images.ctcrazies.com/article-images/2026-10-05_141002.jpg"
+        tags={["James Talarico", "Texas", "LGBTQ", "Gaslight-Lies", "2026 Elections"]}
       />
       <ArticleBlock
-        headline="James Talarico Faces Radical Left Control if He Reaches Senate, Democrat-Marxist Hasan Piker Says"
-        tinyUrl="https://legalinsurrection.com/2026/10/hasan-piker-suggests-the-radical-left-will-own-james-talarico-as-senator/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=hasan-piker-suggests-the-radical-left-will-own-james-talarico-as-senator"
-        xPostUrl="https://x.com/C3Heditor/status/2106480397014245568"
-        imageSrc="https://images.ctcrazies.com/article-images/2026-10-03_152315.jpg"
-        tags={["James Talarico", "Hasan Piker", "Texas", "Left-Wing", "Communism-Socialism"]}
+        headline="Top Campaign Staffer Quits Abdul El-Sayed Team Knowing Democrat Candidate Has Faked His Way Through Public Life"
+        tinyUrl="https://www.thegatewaypundit.com/2026/10/exclusive-abdul-el-sayed-top-staffer-quits-campaign/"
+        xPostUrl="https://x.com/C3Heditor/status/2107186023117828314"
+        imageSrc="https://images.ctcrazies.com/article-images/2026-10-05_140826.jpg"
+        tags={["Abdul El-Sayed", "Michigan", "Gaslight-Lies", "2026 Elections"]}
       />
       </div>
-      <Pagination currentPage={3} totalPages={86} />
+      <Pagination currentPage={3} totalPages={87} />
 
     </div>
   );

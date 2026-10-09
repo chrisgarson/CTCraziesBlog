@@ -8,147 +8,147 @@ export default function Page5() {
       <PageHeader />
       <div className="space-y-12">
       <ArticleBlock
-        headline="Texas Democrat-Socialist, James Talarico, Has a Favorite Drag Queen, Who Happens To Really, Really Like Children"
-        tinyUrl="https://www.breitbart.com/politics/2026/09/16/nolte-james-talaricos-favorite-drag-queen-really-really-likes-kids/"
-        xPostUrl="https://x.com/C3Heditor/status/2103584444242444425"
-        imageSrc="https://images.ctcrazies.com/article-images/2026-09-25_153700.jpg"
-        tags={["James Talarico", "LGBTQ", "Texas", "Culture War"]}
+        headline="Scheme To Bribe Texas Voters To Vote For Democrats Reveals Corruption at James Talarico&#x27;s Democrat-Socialist SuperPAC"
+        tinyUrl="https://www.thegatewaypundit.com/2026/09/bombshell-talarico-superpac-caught-tape-revealing-shady-as/"
+        xPostUrl="https://x.com/C3Heditor/status/2105032824495775936"
+        imageSrc="https://images.ctcrazies.com/article-images/2026-09-29_153230.jpg"
+        tags={["James Talarico", "Texas", "Corruption-Fraud", "2026 Elections"]}
       />
       <ArticleBlock
-        headline="Michigan Muslim-Democrat Senate Candidate, Abdul El-Sayed, Refuses To Return Donations From Groups Directly Linked to Islamic Terrorism"
-        tinyUrl="https://thenationalpulse.com/2026/09/16/abdul-el-sayed-refuses-to-return-donations-from-groups-linked-to-terrorism/"
-        xPostUrl="https://x.com/C3Heditor/status/2103583599459238380"
-        imageSrc="https://images.ctcrazies.com/article-images/2026-09-25_153539.jpg"
+        headline="Abdul El-Sayed&#x27;s Sister Confirms He&#x27;s Lying To Michigan Voters To Hide His Democrat-Marxist Views In Order To Get Elected"
+        tinyUrl="https://www.breitbart.com/politics/2026/09/24/abdul-el-sayed-sister-agrees-not-capitalist/"
+        xPostUrl="https://x.com/C3Heditor/status/2105032092211957800"
+        imageSrc="https://images.ctcrazies.com/article-images/2026-09-29_152938.jpg"
+        tags={["Abdul El-Sayed", "Michigan", "Communism-Socialism", "2026 Elections"]}
+      />
+      <ArticleBlock
+        headline="New York City Faces Public Order Erosion as the Democrat-Socialist Mayor Mamdani Keeps Undermining Institutional Norms"
+        tinyUrl="https://www.dailysignal.com/2026/09/24/new-york-city-public-order-mamdani/"
+        xPostUrl="https://x.com/C3Heditor/status/2105031523690754388"
+        imageSrc="https://images.ctcrazies.com/article-images/2026-09-29_152736.jpg"
+        tags={["Zohran Mamdani", "NYC", "Communism-Socialism", "Incompetence"]}
+      />
+      <ArticleBlock
+        headline="Fury Grows at Hallie Shoffner, the Arkansas Democrat Senate Candidate, Over Her Call to Replace U.S. Workers With Illegal Alien Migrants"
+        tinyUrl="https://nypost.com/2026/09/23/us-news/arkansas-dem-senate-candidate-hallie-shoffner-suggests-illegal-aliens-should-replace-american-workers/"
+        xPostUrl="https://x.com/C3Heditor/status/2105030988644356250"
+        imageSrc="https://images.ctcrazies.com/article-images/2026-09-29_152521.jpg"
+        tags={["Hallie Shoffner", "Arkansas", "Immigration", "2026 Elections"]}
+      />
+      <ArticleBlock
+        headline="Family Farm Admission Reveals Arkansas Democrat Senate Candidate, Hallie Shoffner, Employed Low-Wage Illegal Aliens"
+        tinyUrl="https://freebeacon.com/democrats/arkansas-dem-senate-candidate-cops-to-employing-illegal-aliens-on-family-farm/"
+        xPostUrl="https://x.com/C3Heditor/status/2105030478986096819"
+        imageSrc="https://images.ctcrazies.com/article-images/2026-09-29_152311.jpg"
+        tags={["Hallie Shoffner", "Arkansas", "Immigration", "2026 Elections"]}
+      />
+      <ArticleBlock
+        headline="Why Are Democrats Furious &amp; Worried? DHS Probes 300K Voter Fraud Cases Involving Fake Voter Rolls"
+        tinyUrl="https://www.thegatewaypundit.com/2026/09/no-wonder-dem-dont-want-give-voter-rolls/"
+        xPostUrl="https://x.com/C3Heditor/status/2105030046545248446"
+        imageSrc="https://images.ctcrazies.com/article-images/2026-09-29_152127.jpg"
+        tags={["Election Fraud", "Investigation", "2026 Elections"]}
+      />
+      <ArticleBlock
+        headline="The Democrat Idiocracy Let Them Into Their &quot;Big&quot; Tent and Now These Crazies Are Calling For a Literal Communist Revolution Within the Dem Party"
+        tinyUrl="https://revolver.news/2026/09/now-theyre-calling-for-a-literal-communist-revolution-within-the-dem-party/"
+        xPostUrl="https://x.com/C3Heditor/status/2105029294783115377"
+        imageSrc="https://images.ctcrazies.com/article-images/2026-09-29_151841.jpg"
+        tags={["Communism-Socialism", "Left-Wing", "Incompetence"]}
+      />
+      <ArticleBlock
+        headline="Not A Good Look For A Politician: Christina Hines, a Michigan Democrat Congressional Candidate, Laughs When Challenged About Her Soft-on-Crime Record"
+        tinyUrl="https://twitchy.com/dougp/2026/09/25/not-funny-to-the-victims-michigan-dem-candidate-laughs-off-mention-of-her-soft-on-crime-policies-n2432703"
+        xPostUrl="https://x.com/C3Heditor/status/2105028680359752160"
+        imageSrc="https://images.ctcrazies.com/article-images/2026-09-29_151636.jpg"
+        tags={["Christina Hines", "Michigan", "Soft-On-Crime", "2026 Elections", "Left-Wing"]}
+      />
+      <ArticleBlock
+        headline="Islamic Terror Justification Drives a Lifelong Dem to Abandon Anti-Semite Muslim-Democrat Abdul El-Sayed&#x27;s Campaign"
+        tinyUrl="https://www.dailysignal.com/2026/09/24/lifelong-dem-ditches-el-sayed-over-islamic-terror-justification/"
+        xPostUrl="https://x.com/C3Heditor/status/2105022272889401657"
+        imageSrc="https://images.ctcrazies.com/article-images/2026-09-29_145030.jpg"
         tags={["Abdul El-Sayed", "Michigan", "Islam-Muslims", "Terrorism"]}
       />
       <ArticleBlock
-        headline="NYC&#x27;s Democrat-Marxist Mayor, Zohran Mamdani, Sues Trump Over Policy of Not Handing Out Taxpayer Welfare Dollars to Illegal Aliens"
-        tinyUrl="https://thenationalpulse.com/2026/09/14/mamdani-letitia-james-sue-trump-over-immigrant-welfare-ban/"
-        xPostUrl="https://x.com/C3Heditor/status/2103583599459238380"
-        imageSrc="https://images.ctcrazies.com/article-images/2026-09-25_153336.jpg"
-        tags={["Zohran Mamdani", "NYC", "Immigration", "Communism-Socialism"]}
+        headline="Definitely a Mama&#x27;s Boy: To Keep Her Boy From Moderating His Radical Democrat-Socialist Views, James Talarico&#x27;s Mother Plans Physical Move to D.C. To Keep An Eye On Him"
+        tinyUrl="https://townhall.com/news/kyleolson/2026/09/23/talaricos-pastor-predicts-candidates-mom-may-move-to-dc-to-help-him-keep-radical-views-n2683429"
+        xPostUrl="https://x.com/C3Heditor/status/2105021819392843933"
+        imageSrc="https://images.ctcrazies.com/article-images/2026-09-29_144855.jpg"
+        tags={["James Talarico", "Texas", "Communism-Socialism", "Politics"]}
       />
       <ArticleBlock
-        headline="Revenge Not Affordability Is The Priority For Democrats - Crazy Dem Al Green Gets 145+ Democrats To Vote For Trump&#x27;s 3rd Impeachement"
-        tinyUrl="https://www.breitbart.com/politics/2026/09/15/house-kills-al-green-resolution-to-impeach-trump-147-democrats-vote-to-keep-it-alive/"
-        xPostUrl="https://x.com/C3Heditor/status/2103583201172357481"
-        imageSrc="https://images.ctcrazies.com/article-images/2026-09-25_153211.jpg"
-        tags={["Al Green", "Impeachment", "2026 Elections", "Affordability"]}
+        headline="Sexual Harassment Claims Spurs NJ Governor, Mikie Sherrill, To Force Out Her Hand-Picked Democrat Lt. Governor"
+        tinyUrl="https://dailycaller.com/2026/09/25/new-jersey-governor-mikie-sherrill-dale-caldwell-resign-sexual-harassment-allegations"
+        xPostUrl="https://x.com/C3Heditor/status/2104938844709904657"
+        imageSrc="https://images.ctcrazies.com/article-images/2026-09-29_091853.jpg"
+        tags={["Mikie Sherrill", "New Jersey", "Government", "Incompetence"]}
       />
       <ArticleBlock
-        headline="U.S. Senate Democrats Don&#x27;t Care One Iota About Protecting Female Athletes From Transgender Male Athletes"
-        tinyUrl="https://thedailybs.com/2026/09/24/protection-of-womens-sports-senate-hearing-skipped-by-democrats/"
-        xPostUrl="https://x.com/C3Heditor/status/2103582535511154731"
-        imageSrc="https://images.ctcrazies.com/article-images/2026-09-25_153026.jpg"
-        tags={["LGBTQ", "Culture War", "Left-Wing"]}
+        headline="Past Democrat History of Large Increases in Energy &amp; Healthcare Costs Completely Undercuts Their New Promises to Improve Affordability"
+        tinyUrl="https://www.washingtontimes.com/news/2026/sep/24/would-ever-trust-democrats-fuel-prices-healthcare/"
+        xPostUrl="https://x.com/C3Heditor/status/2104937575668486146"
+        imageSrc="https://images.ctcrazies.com/article-images/2026-09-29_091719.jpg"
+        tags={["Affordability", "Energy Policy", "Economic Policy", "Incompetence"]}
       />
       <ArticleBlock
-        headline="Protecting Girls In Sports Is &quot;Rooted in Hate&quot; Democrat-Independent Nebraska Senate Candidate, Dan Osborn, Tells Daughter &amp; Mother"
-        tinyUrl="https://townhall.com/news/amy-curtis/2026/09/23/everybody-else-can-f-off-dan-osborn-n2683459"
-        xPostUrl="https://x.com/C3Heditor/status/2103582189783068929"
-        imageSrc="https://images.ctcrazies.com/article-images/2026-09-25_152811.jpg"
-        tags={["Dan Osborn", "LGBTQ", "Culture War", "Left-Wing"]}
+        headline="Democrats Apoplectic as Supreme Court Clears Trump Admin to Use Voter Citizenship Verification "
+        tinyUrl="https://headlineusa.com/supreme-court-allows-citizenship-verification-program/"
+        xPostUrl="https://x.com/C3Heditor/status/2104936709280649652"
+        imageSrc="https://images.ctcrazies.com/article-images/2026-09-29_091055.jpg"
+        tags={["Election Fraud", "2026 Elections", "Judiciary-Judicial", "Politics"]}
       />
       <ArticleBlock
-        headline="Democrats Nationwide Are Pushing for Federal Law Enforcement To Halt the Arrest &amp; Deportation of Future Illegal Voters"
-        tinyUrl="https://thedailybs.com/2026/09/23/democrats-in-texas-ramp-up-anti-ice-rhetoric/"
-        xPostUrl="https://x.com/C3Heditor/status/2103581765948584280"
-        imageSrc="https://images.ctcrazies.com/article-images/2026-09-25_152632.jpg"
-        tags={["Immigration", "CBP-DHS-ICE", "Election Fraud"]}
+        headline="A Vast ‘Stop-Trump’ Oversight Agenda Awaits In 2027 as House Democrats Keep 3rd Impeachment in Play"
+        tinyUrl="https://revolver.news/2026/09/house-democrats-plan-vast-oversight-agenda-of-trump-administration-impeachment-is-an-option/"
+        xPostUrl="https://x.com/C3Heditor/status/2104934562715275707"
+        imageSrc="https://images.ctcrazies.com/article-images/2026-09-29_090159.jpg"
+        tags={["Impeachment", "Trump-Derangement", "Politics", "2026 Elections"]}
       />
       <ArticleBlock
-        headline="Anti-American Democrat, Rep. Delia Ramirez, Says Dems Will Abolish DHS, ICE &amp; CPB To Once Again Allow Unchecked Illegal Alien Invasion"
-        tinyUrl="https://townhall.com/news/amy-curtis/2026/09/24/delia-ramirez-abolish-ice-n2683522"
-        xPostUrl="https://x.com/C3Heditor/status/2103581412532101597"
-        imageSrc="https://images.ctcrazies.com/article-images/2026-09-25_152507.jpg"
-        tags={["Delia Ramirez", "CBP-DHS-ICE", "Immigration", "Government"]}
+        headline="University of Chicago Confirms Democrats&#x27; Desire For Violence: 44 Percent of Dems OK With Violence to Stop Trump"
+        tinyUrl="https://www.newsmax.com/newsfront/study-robert-pape-democrats/2026/09/27/id/1270872/"
+        xPostUrl="https://x.com/C3Heditor/status/2104933871108202645"
+        imageSrc="https://images.ctcrazies.com/article-images/2026-09-29_085919.jpg"
+        tags={["Hate-Violence", "Trump-Derangement", "Left-Wing"]}
       />
       <ArticleBlock
-        headline="Ex-Islam Terrorists Who Peacefully Converted to Christianity Actually Faced Protests Led By Muslim-Democrat Abdul El-Sayed"
-        tinyUrl="https://nypost.com/2026/09/14/us-news/abdul-el-sayed-once-led-protest-against-ex-terrorists/"
-        xPostUrl="https://x.com/C3Heditor/status/2103580889229742589"
-        imageSrc="https://images.ctcrazies.com/article-images/2026-09-25_152315.jpg"
-        tags={["Abdul El-Sayed", "Islam-Muslims", "Terrorism", "Christianity"]}
+        headline="While Democrats Keep Escalating the Violent Rhetoric, Another Innocent Spectator From the Butler Assassination Attempt Dies"
+        tinyUrl="https://thefederalist.com/2026/09/25/another-victim-of-butler-assassination-attempt-dies-as-democrats-amp-up-violent-rhetoric/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=another-victim-of-butler-assassination-attempt-dies-as-democrats-amp-up-violent-rhetoric"
+        xPostUrl="https://x.com/C3Heditor/status/2104932737157394668"
+        imageSrc="https://images.ctcrazies.com/article-images/2026-09-29_085539.jpg"
+        tags={["Hypocrisy", "Assassination", "Hate-Violence", "Trump-Derangement"]}
       />
       <ArticleBlock
-        headline="The Explanation For Democrat-Socialist Being So Freaking Loco? Undercover Footage Shows James Talarico’s Pastor Attacking Christians &amp; Comparing Trump to Hilter"
-        tinyUrl="https://www.theblaze.com/news/exclusive-hidden-camera-footage-captures-talaricos-pastor-saying-evangelical-christians-are-not-smart-and-comparing-trump-to-hitler"
-        xPostUrl="https://x.com/C3Heditor/status/2103580442213441639"
-        imageSrc="https://images.ctcrazies.com/article-images/2026-09-25_152136.jpg"
-        tags={["James Talarico", "Christianity", "Trump-Derangement", "Left-Wing"]}
+        headline="The Anti-Democracy Goals of Democrats Established as Nearly 60 Percent of Dems Favor a Military Coup"
+        tinyUrl="https://www.lewrockwell.com/2026/09/no_author/bring-on-the-generals-roughly-60-percent-of-polled-democrats-would-support-a-military-coup/"
+        xPostUrl="https://x.com/C3Heditor/status/2104932097567899936"
+        imageSrc="https://images.ctcrazies.com/article-images/2026-09-29_085446.jpg"
+        tags={["Hypocrisy", "Hate-Violence", "Left-Wing"]}
       />
       <ArticleBlock
-        headline="Florida&#x27;s Angie Nixon, Democrat-Socialist Senate Candidate, Hired a Social-Media Guru Who Wants Death for Jewish Supporters of Israel"
-        tinyUrl="https://slaynews.com/socialist-democrat-senate-nominee-hired-staffer-wished-death-jewish-israel-supporters/"
-        xPostUrl="https://x.com/C3Heditor/status/2103579893477118276"
-        imageSrc="https://images.ctcrazies.com/article-images/2026-09-25_151908.jpg"
-        tags={["Angie Nixon", "Florida", "Israel-Jews", "Hate-Violence", "Left-Wing"]}
+        headline="Dems Don&#x27;t Give a Squat About Affordability: Data-Center Cost Relief Bill Fails as Senate Democrats Keep Charges on Electric Bills"
+        tinyUrl="https://climatechangedispatch.com/dems-block-ratepayer-protection-act-energy-costs/"
+        xPostUrl="https://x.com/C3Heditor/status/2104930767877153153"
+        imageSrc="https://images.ctcrazies.com/article-images/2026-09-29_084705.jpg"
+        tags={["Affordability", "Energy Policy", "Economic Policy"]}
       />
       <ArticleBlock
-        headline="Marxist Hasan Piker, Democrats&#x27; Leading King-Maker, Claims America Is &#x27;Worse&#x27; Than Al-Qaeda"
-        tinyUrl="https://redstate.com/videos/2026/09/17/hasan-piker-goes-rogue-screws-democrats-with-america-worse-than-al-qaeda-comment-n2207054"
-        xPostUrl="https://x.com/C3Heditor/status/2103579492778492105"
-        imageSrc="https://images.ctcrazies.com/article-images/2026-09-25_151718.jpg"
-        tags={["Hasan Piker", "Communism-Socialism", "Left-Wing"]}
+        headline="Slavery Is Cause of Healthcare Woes, So Claims Michigan&#x27;s Senate Hopeful, Muslim-Democrat Abdul El-Sayed"
+        tinyUrl="https://nypost.com/2026/09/16/us-news/abdul-el-sayed-blames-slavery-for-healthcare-woes-says-opposing-taxpayer-funded-care-for-illegal-immigrants-is-akin-to-racism/"
+        xPostUrl="https://x.com/C3Heditor/status/2104930374719873192"
+        imageSrc="https://images.ctcrazies.com/article-images/2026-09-29_084518.jpg"
+        tags={["Abdul El-Sayed", "Michigan", "Racial Issues", "Immigration", "Healthcare Policy"]}
       />
       <ArticleBlock
-        headline="It&#x27;s a Tried &amp; Effective Tactic for Politicians With Zero Solutions: Democrats Make Fake Welfare System Promises To Bribe Gullible Voters"
-        tinyUrl="https://www.breitbart.com/clips/2026/09/15/rand-paul-blue-state-democrats-using-welfare-system-to-bribe-people-for-their-vote/"
-        xPostUrl="https://x.com/C3Heditor/status/2103579105149288949"
-        imageSrc="https://images.ctcrazies.com/article-images/2026-09-25_151043.jpg"
-        tags={["Economic Policy", "Affordability", "Government"]}
-      />
-      <ArticleBlock
-        headline="Democrats Provide More Proof That They Favor Illegal Aliens to the Detriment of All Americans&#x27; Welfare"
-        tinyUrl="https://thefederalist.com/2026/09/16/democrats-admit-they-want-to-bring-third-worlders-to-america-to-put-them-on-welfare/"
-        xPostUrl="https://x.com/C3Heditor/status/2103578014063677798"
-        imageSrc="https://images.ctcrazies.com/article-images/2026-09-25_150843.jpg"
-        tags={["Immigration", "Economic Policy", "Government"]}
-      />
-      <ArticleBlock
-        headline="Alaska&#x27;s Democrat-Socialist for Senate, Mary Peltola, Exhibits Abusive Behavior Disorder Towards Her Staffers"
-        tinyUrl="https://www.breitbart.com/politics/2026/09/24/democrat-mary-peltola-accused-of-abusive-behavior-vulgar-outbursts-in-blockbuster-story/"
-        xPostUrl="https://x.com/C3Heditor/status/2103576447122293225"
-        imageSrc="https://images.ctcrazies.com/article-images/2026-09-25_150516.jpg"
-        tags={["Alaska", "Mary Peltola", "2026 Elections"]}
-      />
-      <ArticleBlock
-        headline="Robert F. Kennedy Jr. States That Democrats Have &#x27;Obliterated Bill of Rights&#x27; of JFK&#x27;s America"
-        tinyUrl="https://justthenews.com/government/federal-agencies/kennedy-slams-democratic-party-democrats-systematically-obliterated"
-        xPostUrl="https://x.com/C3Heditor/status/2103576055693099159"
-        imageSrc="https://images.ctcrazies.com/article-images/2026-09-25_150345.jpg"
-        tags={["U.S. Constitution", "Government", "2026 Elections"]}
-      />
-      <ArticleBlock
-        headline="Charlie Kirk Statue at TPUSA Is Target of Hateful, Violent Democrat-Jihadis"
-        tinyUrl="https://www.youtube.com/watch?v=42SFGo0hmsc"
-        xPostUrl="https://x.com/C3Heditor/status/2103575289607409719"
-        imageSrc="https://images.ctcrazies.com/article-images/2026-09-25_150045.jpg"
-        tags={["Charlie Kirk", "Hate-Violence", "Left-Wing"]}
-      />
-      <ArticleBlock
-        headline="Thousands of Sheriffs Go to Court To Fight for Americans: Democrats&#x27; ‘Assault Weapon’ Bans Endanger Law-Abiding Citizens"
-        tinyUrl="https://thedailybs.com/2026/09/03/sheriffs-assault-weapon-bans-endanger-law-abiding-citizens/"
-        xPostUrl="https://x.com/C3Heditor/status/2103572964159758722"
-        imageSrc="https://images.ctcrazies.com/article-images/2026-09-25_145133.jpg"
-        tags={["2nd Amendment", "Judiciary-Judicial", "Gun Control"]}
-      />
-      <ArticleBlock
-        headline="Abdul El-Sayed, Michigan&#x27;s Democrat Senate Hopeful, Lobbied Egypt’s Muslim Brotherhood Terroist Group to &#x27;Purge the Media and Police&#x27;"
-        tinyUrl="https://rairfoundation.com/abdul-el-sayed-lobbied-egypts-muslim-brotherhood-purge/"
-        xPostUrl="https://x.com/C3Heditor/status/2103572049465897320"
-        imageSrc="https://images.ctcrazies.com/article-images/2026-09-25_144938.jpg"
-        tags={["Abdul El-Sayed", "Michigan", "Islam-Muslims", "Terrorism"]}
-      />
-      <ArticleBlock
-        headline="James Talarico Disses Large Donors In Ads While Accepting $11.5 Million From Jeffrey Epstein&#x27;s Pedo-Billionaire Buddy"
-        tinyUrl="https://www.dailysignal.com/2026/09/17/talaricos-senate-jeffrey-epstein/"
-        xPostUrl="https://x.com/C3Heditor/status/2103571880963690545"
-        imageSrc="https://images.ctcrazies.com/article-images/2026-09-25_144820.png"
-        tags={["James Talarico", "Corruption-Fraud", "2026 Elections"]}
+        headline="Virgin Mary Is Slandered as Texas James Talarico&#x27;s Pastor Also Denies Jesus Died for Our Sins"
+        tinyUrl="https://www.lifesitenews.com/news/watch-james-talaricos-pastor-slanders-virgin-mary-denies-jesus-died-for-sins/"
+        xPostUrl="https://x.com/C3Heditor/status/2104929356195754215"
+        imageSrc="https://images.ctcrazies.com/article-images/2026-09-29_084211.jpg"
+        tags={["James Talarico", "Texas", "Christianity"]}
       />
       </div>
-      <Pagination currentPage={5} totalPages={86} />
+      <Pagination currentPage={5} totalPages={87} />
 
     </div>
   );

@@ -1,0 +1,134 @@
+{
+  "batchDate": "2026-10-09",
+  "status": "user-approved-from-October_9_2026_EditedTwenty-Article_Tag_Review.docx",
+  "proposedNewPersonTags": [],
+  "proposedNewTopicTagsRequiringApproval": [],
+  "declinedProposedNewTopicTags": [
+    "Abortion"
+  ],
+  "confirmedExistingKeywordAssociations": {
+    "Culture War": [
+      "Abortion"
+    ]
+  },
+  "allowFiveTagNums": [
+    1722
+  ],
+  "allowSixTagNums": [],
+  "tags": {
+    "1740": [
+      "James Talarico",
+      "Texas",
+      "2026 Elections"
+    ],
+    "1739": [
+      "Abdul El-Sayed",
+      "Michigan",
+      "2026 Elections",
+      "Islam-Muslims"
+    ],
+    "1738": [
+      "Dan Osborn",
+      "Nebraska",
+      "2026 Elections",
+      "Left-Wing"
+    ],
+    "1737": [
+      "Affordability",
+      "Corruption-Fraud",
+      "Taxation",
+      "Energy Policy"
+    ],
+    "1736": [
+      "Hollywood",
+      "Impeachment",
+      "Politics"
+    ],
+    "1735": [
+      "Alexandria Ocasio-Cortez",
+      "Culture War",
+      "Left-Wing"
+    ],
+    "1734": [
+      "Zohran Mamdani",
+      "NYC",
+      "Israel-Jews",
+      "Foreign Policy"
+    ],
+    "1733": [
+      "Politics",
+      "2026 Elections",
+      "Left-Wing",
+      "Polling"
+    ],
+    "1732": [
+      "Affordability",
+      "Left-Wing",
+      "Polling"
+    ],
+    "1731": [
+      "Gaslight-Lies",
+      "Left-Wing",
+      "Politics"
+    ],
+    "1730": [
+      "Iowa",
+      "Christianity",
+      "Culture War"
+    ],
+    "1729": [
+      "James Talarico",
+      "Texas",
+      "Racial Issues",
+      "Hypocrisy"
+    ],
+    "1728": [
+      "Abdul El-Sayed",
+      "Michigan",
+      "Racial Issues",
+      "2026 Elections"
+    ],
+    "1727": [
+      "Wisconsin",
+      "2026 Elections",
+      "Politics"
+    ],
+    "1726": [
+      "David Crowley",
+      "Wisconsin",
+      "George Soros",
+      "Law Enforcement"
+    ],
+    "1725": [
+      "Biden Administration",
+      "Immigration",
+      "CBP-DHS-ICE",
+      "Sex Crimes"
+    ],
+    "1724": [
+      "Abigail Spanberger",
+      "Virginia",
+      "Election Fraud",
+      "Incompetence"
+    ],
+    "1723": [
+      "Gavin Newsom",
+      "California",
+      "Corruption-Fraud",
+      "Hollywood"
+    ],
+    "1722": [
+      "Abdul El-Sayed",
+      "Michigan",
+      "National Security",
+      "Terrorism",
+      "Islam-Muslims"
+    ],
+    "1721": [
+      "James Talarico",
+      "Texas",
+      "Racial Issues",
+      "Culture War"
+    ]
+  }
+}
