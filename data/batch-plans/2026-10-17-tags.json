@@ -1,0 +1,139 @@
+{
+  "batchDate": "2026-10-17",
+  "status": "user-approved-from-DoneEditsOctober_17_2026_Twenty-Article_Batch_Tag_Review.docx",
+  "authorizedInputRepairs": {
+    "workingWorkbookCellValueChanges": [
+      "To Info.xlsx!B4: blank -> NUM"
+    ],
+    "workingImageFileRenames": [
+      {
+        "num": 1762,
+        "from": "2026-10-17_085823.jpg.jpg",
+        "to": "2026-10-17_085823.jpg",
+        "userAuthorized": true
+      }
+    ]
+  },
+  "proposedNewPersonTags": [],
+  "proposedNewTopicTagsRequiringApproval": [],
+  "allowFiveTagNums": [
+    1777
+  ],
+  "allowSixTagNums": [],
+  "tags": {
+    "1780": [
+      "Abdul El-Sayed",
+      "Michigan",
+      "Law Enforcement",
+      "Communism-Socialism"
+    ],
+    "1779": [
+      "James Talarico",
+      "Texas",
+      "Election Fraud",
+      "2026 Elections"
+    ],
+    "1778": [
+      "Obama",
+      "Incompetence",
+      "Left-Wing"
+    ],
+    "1777": [
+      "David Crowley",
+      "Wisconsin",
+      "Healthcare Policy",
+      "Transparency",
+      "Communism-Socialism"
+    ],
+    "1776": [
+      "Xavier Becerra",
+      "California",
+      "2026 Elections"
+    ],
+    "1775": [
+      "Mary Peltola",
+      "Alaska",
+      "2026 Elections",
+      "Incompetence"
+    ],
+    "1774": [
+      "Culture War",
+      "Christianity"
+    ],
+    "1773": [
+      "Ilhan Omar",
+      "Islam-Muslims",
+      "Immigration"
+    ],
+    "1772": [
+      "Abdul El-Sayed",
+      "Michigan",
+      "Impeachment",
+      "Left-Wing"
+    ],
+    "1771": [
+      "Abdul El-Sayed",
+      "James Talarico",
+      "2026 Elections"
+    ],
+    "1770": [
+      "James Talarico",
+      "Texas",
+      "Christianity",
+      "Culture War"
+    ],
+    "1769": [
+      "Gaslight-Lies",
+      "Healthcare Policy",
+      "Government",
+      "Communism-Socialism"
+    ],
+    "1768": [
+      "Elizabeth Warren",
+      "Affordability",
+      "Left-Wing"
+    ],
+    "1767": [
+      "Gavin Newsom",
+      "California",
+      "Election Fraud",
+      "Immigration"
+    ],
+    "1766": [
+      "Kamala Harris",
+      "Left-Wing",
+      "Communism-Socialism",
+      "2026 Elections"
+    ],
+    "1765": [
+      "Manny Rutinel",
+      "Colorado",
+      "Gaslight-Lies",
+      "Law Enforcement"
+    ],
+    "1764": [
+      "Angie Nixon",
+      "Florida",
+      "2026 Elections",
+      "Weaponization"
+    ],
+    "1763": [
+      "Ilhan Omar",
+      "Justice Department",
+      "Judiciary-Judicial",
+      "Immigration"
+    ],
+    "1762": [
+      "James Talarico",
+      "Texas",
+      "Taxation",
+      "2026 Elections"
+    ],
+    "1761": [
+      "Abdul El-Sayed",
+      "Michigan",
+      "Islam-Muslims",
+      "Terrorism"
+    ]
+  }
+}
