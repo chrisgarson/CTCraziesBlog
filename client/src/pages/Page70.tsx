@@ -96,7 +96,7 @@ export default function Page70() {
         tinyUrl="https://tinyurl.com/bd4buwya"
         xPostUrl="https://x.com/C3Heditor/status/2038206941474808076"
         imageSrc="https://images.ctcrazies.com/article-images/2026-03-29_053959_e971fe88.jpg"
-        tags={["Islam-Muslims", "North Carolina", "Politics", "Roy Cooper"]}
+        tags={["Islam-Muslims", "North Carolina", "Politics", "Josh Stein"]}
       />
       <ArticleBlock
         headline="Chicago Democrat Claims Murdered Loyola College Student Had Herself to Blame Not The Illegal Alien"
