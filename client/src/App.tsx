@@ -89,6 +89,7 @@ const Page86 = lazy(() => import("./pages/Page86"));
 const Page87 = lazy(() => import("./pages/Page87"));
 const Page88 = lazy(() => import("./pages/Page88"));
 const Page89 = lazy(() => import("./pages/Page89"));
+const Page90 = lazy(() => import("./pages/Page90"));
 const Search = lazy(() => import("./pages/Search"));
 const TagResults = lazy(() => import("./pages/TagResults"));
 const TagsIndex = lazy(() => import("./pages/TagsIndex"));
@@ -186,6 +187,7 @@ function App() {
         <Route path="/page87" component={Page87} />
         <Route path="/page88" component={Page88} />
         <Route path="/page89" component={Page89} />
+        <Route path="/page90" component={Page90} />
         <Route path="/search" component={Search} />
         <Route path="/tags" component={TagsIndex} />
         <Route path="/tag/:tag" component={TagResults} />
