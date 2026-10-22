@@ -9,9 +9,12 @@ import { useEffect, useState } from 'react';
 import { useLocation } from 'wouter';
 import PageHeader from '../components/PageHeader';
 
+type TagIndexEntry = { articles?: unknown[] } | unknown[];
+type TagListItem = { name: string; articleCount: number };
+
 export default function TagsIndex() {
   const [, navigate] = useLocation();
-  const [tagGroups, setTagGroups] = useState<Record<string, string[]>>({});
+  const [tagGroups, setTagGroups] = useState<Record<string, TagListItem[]>>({});
   const [loading, setLoading] = useState(true);
   const [error, setError] = useState('');
 
@@ -23,17 +26,24 @@ export default function TagsIndex() {
         if (!r.ok) throw new Error('Failed to load tag index');
         return r.json();
       })
-      .then((data: Record<string, any[]>) => {
+      .then((data: Record<string, TagIndexEntry>) => {
         // Group tags by first character (uppercase)
-        const groups: Record<string, string[]> = {};
-        Object.keys(data)
-          .sort((a, b) => a.localeCompare(b))
-          .forEach((tag) => {
+        const groups: Record<string, TagListItem[]> = {};
+        Object.entries(data)
+          .sort(([a], [b]) => a.localeCompare(b))
+          .forEach(([tag, entry]) => {
             const firstChar = tag[0].toUpperCase();
             // Group digits under '#'
             const key = /[0-9]/.test(firstChar) ? '#' : firstChar;
             if (!groups[key]) groups[key] = [];
-            groups[key].push(tag);
+            groups[key].push({
+              name: tag,
+              articleCount: Array.isArray(entry)
+                ? entry.length
+                : Array.isArray(entry.articles)
+                  ? entry.articles.length
+                  : 0,
+            });
           });
         setTagGroups(groups);
         setLoading(false);
@@ -172,8 +182,9 @@ export default function TagsIndex() {
               >
                 {tagGroups[letter].map((tag) => (
                   <button
-                    key={tag}
-                    onClick={() => navigate(`/tag/${encodeURIComponent(tag)}`)}
+                    key={tag.name}
+                    onClick={() => navigate(`/tag/${encodeURIComponent(tag.name)}`)}
+                    aria-label={`${tag.name}: ${tag.articleCount} ${tag.articleCount === 1 ? 'article' : 'articles'}`}
                     style={{
                       padding: '6px 14px',
                       backgroundColor: '#fff',
@@ -197,7 +208,7 @@ export default function TagsIndex() {
                       btn.style.color = '#800000';
                     }}
                   >
-                    {tag}
+                    {tag.name} ({tag.articleCount})
                   </button>
                 ))}
               </div>
