@@ -1,0 +1,139 @@
+{
+  "batchDate": "2026-10-25",
+  "status": "user-approved-from-EditedOctober_25_2026_Corrcted_Twenty-Article_Batch_Tag_Review.docx",
+  "sourceWorkbook": "CTCInfo10252026b.xlsx",
+  "authorizedInputRepairs": {
+    "workingWorkbookCellValueChanges": [],
+    "workingImageFileRenames": []
+  },
+  "proposedNewPersonTags": [
+    "Al Sharpton",
+    "Dana Bash",
+    "Hillary Clinton",
+    "Louise Lucas"
+  ],
+  "proposedNewTopicTagsRequiringApproval": [],
+  "allowFiveTagNums": [
+    1817,
+    1810,
+    1802
+  ],
+  "allowSixTagNums": [],
+  "tags": {
+    "1820": [
+      "Abdul El-Sayed",
+      "Michigan",
+      "Hate-Violence",
+      "2026 Elections"
+    ],
+    "1819": [
+      "James Talarico",
+      "Texas",
+      "Election Fraud",
+      "2026 Elections"
+    ],
+    "1818": [
+      "Louise Lucas",
+      "Virginia",
+      "Corruption-Fraud",
+      "Drug Crime"
+    ],
+    "1817": [
+      "Oregon",
+      "Biden Administration",
+      "CBP-DHS-ICE",
+      "Immigration",
+      "Violent Crime"
+    ],
+    "1816": [
+      "Josh Turek",
+      "Iowa",
+      "Immigration",
+      "Gaslight-Lies"
+    ],
+    "1815": [
+      "Ilhan Omar",
+      "Islam-Muslims",
+      "Gaslight-Lies"
+    ],
+    "1814": [
+      "Texas",
+      "Islam-Muslims",
+      "Terrorism"
+    ],
+    "1813": [
+      "Dana Bash",
+      "Journalism-MediaBias",
+      "Michigan"
+    ],
+    "1812": [
+      "Mary Peltola",
+      "Alaska",
+      "2026 Elections",
+      "Corruption-Fraud"
+    ],
+    "1811": [
+      "Peggy Flanagan",
+      "Minnesota",
+      "Terrorism",
+      "Corruption-Fraud"
+    ],
+    "1810": [
+      "Abdul El-Sayed",
+      "Michigan",
+      "Islam-Muslims",
+      "2026 Elections",
+      "Terrorism"
+    ],
+    "1809": [
+      "James Talarico",
+      "Texas",
+      "Islam-Muslims"
+    ],
+    "1808": [
+      "Hillary Clinton",
+      "2026 Elections",
+      "Weaponization"
+    ],
+    "1807": [
+      "Al Sharpton",
+      "Affordability",
+      "2026 Elections",
+      "Weaponization"
+    ],
+    "1806": [
+      "Alexandria Ocasio-Cortez",
+      "LGBTQ",
+      "Culture War"
+    ],
+    "1805": [
+      "Gaslight-Lies",
+      "2026 Elections",
+      "Left-Wing"
+    ],
+    "1804": [
+      "Jennifer Welch",
+      "JD Vance",
+      "Hate-Violence"
+    ],
+    "1803": [
+      "Brandon Johnson",
+      "Chicago",
+      "Taxation",
+      "Communism-Socialism"
+    ],
+    "1802": [
+      "Abdul El-Sayed",
+      "Michigan",
+      "Energy Policy",
+      "2026 Elections",
+      "Affordability"
+    ],
+    "1801": [
+      "James Talarico",
+      "Texas",
+      "LGBTQ",
+      "Culture War"
+    ]
+  }
+}
