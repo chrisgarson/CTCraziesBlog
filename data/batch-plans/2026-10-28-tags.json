@@ -1,0 +1,144 @@
+{
+  "batchDate": "2026-10-28",
+  "status": "user-approved-from-EditedOctober_28_2026_Twenty-Article_Batch_Tag_Review.docx",
+  "sourceWorkbook": "CTC Info 10282026.xlsx",
+  "authorizedInputRepairs": {
+    "workingWorkbookCellValueChanges": [],
+    "workingImageFileRenames": []
+  },
+  "proposedNewPersonTags": [
+    "Seth Bodnar",
+    "Van Jones"
+  ],
+  "proposedNewTopicTagsRequiringApproval": [],
+  "allowFiveTagNums": [
+    1835,
+    1831,
+    1830,
+    1827
+  ],
+  "allowSixTagNums": [],
+  "tags": {
+    "1840": [
+      "Abdul El-Sayed",
+      "Michigan",
+      "Islam-Muslims",
+      "Racial Issues"
+    ],
+    "1839": [
+      "Obama",
+      "Abdul El-Sayed",
+      "Islam-Muslims",
+      "Racial Issues"
+    ],
+    "1838": [
+      "Van Jones",
+      "Abdul El-Sayed",
+      "Michigan",
+      "Israel-Jews"
+    ],
+    "1837": [
+      "Bobby Pulido",
+      "James Talarico",
+      "Texas",
+      "Sexual Misconduct"
+    ],
+    "1836": [
+      "Weaponization",
+      "Biden Administration",
+      "Left-Wing"
+    ],
+    "1835": [
+      "Kathy Hochul",
+      "Gavin Newsom",
+      "New York",
+      "Incompetence",
+      "California"
+    ],
+    "1834": [
+      "Adam Hamilton",
+      "Christianity",
+      "2026 Elections",
+      "Culture War"
+    ],
+    "1833": [
+      "California",
+      "Election Fraud",
+      "Judiciary-Judicial",
+      "Weaponization"
+    ],
+    "1832": [
+      "California",
+      "Election Fraud",
+      "Immigration",
+      "Judiciary-Judicial"
+    ],
+    "1831": [
+      "David Crowley",
+      "Wisconsin",
+      "Epstein",
+      "2026 Elections",
+      "Communism-Socialism"
+    ],
+    "1830": [
+      "Roy Cooper",
+      "North Carolina",
+      "Biden Administration",
+      "Energy Policy",
+      "Left-Wing"
+    ],
+    "1829": [
+      "2026 Elections",
+      "Investigation",
+      "Corruption-Fraud",
+      "Left-Wing"
+    ],
+    "1828": [
+      "Ilhan Omar",
+      "National Security",
+      "Investigation",
+      "Corruption-Fraud"
+    ],
+    "1827": [
+      "Seth Bodnar",
+      "Epstein",
+      "2026 Elections",
+      "Incompetence",
+      "Left-Wing"
+    ],
+    "1826": [
+      "Ilhan Omar",
+      "Islam-Muslims",
+      "Gaslight-Lies"
+    ],
+    "1825": [
+      "Israel-Jews",
+      "Polling",
+      "2026 Elections"
+    ],
+    "1824": [
+      "Abdul El-Sayed",
+      "Israel-Jews",
+      "Affordability",
+      "2026 Elections"
+    ],
+    "1823": [
+      "James Talarico",
+      "Texas",
+      "Energy Policy",
+      "Climate Change"
+    ],
+    "1822": [
+      "James Talarico",
+      "Hypocrisy",
+      "2026 Elections",
+      "Left-Wing"
+    ],
+    "1821": [
+      "James Talarico",
+      "Texas",
+      "Immigration",
+      "CBP-DHS-ICE"
+    ]
+  }
+}
