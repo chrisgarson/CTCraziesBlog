@@ -1,0 +1,136 @@
+{
+  "batchDate": "2026-10-29",
+  "status": "user-approved-from-EditedOctober_29_2026_Twenty-Article_Batch_Tag_Review.docx",
+  "sourceWorkbook": "CTC Info 10292026 corrected.xlsx",
+  "authorizedInputRepairs": {
+    "workingWorkbookCellValueChanges": [],
+    "workingImageFileRenames": []
+  },
+  "proposedNewPersonTags": [
+    "Lakesha Womack"
+  ],
+  "proposedNewTopicTagsRequiringApproval": [],
+  "allowFiveTagNums": [
+    1855,
+    1853,
+    1847
+  ],
+  "allowSixTagNums": [],
+  "tags": {
+    "1860": [
+      "James Talarico",
+      "Texas",
+      "Gaslight-Lies"
+    ],
+    "1859": [
+      "Abdul El-Sayed",
+      "Islam-Muslims",
+      "Racial Issues"
+    ],
+    "1858": [
+      "Zohran Mamdani",
+      "Alexandria Ocasio-Cortez",
+      "NYC",
+      "Communism-Socialism"
+    ],
+    "1857": [
+      "2026 Elections",
+      "Election Fraud",
+      "Left-Wing"
+    ],
+    "1856": [
+      "Angie Nixon",
+      "Islam-Muslims",
+      "Communism-Socialism"
+    ],
+    "1855": [
+      "Xavier Becerra",
+      "California",
+      "Taxation",
+      "Transportation Policy",
+      "Left-Wing"
+    ],
+    "1854": [
+      "Kamala Harris",
+      "Impeachment",
+      "2026 Elections",
+      "Trump-Derangement"
+    ],
+    "1853": [
+      "Kathy Hochul",
+      "New York",
+      "Weaponization",
+      "2026 Elections",
+      "Trump-Derangement"
+    ],
+    "1852": [
+      "Dan Osborn",
+      "Nebraska",
+      "2026 Elections"
+    ],
+    "1851": [
+      "Biden Administration",
+      "Affordability",
+      "Economic Policy",
+      "Energy Policy"
+    ],
+    "1850": [
+      "Mary Peltola",
+      "Alaska",
+      "2026 Elections",
+      "Election Fraud"
+    ],
+    "1849": [
+      "Alaska",
+      "2026 Elections",
+      "Election Fraud"
+    ],
+    "1848": [
+      "Lakesha Womack",
+      "North Carolina",
+      "2026 Elections",
+      "Crime"
+    ],
+    "1847": [
+      "Kathy Hochul",
+      "New York",
+      "Israel-Jews",
+      "Islam-Muslims",
+      "Left-Wing"
+    ],
+    "1846": [
+      "Nancy Pelosi",
+      "Ilhan Omar",
+      "Immigration",
+      "Corruption-Fraud"
+    ],
+    "1845": [
+      "Zohran Mamdani",
+      "NYC",
+      "Racial Issues",
+      "Government"
+    ],
+    "1844": [
+      "Troy Jackson",
+      "Maine",
+      "Gaslight-Lies",
+      "2026 Elections"
+    ],
+    "1843": [
+      "Minnesota",
+      "Election Fraud",
+      "Weaponization"
+    ],
+    "1842": [
+      "James Talarico",
+      "Communism-Socialism",
+      "2026 Elections",
+      "Gaslight-Lies"
+    ],
+    "1841": [
+      "Abdul El-Sayed",
+      "Islam-Muslims",
+      "Terrorism"
+    ]
+  }
+}

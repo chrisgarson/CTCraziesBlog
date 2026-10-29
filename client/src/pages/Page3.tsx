@@ -8,147 +8,147 @@ export default function Page3() {
       <PageHeader />
       <div className="space-y-12">
       <ArticleBlock
-        headline="Family&#x27;s Muslim Brotherhood History Haunts Democrat-Socialist Abdul El-Sayed as He Compares Himself to JFK"
-        tinyUrl="https://thedailybs.com/2026/10/18/el-sayed-compares-himself-to-jfk-as-questions-about-familys-muslim-brotherhood-history-persist/"
-        xPostUrl="https://x.com/C3Heditor/status/2113010503060684845"
-        imageSrc="https://images.ctcrazies.com/article-images/2026-10-21_155248.jpg"
-        tags={["Abdul El-Sayed", "Michigan", "Islam-Muslims", "National Security"]}
+        headline="Debate Reveals Muslim-Democrat Abdul El-Sayed&#x27;s Being Thin-Skinned Indicating A Temperament With Anger Bias"
+        tinyUrl="https://twitchy.com/samj/2026/10/22/abdul-el-sayed-loses-temper-during-debate-has-awkward-kamala-harris-moment-n2433598"
+        xPostUrl="https://x.com/C3Heditor/status/2114381429438140872"
+        imageSrc="https://images.ctcrazies.com/article-images/2026-10-25_104029.jpg"
+        tags={["Abdul El-Sayed", "Michigan", "Hate-Violence", "2026 Elections"]}
       />
       <ArticleBlock
-        headline="Actual Quote: Woke-Democrat James Talarico Hates Texas Election Integrity Bill With &quot;Every Fiber of My Being&quot;"
-        tinyUrl="https://www.dailywire.com/news/talarico-fears-election-wont-be-free-and-fair-he-opposes-voter-id-and-poll-watchers"
-        xPostUrl="https://x.com/C3Heditor/status/2113010101707784385"
-        imageSrc="https://images.ctcrazies.com/article-images/2026-10-21_155112.jpg"
+        headline="Election Records Dispute Ludicrous Claim That Illegal Aliens Are Unable To Vote Made by Texas Democrat-Socialist James Talarico"
+        tinyUrl="https://texasscorecard.com/decisiontexas/talarico-claimed-illegal-aliens-cannot-vote-records-show-otherwise/"
+        xPostUrl="https://x.com/C3Heditor/status/2114380042818269355"
+        imageSrc="https://images.ctcrazies.com/article-images/2026-10-25_103231.jpg"
         tags={["James Talarico", "Texas", "Election Fraud", "2026 Elections"]}
       />
       <ArticleBlock
-        headline="Wisconsin&#x27;s Democrat Governor Candidate, David Crowley, Wants Driver&#x27;s Licenses for Illegal Aliens &amp; Will Block ICE"
-        tinyUrl="https://townhall.com/news/amy-curtis/2026/10/16/jocasta-zamarripa-david-crowley-n2684789"
-        xPostUrl="https://x.com/C3Heditor/status/2113009644209926242"
-        imageSrc="https://images.ctcrazies.com/article-images/2026-10-21_154922.jpg"
-        tags={["David Crowley", "Wisconsin", "Immigration", "CBP-DHS-ICE"]}
+        headline="Federal RICO, Drug and Corruption Charges for Virginia&#x27;s Senate Top Democrat Leader Louise Lucas"
+        tinyUrl="https://redstate.com/terichristoph/2026/10/22/louise-lucas-update-n2208473"
+        xPostUrl="https://x.com/C3Heditor/status/2114365498880340199"
+        imageSrc="https://images.ctcrazies.com/article-images/2026-10-25_093721.jpg"
+        tags={["Louise Lucas", "Virginia", "Corruption-Fraud", "Drug Crime"]}
       />
       <ArticleBlock
-        headline="U.S. Senate Candidate for Minnesota, Democrat Peggy Flanagan, Appointed Fraudster to the Soft-on-Crime Policy Board"
-        tinyUrl="https://www.breitbart.com/politics/2026/10/16/peggy-flanagan-appointed-known-fraudster-to-minnesotas-soft-on-crime-board/"
-        xPostUrl="https://x.com/C3Heditor/status/2113008735392354483"
-        imageSrc="https://images.ctcrazies.com/article-images/2026-10-21_154618.jpg"
-        tags={["Peggy Flanagan", "Minnesota", "Soft-On-Crime", "Corruption-Fraud"]}
+        headline="Democrat-Run Illegal Alien Sanctuary: Oregon Frees a Biden-Released Illegal Alien Accused of Killing Newlyweds"
+        tinyUrl="https://www.breitbart.com/politics/2026/10/22/biden-released-illegal-alien-freed-from-jail-in-sanctuary-oregon-after-allegedly-killing-young-newlyweds/"
+        xPostUrl="https://x.com/C3Heditor/status/2114364795772440586"
+        imageSrc="https://images.ctcrazies.com/article-images/2026-10-25_093457.jpg"
+        tags={["Oregon", "Biden Administration", "CBP-DHS-ICE", "Immigration", "Violent Crime"]}
       />
       <ArticleBlock
-        headline="Lying Is a Feature, Not a Bug: Democrat-Socialist Tells a Whopper by Claiming Trump Administration Is Blocking Women From College"
-        tinyUrl="https://www.thegatewaypundit.com/2026/10/aoc-blatantly-lies-about-trump-administration-they-dont/"
-        xPostUrl="https://x.com/C3Heditor/status/2113008359461068893"
-        imageSrc="https://images.ctcrazies.com/article-images/2026-10-21_154419.jpg"
-        tags={["Gaslight-Lies", "Left-Wing", "Education Policy"]}
+        headline="Democrat Josh Turek States He Opposes Swift Deportation of Illegal Aliens and Then Lies That Specific Iowa Republicans Support the Amnesty &#x27;Dignity Act&#x27;"
+        tinyUrl="https://www.breitbart.com/politics/2026/10/22/iowa-dem-josh-turek-rejects-immediate-deportation-of-illegal-aliens-incorrectly-links-reps-miller-meeks-and-feenstra-to-dignity-act/"
+        xPostUrl="https://x.com/C3Heditor/status/2114364254694551642"
+        imageSrc="https://images.ctcrazies.com/article-images/2026-10-25_093222.jpg"
+        tags={["Josh Turek", "Iowa", "Immigration", "Gaslight-Lies"]}
       />
       <ArticleBlock
-        headline="Marxist Democrat Kingmaker, Hasan Piker, Is Befuddled That Jews Want Nothing To Do With a Party Embracing Islamists"
-        tinyUrl="https://twitchy.com/justmindy/2026/10/16/hasan-piker-why-are-new-york-jews-abandoning-democrats-n2433382"
-        xPostUrl="https://x.com/C3Heditor/status/2113008057030742234"
-        imageSrc="https://images.ctcrazies.com/article-images/2026-10-21_154303.jpg"
-        tags={["Hasan Piker", "Israel-Jews", "Islam-Muslims", "Communism-Socialism"]}
+        headline="&quot;Not To My Knowledge&quot; Is Jaw-Dropping Reply by Muslim-Democrat Ilhan Omar When Asked If She Married Her Brother"
+        tinyUrl="https://townhall.com/news/mattvespa/2026/10/22/ilhan-omars-answer-to-if-she-married-her-brother-was-jaw-dropping-n2685109"
+        xPostUrl="https://x.com/C3Heditor/status/2114340701743747268"
+        imageSrc="https://images.ctcrazies.com/article-images/2026-10-25_075838.jpg"
+        tags={["Ilhan Omar", "Islam-Muslims", "Gaslight-Lies"]}
       />
       <ArticleBlock
-        headline="Democrats-Socialists Focus on Affordability? Bernie Sanders Wants To Stop &#x27;Most Dangerous President Evaaah&#x27;"
-        tinyUrl="https://www.breitbart.com/clips/2026/10/16/sanders-imperative-dems-put-a-check-on-most-dangerous-president-in-history/"
-        xPostUrl="https://x.com/C3Heditor/status/2113007584722796926"
-        imageSrc="https://images.ctcrazies.com/article-images/2026-10-21_154122.jpg"
-        tags={["Bernie Sanders", "Affordability", "Trump-Derangement"]}
+        headline="Texas Democrats Gain Support From a Named Islamist-Terrorist Organization, CAIR, in an Alarming New Development"
+        tinyUrl="https://texasscorecard.com/decisiontexas/terrorist-organization-backs-texas-democrats/"
+        xPostUrl="https://x.com/C3Heditor/status/2114339621689594052"
+        imageSrc="https://images.ctcrazies.com/article-images/2026-10-25_075418.jpg"
+        tags={["Texas", "Islam-Muslims", "Terrorism"]}
       />
       <ArticleBlock
-        headline="Fascist-Weaponization: A Sitting Democrat Senator and Former CIA Operator, Elissa Slotkin, Wants To Intimidate &amp; Persecute Young Conservatives for Their Politics"
-        tinyUrl="https://www.thegatewaypundit.com/2026/10/actual-fascism-dem-senator-elissa-slotkin-wants-scare/"
-        xPostUrl="https://x.com/C3Heditor/status/2113007032987205847"
-        imageSrc="https://images.ctcrazies.com/article-images/2026-10-21_153907.jpg"
-        tags={["Elissa Slotkin", "Michigan", "Weaponization", "Hate-Violence"]}
+        headline="CNN&#x27;s Clueless Dana Bash Learns From a Michigan Voter That Democrats Have Lost the Working Class"
+        tinyUrl="https://www.thegatewaypundit.com/2026/10/michigan-voter-explains-cnns-dana-bash-that-democrats/"
+        xPostUrl="https://x.com/C3Heditor/status/2114339304659099873"
+        imageSrc="https://images.ctcrazies.com/article-images/2026-10-25_075251.jpg"
+        tags={["Dana Bash", "Journalism-MediaBias", "Michigan"]}
       />
       <ArticleBlock
-        headline="Defund-the-Police Crowd Sends Big Checks to Arizona Democrat House Candidate Amish Shah for Midterms"
-        tinyUrl="https://townhall.com/news/josephchalfant/2026/10/17/amish-shah-is-cashing-big-checks-from-the-defund-the-police-crowd-n2684859"
-        xPostUrl="https://x.com/C3Heditor/status/2113006395146854721"
-        imageSrc="https://images.ctcrazies.com/article-images/2026-10-21_153626.jpg"
-        tags={["Amish Shah", "Arizona", "Law Enforcement", "2026 Elections"]}
+        headline="Alaska&#x27;s Democrat U.S. Senate Candidate, Mary Peltola, Claims To Be Running Against &#x27;Self-Dealing&#x27; But There is Her Self-Dealing Past She Doesn&#x27;t Talk About"
+        tinyUrl="https://freebeacon.com/democrats/mary-peltola-running-for-senate-against-self-dealing-joined-high-priced-lobbying-firm-months-after-cosponsoring-bill-it-lobbied-congress-to-pass/"
+        xPostUrl="https://x.com/C3Heditor/status/2114338878278791328"
+        imageSrc="https://images.ctcrazies.com/article-images/2026-10-25_075131.jpg"
+        tags={["Mary Peltola", "Alaska", "2026 Elections", "Corruption-Fraud"]}
       />
       <ArticleBlock
-        headline="Muslim-Democrat Ilhan Omar&#x27;s Huge Immigration Fraud Issue — FBI Has DNA Evidence"
-        tinyUrl="https://nypost.com/2026/10/19/us-news/feds-have-dna-evidence-that-could-prove-ilhan-omar-committed-immigration-fraud-wed-her-brother-sources/"
-        xPostUrl="https://x.com/C3Heditor/status/2113005398139826239"
-        imageSrc="https://images.ctcrazies.com/article-images/2026-10-21_153231.jpg"
-        tags={["Ilhan Omar", "Immigration", "Islam-Muslims", "Corruption-Fraud"]}
+        headline="Egyptian Sentenced to Life for His Involvement With Islamic Terrorism Groups Supplies Cash to Democrat-Socialist Peggy Flanagan - Why?"
+        tinyUrl="https://townhall.com/news/amy-curtis/2026/10/22/flanagan-cash-from-mohamed-soltan-n2685136"
+        xPostUrl="https://x.com/C3Heditor/status/2114338200588083579"
+        imageSrc="https://images.ctcrazies.com/article-images/2026-10-25_074844.jpg"
+        tags={["Peggy Flanagan", "Minnesota", "Terrorism", "Corruption-Fraud"]}
       />
       <ArticleBlock
-        headline="October 7 Tragedy Inspired Sister of Michigan&#x27;s Muslim-Democrat Abdul El-Sayed To Write Book That Fantasizes About the Final Intifada"
-        tinyUrl="https://townhall.com/news/amy-curtis/2026/10/16/abdul-el-sayeds-sister-final-intifada-n2684800"
-        xPostUrl="https://x.com/C3Heditor/status/2113004989471981717"
-        imageSrc="https://images.ctcrazies.com/article-images/2026-10-21_153059.jpg"
-        tags={["Abdul El-Sayed", "Michigan", "Islam-Muslims", "Terrorism", "Israel-Jews"]}
+        headline="The Muslim Brotherhood Support Letter Co-Signers Also Fund Abdul El-Sayed&#x27;s Michigan U.S. Senate Campaign"
+        tinyUrl="https://www.breitbart.com/politics/2026/10/22/abdul-el-sayed-funded-by-fellow-co-signers-muslim-brotherhood-support-letter/"
+        xPostUrl="https://x.com/C3Heditor/status/2114100026754617846"
+        imageSrc="https://images.ctcrazies.com/article-images/2026-10-24_160211.jpg"
+        tags={["Abdul El-Sayed", "Michigan", "Islam-Muslims", "2026 Elections", "Terrorism"]}
       />
       <ArticleBlock
-        headline="Maine Democrat-Socialist Senate Candidate, Troy Jackson, Said He Has No Billionaire Donors Then It&#x27;s Discovered He Does"
-        tinyUrl="https://freebeacon.com/democrats/troy-jackson-discloses-campaign-donations-from-billionaires-two-days-after-saying-theres-no-billionaires-funding-me/"
-        xPostUrl="https://x.com/C3Heditor/status/2113004435236671522"
-        imageSrc="https://images.ctcrazies.com/article-images/2026-10-21_152856.jpg"
-        tags={["Troy Jackson", "Maine", "2026 Elections", "Corruption-Fraud"]}
+        headline="Texas&#x27;s James Talarico Interfaith Views Include Condoning Muslim Sharia Law Communities Within U.S."
+        tinyUrl="https://www.dailysignal.com/2026/10/20/james-talarico-islam-texas-senate-race/"
+        xPostUrl="https://x.com/C3Heditor/status/2114099637737206158"
+        imageSrc="https://images.ctcrazies.com/article-images/2026-10-24_160037.jpg"
+        tags={["James Talarico", "Texas", "Islam-Muslims"]}
       />
       <ArticleBlock
-        headline="Democrat Eric Swalwell Now Being Investigated for Rape as Los Angeles DA Considers Charges"
-        tinyUrl="https://www.thegatewaypundit.com/2026/10/breaking-los-angeles-county-da-considers-charges-against/"
-        xPostUrl="https://x.com/C3Heditor/status/2113004098962538669"
-        imageSrc="https://images.ctcrazies.com/article-images/2026-10-21_153417.jpg"
-        tags={["Eric Swalwell", "California", "Sexual Misconduct"]}
+        headline="Democrats Regaining Congressional Control Means Chilling Intentions That Hillary Clinton Hopes Will Take Place"
+        tinyUrl="https://redstate.com/kyle-becker/2026/10/22/hillary-clinton-issues-chilling-statement-about-dems-intentions-after-the-next-election-n2208496"
+        xPostUrl="https://x.com/C3Heditor/status/2114099310724002018"
+        imageSrc="https://images.ctcrazies.com/article-images/2026-10-24_155913.jpg"
+        tags={["Hillary Clinton", "2026 Elections", "Weaponization"]}
       />
       <ArticleBlock
-        headline="Firearm Bans Remain an Absolute Priority for Texas-Authoritarian James Talarico Despite His Lame Claims To Honor the Second Amendment"
-        tinyUrl="https://slaynews.com/james-talarico-gun-ban-absolutely-on-table-honor-second-amendment/"
-        xPostUrl="https://x.com/C3Heditor/status/2113003751078596626"
-        imageSrc="https://images.ctcrazies.com/article-images/2026-10-21_152552.jpg"
-        tags={["James Talarico", "Texas", "2nd Amendment", "Gaslight-Lies"]}
+        headline="Democrats Care About Affordability? Al Sharpton Predicts Dems Will Focus on Hearings Like Never Seen Before if They Win Control of House"
+        tinyUrl="https://www.breitbart.com/clips/2026/10/22/sharpton-if-dems-win-midterms-you-will-see-hearings-like-you-never-saw-before/"
+        xPostUrl="https://x.com/C3Heditor/status/2114098721936031926"
+        imageSrc="https://images.ctcrazies.com/article-images/2026-10-24_155736.jpg"
+        tags={["Al Sharpton", "Affordability", "2026 Elections", "Weaponization"]}
       />
       <ArticleBlock
-        headline="Hate &amp; Violence Is in Their DNA: Former Democrat-Socialist Congressional Candidate Arrested for Threatening People Who Don’t Vote for Dem Angie Nixon"
-        tinyUrl="https://www.thegatewaypundit.com/2026/10/former-socialist-congressional-candidate-arrested-threatening-behead-republicans/"
-        xPostUrl="https://x.com/C3Heditor/status/2113003194125349337"
-        imageSrc="https://images.ctcrazies.com/article-images/2026-10-21_152344.jpg"
-        tags={["Angie Nixon", "Florida", "Hate-Violence", "2026 Elections", "Communism-Socialism"]}
+        headline="Female Locker Room Access by Men Is Defended by Democrat AOC Because of Bizarre Idea It Protects Women"
+        tinyUrl="https://twitchy.com/warren-squire/2026/10/23/aoc-i-support-trans-women-because-im-a-girls-girl-n2433642"
+        xPostUrl="https://x.com/C3Heditor/status/2114098301217951899"
+        imageSrc="https://images.ctcrazies.com/article-images/2026-10-24_155522.jpg"
+        tags={["Alexandria Ocasio-Cortez", "LGBTQ", "Culture War"]}
       />
       <ArticleBlock
-        headline="Hate &amp; Violence Is in Their DNA: Misogynist Democrat-Backed Senate Candidate Dan Osborn Calls Republican Senator a &#x27;Bitch&#x27;"
-        tinyUrl="https://www.breitbart.com/politics/2026/10/16/democrat-backed-senate-candidate-dan-osborn-caught-calling-deb-fischer-bitch/"
-        xPostUrl="https://x.com/C3Heditor/status/2113002643794846076"
-        imageSrc="https://images.ctcrazies.com/article-images/2026-10-21_152141.jpg"
-        tags={["Dan Osborn", "Nebraska", "Hate-Violence", "2026 Elections"]}
+        headline="Remember When Democrats Said Billionaires Are Evil… Except for Those Who Buy Dems Off With Millions of Donations"
+        tinyUrl="https://www.thegatewaypundit.com/2026/10/some-billionaires-are-ok-now-mike-bloomberg-sinking/"
+        xPostUrl="https://x.com/C3Heditor/status/2114097917967691861"
+        imageSrc="https://images.ctcrazies.com/article-images/2026-10-24_155349.jpg"
+        tags={["Gaslight-Lies", "2026 Elections", "Left-Wing"]}
       />
       <ArticleBlock
-        headline="Lying Is a Feature, Not a Bug: Minnesota&#x27;s AG Muslim-Democrat, Keith Ellison, Denies He Called Republicans and Independents Racists &amp; Bigots, but It&#x27;s on Video"
-        tinyUrl="https://townhall.com/news/amy-curtis/2026/10/19/keith-ellison-i-never-said-voters-were-racists-and-bigots-n2684914"
-        xPostUrl="https://x.com/C3Heditor/status/2113002222007230966"
-        imageSrc="https://images.ctcrazies.com/article-images/2026-10-21_151951.jpg"
-        tags={["Keith Ellison", "Minnesota", "Gaslight-Lies", "Racial Issues"]}
+        headline="Hate &amp; Violence Is in Their DNA: Famous Democrat-Leftist Influencer, Jennifer Welch, Expresses Dangerous Rhetoric Towards VP JD Vance"
+        tinyUrl="https://www.breitbart.com/politics/2026/10/22/nolte-podcaster-jennifer-welch-demands-pistols-firing-antichrist-jd-vance/"
+        xPostUrl="https://x.com/C3Heditor/status/2114097578950422788"
+        imageSrc="https://images.ctcrazies.com/article-images/2026-10-24_155224.jpg"
+        tags={["Jennifer Welch", "JD Vance", "Hate-Violence"]}
       />
       <ArticleBlock
-        headline="Censorship by Omission: Apple &amp; Google Are Not Publishing News About Scandals Affecting Democrat Candidates"
-        tinyUrl="https://www.newsbusters.org/blogs/free-speech/luis-cornelio/2026/10/19/special-report-apple-google-news-silence-peggy-flanagan"
-        xPostUrl="https://x.com/C3Heditor/status/2113001868129710518"
-        imageSrc="https://images.ctcrazies.com/article-images/2026-10-21_151828.jpg"
-        tags={["Censorship", "2026 Elections", "Journalism-MediaBias"]}
+        headline="Millionaire Tax Push by Chicago Mayor Marxist-Democrat Brandon Johnson Revives a Failed Socialist Idea That&#x27;s Never Worked Anywhere"
+        tinyUrl="https://townhall.com/news/amy-curtis/2026/10/22/brandon-johnson-millionaire-tax-n2685059"
+        xPostUrl="https://x.com/C3Heditor/status/2114096587224088865"
+        imageSrc="https://images.ctcrazies.com/article-images/2026-10-24_154828.jpg"
+        tags={["Brandon Johnson", "Chicago", "Taxation", "Communism-Socialism"]}
       />
       <ArticleBlock
-        headline="Muslim-Democrat, Abdul El-Sayed, Wants Americans To Pay for Illegal Aliens&#x27; Transgender Surgery"
-        tinyUrl="https://townhall.com/news/amy-curtis/2026/10/19/el-sayed-medicare-for-all-should-cover-illegal-alien-sex-changes-n2684910"
-        xPostUrl="https://x.com/C3Heditor/status/2113001183417909630"
-        imageSrc="https://images.ctcrazies.com/article-images/2026-10-21_151604.jpg"
-        tags={["Abdul El-Sayed", "Michigan", "Immigration", "LGBTQ"]}
+        headline="His Commitment to Green Policies Guarantees That Abdul El-Sayed Senate Votes Will Result in Higher Electricity, Gas &amp; Diesel Prices"
+        tinyUrl="https://www.washingtonexaminer.com/premium/4766816/abdul-el-sayed-make-high-gas-prices-worse/"
+        xPostUrl="https://x.com/C3Heditor/status/2114096245065269277"
+        imageSrc="https://images.ctcrazies.com/article-images/2026-10-24_154708.jpg"
+        tags={["Abdul El-Sayed", "Michigan", "Energy Policy", "2026 Elections", "Affordability"]}
       />
       <ArticleBlock
-        headline="Today&#x27;s Fake &quot;Moderate&quot;, Woke-Democrat James Talarico Previously Stated Capitalism Needs To Be Dismantled Due to Its White Supremacy Link"
-        tinyUrl="https://redstate.com/rusty-weiss/2026/09/01/before-the-moderate-makeover-talarico-wanted-to-dismantle-capitalism-tied-it-to-white-supremacy-n2206361"
-        xPostUrl="https://x.com/C3Heditor/status/2113000172611649740"
-        imageSrc="https://images.ctcrazies.com/article-images/2026-10-21_151343.jpg"
-        tags={["James Talarico", "Texas", "Communism-Socialism", "Racial Issues"]}
+        headline="As Super Woke-Democrat James Talarico Tries on New Skinsuit of Moderation the Video History Reveals His True Radical Anti-Family Agenda &amp; Beliefs"
+        tinyUrl="https://redstate.com/beccalower/2026/10/22/james-talarico-is-lying-about-texas-mom-exposing-his-radical-transgender-agenda-in-new-video-n2208505"
+        xPostUrl="https://x.com/C3Heditor/status/2114095585804615903"
+        imageSrc="https://images.ctcrazies.com/article-images/2026-10-24_154449.jpg"
+        tags={["James Talarico", "Texas", "LGBTQ", "Culture War"]}
       />
       </div>
-      <Pagination currentPage={3} totalPages={92} />
+      <Pagination currentPage={3} totalPages={93} />
 
     </div>
   );
